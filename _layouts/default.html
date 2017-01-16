@@ -1,15 +1,56 @@
 <!DOCTYPE html>
-<html>
-{% include head.html %}
+<html lang="en">
+    <head>
+        {% include head.html %}
+    </head>
+    <body>
+        <div class="container">
+            {% include header.html %}
+            <div class="jumbotron">
+                <h1 class="display-3">Python in Heliophysics</h1>
+                <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            </div>
 
-<body>
-	{% include header.html %}
-	<main>
-		<article>
-			{{ content }}
-		</article>
-		{% include footer.html %}
-	</main>
-</body>
+            <div class="row marketing">
+                <h3 class="text-center">Projects</h3>
+            </div>
+            <div class="row marketing">
+                <div class="card col-md-3">.col-md-4</div>
+                <div class="card col-md-3">.col-md-4</div>
+                <div class="card col-md-3">.col-md-4</div>
+            </div>
+            <div class="row marketing">
+                <div class="card col-md-3">.col-md-4</div>
+                <div class="card col-md-3">.col-md-4</div>
+                <div class="card col-md-3">.col-md-4</div>
+            </div>
 
+            <div class="row marketing">
+
+                <h3 class="text-center">People</h3>
+            </div>
+            <div class="row marketing">
+                <div class="card col-md-3">@ehsteve</div>
+                <div class="card col-md-3">.col-md-4</div>
+                <div class="card col-md-3">.col-md-4</div>
+            </div>
+            <div class="row marketing">
+                <div class="card col-md-3">.col-md-4</div>
+                <div class="card col-md-3">.col-md-4</div>
+                <div class="card col-md-3">.col-md-4</div>
+            </div>
+
+            {{ content }}
+
+            <ul>
+                {% for member in site.github.organization_members %}
+                <li>
+		<a href="{{ member.html_url }}" target="_blank"><img width="40" height="40" src="{{ member.avatar_url }}" alt="{{ member.login }}" class="member" /></a>
+                        </li>
+                    {% endfor %}
+            </ul>
+
+            {% include footer.html %}
+        </div><!-- container -->
+    </body>
 </html>

@@ -1,5 +1,8 @@
 # Site Settings
-title: HeliophysicsPy
+title: Python in HeliophysicsPy
+project_title: helioPy
+author:
+  twitter: ehsteve
 description: >
   A guide to getting started with Jekyll.
 # Build Settings
@@ -8,3 +11,6 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
+gems:
+  - jekyll-mentions
+  - jekyll-seo-tag
