@@ -1,0 +1,24 @@
+- name: "SunPy"
+  url: "https://github.com/sunpy/sunpy"
+  description: "Python for Solar Physics"
+  logo: "https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/sunpy_icon.png"
+
+- name: "ChiantiPy"
+  html_url: "https://github.com/chianti-atomic/ChiantiPy"
+  description: "Radiative properties of astrophysical plasmas"
+  logo: ""
+  
+- name: "ChiantiPy"
+  html_url: "https://github.com/chianti-atomic/ChiantiPy"
+  description: "Radiative properties of astrophysical plasmas"
+  logo: ""
+
+- name: "ChiantiPy"
+  html_url: "https://github.com/chianti-atomic/ChiantiPy"
+  description: "Radiative properties of astrophysical plasmas"
+  logo: ""
+  
+- name: "ChiantiPy"
+  html_url: "https://github.com/chianti-atomic/ChiantiPy"
+  description: "Radiative properties of astrophysical plasmas"
+  logo: ""
