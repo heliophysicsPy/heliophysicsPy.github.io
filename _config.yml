@@ -4,7 +4,7 @@ project_title: helioPy
 author:
   twitter: ehsteve
 description: >
-  A guide to getting started with Jekyll.
+  A guide to getting started with Python in Heliophysics.
 # Build Settings
 sass:
   sass_dir: _sass
