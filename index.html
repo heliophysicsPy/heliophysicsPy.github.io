@@ -13,11 +13,11 @@ layout: default
 <div class="row marketing">
     {% assign sorted_projects = site.data.projects | sort:'name' %}
     {% for project in sorted_projects %}
-    <div class="card col-md-3">
+    <div class="card col-md-3 h-100">
         <div class="media">
             <div class="media-left">
                 <a href="{{ project.url }}" target="_blank">
-                    <img width="100px" class="media-object img-circle" src="{% if project.logo == blank %}https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png{% else %}{{ project.logo }}{% endif %}"/>
+                    <img width="100px" class="media-object img-circle" src="{% if project.logo == blank %}http://vsp-vintage.ucar.edu/Heliophysics/images/HelioOverview_700_a.jpg{% else %}{{ project.logo }}{% endif %}"/>
                 </a>
             </div>
             <div class="media-body">
