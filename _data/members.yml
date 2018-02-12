@@ -2,6 +2,14 @@
   name: "Steven D. Christe"
   affiliation: "NASA GSFC"
 
+- handle: "cadair"
+  name: "Stuart Mumford"
+  affiliation: "None"
+
+- handle: "kdere"
+  name: "Ken Dere"
+  affiliation: "None"
+
 - handle: "jklenzing"
   name: "Jeffrey Klenzing"
   affiliation: "NASA GSFC"
@@ -13,3 +21,39 @@
 - handle: "wafels"
   name: "Jack Ireland"
   affiliation: "NASA GSFC"
+
+- handle: "wtbarnes"
+  name: "Will Barnes"
+  affiliation: ""
+
+- handle: "timduly4"
+  name: "Timothy Duly"
+  affiliation: ""
+
+- handle: "nbarbey"
+  name: "Nicolas Barbey"
+  affiliation: ""
+
+- handle: "rjarvinen"
+  name: "Riku Jarvinen"
+  affiliation: ""
+
+- handle: "rstoneback"
+  name: "Russel Stoneback"
+  affiliation: ""
+
+- handle: "jswoboda"
+  name: "John Swoboda"
+  affiliation: ""
+
+- handle: "dstansby"
+  name: "David Stansby"
+  affiliation: ""
+  
+- handle: "dpq"
+  name: "David Parunakian"
+  affiliation: ""
+
+- handle: "kailia0209"
+  name: "Juhyeong Kang"
+  affiliation: ""
