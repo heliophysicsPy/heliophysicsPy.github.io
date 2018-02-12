@@ -24,7 +24,7 @@
   
 - name: "PyDARN"
   html_url: "http://vtsuperdarn.github.com/davitpy/"
-  description: "A package for SuperDARN."
+  description: "A package for analyzing data from SuperDARN."
   logo: "https://camo.githubusercontent.com/446f7d47177fd5b0f7aa141a31cef246769cf843/68747470733a2f2f7261772e6769746875622e636f6d2f74696d64756c79342f7079676c6f772f6d61737465722f6c6f676f2e706e67"
   docs: ""
   code_url: "https://github.com/vtsuperdarn/davitpy"
