@@ -11,7 +11,8 @@ layout: default
     <h2 class="text-center">Projects</h2>
 </div>
 <div class="row marketing">
-    {% for project in site.data.projects %}
+    {% assign sorted_projects = site.data.projects | sort:'name' %}
+    {% for project in sorted_projects %}
     <div class="card col-md-3">
         <div class="media">
             <div class="media-left">
@@ -33,8 +34,8 @@ layout: default
     <h2 class="text-center">People</h2>
 </div>
 <div class="row marketing">
-
-    {% for member in site.data.members %}
+    {% assign sorted_team = site.data.members | sort:'handle' %}
+    {% for member in sorted_team %}
     <div class="card col-md-3">
         <div class="media">
             <div class="media-left">
