@@ -16,13 +16,13 @@ layout: default
         <div class="media">
             <div class="media-left">
                 <a href="{{ project.url }}" target="_blank">
-
                     <img width="100px" class="media-object img-circle" src="{% if project.logo == blank %}https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png{% else %}{{ project.logo }}{% endif %}"/>
                 </a>
             </div>
             <div class="media-body">
-                <h4 class="media-heading">{{ project.name }}</h4>
-                {{ project.description }}
+                <a href="{{ project.url }}" target="_blank"><h4 class="media-heading">{{ project.name }}</h4></a>
+                {{ project.description }}<br>
+                {{ project.contact }}
             </div>
         </div>
     </div>
