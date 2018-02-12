@@ -16,12 +16,12 @@ layout: default
     <div class="card col-md-3 h-100">
         <div class="media">
             <div class="media-left">
-                <a href="{{ project.url }}" target="_blank">
+                <a href="{{ project.html_url }}" target="_blank">
                     <img width="100px" class="media-object img-circle" src="{% if project.logo == blank %}http://vsp-vintage.ucar.edu/Heliophysics/images/HelioOverview_700_a.jpg{% else %}{{ project.logo }}{% endif %}"/>
                 </a>
             </div>
             <div class="media-body">
-                <a href="{{ project.url }}" target="_blank"><h4 class="media-heading">{{ project.name }}</h4></a>
+                <a href="{{ project.html_url }}" target="_blank"><h4 class="media-heading">{{ project.name }}</h4></a>
                 {{ project.description }}<br>
                 <b>{{ project.contact }}</b>
             </div>
