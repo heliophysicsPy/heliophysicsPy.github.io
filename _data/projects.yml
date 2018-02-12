@@ -24,7 +24,7 @@
   
 - name: "PyDARN"
   html_url: "http://vtsuperdarn.github.com/davitpy/"
-  description: "Data access, analysis, and plotting routines for all SuperDARN data."
+  description: "Data access, analysis, and plotting routines for SuperDARN."
   logo: "https://camo.githubusercontent.com/446f7d47177fd5b0f7aa141a31cef246769cf843/68747470733a2f2f7261772e6769746875622e636f6d2f74696d64756c79342f7079676c6f772f6d61737465722f6c6f676f2e706e67"
   docs: ""
   code_url: "https://github.com/vtsuperdarn/davitpy"
@@ -56,7 +56,7 @@
   
 - name: "Tomography"
   html_url: "http://nbarbey.github.io/TomograPy/"
-  description: "solar tomographic reconstructions of the corona with stereo and soho data"
+  description: "Solar tomographic reconstructions of the corona."
   logo: ""
   docs: ""
   code_url: "https://github.com/nbarbey/TomograPy"
@@ -88,7 +88,7 @@
 
 - name: "geodata"
   html_url: "https://github.com/jswoboda/GeoDataPython"
-  description: "Plot and analyze data from geophysics sources such as radar and optical systems."
+  description: "Geophysics analysis of radar and optical systems."
   logo: "https://github.com/jswoboda/GeoDataPython/raw/master/logo/logo1.png"
   docs: "https://github.com/jswoboda/GeoDataPython"
   code_url: "https://github.com/jswoboda/GeoDataPython"
@@ -104,7 +104,7 @@
 
 - name: "heliopy"
   html_url: "https://github.com/heliopython/heliopy"
-  description: "A python library for Space Physics. The primary goal of this python package is to make it really easy to import common data sets used in Space Physics."
+  description: "A python library for Space Physics."
   logo: ""
   docs: "http://docs.heliopy.org/en/stable/"
   code_url: "https://github.com/heliopython/heliopy"
