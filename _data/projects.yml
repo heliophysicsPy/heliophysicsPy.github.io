@@ -24,7 +24,7 @@
   
 - name: "PyDARN"
   html_url: "http://vtsuperdarn.github.com/davitpy/"
-  description: "Data access, analysis, and plotting routines for SuperDARN."
+  description: "A package for SuperDARN."
   logo: "https://camo.githubusercontent.com/446f7d47177fd5b0f7aa141a31cef246769cf843/68747470733a2f2f7261772e6769746875622e636f6d2f74696d64756c79342f7079676c6f772f6d61737465722f6c6f676f2e706e67"
   docs: ""
   code_url: "https://github.com/vtsuperdarn/davitpy"
@@ -56,7 +56,7 @@
   
 - name: "Tomography"
   html_url: "http://nbarbey.github.io/TomograPy/"
-  description: "Solar tomographic reconstructions of the corona."
+  description: "Coronal tomographic reconstructions."
   logo: ""
   docs: ""
   code_url: "https://github.com/nbarbey/TomograPy"
@@ -64,7 +64,7 @@
 
 - name: "analysator"
   html_url: "https://github.com/fmihpc"
-  description: "Vlasiator data analyser. Vlasiator is a magnetosphere model."
+  description: "Vlasiator magnetospheric model."
   logo: ""
   docs: "https://github.com/fmihpc/analysator/tree/master/Documentation"
   code_url: "https://github.com/fmihpc/analysator"
@@ -120,7 +120,7 @@
 
 - name: "fisspy"
   html_url: "https://github.com/SNU-sunday/fisspy"
-  description: "Python package for data analysis of the Fast Imaging Solar Spectrograph (FISS) on the New Solar Telescope."
+  description: "Fast Imaging Solar Spectrograph (FISS) on the New Solar Telescope."
   logo: ""
   docs: ""
   code_url: "https://github.com/SNU-sunday/fisspy"
@@ -128,7 +128,7 @@
 
 - name: "fiasco"
   html_url: "https://github.com/wtbarnes/fiasco"
-  description: "Fiasco provides a Python interface to the CHIANTI atomic database."
+  description: "A Python interface to the CHIANTI atomic database."
   logo: ""
   docs: "http://fiasco.readthedocs.io/en/latest/"
   code_url: "https://github.com/wtbarnes/fiasco"
