@@ -1,7 +1,7 @@
 # Live website
 This code base is for a website which is live and lives at 
 
-[https://heliophysicspy.github.io](https://heliophysicspy.github.io)
+[https://heliopython.org](https://heliopython.org)
 
 It is build on Jekyll. For more information about that see below.
 
