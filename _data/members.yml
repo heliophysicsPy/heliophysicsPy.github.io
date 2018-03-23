@@ -9,10 +9,18 @@
 - handle: "kdere"
   name: "Ken Dere"
   affiliation: ""
+  
+- handle: "aburrell"
+  name: "Angeline G. Burrell"
+  affiliation: "UT Dallas"
 
 - handle: "jklenzing"
   name: "Jeffrey Klenzing"
   affiliation: "NASA GSFC"
+  
+- handle: "rstoneback"
+  name: "Russell Stoneback"
+  affiliation: "UT Dallas"
 
 - handle: "ayshih"
   name: "Albert Shih"
