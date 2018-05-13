@@ -13,7 +13,7 @@
   docs: "http://chiantipy.sourceforge.net"
   code_url: "https://github.com/chianti-atomic/ChiantiPy"
   contact: "Ken Dere"
-  
+
 - name: "pyglow"
   html_url: "https://github.com/timduly4/pyglow"
   description: "Upper atmosphere models and geophysical indices."
@@ -21,7 +21,7 @@
   docs: ""
   code_url: "https://github.com/timduly4/pyglow"
   contact: "Timothy Duly"
-  
+
 - name: "PyDARN"
   html_url: "http://vtsuperdarn.github.com/davitpy/"
   description: "A package for analyzing data from SuperDARN."
@@ -37,7 +37,7 @@
   docs: "http://spacepy.lanl.gov/"
   code_url: ""
   contact: "Steve Morley"
-  
+
 - name: "spicepy"
   html_url: "https://github.com/rca/PySPICE"
   description: "Spice wrapper."
@@ -45,7 +45,7 @@
   docs: ""
   code_url: "https://github.com/rca/PySPICE"
   contact: ""
-  
+
 - name: "PyScitools"
   html_url: "http://sitools2.github.io"
   description: "SDO client for idoc"
@@ -53,7 +53,7 @@
   docs: ""
   code_url: "https://github.com/SITools2/"
   contact: ""
-  
+
 - name: "Tomography"
   html_url: "http://nbarbey.github.io/TomograPy/"
   description: "Coronal tomographic reconstructions."
@@ -102,10 +102,10 @@
   code_url: "https://pypi.python.org/pypi/madrigalWeb"
   contact: "Bill Rideout"
 
-- name: "heliopy"
+- name: "HelioPy"
   html_url: "https://github.com/heliopython/heliopy"
-  description: "A python library for Space Physics."
-  logo: ""
+  description: "A python library for heliospheric physics."
+  logo: "https://raw.githubusercontent.com/heliopython/heliopy/master/artwork/logo_circle.png"
   docs: "http://docs.heliopy.org/en/stable/"
   code_url: "https://github.com/heliopython/heliopy"
   contact: "Davd Stansby"
@@ -141,7 +141,7 @@
   docs: "http://ocbpy.readthedocs.io/en/latest/"
   code_url: "https://github.com/aburrell/ocbpy"
   contact: "Angeline G. Burrell"
-  
+
 - name: "AACGMV2"
   html_url: "https://github.com/aburrell/aacgmv2"
   description: "A Python wrapper for the AACGM-v2 C library"
@@ -149,7 +149,7 @@
   docs: "http://aacgmv2.readthedocs.io/en/latest/"
   code_url: "https://github.com/aburrell/aacgmv2"
   contact: "Angeline G. Burrell"
-  
+
 - name: "AACGMV2"
   html_url: "https://github.com/aburrell/apexpy"
   description: "A Python wrapper for the Apex fortran library"
