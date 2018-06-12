@@ -76,7 +76,7 @@
   logo: "https://github.com/rstoneback/pysat/blob/master/logo.png"
   docs: ""
   code_url: "https://github.com/rstoneback/pysat"
-  contact: "Russel Stoneback"
+  contact: "Russell Stoneback"
 
 - name: "pysatCDF"
   html_url: "https://github.com/rstoneback/pysatCDF"
@@ -84,7 +84,7 @@
   logo: ""
   docs: ""
   code_url: "https://github.com/rstoneback/pysatCDF"
-  contact: "Russel Stoneback"
+  contact: "Russell Stoneback"
 
 - name: "geodata"
   html_url: "https://github.com/jswoboda/GeoDataPython"
