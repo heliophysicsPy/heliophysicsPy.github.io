@@ -99,7 +99,7 @@
   description: "Access data from any Madrigal database."
   logo: ""
   docs: ""
-  code_url: "https://pypi.python.org/pypi/madrigal
+  code_url: "https://pypi.python.org/pypi/madrigalWeb"
   contact: "Bill Rideout"
 
 - name: "heliopy"
