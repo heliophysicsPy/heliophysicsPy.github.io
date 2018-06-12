@@ -150,7 +150,7 @@
   code_url: "https://github.com/aburrell/aacgmv2"
   contact: "Angeline G. Burrell"
   
-- name: "AACGMV2"
+- name: "apexpy"
   html_url: "https://github.com/aburrell/apexpy"
   description: "A Python wrapper for the Apex fortran library"
   logo: ""
