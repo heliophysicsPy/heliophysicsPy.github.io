@@ -73,10 +73,10 @@
 - name: "pysat"
   html_url: "https://github.com/rstoneback/pysat"
   description: "Management and analysis tool for satellite and radar data."
-  logo: ""
+  logo: "https://github.com/rstoneback/pysat/blob/master/logo.png"
   docs: ""
   code_url: "https://github.com/rstoneback/pysat"
-  contact: "Russel Stoneback"
+  contact: "Russell Stoneback"
 
 - name: "pysatCDF"
   html_url: "https://github.com/rstoneback/pysatCDF"
@@ -84,7 +84,7 @@
   logo: ""
   docs: ""
   code_url: "https://github.com/rstoneback/pysatCDF"
-  contact: "Russel Stoneback"
+  contact: "Russell Stoneback"
 
 - name: "geodata"
   html_url: "https://github.com/jswoboda/GeoDataPython"
@@ -150,7 +150,7 @@
   code_url: "https://github.com/aburrell/aacgmv2"
   contact: "Angeline G. Burrell"
 
-- name: "AACGMV2"
+- name: "apexpy"
   html_url: "https://github.com/aburrell/apexpy"
   description: "A Python wrapper for the Apex fortran library"
   logo: ""
