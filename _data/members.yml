@@ -4,11 +4,9 @@
 
 - handle: "cadair"
   name: "Stuart Mumford"
-  affiliation: ""
 
 - handle: "kdere"
   name: "Ken Dere"
-  affiliation: ""
 
 - handle: "aburrell"
   name: "Angeline G. Burrell"
@@ -32,23 +30,18 @@
 
 - handle: "wtbarnes"
   name: "Will Barnes"
-  affiliation: ""
 
 - handle: "timduly4"
   name: "Timothy Duly"
-  affiliation: ""
 
 - handle: "nbarbey"
   name: "Nicolas Barbey"
-  affiliation: ""
 
 - handle: "rjarvinen"
   name: "Riku Jarvinen"
-  affiliation: ""
 
 - handle: "jswoboda"
   name: "John Swoboda"
-  affiliation: ""
 
 - handle: "dstansby"
   name: "David Stansby"
@@ -60,4 +53,7 @@
 
 - handle: "kailia0209"
   name: "Juhyeong Kang"
-  affiliation: ""
+
+- handle: scivision
+  name: Michael Hirsch
+
