@@ -158,6 +158,14 @@
   code_url: "https://github.com/aburrell/apexpy"
   contact: "Angeline G. Burrell"
 
+- name: "SpiceyPy"
+  html_url: "https://github.com/AndrewAnnex/SpiceyPy"
+  description: "Pythonic wrapper for Spice."
+  logo: ""
+  docs: "https://spiceypy.readthedocs.io/en/latest/"
+  code_url: "https://github.com/AndrewAnnex/SpiceyPy"
+  contact: "Andrew M. Annex"
+
 - name: "PlasmaPy"
   html_url: "http://www.plasmapy.org/"
   description: "A Python package for plasma physics"
