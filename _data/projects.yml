@@ -165,3 +165,11 @@
   docs: "https://spiceypy.readthedocs.io/en/latest/"
   code_url: "https://github.com/AndrewAnnex/SpiceyPy"
   contact: "Andrew M. Annex"
+
+- name: "PlasmaPy"
+  html_url: "http://www.plasmapy.org/"
+  description: "A Python package for plasma physics"
+  logo: "http://docs.plasmapy.org/en/stable/_images/graphic-circular.png"
+  docs: "http://docs.plasmapy.org/"
+  code_url: "https://github.com/PlasmaPy/plasmapy"
+  contact: "Nick Murphy"
