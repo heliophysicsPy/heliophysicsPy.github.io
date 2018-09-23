@@ -1,13 +1,44 @@
 # Live website
-This code base is for a website which is live and lives at 
+This code base is for the website:
 
 [https://heliopython.org](https://heliopython.org)
 
-It is build on Jekyll. For more information about that see below.
+The website is based on Jekyll, which automatically builds changes on GitHub.
+You don't have to run Jekyll yourself to make changes.
 
-## Start Jekyll
+## Add software package
 
-A guide to getting started with Jekyll.
+1. Fork [this repo](https://github.com/scivision/heliophysicsPy.github.io) on GitHub.
+2. make your changes in `_data/projects.yml`
+3. make a Pull Request on GitHub.
+
+## [optional] Jekyll
+
+Jekyll can be setup on Linux / Windows Subsystem for Linux for optional previewing of the website on your computer by:
+
+1. install 
+  ```sh
+  apt install ruby-dev libssl-dev
+   
+  gem update --system
+  ```
+2. be sure Gems are installed to home directory, NOT system (no sudo) by adding to ~/.bashrc:
+   ```sh
+   # Install Ruby Gems to ~/gems
+   export GEM_HOME=$HOME/gems
+   export PATH=$HOME/gems/bin:$PATH
+   ```
+3. install Gem bundler (without sudo):
+   ```sh
+   gem install jekyll bundler
+   ```
+4. from the top-level repo directory:
+   ```sh
+   bundle install   # one time
+
+   bundle exec jekyll serve
+   ```
+   in several seconds the website is viewable at http://localhost:4000
 
 ### [Read the tutorial!](https://taniarascia.com/make-a-static-website-with-jekyll)
 
