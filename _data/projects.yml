@@ -316,3 +316,10 @@
   docs: "http://docs.plasmapy.org/"
   code_url: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
+  
+- name: "NDCube"
+  html_url: "https://docs.sunpy.org/projects/ndcube/en/stable/introduction.html"
+  description: "A Python package for manipulating, inspecting and visualizing multi-dimensional contiguous and non-contiguous coordinate-aware data arrays"
+  docs: "https://docs.sunpy.org/projects/ndcube/en/stable/"
+  code_url: "https://github.com/sunpy/ndcube"
+  contact: "Dan Ryan"
