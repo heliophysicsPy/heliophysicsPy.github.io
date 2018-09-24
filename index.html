@@ -24,7 +24,7 @@ layout: default
                 <a href="{{ project.html_url }}" target="_blank"><h4 class="media-heading">{{ project.name }}</h4></a>
                 {{ project.description }}<br>
                 <b>{{ project.contact }}</b><br>
-                <a href="{{ project.code_url }}" target="_blank">Code url</a> • {% if project.docs != blank %}<a href="{{ project.docs }}" target="_blank">docs</a>{% endif %}
+                <a href="{{ project.code_url }}" target="_blank">Code url</a>{% if project.docs != blank %} • <a href="{{ project.docs }}" target="_blank">docs</a>{% endif %}
             </div>
         </div>
     </div>
