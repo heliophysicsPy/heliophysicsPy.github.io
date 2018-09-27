@@ -156,11 +156,11 @@
   contact: Michael Hirsch
 
 - name: "SpacePy"
-  html_url: "http://spacepy.lanl.gov/"
-  description: "Omni and geospace data."
-  logo: "https://spacepy.lanl.gov/images/ECT_logo_small.png"
-  docs: "http://spacepy.lanl.gov/"
-  code_url: ""
+  html_url: "https://github.com/spacepy/spacepy"
+  description: "Space science library for Python. Includes file I/O, time and coordinate conversions, common analysis techniques."
+  logo: "https://pythonhosted.org/SpacePy/_static/spacepy_logo.jpg"
+  docs: "https://pythonhosted.org/SpacePy"
+  code_url: "https://github.com/spacepy/spacepy"
   contact: "Steve Morley"
 
 - name: "spicepy"
