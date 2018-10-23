@@ -33,7 +33,7 @@
   html_url: https://github.com/MAVENSDC/cdflib
   description: Read / Write NASA CDF with pure Python + Numpy, no compiling
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
-  contact: David Stansby, Bryan Harter, Michael Hirsch
+  contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
 
 - name: DASCutils
   html_url: https://github.com/scivision/dascutils
