@@ -281,7 +281,7 @@
 - name: "PlasmaPy"
   url: "http://www.plasmapy.org/"
   description: "A Python package for plasma physics"
-  logo: "http://docs.plasmapy.org/en/stable/_images/graphic-circular.png"
+  logo: "https://github.com/PlasmaPy/PlasmaPy-logo/raw/master/exports/graphic-circular.png"
   docs: "http://docs.plasmapy.org/"
   code: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
