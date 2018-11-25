@@ -2,6 +2,7 @@
 layout: page
 title: Meetings
 permalink: /meetings/
+order: 2
 ---
 ### 2018 Heliophysics Python Working Group Meeting 
 

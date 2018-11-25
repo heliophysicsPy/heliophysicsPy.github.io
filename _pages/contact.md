@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+order: 3
 ---
 ## Mailing List
 There is a mailing list for discussions. To be added to the mailing list for this project, 
