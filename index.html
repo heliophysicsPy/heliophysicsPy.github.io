@@ -1,56 +1,23 @@
 ---
 layout: default
+title: Home
+permalink: /
 ---
-<!-- Project heading -->
 <div class="jumbotron">
     <div class="containger">
         <h1 class="display-2">Python in Heliophysics</h1>
-        <p class="lead">A general list of software packages for Heliophysics.</p>
+        <p class="lead">{{ site.description }}</p>
     </div>
 </div>
-<!-- Project descriptions -->
-<h2>Projects</h2>
-{% assign sorted_projects = site.data.projects | sort_natural:'name' %}
-<div class="container-fluid">
-<div class="card-columns">
-{% for project in sorted_projects %}
-    <div class="card">
-        {% if project.logo == blank%}
-        <img class="card-img-top img-fluid rounded-circle" src="http://vsp-vintage.ucar.edu/Heliophysics/images/HelioOverview_700_a.jpg"/>
-        {% else %}
-        <img class="card-img-top img-fluid rounded" src="{{ project.logo }}"/>
-        {% endif %}
-        <div class="card-body">
-            <h5 class="card-title">{{ project.name }}</h5>
-            <p class="card-text">{{ project.description }}<br>
-            <b>{{ project.contact }}</b>
-            </p>
-        </div>
-        <div class="card-footer">
-            <a href="{{ project.code }}" class="card-link">Code</a>
-            {% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link">Docs</a>{% endif %}
-            {% if project.url != blank %}<a href="{{ project.url }}" class="card-link">Site</a>{% endif %}
-        </div>
-    </div>
+<h1>About</h1>
+<div class="container">
+    The purpose of this web site is to act as a community knowledge base for performing heliophysics research in Python. It aims to provide a variety tutorials, resources, a list of useful packages, general discussion, advice and also features news items, event information and announcements.
+</div>
+<h1>News</h1>
+<div class="container">
+{% for post in site.posts %}
+<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
-</div>
-</div>
-
-<!-- People -->
-<h2>People</h2>
-{% assign sorted_team = site.data.members | sort:'handle' %}
-<div class="container-fluid">
-<div class="row">
-{% for member in sorted_team %}
-<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
-    <div class="card" style="margin:0px;padding:0px;background-color:#ffffff;border:0;box-shadow:none">
-        <img class="card-img-top img-fluid rounded-circle" src="https://github.com/{{ member.handle }}.png"/>
-        <div class="card-body">
-            <h6 class="card-title">@{{ member.handle }}</h6>
-            <h6 class="card-title">{{ member.name }}</h6>
-        </div>
-    </div>
-</div>
-{% endfor %}
-</div>
+<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>

@@ -1,0 +1,31 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+order: 0
+---
+{% assign sorted_projects = site.data.projects | sort_natural:'name' %}
+<div class="container-fluid">
+<div class="card-columns">
+{% for project in sorted_projects %}
+    <div class="card">
+        {% if project.logo == blank%}
+        <img class="card-img-top img-fluid rounded-circle" src="{{ site.baseurl }}/img/heliopython-default-logo.png"/>
+        {% else %}
+        <img class="card-img-top img-fluid rounded" src="{{ project.logo }}"/>
+        {% endif %}
+        <div class="card-body">
+            <h4 class="card-title">{{ project.name }}</h4>
+            <p class="card-text">{{ project.description }}<br>
+            <b>{{ project.contact }}</b>
+            </p>
+        </div>
+        <div class="card-footer text-right">
+            <a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a>
+            {% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}
+            {% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}
+        </div>
+    </div>
+{% endfor %}
+</div>
+</div>
