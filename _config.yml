@@ -1,8 +1,5 @@
 # Site Settings
-title: Python in HeliophysicsPy
-project_title: helioPy
-author:
-  twitter: ehsteve
+title: Python in Heliophysics
 description: >
   A guide to getting started with Python in Heliophysics.
 # Build Settings
