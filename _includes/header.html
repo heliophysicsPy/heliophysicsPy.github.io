@@ -11,18 +11,12 @@
         <li class="nav-item">
           <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a>
         </li>
+        {% assign pages = site.pages | sort:'order' %}
+        {% for p in pages %}
         <li class="nav-item">
-          <a class="nav-link {% if page.url == '/about/' %}active{% endif %}" href="/about">About</a>
+          <a class="nav-link {% if page.url == p.permalink %}active{% endif %}" href="{{ p.permalink }}">{{ p.title }}</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link {% if page.url == '/blog/' %}active{% endif %}" href="/blog">Blog</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link {% if page.url == '/meetings/' %}active{% endif %}" href="/meetings">Meetings</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link {% if page.url == '/contact/' %}active{% endif %}" href="/contact">Contact</a>
-        </li>
+        {% endfor %}
       </ul>
   </div>
 </nav>
