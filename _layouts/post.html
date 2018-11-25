@@ -3,6 +3,6 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • <a href="http://github.com/{{ page.author }}" target="_blank"><img src="http://github.com/{{ page.author }}.png?size=15"/></a> @{{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • <a href="http://github.com/{{ page.author }}" target="_blank"><img src="https://github.com/{{ page.author }}.png?size=15"/></a> @{{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
 
-{{ content }}
+{{ content | markdownify }}
