@@ -1,12 +1,28 @@
-<div class="header clearfix">
-        <nav>
-          <ul class="nav nav-pills pull-right">
-            <li role="presentation" class="active"><a href="/">Home</a></li>
-            <li role="presentation"><a href="/about">About</a></li>
-            <li role="presentation"><a href="/blog">Blog</a></li>
-            <li role="presentation"><a href="/meetings">Meetings</a></li>
-            <li role="presentation"><a href="/contact">Help</a></li>
-          </ul>
-        </nav>
-        <h3 class="text-muted">HelioPython</h3>
-      </div>
+<nav class="navbar navbar-expand-lg navbar-light">
+  <!-- Group Logo can go here -->
+  <!-- Collapse Menu on Mobile -->
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+      <span class="navbar-toggler-icon"></span>
+  </button>
+  <!-- Menu -->
+  <div class="collapse navbar-collapse">
+      <a class="navbar-brand" href="/">HelioPython</a>
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/about/' %}active{% endif %}" href="/about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/blog/' %}active{% endif %}" href="/blog">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/meetings/' %}active{% endif %}" href="/meetings">Meetings</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/contact/' %}active{% endif %}" href="/contact">Contact</a>
+        </li>
+      </ul>
+  </div>
+</nav>
