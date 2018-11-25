@@ -3,323 +3,291 @@
   description: "Python for Solar Physics"
   logo: "https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/sunpy_icon.png"
   docs: "http://docs.sunpy.org"
-  code_url: "https://github.com/sunpy/sunpy"
+  code: "https://github.com/sunpy/sunpy"
   contact: "Stuart Mumford"
 
 - name: ACEmag
-  html_url: https://github.com/scivision/ACE_magnetometer
+  code: https://github.com/scivision/ACE_magnetometer
   description: Load and Plot ACE satelite magnetometer data 
   contact: Michael Hirsch
 
 - name: AstrometryAzEl
-  html_url: https://github.com/scivision/astrometry_azel
+  code: https://github.com/scivision/astrometry_azel
   description: plate scale / calibrate star imagery to use multiple auroral/airglow cameras together
   contact: Michael Hirsch
 
 - name: Auroral Electrojet
-  html_url: https://github.com/scivision/AE-index-plot
+  code: https://github.com/scivision/AE-index-plot
   description: Auroral Electrojet AE-index read and plot.
   contact: Michael Hirsch
 
 - name: "ChiantiPy"
-  html_url: "https://github.com/chianti-atomic/ChiantiPy"
   description: "Radiative properties of astrophysical plasmas"
-  logo: "http://chiantipy.sourceforge.net/_static/chiantipy_logo.png"
-  docs: "http://chiantipy.sourceforge.net"
-  code_url: "https://github.com/chianti-atomic/ChiantiPy"
+  logo: "https://raw.githubusercontent.com/chianti-atomic/chianti-atomic.github.io/master/_static/chiantipy_logo.png"
+  docs: "https://chianti-atomic.github.io/"
+  code: "https://github.com/chianti-atomic/ChiantiPy"
   contact: "Ken Dere"
 
 - name: CDFlib
-  html_url: https://github.com/MAVENSDC/cdflib
+  code: https://github.com/MAVENSDC/cdflib
   description: Read / Write NASA CDF with pure Python + Numpy, no compiling
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
 
 - name: DASCutils
-  html_url: https://github.com/scivision/dascutils
+  code: https://github.com/scivision/dascutils
   description: Digital All Sky Camera utilities, for camera at Poker Flat Research Range and elsewhere
   logo: http://optics.gi.alaska.edu/optics/sites/default/files/logo.png
   contact: Michael Hirsch
 
 - name: Digital Meridian Spectrometer
-  html_url: https://github.com/scivision/digital-meridian-spectrometer
+  code: https://github.com/scivision/digital-meridian-spectrometer
   description: UAF Digital Meridian Spectrometer-- load and plot 
   contact: Michael Hirsch
 
 - name: GEOrinex
-  html_url: https://github.com/scivision/georinex
+  code: https://github.com/scivision/georinex
   description: Python RINEX 2/3 NAV/OBS reader with speed and simplicity, handling most RINEX formats.
   contact: Michael Hirsch  
 
 - name: GOESutils
-  html_url: https://github.com/scivision/GOESutils
+  code: https://github.com/scivision/GOESutils
   description:  Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time 
   logo: https://raw.githubusercontent.com/scivision/GOESutils/master/tests/goes13-IR-2017-07-13-12.jpg
   contact: Michael Hirsch
 
 - name: GIMAmag
-  html_url: https://github.com/scivision/gima-magnetometer
+  code: https://github.com/scivision/gima-magnetometer
   description: UAF Geophysical Institute magnetometer network data read and plot 
   contact: Michael Hirsch
 
 - name: GLOW
-  html_url: https://github.com/scivision/GLOW
+  code: https://github.com/scivision/GLOW
   description: NCAR GLOW 0.981 aurora/airglow model IR-VIS-UV from Python
   logo: https://www2.hao.ucar.edu/sites/default/files/resize/images/ICON-GOLD_2016/IonosphereHorizon-Banner-980x232.jpg
   contact: Michael Hirsch
 
 - name: GLOWlegacy
-  html_url: https://github.com/scivision/GLOWaurora
+  code: https://github.com/scivision/GLOWaurora
   description: NCAR GLOW 0.973 legacy aurora/airglow model IR-VIS-UV from Python and Matlab
   logo: https://www2.hao.ucar.edu/sites/default/files/resize/images/ICON-GOLD_2016/IonosphereHorizon-Banner-980x232.jpg
   contact: Michael Hirsch
 
 - name: HWM-93
-  html_url: https://github.com/scivision/hwm93
+  code: https://github.com/scivision/hwm93
   description: NASA Horizontal Wind Model HWM93 in Python and Matlab
   logo: https://ccmc.gsfc.nasa.gov/images/CCMC-LOGO-2.gif
   contact: Michael Hirsch
 
 - name: IGRF-12
-  html_url: https://github.com/scivision/igrf12
+  code: https://github.com/scivision/igrf12
   description: International Geomagnetic Reference Field IGRF12 and IGRF11 -- in Python and Matlab
   logo: https://www.ngdc.noaa.gov/IAGA/vmod/img/vmod_header.gif 
   contact: Michael Hirsch
   
 - name: IRI-2016
-  html_url: https://github.com/scivision/IRI2016
+  code: https://github.com/scivision/IRI2016
   description: International Reference Ionosphere 2016 from Python and Matlab
   logo: https://iri.gsfc.nasa.gov/images/red_band-179.jpg
   contact: Michael Hirsch
 
 - name: IRI-90
-  html_url: https://github.com/scivision/iri90
+  code: https://github.com/scivision/iri90
   description: IRI90-international reference ionosphere in Python 
   logo: https://iri.gsfc.nasa.gov/images/tail-179.jpg
   contact: Michael Hirsch
 
 - name: LOWTRAN
-  html_url: https://github.com/scivision/lowtran
+  code: https://github.com/scivision/lowtran
   description: LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python and Matlab
   logo: https://raw.githubusercontent.com/scivision/lowtran/master/gfx/whyskyisblue.png
   contact: Michael Hirsch
 
 - name: Maidenhead
-  html_url: https://github.com/scivision/maidenhead
+  code: https://github.com/scivision/maidenhead
   description: Python or Julia Maidenhead <--> WGS84 coordinate conversions, useful for crowdsourced observations
   contact: Michael Hirsch
 
 - name: MGSutils
-  html_url: https://github.com/scivision/mgs-utils
+  code: https://github.com/scivision/mgs-utils
   description: Mars Global Surveyor utilities (for radio occultation) 
   contact: Michael Hirsch
 
 - name: POLAN
-  html_url: https://github.com/scivision/POLAN
+  code: https://github.com/scivision/POLAN
   description: estimate true ionosphere height from ionosonde
   contact: Michael Hirsch
 
 - name: "pyglow"
-  html_url: "https://github.com/timduly4/pyglow"
   description: "Upper atmosphere models and geophysical indices."
   logo: "https://camo.githubusercontent.com/446f7d47177fd5b0f7aa141a31cef246769cf843/68747470733a2f2f7261772e6769746875622e636f6d2f74696d64756c79342f7079676c6f772f6d61737465722f6c6f676f2e706e67"
-  docs: ""
-  code_url: "https://github.com/timduly4/pyglow"
+  code: "https://github.com/timduly4/pyglow"
   contact: "Timothy Duly"
 
 - name: "PyDARN"
-  html_url: "http://vtsuperdarn.github.com/davitpy/"
   description: "A package for analyzing data from SuperDARN."
   logo: "https://camo.githubusercontent.com/446f7d47177fd5b0f7aa141a31cef246769cf843/68747470733a2f2f7261772e6769746875622e636f6d2f74696d64756c79342f7079676c6f772f6d61737465722f6c6f676f2e706e67"
-  docs: ""
-  code_url: "https://github.com/vtsuperdarn/davitpy"
+  code: "https://github.com/vtsuperdarn/davitpy"
   contact: ""
 
 - name: PyMap3D
-  html_url: https://github.com/scivision/pymap3d
+  code: https://github.com/scivision/pymap3d
   description: Python 3D coordinate conversions for geospace ecef enu eci and more
   contact: Michael Hirsch
 
 - name: PyZenodo
-  html_url: https://github.com/scivision/pyzenodo3
+  code: https://github.com/scivision/pyzenodo3
   description: Simple, clean pure Python 3 Zenodo API (upload, download data).
   contact: Michael Hirsch 
 
 - name: ReesAurora
-  html_url: https://github.com/scivision/reesaurora
+  code: https://github.com/scivision/reesaurora
   description: Rees/Sergienko module of excitation rates, relevant to auroral optical emissions 
   contact: Michael Hirsch
 
 - name: Scanning Doppler Interferometer
-  html_url: https://github.com/scivision/scanning-doppler-interferometer
+  code: https://github.com/scivision/scanning-doppler-interferometer
   description: Dowload & plot Scanning Doppler Interferometer data from PI Mark Conde's instruments. 
   contact: Michael Hirsch
 
 - name: "SpacePy"
-  html_url: "https://github.com/spacepy/spacepy"
   description: "Space science library for Python. Includes file I/O, time and coordinate conversions, common analysis techniques."
   logo: "https://pythonhosted.org/SpacePy/_static/spacepy_logo.jpg"
   docs: "https://pythonhosted.org/SpacePy"
-  code_url: "https://github.com/spacepy/spacepy"
+  code: "https://github.com/spacepy/spacepy"
   contact: "Steve Morley"
 
 - name: "spicepy"
-  html_url: "https://github.com/rca/PySPICE"
+  code: "https://github.com/rca/PySPICE"
   description: "Spice wrapper."
-  code_url: "https://github.com/rca/PySPICE"
+  code: "https://github.com/rca/PySPICE"
 
 - name: "PyScitools"
-  html_url: "http://sitools2.github.io"
+  url: "http://sitools2.github.io"
   description: "SDO client for idoc"
-  code_url: "https://github.com/SITools2/"
+  code: "https://github.com/SITools2/"
 
 - name: ScienceDates
-  html_url: https://github.com/scivision/sciencedates
+  code: https://github.com/scivision/sciencedates
   description: Date / time conversions used in the sciences.
   contact: Michael Hirsch
 
 - name: THEMISasi
-  html_url: https://github.com/scivision/themisasi
+  code: https://github.com/scivision/themisasi
   description: Read & Plot THEMIS ASI 256x256 "high resolution" GBO ground-based imager data 
   logo: http://themis.ssl.berkeley.edu/gbo/thm_gbo_logo.png
   contact: Michael Hirsch
 
 - name: "TomograPy"
-  html_url: "http://nbarbey.github.io/TomograPy/"
+  url: "http://nbarbey.github.io/TomograPy/"
   description: "Coronal tomographic reconstructions."
-  code_url: "https://github.com/nbarbey/TomograPy"
+  code: "https://github.com/nbarbey/TomograPy"
   contact: "Nicolas Barbey"
 
 - name: WMM2015
-  html_url: https://github.com/scivision/wmm2015
+  code: https://github.com/scivision/wmm2015
   description: World Magnetic Model 2015 from Python 
   contact: Michael Hirsch
 
 - name: "analysator"
-  html_url: "https://github.com/fmihpc"
+  url: "https://github.com/fmihpc"
   description: "Vlasiator magnetospheric model."
   docs: "https://github.com/fmihpc/analysator/tree/master/Documentation"
-  code_url: "https://github.com/fmihpc/analysator"
+  code: "https://github.com/fmihpc/analysator"
   contact: "Riku Jarvin"
 
 - name: "pysat"
-  html_url: "https://github.com/rstoneback/pysat"
   description: "Management and analysis tool for satellite and radar data."
-  logo: "https://github.com/rstoneback/pysat/blob/master/logo.png"
-  docs: ""
-  code_url: "https://github.com/rstoneback/pysat"
+  logo: "https://raw.githubusercontent.com/rstoneback/pysat/master/logo.png"
+  docs: "https://pysat.readthedocs.io"
+  code: "https://github.com/rstoneback/pysat"
   contact: "Russell Stoneback"
 
 - name: "pysatCDF"
-  html_url: "https://github.com/rstoneback/pysatCDF"
   description: "Python reader for NASA CDF, includes CDF libraries."
-  logo: ""
-  docs: ""
-  code_url: "https://github.com/rstoneback/pysatCDF"
+  code: "https://github.com/rstoneback/pysatCDF"
   contact: "Russell Stoneback"
 
 - name: "geodata"
-  html_url: "https://github.com/jswoboda/GeoDataPython"
   description: "Geophysics analysis of radar and optical systems."
   logo: "https://github.com/jswoboda/GeoDataPython/raw/master/logo/logo1.png"
-  docs: "https://github.com/jswoboda/GeoDataPython"
-  code_url: "https://github.com/jswoboda/GeoDataPython"
+  code: "https://github.com/jswoboda/GeoDataPython"
   contact: "John Swoboda"
 
 - name: MSISE-00
   description:  NRL MSISE-00 atmospheric model-- in Python and Matlab
   docs: https://ccmc.gsfc.nasa.gov/modelweb/models/nrlmsise00.php
-  html_url: https://github.com/scivision/msise00
+  code: https://github.com/scivision/msise00
   contact: Michael Hirsch
 
 - name: "MadrigalWeb"
-  html_url: "http://cedar.openmadrigal.org"
+  url: "http://cedar.openmadrigal.org"
   description: "Access data from any Madrigal database."
-  logo: ""
-  docs: ""
-  code_url: "https://pypi.python.org/pypi/madrigalWeb"
+  code: "https://pypi.python.org/pypi/madrigalWeb"
   contact: "Bill Rideout"
 
 - name: NEXRADutils
-  html_url: https://github.com/scivision/NEXRADutils
+  code: https://github.com/scivision/NEXRADutils
   description: Download/Plot NEXRAD compositive reflectivity by date/time, for ionospheric perturbations
   contact: Michael Hirsch
 
 - name: "HelioPy"
-  html_url: "https://github.com/heliopython/heliopy"
   description: "A python library for heliospheric physics."
   logo: "https://raw.githubusercontent.com/heliopython/heliopy/master/artwork/logo_circle.png"
   docs: "http://docs.heliopy.org/en/stable/"
-  code_url: "https://github.com/heliopython/heliopy"
+  code: "https://github.com/heliopython/heliopy"
   contact: "David Stansby"
 
 - name: "python-magnetosphere"
-  html_url: "https://github.com/dpq/python-magnetosphere"
   description: "Python wrapper for cxform, coordinate transformation package "
-  logo: ""
-  docs: ""
-  code_url: "https://github.com/dpq/python-magnetosphere"
+  code: "https://github.com/dpq/python-magnetosphere"
   contact: "David Parunakian"
 
 - name: "fisspy"
-  html_url: "https://github.com/SNU-sunday/fisspy"
   description: "Fast Imaging Solar Spectrograph (FISS) on the New Solar Telescope."
-  logo: ""
-  docs: ""
-  code_url: "https://github.com/SNU-sunday/fisspy"
+  code: "https://github.com/SNU-sunday/fisspy"
   contact: "Juhyeong Kang"
 
 - name: "fiasco"
-  html_url: "https://github.com/wtbarnes/fiasco"
   description: "A Python interface to the CHIANTI atomic database."
-  logo: ""
   docs: "http://fiasco.readthedocs.io/en/latest/"
-  code_url: "https://github.com/wtbarnes/fiasco"
+  code: "https://github.com/wtbarnes/fiasco"
   contact: "Will Barnes"
 
 - name: "OCBpy"
-  html_url: "https://github.com/aburrell/ocbpy"
   description: "A Python module that converts between AACGM coordinates and an adjustable magnetic coordinate system based on the location of the polar cap"
-  logo: ""
   docs: "http://ocbpy.readthedocs.io/en/latest/"
-  code_url: "https://github.com/aburrell/ocbpy"
+  code: "https://github.com/aburrell/ocbpy"
   contact: "Angeline G. Burrell"
 
 - name: "AACGMV2"
-  html_url: "https://github.com/aburrell/aacgmv2"
   description: "A Python wrapper for the AACGM-v2 C library"
-  logo: ""
   docs: "http://aacgmv2.readthedocs.io/en/latest/"
-  code_url: "https://github.com/aburrell/aacgmv2"
+  code: "https://github.com/aburrell/aacgmv2"
   contact: "Angeline G. Burrell"
 
 - name: "apexpy"
-  html_url: "https://github.com/aburrell/apexpy"
   description: "A Python wrapper for the Apex fortran library"
-  logo: ""
   docs: "http://apexpy.readthedocs.io/en/latest/"
-  code_url: "https://github.com/aburrell/apexpy"
+  code: "https://github.com/aburrell/apexpy"
   contact: "Angeline G. Burrell"
 
 - name: "SpiceyPy"
-  html_url: "https://github.com/AndrewAnnex/SpiceyPy"
   description: "Pythonic wrapper for Spice."
-  logo: ""
   docs: "https://spiceypy.readthedocs.io/en/latest/"
-  code_url: "https://github.com/AndrewAnnex/SpiceyPy"
+  code: "https://github.com/AndrewAnnex/SpiceyPy"
   contact: "Andrew M. Annex"
 
 - name: "PlasmaPy"
-  html_url: "http://www.plasmapy.org/"
+  url: "http://www.plasmapy.org/"
   description: "A Python package for plasma physics"
   logo: "http://docs.plasmapy.org/en/stable/_images/graphic-circular.png"
   docs: "http://docs.plasmapy.org/"
-  code_url: "https://github.com/PlasmaPy/plasmapy"
+  code: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
   
 - name: "NDCube"
-  html_url: "https://docs.sunpy.org/projects/ndcube/en/stable/introduction.html"
   description: "A Python package for manipulating, inspecting and visualizing multi-dimensional contiguous and non-contiguous coordinate-aware data arrays"
   docs: "https://docs.sunpy.org/projects/ndcube/en/stable/"
-  code_url: "https://github.com/sunpy/ndcube"
+  code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
