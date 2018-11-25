@@ -78,7 +78,8 @@ h3.text-center {
     border: 1px solid #e5e5e5;
     border-radius: 6px;
     background-color: #f0f0f0;
-    padding: 32px;
-    margin: 32px;
 }
 
+.card-img-top {
+  padding: 10px;
+}
