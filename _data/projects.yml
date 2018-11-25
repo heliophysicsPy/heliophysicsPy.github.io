@@ -1,5 +1,5 @@
 - name: "SunPy"
-  url: "http://www.sunpy.org"
+  html_url: "http://www.sunpy.org"
   description: "Python for Solar Physics"
   logo: "https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/sunpy_icon.png"
   docs: "http://docs.sunpy.org"
