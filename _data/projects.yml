@@ -198,13 +198,18 @@
 
 - name: "pysat"
   description: "Management and analysis tool for satellite and radar data."
-  logo: "https://github.com/rstoneback/pysat/blob/master/logo.png"
+  logo: "https://raw.githubusercontent.com/rstoneback/pysat/master/logo.png"
   code_url: "https://github.com/rstoneback/pysat"
   contact: "Russell Stoneback"
 
 - name: "pysatCDF"
   description: "Python reader for NASA CDF, includes CDF libraries."
   code_url: "https://github.com/rstoneback/pysatCDF"
+  contact: "Russell Stoneback"
+  
+- name: "pysatMagVect"
+  description: "Geomagnetic field line tracing, unit vectors, ion drift mapping, vector and coordinate transformations."
+  code_url: "https://github.com/rstoneback/pysatMagVect"
   contact: "Russell Stoneback"
 
 - name: "geodata"
