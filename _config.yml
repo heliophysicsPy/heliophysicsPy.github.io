@@ -1,10 +1,6 @@
 # Site Settings
-title: Python in HeliophysicsPy
-project_title: helioPy
-author:
-  twitter: ehsteve
-description: >
-  A guide to getting started with Python in Heliophysics.
+title: Python in Heliophysics
+description: "A website to promote and facilitate the use and development of Python for Heliophysics."
 # Build Settings
 sass:
   sass_dir: _sass
@@ -14,3 +10,8 @@ kramdown:
 gems:
   - jekyll-mentions
   - jekyll-seo-tag
+collections:
+  - pages
+exclude:
+  - LICENSE.md
+  - README.md

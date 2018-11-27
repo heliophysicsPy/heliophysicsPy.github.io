@@ -1,0 +1,22 @@
+---
+layout: page
+title: People
+permalink: /people/
+order: 1
+---
+{% assign sorted_team = site.data.members | sort:'handle' %}
+<div class="container-fluid">
+<div class="row">
+{% for member in sorted_team %}
+<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
+    <div class="card" style="margin:0px;padding:0px;background-color:#ffffff;border:0;box-shadow:none">
+        <img class="card-img-top img-fluid rounded-circle" src="https://github.com/{{ member.handle }}.png"/>
+        <div class="card-body">
+            <h6 class="card-title">@{{ member.handle }}</h6>
+            <h6 class="card-title">{{ member.name }}</h6>
+        </div>
+    </div>
+</div>
+{% endfor %}
+</div>
+</div>
