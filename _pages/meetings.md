@@ -4,18 +4,23 @@ title: Meetings
 permalink: /meetings/
 order: 2
 ---
-### 2018 Heliophysics Python Working Group Meeting 
+### Meeting Calendar
 
-The first meeting of the heliopython community will take place in Boulder, Colorado from November 13-15, 2018. The primary purpose of the meeting will be to audit the state of the ecosystem and discuss standards and agree to goals and standards for the ecosystem.
+Meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
-The meeting will generate a report with findings and recommendations that will be presented to the community.
+### AGU Session
+* IN11B: Application Development in Python for Solar and Space Physics Posters, Monday, 10 December 2018  08:00 - 12:20
 
-#### Meeting Registration, Schedule, and Logistics
+### 2018 Python in Heliophysics Working Group Meeting 
 
-Please visit the [meeting page](http://lasp.colorado.edu/home/hcpwg-meeting/) to register for the meeting, review the agenda, and find travel information.
+The first meeting of the heliopython community was held in Boulder, Colorado from November 13-15, 2018. 
+* [Meeting Report](https://docs.google.com/document/d/1ejP0kaibf6DRxjYJNmPrF1t3Nl21r0pC1FuDhu0hPnM/edit?usp=sharing)
+* [Presentations and Documents](https://drive.google.com/open?id=1snib9D8PcSaPByMqrAx8_4b05RfsTh58)
 
 ### Telecons
 
+* [2018-11-30](https://docs.google.com/document/d/1Pk0XWjqbjpe9_xln9ZqQ_00o6wVDXIpjyhFq-moUBC0/edit#heading=h.i5bghtfdk9hv)
+  * Discussion of standards document
 * [2018-10-19](https://drive.google.com/open?id=1VgpR6eLZ-JZ2Y9NQrxy-kw0DVKdVLTYV)
   * Went over agenda for November meeting.  
 * [2018-10-05](https://drive.google.com/open?id=1_vZ_1TI1P5vtgmRbU01Ufy6FEREi5fOv)
