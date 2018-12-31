@@ -208,6 +208,11 @@
   code: "https://github.com/rstoneback/pysatCDF"
   contact: "Russell Stoneback"
 
+- name: "pysatMagVect"
+  description: "Geomagnetic field line tracing, unit vectors, ion drift mapping, vector and coordinate transformations."
+  code: "https://github.com/rstoneback/pysatMagVect"
+  contact: "Russell Stoneback"
+
 - name: "geodata"
   description: "Geophysics analysis of radar and optical systems."
   logo: "https://github.com/jswoboda/GeoDataPython/raw/master/logo/logo1.png"
