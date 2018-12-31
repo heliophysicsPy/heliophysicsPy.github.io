@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Page Update!"
+title: "Website published."
 author: ehsteve
 ---
-Major updates to the page!
+This is the first official release of the community website.
