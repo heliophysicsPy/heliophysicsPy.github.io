@@ -162,10 +162,10 @@
   description: "Spice wrapper."
   code: "https://github.com/rca/PySPICE"
 
-- name: "PyScitools"
-  url: "http://sitools2.github.io"
-  description: "SDO client for idoc"
-  code: "https://github.com/SITools2/"
+- name: "PySitools"
+  url: "http://medocias.github.io/pySitools2_1.0/"
+  description: "Client for SiTools2, including MEDOC SDO archive"
+  code: "https://github.com/MedocIAS/pySitools2_1.0"
 
 - name: ScienceDates
   code: https://github.com/scivision/sciencedates
