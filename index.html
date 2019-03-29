@@ -20,9 +20,9 @@ permalink: /
 <div class="container">
 <h2>News</h2>
 {% for post in site.posts %}
-<h3>{{ post.title }}</h3>
+<h3><a href="{{ post.url | prepend: site.baseurl }}" class="nounderline">{{ post.title }}</a></h3>
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <time>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • <a href="http://github.com/{{ post.author }}" target="_blank"><img src="https://github.com/{{ post.author }}.png?size=15"/></a> @{{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</time>
-{{ content | markdownify }}
+{{ post.content | markdownify }}
 <hr>
 {% endfor %}
 </div>
