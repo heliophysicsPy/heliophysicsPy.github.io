@@ -73,12 +73,12 @@
 - handle: "drsteve"
   name: "Steve Morley"
   affiliation: "Los Alamos National Laboratory"
-  
+
 - handle: "blalterman"
   name: "B. L. Alterman"
   affiliation: "University of Michigan"
-  
-  - handle: "mbobra"
+
+- handle: "mbobra"
   name: "Monica Bobra"
   affiliation: "Stanford University"
   
