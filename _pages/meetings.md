@@ -16,6 +16,7 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 The first meeting of the heliopython community was held in Boulder, Colorado from November 13-15, 2018. 
 * [Meeting Report](https://docs.google.com/document/d/1ejP0kaibf6DRxjYJNmPrF1t3Nl21r0pC1FuDhu0hPnM/edit?usp=sharing)
 * [Presentations and Documents](https://drive.google.com/open?id=1snib9D8PcSaPByMqrAx8_4b05RfsTh58)
+* [Python in Heliophysics Community (PyHC) Standards](https://github.com/heliophysicsPy/standards/blob/master/standards.md)
 
 ### Telecons
 
