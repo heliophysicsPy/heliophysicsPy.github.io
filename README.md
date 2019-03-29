@@ -12,6 +12,10 @@ You don't have to run Jekyll yourself to make changes.
 2. make your changes in `_data/projects.yml`
 3. make a Pull Request on GitHub.
 
+## Add gallery example
+
+To add a gallery example see the [gallery repository](https://github.com/heliophysicsPy/gallery).
+
 ## [optional] Jekyll
 
 Jekyll can be setup on Linux / Windows Subsystem for Linux for optional previewing of the website on your computer by:
