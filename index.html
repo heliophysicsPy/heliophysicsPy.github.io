@@ -9,18 +9,22 @@ permalink: /
         <p class="lead">{{ site.description }}</p>
     </div>
 </div>
-<h1>About</h1>
 <div class="container">
+<h2>About</h2>
     The purpose of this web site is to act as a community knowledge base for
     performing heliophysics research in Python. It aims to provide a variety
     tutorials, resources, a list of useful packages, general discussion,
     advice and also features news items, event information and announcements.
 </div>
-<h1>News</h1>
+<hr>
 <div class="container">
+<h2>News</h2>
 {% for post in site.posts %}
-<time>{{ post.date | date: "%b %-d, %Y" }}</time>
-<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+<h3>{{ post.title }}</h3>
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <time>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • <a href="http://github.com/{{ post.author }}" target="_blank"><img src="https://github.com/{{ post.author }}.png?size=15"/></a> @{{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</time>
+{{ content | markdownify }}
+<hr>
 {% endfor %}
+</div>
 <p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
