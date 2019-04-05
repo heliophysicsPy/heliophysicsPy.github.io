@@ -20,6 +20,10 @@ The first meeting of the heliopython community was held in Boulder, Colorado fro
 
 ### Telecons
 
+* [2019-04-05](https://drive.google.com/open?id=18c5TSAve2JXQV9LthQXYGlD524b_nf2Q)
+  * Continuing discussion of proposals and upcoming meetings
+* [2019-02-08](https://drive.google.com/open?id=1XEQaV6c6kXDokhJ83JX18dN5DQVt2I_x)
+  * Discussion of HDEE call
 * [2018-11-30](https://docs.google.com/document/d/1Pk0XWjqbjpe9_xln9ZqQ_00o6wVDXIpjyhFq-moUBC0/edit#heading=h.i5bghtfdk9hv)
   * Discussion of standards document
 * [2018-10-19](https://drive.google.com/open?id=1VgpR6eLZ-JZ2Y9NQrxy-kw0DVKdVLTYV)
