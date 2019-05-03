@@ -8,6 +8,11 @@ order: 2
 
 Meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
+### 2019 Python in Heliophysics Working Group Meeting 
+
+The second meeting of the heliopython community is planned to be held in Boulder, Colorado from May 21-23, 2019. The
+meeting page can be found [here](http://lasp.colorado.edu/home/pyhc-meeting/).
+
 ### AGU Session
 * IN11B: Application Development in Python for Solar and Space Physics Posters, Monday, 10 December 2018  08:00 - 12:20
 
