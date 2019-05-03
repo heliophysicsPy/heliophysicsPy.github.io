@@ -17,6 +17,12 @@ h3.text-center {
   padding-left: 15px;
 }
 
+/* Custom nav header */
+.nav {
+  background-color: #cef6ff;
+  border-radius: 5px;
+}
+
 /* Custom page header */
 .header {
   padding-bottom: 20px;
