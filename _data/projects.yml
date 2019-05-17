@@ -145,6 +145,11 @@
   description: Rees/Sergienko module of excitation rates, relevant to auroral optical emissions 
   contact: Michael Hirsch
 
+- name: sami2py
+  code: https://github.com/jklenzing/sami2py
+  description: Run, read, and plot the SAMI2 ionospheric model. 
+  contact: Jeff Klenzing
+
 - name: Scanning Doppler Interferometer
   code: https://github.com/scivision/scanning-doppler-interferometer
   description: Dowload & plot Scanning Doppler Interferometer data from PI Mark Conde's instruments. 
