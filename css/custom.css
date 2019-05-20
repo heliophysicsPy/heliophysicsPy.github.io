@@ -23,6 +23,13 @@ h3.text-center {
   border-radius: 5px;
 }
 
+/* Custom nav header */
+.navbar {
+  background-color: #F9E79F;
+  border-radius: 0.5rem;
+  padding: 1rem 1rem;
+}
+
 /* Custom page header */
 .header {
   padding-bottom: 20px;
