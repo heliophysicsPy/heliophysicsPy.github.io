@@ -4,7 +4,7 @@ title: Meetings
 permalink: /meetings/
 order: 2
 ---
-### Meeting Calendar
+### Calendar
 
 Meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
