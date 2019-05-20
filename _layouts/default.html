@@ -6,7 +6,9 @@
     <body>
         <div class="container">
             {% include header.html %}
-            {{ content }}
+            <div class="container" id="body-content">
+                {{ content }}
+            </div>
             {% include footer.html %}
         </div><!-- container -->
     </body>
