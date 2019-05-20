@@ -5,8 +5,12 @@ body {
   font-family: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif !important;
 }
 
+#body-content {
+  padding: 1.5rem 1rem 1rem 1rem;
+}
+
 h3.text-center {
-    text-align: center;
+  text-align: center;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
