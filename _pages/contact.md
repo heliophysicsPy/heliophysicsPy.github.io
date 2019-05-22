@@ -2,10 +2,10 @@
 layout: page
 title: Contact
 permalink: /contact/
-order: 3
+order: 6
 ---
 ## Mailing List
-There is a mailing list for discussions. To be added to the mailing list for this project, 
+There is a mailing list for discussions. To be added to the mailing list for this project,
 please contact Alex DeWolfe at LASP, [alex.dewolfe@lasp.colorado.edu](mailto:alex.dewolfe@lasp.colorado.edu).
 
 ## Chat room
