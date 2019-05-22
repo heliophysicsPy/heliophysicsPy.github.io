@@ -27,7 +27,8 @@ order: 5
   <tbody>
     {% for project in sorted_projects %}
     <tr>
-      <th scope="row">{{ project.name }}</th>
+      <th scope="row">{{ forloop.index }}</th>
+      <td>{{ project.name }}</td>
       <td>{{ project.contact }}</td>
       <td>{{ project.description }}</td>
       <td><a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a></td>
