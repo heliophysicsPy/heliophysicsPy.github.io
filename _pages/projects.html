@@ -16,7 +16,7 @@ order: 5
 {% for project in sorted_projects %}
     <div class="card">
         {% if project.logo == blank%}
-        <img class="card-img-top img-fluid rounded-circle" src="{{ site.baseurl }}/img/heliopython-default-logo.png"/>
+        <img class="card-img-top img-fluid rounded-circle" src="{{ site.baseurl }}/img/heliopython-default-logo.png" style="width: 150px; height: 150px;"/>
         {% else %}
         <img class="card-img-top img-fluid rounded" src="{{ project.logo }}"/>
         {% endif %}
