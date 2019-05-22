@@ -1,0 +1,41 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+order: 5
+---
+<div class="container-fluid">
+    <div class="alert alert-dark" role="alert">
+        A gallery of examples from the projects listed below is available at <a href="http://heliopython.org/gallery/generated/gallery/index.html">heliopython.org/gallery</a>.
+    </div>
+
+<div class="container">
+
+{% assign sorted_projects = site.data.projects | sort_natural:'name' %}
+<table class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">Author</th>
+      <th scope="col">Description</th>
+      <th scope="col">Site</th>
+      <th scope="col">Code</th>
+      <th scope="col">Docs</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for project in sorted_projects %}
+    <tr>
+      <th scope="row">{{ project.name }}</th>
+      <td>{{ project.contact }}</td>
+      <td>{{ project.description }}</td>
+      <td><a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a></td>
+      <td>{% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}</td>
+      <td>{% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+  </table>
+
+</div>
