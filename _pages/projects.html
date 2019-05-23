@@ -15,34 +15,8 @@ order: 5
   </ul>
 
   <div class="tab-content">
-      <div class="tab-pane fade show active" id="cards">
-        <div class="card-columns">
 
-        {% assign sorted_projects = site.data.projects | sort_natural:'name' %}
-        {% for project in sorted_projects %}
-            <div class="card">
-                {% if project.logo == blank%}
-                <img class="card-img-top img-fluid rounded-circle mx-auto" src="{{ site.baseurl }}/img/heliopython-default-logo.png"/>
-                {% else %}
-                <img class="card-img-top img-fluid rounded mx-auto" src="{{ project.logo }}"/>
-                {% endif %}
-                <div class="card-body">
-                    <h4 class="card-title">{{ project.name }}</h4>
-                    <p class="card-text">{{ project.description }}<br>
-                    <b>{{ project.contact }}</b>
-                    </p>
-                </div>
-                <div class="card-footer text-right">
-                    <a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a>
-                    {% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}
-                    {% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}
-                </div>
-            </div>
-        {% endfor %}
-      </div>
-    </div>
-
-      <div class="tab-pane fade" id="table">
+    <div class="tab-pane fade show active" id="table">
         {% assign sorted_projects = site.data.projects | sort_natural:'name' %}
         <table class="table table-striped">
           <thead class="thead-dark">
@@ -72,6 +46,33 @@ order: 5
           </tbody>
           </table>
       </div>
+
+      <div class="tab-pane fade" id="cards">
+        <div class="card-columns">
+        {% assign sorted_projects = site.data.projects | sort_natural:'name' %}
+        {% for project in sorted_projects %}
+            <div class="card">
+                {% if project.logo == blank%}
+                <img class="card-img-top img-fluid rounded-circle mx-auto" src="{{ site.baseurl }}/img/heliopython-default-logo.png"/>
+                {% else %}
+                <img class="card-img-top img-fluid rounded mx-auto" src="{{ project.logo }}"/>
+                {% endif %}
+                <div class="card-body">
+                    <h4 class="card-title">{{ project.name }}</h4>
+                    <p class="card-text">{{ project.description }}<br>
+                    <b>{{ project.contact }}</b>
+                    </p>
+                </div>
+                <div class="card-footer text-right">
+                    <a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a>
+                    {% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}
+                    {% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}
+                </div>
+            </div>
+        {% endfor %}
+      </div>
+    </div>
+
   </div>
 
 
