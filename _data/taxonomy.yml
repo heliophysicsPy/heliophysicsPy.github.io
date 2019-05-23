@@ -1,28 +1,25 @@
 - category: "Science Area"
   description: "Keywords for the scientific area a package is relevant to"
-  keywords: ["Solar", "Magnetospheric", "ITM", "Heliospheric", "Planetary", Laboratory"]
+  keywords: ["Solar", "Magnetospheric", "IonosphereThermosphereMesosphere", "Heliospheric", "Planetary", "Plasma_physics"]
 
 - category: "Functionality"
   description: "Keywords for the functionality available in a package"
-  keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_imaging", "plotting", "3d_graphics", "data_container", "power_spectra"
-             "spectra", "calibration", "multidimensional", "interactive"]
+  keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_imaging", "plotting", "3d_graphics", 
+             "data_container", "power_spectra", "spectra", "calibration", "multidimensional", "interactive"]
              
-- category: "Scope"
+- category: "Span"
   description: "Keywords for the user scope of a project"
-  keywords: ["general", "specific", "wrapper"]
+  keywords: ["general", "specific"]
 
-- category: "Input/IO Formats"
+- category: "Input/Output Formats"
   description: "Keywords for the functionality for reading and writing different data formats"
-  keywords: ["FITS", "CDF", "netCDF", "ASCII", "IDL_save", "geny", "HDF5", "OMNI"]
-
-- category: "Input/IO Formats"
-  description: "Keywords for the functionality for reading and writing different data formats"
-  keywords: ["FITS", "CDF", "netCDF", "ASCII", "IDL_save", "geny", "HDF5", "OMNI"]
+  keywords: ["fits", "CDF", "netCDF", "ASCII", "IDL_save", "geny", "HDF5", "OMNI", "csv"]
 
 - category: "Input Sources"
-  description: "Keywords for the functionality of projects to read webservice data/local data"
-  keywords: ["local_file", "remote_file", "webservice"]
+  description: "Keywords for the functionality of projects to access webservice data/local data"
+  keywords: ["local", "remote", "webservice"]
 
-- category: "Purpose"
+- category: "Intent"
   description: "Keywords for the overarching purpose of project to user"
-  keywords: ["data_analysis", "simulation", "theory", "data_assimilation"]
+  keywords: ["data_analysis", "simulation", "theory", "data_assimilation", "laboratory", "instrumentation", 
+             "data_access", "reference_data", "wrapper"]
