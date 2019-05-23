@@ -1,0 +1,28 @@
+- category: "Science Area"
+  description: "Keywords for the scientific area a package is relevant to"
+  keywords: ["Solar", "Magnetospheric", "ITM", "Heliospheric", "Planetary", Laboratory"]
+
+- category: "Functionality"
+  description: "Keywords for the functionality available in a package"
+  keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_imaging", "plotting", "3d_graphics", "data_container", "power_spectra"
+             "spectra", "calibration", "multidimensional", "interactive"]
+             
+- category: "Scope"
+  description: "Keywords for the user scope of a project"
+  keywords: ["general", "specific", "wrapper"]
+
+- category: "Input/IO Formats"
+  description: "Keywords for the functionality for reading and writing different data formats"
+  keywords: ["FITS", "CDF", "netCDF", "ASCII", "IDL_save", "geny", "HDF5", "OMNI"]
+
+- category: "Input/IO Formats"
+  description: "Keywords for the functionality for reading and writing different data formats"
+  keywords: ["FITS", "CDF", "netCDF", "ASCII", "IDL_save", "geny", "HDF5", "OMNI"]
+
+- category: "Input Sources"
+  description: "Keywords for the functionality of projects to read webservice data/local data"
+  keywords: ["local_file", "remote_file", "webservice"]
+
+- category: "Purpose"
+  description: "Keywords for the overarching purpose of project to user"
+  keywords: ["data_analysis", "simulation", "theory", "data_assimilation"]
