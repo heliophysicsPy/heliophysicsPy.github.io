@@ -1,10 +1,10 @@
 - category: "Science Area"
   description: "Keywords for the scientific area a package is relevant to"
-  keywords: ["Solar", "Magnetospheric", "IonosphereThermosphereMesosphere", "Heliospheric", "Planetary", "Plasma_physics"]
+  keywords: ["solar", "magnetosphere", "ionosphere_thermosphere_mesosphere", "heliosphere", "planetary", "plasma_physics"]
 
 - category: "Functionality"
   description: "Keywords for the functionality available in a package"
-  keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_imaging", "plotting", "3d_graphics", 
+  keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_imaging", "plotting", "3D_graphics", 
              "data_container", "power_spectra", "spectra", "calibration", "multidimensional", "interactive"]
              
 - category: "Span"
@@ -13,7 +13,7 @@
 
 - category: "Input/Output Formats"
   description: "Keywords for the functionality for reading and writing different data formats"
-  keywords: ["fits", "CDF", "netCDF", "ASCII", "IDL_save", "geny", "HDF5", "OMNI", "csv"]
+  keywords: ["fits", "cdf", "net_cdf", "ascii", "idl_save", "geny", "hdf5", "omni", "csv"]
 
 - category: "Input Sources"
   description: "Keywords for the functionality of projects to access webservice data/local data"
