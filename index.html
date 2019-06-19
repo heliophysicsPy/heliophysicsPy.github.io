@@ -4,22 +4,18 @@ title: Home
 permalink: /
 ---
 <div class="jumbotron">
-    <div class="containger">
+    <div class="container">
         <h1 class="display-2">Python in Heliophysics Community (PyHC)</h1>
         <p class="lead">{{ site.description }}</p>
+        <p>A community knowledge base for performing heliophysics
+        research in Python, aiming to provide a variety of tutorials, resources,
+        a list of useful packages, general discussion, and advice.</p>
     </div>
-</div>
-<div class="container">
-<h2>About</h2>
-    The purpose of this web site is to act as a community knowledge base for
-    performing heliophysics research in Python. It aims to provide a variety
-    tutorials, resources, a list of useful packages, general discussion,
-    advice and also features news items, event information and announcements.
 </div>
 <div class="container">
 <h2>News</h2>
 <hr>
-{% for post in site.posts %}
+{% for post in site.posts  limit:5 %}
 <h3><a href="{{ post.url | prepend: site.baseurl }}" class="nounderline">{{ post.title }}</a></h3>
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <time>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • <a href="http://github.com/{{ post.author }}" target="_blank"><img src="https://github.com/{{ post.author }}.png?size=15"/></a> @{{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</time>
 {{ post.content | markdownify }}

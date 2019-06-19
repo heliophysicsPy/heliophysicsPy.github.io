@@ -1,6 +1,6 @@
 # Site Settings
 title: Python in Heliophysics Community (PyHC)
-description: "A website to promote and facilitate the use and development of Python for Heliophysics."
+description: "Promoting and facilitating the use and development of Python for Heliophysics."
 # Build Settings
 sass:
   sass_dir: _sass
