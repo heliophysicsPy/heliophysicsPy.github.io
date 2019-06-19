@@ -351,5 +351,11 @@
   docs: "https://docs.sunpy.org/projects/ndcube/en/stable/"
   code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
+  
+- name: PyTplot
+  code: https://github.com/MAVENSDC/pytplot
+  description: Based on IDL tplot, plots and manipulates time series data
+  logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
+  contact: "Bryan Harter"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
   
