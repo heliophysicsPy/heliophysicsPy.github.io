@@ -13,11 +13,12 @@ Telecons are held every other week on Fridays at 10:00 AM Mountain time. Present
 Meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ### Community Meetings
+2019 Fall Python in Heliophysics Community Meeting, November 4-6, 2019 (at LASP).
 
-2019 Python in Heliophysics Community Meeting, May 21-23, 2019. 
+2019 Spring Python in Heliophysics Community Meeting, May 21-23, 2019 (at LASP). 
 * [Meeting materials](https://drive.google.com/drive/u/0/folders/171Ba3Mq3MIaEXoc9X91gZhaXHVjoJde2)
 
-2018 Python in Heliophysics Working Group Meeting, November 13-15, 2018. 
+2018 Python in Heliophysics Working Group Meeting, November 13-15, 2018 (at LASP). 
 * [Meeting Report](https://docs.google.com/document/d/1ejP0kaibf6DRxjYJNmPrF1t3Nl21r0pC1FuDhu0hPnM/edit?usp=sharing)
 * [Presentations and Documents](https://drive.google.com/open?id=1snib9D8PcSaPByMqrAx8_4b05RfsTh58)
 * [Python in Heliophysics Community (PyHC) Standards](https://github.com/heliophysicsPy/standards/blob/master/standards.md)
