@@ -5,9 +5,9 @@ permalink: /contact/
 order: 6
 ---
 ## Mailing List
-There is a Google Groups mailing list for discussions. To be added to the mailing list for this project, please do the following:<br />
-1) Ask to join the group at [this link](https://groups.google.com/group/pyhc-list/subscribe).* <br />
-2) You should receive a follow up email from doing Step 1.\** In that email, click 'Join This Group' to confirm your subscription. It should then send you back to the Google Groups page, with a message saying your email has been added to the groups.<br />
+There is a Google Groups mailing list for discussions open to anyone. To be added to the mailing list for this project, please do the following:<br />
+1) Use the following link to add yourself to the mailing list [this link](https://groups.google.com/group/pyhc-list/subscribe).* <br />
+2) You should receive a follow up email to confirm your email.\** In that email, click 'Join This Group' to confirm your subscription. It should then send you back to the Google Groups page, with a message saying your email has been added to the groups.<br />
 
 Once you've joined, you should be able to send emails to the group via [pyhc-list@googlegroups.com](mailto: pyhc-list@googlegroups.com)<br />
 If the above steps do not work for you, please contact Julie Barnum at LASP, [Julie.Barnum@lasp.colorado.edu](mailto:Julie.Barnum@lasp.colorado.edu)
