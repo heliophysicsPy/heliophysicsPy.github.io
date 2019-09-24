@@ -1,0 +1,66 @@
+<div class="container-fluid">
+  <ul class="nav nav-tabs">
+    <li class="nav-item">
+        <a href="#table" class="nav-link active" data-toggle="tab">Table</a>
+    </li>
+      <li class="nav-item">
+          <a href="#cards" class="nav-link" data-toggle="tab">Cards</a>
+      </li>
+  </ul>
+
+  <div class="tab-content">
+
+    <div class="tab-pane fade show active" id="table">
+        <table class="table table-striped">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">Name</th>
+              <th scope="col">Description</th>
+              <th scope="col">Code</th>
+              <th scope="col">Docs</th>
+              <th scope="col">Site</th>
+              <th scope="col">Contact</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            {% for project in {{include.sorted_projects}} %}
+            <tr>
+              <th>{{ project.name }}</th>
+              <td>{{ project.description }}</td>
+              <td><a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a></td>
+              <td>{% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}</td>
+              <td>{% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}</td>
+              <td>{{ project.contact }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+          </table>
+      </div>
+
+      <div class="tab-pane fade" id="cards">
+        <div class="card-columns">
+        {% for project in {{include.sorted_projects}} %}
+            <div class="card">
+                {% if project.logo == blank%}
+                <img class="card-img-top img-fluid rounded-circle mx-auto" src="{{ site.baseurl }}/img/heliopython-default-logo.png"/>
+                {% else %}
+                <img class="card-img-top img-fluid rounded mx-auto" src="{{ project.logo }}"/>
+                {% endif %}
+                <div class="card-body">
+                    <h4 class="card-title">{{ project.name }}</h4>
+                    <p class="card-text">{{ project.description }}<br>
+                    <b>{{ project.contact }}</b>
+                    </p>
+                </div>
+                <div class="card-footer text-right">
+                    <a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a>
+                    {% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}
+                    {% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}
+                </div>
+            </div>
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>

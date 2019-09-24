@@ -1,15 +1,6 @@
-- name: "SunPy"
-  url: "http://www.sunpy.org"
-  description: "Python for Solar Physics"
-  logo: "https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/sunpy_icon.png"
-  docs: "http://docs.sunpy.org"
-  code: "https://github.com/sunpy/sunpy"
-  contact: "Stuart Mumford"
-  keywords: ["solar","general"]
-
 - name: ACEmag
   code: https://github.com/scivision/ACE_magnetometer
-  description: Load and Plot ACE satelite magnetometer data 
+  description: Load and Plot ACE satelite magnetometer data
   contact: Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
 
@@ -24,14 +15,6 @@
   description: Auroral Electrojet AE-index read and plot.
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
-
-- name: "ChiantiPy"
-  description: "Radiative properties of astrophysical plasmas"
-  logo: "https://raw.githubusercontent.com/chianti-atomic/chianti-atomic.github.io/master/_static/chiantipy_logo.png"
-  docs: "https://chianti-atomic.github.io/"
-  code: "https://github.com/chianti-atomic/ChiantiPy"
-  contact: "Ken Dere"
-  keywords: ["solar","general"]
 
 - name: CDFlib
   code: https://github.com/MAVENSDC/cdflib
@@ -49,7 +32,7 @@
 
 - name: Digital Meridian Spectrometer
   code: https://github.com/scivision/digital-meridian-spectrometer
-  description: UAF Digital Meridian Spectrometer-- load and plot 
+  description: UAF Digital Meridian Spectrometer-- load and plot
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
@@ -61,14 +44,14 @@
 
 - name: GOESutils
   code: https://github.com/scivision/GOESutils
-  description:  Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time 
+  description:  Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time
   logo: https://raw.githubusercontent.com/scivision/GOESutils/master/tests/goes13-IR-2017-07-13-12.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","solar","magnetosphere","specific"]
 
 - name: GIMAmag
   code: https://github.com/scivision/gima-magnetometer
-  description: UAF Geophysical Institute magnetometer network data read and plot 
+  description: UAF Geophysical Institute magnetometer network data read and plot
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
@@ -103,10 +86,10 @@
 - name: IGRF-12
   code: https://github.com/scivision/igrf12
   description: International Geomagnetic Reference Field IGRF12 and IGRF11 -- in Python and Matlab
-  logo: https://www.ngdc.noaa.gov/IAGA/vmod/img/vmod_header.gif 
+  logo: https://www.ngdc.noaa.gov/IAGA/vmod/img/vmod_header.gif
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
-  
+
 - name: IRI-2016
   code: https://github.com/scivision/IRI2016
   description: International Reference Ionosphere 2016 from Python and Matlab
@@ -116,7 +99,7 @@
 
 - name: IRI-90
   code: https://github.com/scivision/iri90
-  description: IRI90-international reference ionosphere in Python 
+  description: IRI90-international reference ionosphere in Python
   logo: https://iri.gsfc.nasa.gov/images/tail-179.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
@@ -136,7 +119,7 @@
 
 - name: MGSutils
   code: https://github.com/scivision/mgs-utils
-  description: Mars Global Surveyor utilities (for radio occultation) 
+  description: Mars Global Surveyor utilities (for radio occultation)
   contact: Michael Hirsch
   keywords: ["planetary","specific"]
 
@@ -168,23 +151,23 @@
 - name: PyZenodo
   code: https://github.com/scivision/pyzenodo3
   description: Simple, clean pure Python 3 Zenodo API (upload, download data).
-  contact: Michael Hirsch 
+  contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","solar","specific"]
 
 - name: ReesAurora
   code: https://github.com/scivision/reesaurora
-  description: Rees/Sergienko module of excitation rates, relevant to auroral optical emissions 
+  description: Rees/Sergienko module of excitation rates, relevant to auroral optical emissions
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
 - name: sami2py
   code: https://github.com/jklenzing/sami2py
-  description: Run, read, and plot the SAMI2 ionospheric model. 
+  description: Run, read, and plot the SAMI2 ionospheric model.
   contact: Jeff Klenzing
 
 - name: Scanning Doppler Interferometer
   code: https://github.com/scivision/scanning-doppler-interferometer
-  description: Dowload & plot Scanning Doppler Interferometer data from PI Mark Conde's instruments. 
+  description: Dowload & plot Scanning Doppler Interferometer data from PI Mark Conde's instruments.
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
@@ -216,7 +199,7 @@
 
 - name: THEMISasi
   code: https://github.com/scivision/themisasi
-  description: Read & Plot THEMIS ASI 256x256 "high resolution" GBO ground-based imager data 
+  description: Read & Plot THEMIS ASI 256x256 "high resolution" GBO ground-based imager data
   logo: http://themis.ssl.berkeley.edu/gbo/thm_gbo_logo.png
   contact: Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
@@ -230,7 +213,7 @@
 
 - name: WMM2015
   code: https://github.com/scivision/wmm2015
-  description: World Magnetic Model 2015 from Python 
+  description: World Magnetic Model 2015 from Python
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
@@ -241,14 +224,6 @@
   code: "https://github.com/fmihpc/analysator"
   contact: "Riku Jarvin"
   keywords: ["magnetosphere","specific"]
-
-- name: "pysat"
-  description: "Management and analysis tool for satellite and radar data."
-  logo: "https://raw.githubusercontent.com/rstoneback/pysat/master/logo.png"
-  docs: "https://pysat.readthedocs.io"
-  code: "https://github.com/rstoneback/pysat"
-  contact: "Russell Stoneback"
-  keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","general"]
 
 - name: "pysatCDF"
   description: "Python reader for NASA CDF, includes CDF libraries."
@@ -288,14 +263,6 @@
   description: Download/Plot NEXRAD compositive reflectivity by date/time, for ionospheric perturbations
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","general"]
-
-- name: "HelioPy"
-  description: "A python library for heliospheric physics."
-  logo: "https://raw.githubusercontent.com/heliopython/heliopy/master/artwork/logo_circle.png"
-  docs: "http://docs.heliopy.org/en/stable/"
-  code: "https://github.com/heliopython/heliopy"
-  contact: "David Stansby"
-  keywords: ["solar","heliosphere","general"]
 
 - name: "python-magnetosphere"
   description: "Python wrapper for cxform, coordinate transformation package "
@@ -344,25 +311,15 @@
   contact: "Andrew M. Annex"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
 
-- name: "PlasmaPy"
-  url: "http://www.plasmapy.org/"
-  description: "A Python package for plasma physics"
-  logo: "https://github.com/PlasmaPy/PlasmaPy-logo/raw/master/exports/graphic-circular.png"
-  docs: "http://docs.plasmapy.org/"
-  code: "https://github.com/PlasmaPy/plasmapy"
-  contact: "Nick Murphy"
-  keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","plasma_physics","general"]
-
 - name: "NDCube"
   description: "A Python package for manipulating, inspecting and visualizing multi-dimensional contiguous and non-contiguous coordinate-aware data arrays"
   docs: "https://docs.sunpy.org/projects/ndcube/en/stable/"
   code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
-  
+
 - name: PyTplot
   code: https://github.com/MAVENSDC/pytplot
   description: Based on IDL tplot, plots and manipulates time series data
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: "Bryan Harter"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
-  

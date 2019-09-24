@@ -4,76 +4,17 @@ title: Projects
 permalink: /projects/
 order: 5
 ---
-<div class="container-fluid">
-  <ul class="nav nav-tabs">
-    <li class="nav-item">
-        <a href="#table" class="nav-link active" data-toggle="tab">Table</a>
-    </li>
-      <li class="nav-item">
-          <a href="#cards" class="nav-link" data-toggle="tab">Cards</a>
-      </li>
-  </ul>
+<h3> Core packages </h3>
+<p>
+  These packages each offer a wide range of functionality in their area,
+  and conform to the HeliophysicsPy community standards.
+</p>
+{% assign sorted_projects = site.data.projects_core | sort_natural:'name' %}
+{% include project_cards.html sorted_projects=sorted_projects %}
 
-  <div class="tab-content">
 
-    <div class="tab-pane fade show active" id="table">
-        {% assign sorted_projects = site.data.projects | sort_natural:'name' %}
-        <table class="table table-striped">
-          <thead class="thead-dark">
-            <tr>
-              <th scope="col">#</th>
-              <th scope="col">Name</th>
-              <th scope="col">Author</th>
-              <th scope="col">Description</th>
-              <th scope="col">Code</th>
-              <th scope="col">Docs</th>
-              <th scope="col">Site</th>
-            </tr>
-          </thead>
-
-          <tbody>
-            {% for project in sorted_projects %}
-            <tr>
-              <th scope="row">{{ forloop.index }}</th>
-              <td>{{ project.name }}</td>
-              <td>{{ project.contact }}</td>
-              <td>{{ project.description }}</td>
-              <td><a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a></td>
-              <td>{% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}</td>
-              <td>{% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}</td>
-            </tr>
-            {% endfor %}
-          </tbody>
-          </table>
-      </div>
-
-      <div class="tab-pane fade" id="cards">
-        <div class="card-columns">
-        {% assign sorted_projects = site.data.projects | sort_natural:'name' %}
-        {% for project in sorted_projects %}
-            <div class="card">
-                {% if project.logo == blank%}
-                <img class="card-img-top img-fluid rounded-circle mx-auto" src="{{ site.baseurl }}/img/heliopython-default-logo.png"/>
-                {% else %}
-                <img class="card-img-top img-fluid rounded mx-auto" src="{{ project.logo }}"/>
-                {% endif %}
-                <div class="card-body">
-                    <h4 class="card-title">{{ project.name }}</h4>
-                    <p class="card-text">{{ project.description }}<br>
-                    <b>{{ project.contact }}</b>
-                    </p>
-                </div>
-                <div class="card-footer text-right">
-                    <a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a>
-                    {% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}
-                    {% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}
-                </div>
-            </div>
-        {% endfor %}
-      </div>
-    </div>
-
-  </div>
-
+<h3> Other packages </h3>
+{% assign sorted_projects = site.data.projects | sort_natural:'name' %}
+{% include project_cards.html sorted_projects=sorted_projects %}
 
 </div>
