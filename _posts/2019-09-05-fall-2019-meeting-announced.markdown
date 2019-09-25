@@ -8,4 +8,4 @@ The Fall 2019 Meeting dates will be November 4th - 6th (MTW), where Monday and T
 
 [This link](http://lasp.colorado.edu/home/) provides visitors to LASP with information on transportation to and from DIA, as well as around Boulder itself, helpful maps of the area, lodging, restaurants, etc.
 
-Registration is required (so we can get a headcount for food) but free, and the website will be up soon (where you will register, among other things).
+Registration is required (so we can get a headcount for food), but free. The link to the meeting registration (as well as other pertinent information) can be found on the meeting's [main website](http://lasp.colorado.edu/home/pyhc-meeting/).
