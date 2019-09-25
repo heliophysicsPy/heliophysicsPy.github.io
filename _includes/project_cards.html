@@ -1,16 +1,16 @@
 <div class="container-fluid">
   <ul class="nav nav-tabs">
     <li class="nav-item">
-        <a href="#table" class="nav-link active" data-toggle="tab">Table</a>
+        <a href="#table{{id}}" class="nav-link active" data-toggle="tab">Table</a>
     </li>
       <li class="nav-item">
-          <a href="#cards" class="nav-link" data-toggle="tab">Cards</a>
+          <a href="#cards{{id}}" class="nav-link" data-toggle="tab">Cards</a>
       </li>
   </ul>
 
   <div class="tab-content">
 
-    <div class="tab-pane fade show active" id="table">
+    <div class="tab-pane fade show active" id="table{{id}}">
         <table class="table table-striped">
           <thead class="thead-dark">
             <tr>
@@ -38,7 +38,7 @@
           </table>
       </div>
 
-      <div class="tab-pane fade" id="cards">
+      <div class="tab-pane fade" id="cards{{id}}">
         <div class="card-columns">
         {% for project in {{include.sorted_projects}} %}
             <div class="card">
@@ -64,3 +64,4 @@
     </div>
 
   </div>
+</div>
