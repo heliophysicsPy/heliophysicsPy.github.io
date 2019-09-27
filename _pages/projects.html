@@ -10,11 +10,10 @@ order: 5
   and conform to the HeliophysicsPy community standards.
 </p>
 {% assign sorted_projects = site.data.projects_core | sort_natural:'name' %}
-{% include project_cards.html sorted_projects=sorted_projects %}
-
+{% assign id = 1 %}
+{% include project_cards.html sorted_projects=sorted_projects id=id %}
 
 <h3> Other packages </h3>
 {% assign sorted_projects = site.data.projects | sort_natural:'name' %}
-{% include project_cards.html sorted_projects=sorted_projects %}
-
-</div>
+{% assign id = 2 %}
+{% include project_cards.html sorted_projects=sorted_projects id=id %}
