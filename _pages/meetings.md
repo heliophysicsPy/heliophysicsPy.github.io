@@ -6,7 +6,7 @@ order: 2
 ---
 ### Telecons
 
-Telecons are held every other week on Fridays at 10:00 AM Mountain time. Presentations and notes are shared on [Google Drive](https://drive.google.com/drive/u/0/folders/1AhFUli3SGW9DHvIh81tFxPMgLtYSPXDm). 
+Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain time, but this can fluctuate depending on holidays/conferences/etc. See the Calendar below for the next telecon time. Presentations and notes are shared on [Google Drive](https://drive.google.com/drive/u/0/folders/1AhFUli3SGW9DHvIh81tFxPMgLtYSPXDm). 
 
 ### Calendar
 
@@ -14,6 +14,7 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 
 ### Community Meetings
 2019 Fall Python in Heliophysics Community Meeting, November 4-6, 2019 (at LASP).
+* [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1lSM0DwLuKli1Rv9eKYe0vBVB_V8_9wKB)
 
 2019 Spring Python in Heliophysics Community Meeting, May 21-23, 2019 (at LASP). 
 * [Meeting materials](https://drive.google.com/drive/u/0/folders/171Ba3Mq3MIaEXoc9X91gZhaXHVjoJde2)
