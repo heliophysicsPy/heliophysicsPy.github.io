@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "Applications Open for the Better Scientific Software Program Fellowship"  
-author: myoung.space.science  
+author: myoung-space-science  
 ---  
 
 The [Better Scientific Software](https://bssw.io/) (BSSw) organization is now accepting 
