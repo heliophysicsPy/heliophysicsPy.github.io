@@ -31,8 +31,7 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 
 #### AGU Sessions
 
-* Proposed [AGU 2019](https://events.jspargo.com/AGU19/Public/enter.aspx) session
-* [IN11B: Application Development in Python for Solar and Space Physics Posters](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/46412), Monday, 10 December 2018  08:00-12:20
+* [SH41C - Applications in Python for Solar and Space Physics I Posters](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/76185), Thursday, 12 December 2019  08:00-12:20
 
 
 
