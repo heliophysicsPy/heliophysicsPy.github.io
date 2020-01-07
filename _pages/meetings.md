@@ -17,6 +17,7 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 
 2019 Fall Python in Heliophysics Community Meeting, November 4-6, 2019 (at LASP).
 * [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1lSM0DwLuKli1Rv9eKYe0vBVB_V8_9wKB)
+* [Meeting Report](https://docs.google.com/document/d/187QNQuN_OWmM9jS9lZGjSQpUIIiCaCDtBHiw4DAqSmY/edit#heading=h.wk29adekc64s)
 
 2019 Spring Python in Heliophysics Community Meeting, May 21-23, 2019 (at LASP). 
 * [Meeting materials](https://drive.google.com/drive/u/0/folders/171Ba3Mq3MIaEXoc9X91gZhaXHVjoJde2)
