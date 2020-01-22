@@ -323,3 +323,11 @@
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: "Bryan Harter"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
+
+- name: "viresclient"
+  code: "https://github.com/ESA-VirES/VirES-Python-Client/"
+  docs: "https://viresclient.readthedocs.io/"
+  url: "https://vires.services/"
+  description: "Access to ESA Swarm mission products"
+  contact: "EOX IT Services / Ashley Smith"
+  keywords: ["magnetosphere", "ionosphere_thermosphere_mesosphere", "data_retrieval", "webservice", "data_access"]
