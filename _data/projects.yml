@@ -173,8 +173,8 @@
 
 - name: "SpacePy"
   description: "Space science library for Python. Includes file I/O, time and coordinate conversions, common analysis techniques."
-  logo: "https://pythonhosted.org/SpacePy/_static/spacepy_logo.jpg"
-  docs: "https://pythonhosted.org/SpacePy"
+  logo: "https://spacepy.github.io/_static/spacepy_logo.jpg"
+  docs: "https://spacepy.github.io/"
   code: "https://github.com/spacepy/spacepy"
   contact: "Steve Morley"
   keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","general"]
