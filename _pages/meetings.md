@@ -30,7 +30,7 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 ### Related Meetings
 
 * [CEDAR workshop](http://cedarweb.vsp.ucar.edu/wiki/index.php/2019_Workshop:Python_for_Space_Science)
-* SHINE 2019: proposed workshop
+* SHINE 2019 Tutorial: [Using SunPy and HelioPy to work with remote and in situ data](https://shinecon.org/shine2019/session2019.php#session22)
 
 #### AGU Sessions
 
