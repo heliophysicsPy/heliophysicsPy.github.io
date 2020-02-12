@@ -19,7 +19,7 @@ A more detailed description of a review's grading colors is shown below.
 
 <table>
 <tr>
-<td width=200><img src="https://img.shields.io/badge/Requires%20improvement-red.svg" alt="Requires improvement"></td>
+<td><img src="https://img.shields.io/badge/Requires%20improvement-red.svg" alt="Requires improvement"></td>
 <td>At present, we won't reject any projects that have a standard with this grade, however, projects are strongly encouraged to improve. Note that this is going to change in the latter part of 2020.</td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ See the [PyHC Community Standards, points 1, 3, 4, 6, 7, 10, and 14](https://git
 <td>Few, or none, of the software maturity standards are implemented.</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Partially%20met-orange.svg" alt="Heavy Development"></td>
+<td><img src="https://img.shields.io/badge/Partially%20met-orange.svg" alt="Partially Met"></td>
 <td>Most of the software maturity standards are implemented, but a couple still require inclusion.</td>
 </tr>
 <tr>
@@ -141,11 +141,11 @@ This deals with a project's compatability with Python 3. See the [PyHC Community
 
 <table>
 <tr>
-<td width=200><img src="https://img.shields.io/badge/Requires%imporovement-red.svg" alt="Requires improvement"></td>
+<td><img src="https://img.shields.io/badge/Requires%improvement-red.svg" alt="Requires improvement"></td>
 <td>Package is not compatible with Python 3, nor does it appear to be working towards that goal.</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange"></td>
+<td><img src="https://img.shields.io/badge/Partially%20met-orange.svg" alt="Partially met"></td>
 <td>Project is working towards being compatible with Python 3.</td>
 </tr>
 <tr>
@@ -160,11 +160,11 @@ Projects need to have permissive licenses for open source scientific software (s
 
 <table>
 <tr>
-<td width=200><img src="https://img.shields.io/badge/Requires%20improvement-red.svg" alt="Red"></td>
+<td width=200><img src="https://img.shields.io/badge/Requires%20improvement-red.svg" alt="Requires improvement"></td>
 <td>Project does not have a license.</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Partially%20met-orange.svg" alt="Orange"></td>
+<td><img src="https://img.shields.io/badge/Partially%20met-orange.svg" alt="Partially met"></td>
 <td>Project has a license, but it does not conform with open source scientific software.</td>
 </tr>
 <tr>
