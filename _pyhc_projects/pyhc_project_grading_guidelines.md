@@ -141,7 +141,7 @@ This deals with a project's compatability with Python 3. See the [PyHC Community
 
 <table>
 <tr>
-<td><img src="https://img.shields.io/badge/Requires%improvement-red.svg" alt="Requires improvement"></td>
+<td><img src="https://img.shields.io/badge/Requires%20improvement-red.svg" alt="Requires improvement"></td>
 <td>Package is not compatible with Python 3, nor does it appear to be working towards that goal.</td>
 </tr>
 <tr>
