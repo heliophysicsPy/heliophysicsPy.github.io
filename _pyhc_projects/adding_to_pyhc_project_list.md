@@ -1,4 +1,4 @@
-# Adding a Project to the PyHC Project List Instructions
+# Adding a Project to the PyHC Project List
 
 Described herein is the procedure for requesting to add a project to the PyHC Project List, and how the approval process works.
 
