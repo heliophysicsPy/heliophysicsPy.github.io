@@ -20,6 +20,12 @@
               <th scope="col">Docs</th>
               <th scope="col">Site</th>
               <th scope="col">Contact</th>
+              <th scope="col">Community</th>
+              <th scope="col">Documentation</th>
+              <th scope="col">Testing</th>
+              <th scope="col">Software Maturity</th>
+              <th scope="col">Python 3</th>
+              <th scope="col">License</th>
             </tr>
           </thead>
 
@@ -32,6 +38,12 @@
               <td>{% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}</td>
               <td>{% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}</td>
               <td>{{ project.contact }}</td>
+              <td>{% if project.community != blank %}<img src="{{ project.community[0] }}" alt="{{ project.community[project.community.length-1] }}">{% endif %}</td>
+              <td>{% if project.documentation != blank %}<img src="{{ project.documentation[0] }}" alt="{{ project.documentation[project.documentation.length-1] }}">{% endif %}</td>
+              <td>{% if project.testing != blank %}<img src="{{ project.testing[0] }}" alt="{{ project.testing[project.testing.length-1] }}">{% endif %}</td>
+              <td>{% if project.software_maturity != blank %}<img src="{{ project.software_maturity[0] }}" alt="{{ project.software_maturity[project.software_maturity.length-1] }}">{% endif %}</td>
+              <td>{% if project.python3 != blank %}<img src="{{ project.python3[0] }}" alt="{{ project.python3[project.python3.length-1] }}">{% endif %}</td>
+              <td>{% if project.license != blank %}<img src="{{ project.license[0] }}" alt="{{ project.license[project.license.length-1] }}">{% endif %}</td>
             </tr>
             {% endfor %}
           </tbody>
