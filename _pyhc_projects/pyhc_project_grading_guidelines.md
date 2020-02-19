@@ -1,7 +1,7 @@
 # PyHC Project Review Guidelines
 
 This document outlines the criteria upon which projects are reviewed for submission to the PyHC Project 
-list. Its intended audience is the project owner, or the main project developer who is submitting a project review. 
+list (i.e., submission to the [PyHC Project page](http://heliopython.org/projects/)). Its intended audience is the project owner, or the main project developer who is submitting a project review/adding a project to the PyHC Project list. 
 For now, PyHC intends to stick with this "self review" process. In the future, a PyHC developer may also review a 
 project if needed.
 
