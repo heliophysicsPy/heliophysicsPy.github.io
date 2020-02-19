@@ -4,7 +4,7 @@ Described herein is the procedure for requesting to add a project to the PyHC Pr
 
 ## Requesting to add a project
 
-Before your project can be added to the PyHC Project List (i.e., be added to the [PyHC Project page](http://heliopython.org/projects/), you need to do a self evaluation of the state of your
+Before your project can be added to the PyHC Project List (i.e., be added to the [PyHC Project page](http://heliopython.org/projects/)), you need to do a self evaluation of the state of your
 code base (based on the [PyHC project review guidelines](https://github.com/heliophysicsPy/heliophysicsPy.github.io/blob/master/_pyhc_projects/pyhc_project_grading_guidelines.md)). Once you've completed
 your self evaluation, know what grades your project should be assigned for each of the six standards, and you 
 are confident the results are ready to be input to the PyHC Project List, you'll need to fork the  
