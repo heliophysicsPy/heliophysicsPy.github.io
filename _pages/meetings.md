@@ -13,7 +13,7 @@ Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain 
 Meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ### Community Meetings
-2020 Spring Python in Heliophysics Community Meeting, April 27-27, 2020 (at the CfA in Cambridge, MA)
+2020 Spring Python in Heliophysics Community Meeting, April 27-27, 2020 (at the [Center for Astrophysics](https://www.cfa.harvard.edu/) in Cambridge, MA)
 * [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV)
 
 2019 Fall Python in Heliophysics Community Meeting, November 4-6, 2019 (at LASP).
@@ -31,11 +31,8 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 ### Related Meetings
 
 * [CEDAR workshop](http://cedarweb.vsp.ucar.edu/wiki/index.php/2019_Workshop:Python_for_Space_Science)
-* SHINE 2019: proposed workshop
+* SHINE 2019 Tutorial: [Using SunPy and HelioPy to work with remote and in situ data](https://shinecon.org/shine2019/session2019.php#session22)
 
 #### AGU Sessions
 
 * [SH41C - Applications in Python for Solar and Space Physics I Posters](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/76185), Thursday, 12 December 2019  08:00-12:20
-
-
-

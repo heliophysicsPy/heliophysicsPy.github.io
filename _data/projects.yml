@@ -173,8 +173,8 @@
 
 - name: "SpacePy"
   description: "Space science library for Python. Includes file I/O, time and coordinate conversions, common analysis techniques."
-  logo: "https://pythonhosted.org/SpacePy/_static/spacepy_logo.jpg"
-  docs: "https://pythonhosted.org/SpacePy"
+  logo: "https://spacepy.github.io/_static/spacepy_logo.jpg"
+  docs: "https://spacepy.github.io/"
   code: "https://github.com/spacepy/spacepy"
   contact: "Steve Morley"
   keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","general"]
@@ -323,3 +323,12 @@
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: "Bryan Harter"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
+
+- name: "viresclient"
+  code: "https://github.com/ESA-VirES/VirES-Python-Client/"
+  docs: "https://viresclient.readthedocs.io/"
+  url: "https://vires.services/"
+  logo: "https://raw.githubusercontent.com/ESA-VirES/Swarm-VRE/staging/docs/_static/vre_logo.png"
+  description: "Access to ESA Swarm mission products"
+  contact: "EOX IT Services / Ashley Smith"
+  keywords: ["magnetosphere", "ionosphere_thermosphere_mesosphere", "data_retrieval", "webservice", "remote", "data_access", "general"]
