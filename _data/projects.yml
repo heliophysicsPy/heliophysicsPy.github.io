@@ -4,6 +4,11 @@
   contact: Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
 
+- name: AFINO
+  code: https://github.com/aringlis/afino_release_version
+  description: A tool for finding oscillations in time series data
+  contact: Andrew Inglis
+  
 - name: AstrometryAzEl
   code: https://github.com/scivision/astrometry_azel
   description: plate scale / calibrate star imagery to use multiple auroral/airglow cameras together
