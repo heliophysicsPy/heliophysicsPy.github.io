@@ -2,7 +2,7 @@
 layout: page
 title: 2020 Spring Python in Heliophysics Community Meeting
 permalink: /meetings/april2020/
-order: 16
+exclude: true
 ---
 
 The spring 2020 collaboration meeting will be held at the [Center for Astrophysics | Harvard & Smithsonian](https://www.cfa.harvard.edu/) (CfA) in Cambridge, MA, USA.
