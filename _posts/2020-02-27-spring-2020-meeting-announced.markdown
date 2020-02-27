@@ -8,7 +8,7 @@ PyHC serves as a community knowledge base for performing heliophysics research i
 
 **PyHC will be hosting its first meeting of 2020 at the [Center for Astrophysics (CfA)](https://www.cfa.harvard.edu/) in Cambridge, MA, Monday, April 27th, 2020 - Wednesday, April 29th, 2020.** We’ll discuss PyHC Project updates, have unconferences (based on what the group is interested in), provide some Python tutorials, as well as discuss our governance structure.
 
-A meeting website is coming shortly, check back here for that URL in a day or two. **Registration, which is free, but required, can be found [here](https://forms.gle/HXdTtvYhjhbtZz8b7).** If you’d like to join our mailing list to learn more information about the meeting and other upcoming events, please see the [PyHC Contact page](http://heliopython.org/contact/) for instructions. We also have a [Riot chat group]( https://riot.im/app/#/room/#heliopython:openastronomy.org
+A meeting website is coming shortly, check back here for that URL in a day or two. **Registration, which is free, but required, can be found [here](https://forms.gle/fYxWXWccyTZxnVUH9).** If you’d like to join our mailing list to learn more information about the meeting and other upcoming events, please see the [PyHC Contact page](http://heliopython.org/contact/) for instructions. We also have a [Riot chat group]( https://riot.im/app/#/room/#heliopython:openastronomy.org
 ) where we discuss various PyHC issues/topics, as well as discussing other Python-related questions.
 
 **Registration Deadline: COB, Thursday, April 9th**
