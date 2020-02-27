@@ -37,4 +37,3 @@ Accessibility information will be posted shortly.
 ### Remote participation
 
 To participate remotely, please [**register**](https://forms.gle/fYxWXWccyTZxnVUH9) and select the remote participation option.
-Information on remote participation will be posted shortly before the meeting.
