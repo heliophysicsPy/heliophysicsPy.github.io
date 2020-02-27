@@ -13,7 +13,9 @@ Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain 
 Meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ### Community Meetings
-2020 Spring Python in Heliophysics Community Meeting, April 27-27, 2020 (at the [Center for Astrophysics](https://www.cfa.harvard.edu/) in Cambridge, MA)
+
+[2020 Spring Python in Heliophysics Community Meeting]({% link _pages/meetings/april2020.md %}), 
+April 27-29, 2020 (at the [Center for Astrophysics](https://www.cfa.harvard.edu/) in Cambridge, MA)
 * [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV)
 
 2019 Fall Python in Heliophysics Community Meeting, November 4-6, 2019 (at LASP).
