@@ -16,6 +16,7 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 
 [2020 Spring Python in Heliophysics Community Meeting]({% link _pages/meetings/april2020.md %}), 
 April 27-29, 2020 (at the [Center for Astrophysics](https://www.cfa.harvard.edu/) in Cambridge, MA)
+* [Registration](https://forms.gle/fYxWXWccyTZxnVUH9)
 * [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV)
 
 2019 Fall Python in Heliophysics Community Meeting, November 4-6, 2019 (at LASP).
