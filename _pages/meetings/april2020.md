@@ -5,7 +5,7 @@ permalink: /meetings/april2020/
 exclude: true
 ---
 
-The spring 2020 collaboration meeting will be held at the [Center for Astrophysics | Harvard & Smithsonian](https://www.cfa.harvard.edu/) (CfA) in Cambridge, MA, USA. The meeting will begin at 9 am on Monday, April 27 and end by noon on Wednesday, April 29.  A hackathon will be held on Wednesday afternoon following the meeting.
+The spring 2020 collaboration meeting will be held at the [Center for Astrophysics \| Harvard & Smithsonian](https://www.cfa.harvard.edu/) (CfA) in Cambridge, MA, USA. The meeting will begin at 9 am on Monday, April 27 and end by noon on Wednesday, April 29.  A hackathon will be held on Wednesday afternoon following the meeting.
 
 ### Registration
 
