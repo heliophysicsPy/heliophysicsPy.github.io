@@ -11,7 +11,7 @@ The spring 2020 collaboration meeting will be held at the [Center for Astrophysi
 
 Please [**register**](https://forms.gle/fYxWXWccyTZxnVUH9) by April 9, 2020 if you plan to participate in-person or remotely.  No registration fee is required.
 
-If you decide to change your registration (i.e., from in-person to remote), then please register again with the new information.
+If you decide to change your registration (i.e., from in-person to remote), then please email [Julie Barnum](mailto:Julie.Barnum@lasp.colorado.edu) or [Nick Murphy](mailto:namurphy@cfa.harvard.edu).
 
 ### Meeting Logistics
 
