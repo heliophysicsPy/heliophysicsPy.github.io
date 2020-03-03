@@ -19,6 +19,10 @@ The meeting will be held in the [Pratt conference room](https://www.google.com/m
 
 More information will be posted shortly about directions, lodging, parking, accessibility, and remote participation.
 
+### Presentations and Documents
+
+Presentations and documents associated will be kept in the [meeting folder](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV) on Google Drive.
+
 ### Hackathon
 
 The hackathon will be held after lunch in the collaboration space on the lower level of [Wolbach Library](https://library.cfa.harvard.edu/) at the CfA.
