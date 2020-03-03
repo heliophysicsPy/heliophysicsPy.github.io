@@ -10,4 +10,5 @@ PyHC serves as a community knowledge base for performing heliophysics research i
 The meeting's website can be found [here](http://heliopython.org/meetings/april2020/). **Registration, which is free, but required, can be found [here](https://forms.gle/fYxWXWccyTZxnVUH9).** The meeting's website also has a link to registration. If you’d like to join our mailing list to learn more information about the meeting and other upcoming events, please see the [PyHC Contact page](http://heliopython.org/contact/) for instructions. We also have a [Riot chat group]( https://riot.im/app/#/room/#heliopython:openastronomy.org
 ) where we discuss various PyHC issues/topics, as well as discussing other Python-related questions.
 
-**Registration Deadline: COB, Thursday, April 9th**
+**Registration Deadline: COB, Thursday, April 9th**  
+Note: If you already registered and later decide to change your registration (i.e., from in-person to remote), then please email [Julie Barnum](mailto:Julie.Barnum@lasp.colorado.edu) or [Nick Murphy](mailto:namurphy@cfa.harvard.edu).
