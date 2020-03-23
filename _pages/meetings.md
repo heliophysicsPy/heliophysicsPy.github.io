@@ -15,7 +15,7 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 ### Community Meetings
 
 The [2020 Spring Python in Heliophysics Community Meeting]({% link
-_pages/meetings/april2020.md %}) **will be held remotely** on Zoom (see details on the meeting's website) on Wednesday, April 29th, 2020.
+_pages/meetings/april2020.md %}) **will be held remotely** on Zoom (see details on the meeting's website) on Wednesday, April 29th, 2020 from 9 AM - 12 PM MT.
 * [Registration](https://forms.gle/fYxWXWccyTZxnVUH9)
 * [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV)
 
