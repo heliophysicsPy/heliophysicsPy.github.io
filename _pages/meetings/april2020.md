@@ -5,7 +5,7 @@ permalink: /meetings/april2020/
 exclude: true
 ---
 
-The spring 2020 collaboration meeting of the Python in Heliophysics Community **will be held remotely** on Wednesday, April 29th, 2020. 
+The spring 2020 collaboration meeting of the Python in Heliophysics Community **will be held remotely** on Wednesday, April 29th, 2020 from 9 AM - 12 PM MT. 
 
 ### Registration
 
