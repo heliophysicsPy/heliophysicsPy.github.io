@@ -47,5 +47,8 @@ Join by H.323
 64.211.144.160 (Brazil)
 69.174.57.160 (Canada)
 207.226.132.110 (Japan)
-Meeting ID: 395 871 054​
+Meeting ID: 395 871 054  
 
+### Presentations and Documents
+
+Presentations and documents associated will be kept in the [meeting folder](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV) on Google Drive.
