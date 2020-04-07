@@ -8,12 +8,20 @@
   keywords: ["solar","general"]
 
 - name: "HelioPy"
+  website: https://heliopy.org
   description: "A python library for heliospheric physics."
   logo: "https://raw.githubusercontent.com/heliopython/heliopy/master/artwork/logo_circle.png"
   docs: "http://docs.heliopy.org/en/stable/"
   code: "https://github.com/heliopython/heliopy"
   contact: "David Stansby"
   keywords: ["solar","heliosphere","general"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 
 - name: "pysat"
   description: "Management and analysis tool for satellite and radar data."
