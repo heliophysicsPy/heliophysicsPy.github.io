@@ -5,17 +5,47 @@ permalink: /meetings/april2020/
 exclude: true
 ---
 
-The spring 2020 collaboration meeting of the Python in Heliophysics Community **will be held remotely** on Wednesday, April 29th, 2020 from 9 AM - 12 PM MT. 
+The spring 2020 meeting of the [Python in Heliophysics Community](http://heliopython.org) will be held remotely [**at this Zoom link**](https://cuboulder.zoom.us/j/395871054) (Meeting ID: **395 871 054**) on Wednesday, April 29th, 2020 from 15:00 to 18:00 UTC, which is:
 
-### Registration
+ - 11 AM - 2 PM EDT
+ - 10 AM - 1 PM CDT
+ - 9 AM - 12 PM MDT
+ - 8 AM - 11 AM PDT
 
-Please [**register**](https://forms.gle/fYxWXWccyTZxnVUH9) by close of business on April 28, 2020 if you plan to participate remotely so that you may receive email announcements and updates.  No registration fee is required.
+The meeting will be followed by an optional informal lunch from 12 PM to 1 PM MDT and a Python tutorial from 1 PM to 4 PM MDT.
 
-### Meeting Logistics
+### Presentations and Documents
 
-Because of the ongoing spread of COVID-19, the in-person meeting has been cancelled.  The meeting will be held using Zoom. 
+Presentations and documents associated will be kept in the [**meeting folder**](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV) on Google Drive.
 
-#### PyHC Zoom Meeting Information  
+ - [Meeting schedule](https://docs.google.com/spreadsheets/d/1fyTCmJfMqvym0u1t_y6HZTHWXkiTtnqPwGSo6e_xFtc/edit?usp=sharing) (subject to change)
+ - [General conference notes](https://docs.google.com/document/d/1XVEM2vrlMf1yQPPy5W05WoGh_VDVSU-o-UVZvE-AVFM/edit?usp=sharing)
+ - [Suggestions for fall meeting](https://docs.google.com/document/d/1HSxxnsc-a8vxd8Xc17t2o2jeKba9sLkZcq5sbIaFLkc/edit?usp=sharing)
+
+### Afternoon tutorial: Python for Scientific Software Developers
+
+A tutorial on **Python for Scientific Software Developers** will be held after the PyHC meeting ends on Wednesday, April 29, 2020.  The presentation will be held at: 
+
+ - 3 - 5 PM EDT
+ - 2 - 4 PM CDT
+ - 1 - 3 PM MDT
+ - 12 - 2 PM PDT
+ - 19 - 21 UTC
+
+The tentative agenda of this webinar:
+
+ - Goal of the this webinar
+ - The Big Picture
+ - User-centered approach
+ - Note on programming paradigms
+ - Focus
+ - Releases and packaging
+ - Virtual environments
+ - Configuration
+ - Testing
+ - Communicating
+
+### Zoom Meeting Information  
 
 Join Zoom Meeting
 **https://cuboulder.zoom.us/j/395871054**
@@ -51,6 +81,6 @@ Join by H.323
  
 Meeting ID: **395 871 054**  
 
-### Presentations and Documents
+### Registration
 
-Presentations and documents associated will be kept in the [meeting folder](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV) on Google Drive.
+Please [**register**](https://forms.gle/fYxWXWccyTZxnVUH9) by close of business on April 28, 2020 if you plan to participate remotely so that you may receive email announcements and updates.  No registration fee is required.  You may still participate without registering.
