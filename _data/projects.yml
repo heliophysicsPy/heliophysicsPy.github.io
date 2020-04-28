@@ -41,6 +41,19 @@
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
+- name: enlilviz
+  description: A Python toolkit for Enlil solar wind visualizations.
+  docs: https://enlilviz.readthedocs.io/en/stable/
+  code: https://github.com/SWxTREC/enlilviz
+  contact: Greg Lucas
+  keywords: ["heliosphere","plotting","specific"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: GEOrinex
   code: https://github.com/scivision/georinex
   description: Python RINEX 2/3 NAV/OBS reader with speed and simplicity, handling most RINEX formats.
