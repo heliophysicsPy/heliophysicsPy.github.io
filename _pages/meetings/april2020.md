@@ -12,7 +12,7 @@ The spring 2020 meeting of the [Python in Heliophysics Community](http://heliopy
  - 9 AM - 12 PM MDT
  - 8 AM - 11 AM PDT
 
-The meeting will be followed by an optional informal lunch from 12 PM to 1 PM MDT and a Python tutorial from 1 PM to 4 PM MDT.
+The meeting will be followed by an optional informal lunch from 12 PM to 1 PM MDT and a Python tutorial from 1 PM to 3 PM MDT.
 
 ### Presentations and Documents
 
