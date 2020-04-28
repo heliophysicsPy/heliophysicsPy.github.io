@@ -180,6 +180,7 @@
 
 - name: sami2py
   code: https://github.com/sami2py/sami2py
+  docs: https://sami2py.readthedocs.io
   description: Run, read, and plot the SAMI2 ionospheric model.
   contact: Jeff Klenzing
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
