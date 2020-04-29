@@ -356,3 +356,17 @@
   description: "Access to ESA Swarm mission products"
   contact: "EOX IT Services / Ashley Smith"
   keywords: ["magnetosphere", "ionosphere_thermosphere_mesosphere", "data_retrieval", "webservice", "remote", "data_access", "general"]
+
+- name: "aiapy"
+  code: "https://gitlab.com/LMSAL_HUB/aia_hub/aiapy"
+  docs: "https://aiapy.readthedocs.io"
+  logo: "https://assets.gitlab-static.net/uploads/-/system/project/avatar/10985339/AIA_logo_small.jpg?width=64"
+  description: "A Python package for analyzing data from SDO/AIA"
+  contact: "Will Barnes, Mark Cheung"
+  keywords: ["solar", "specific"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
