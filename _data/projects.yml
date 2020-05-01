@@ -300,6 +300,12 @@
   code: "https://github.com/wtbarnes/fiasco"
   contact: "Will Barnes"
   keywords: ["solar","ionosphere_thermosphere_mesosphere","general"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "OCBpy"
   description: "A Python module that converts between AACGM coordinates and an adjustable magnetic coordinate system based on the location of the polar cap"
