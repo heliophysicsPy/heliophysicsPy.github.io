@@ -179,9 +179,17 @@
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
 - name: sami2py
-  code: https://github.com/jklenzing/sami2py
+  code: https://github.com/sami2py/sami2py
+  docs: https://sami2py.readthedocs.io
   description: Run, read, and plot the SAMI2 ionospheric model.
   contact: Jeff Klenzing
+  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: Scanning Doppler Interferometer
   code: https://github.com/scivision/scanning-doppler-interferometer
