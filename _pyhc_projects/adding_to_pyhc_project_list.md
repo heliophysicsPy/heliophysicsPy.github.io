@@ -36,7 +36,7 @@ be rendered on a device. If you gave a "Requires Improvement" grade for a standa
 > ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""].
 
 Accordingly, if you gave a "Partially met" or a "Good" grade for a standard, you'd enter in
-> ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+> ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
 
 or
   
