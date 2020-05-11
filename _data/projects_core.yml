@@ -21,7 +21,7 @@
   code: "https://github.com/heliopython/heliopy"
   contact: "David Stansby"
   keywords: ["solar","heliosphere","general"]
-  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
