@@ -357,9 +357,17 @@
 
 - name: "NDCube"
   description: "A Python package for manipulating, inspecting and visualizing multi-dimensional contiguous and non-contiguous coordinate-aware data arrays"
+  logo: "https://github.com/sunpy/ndcube/blob/master/docs/logo/ndcube.png"
   docs: "https://docs.sunpy.org/projects/ndcube/en/stable/"
   code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
+  keywords: ["heliophysics", "solar", "astrophysics", "n-dimensional", "data", "container objects", "visualization", "data manipulation"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: PyTplot
   code: https://github.com/MAVENSDC/pytplot
