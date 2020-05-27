@@ -33,9 +33,15 @@
   description: "Management and analysis tool for satellite and radar data."
   logo: "https://raw.githubusercontent.com/rstoneback/pysat/master/logo.png"
   docs: "https://pysat.readthedocs.io"
-  code: "https://github.com/rstoneback/pysat"
+  code: "https://github.com/pysat/pysat"
   contact: "Russell Stoneback"
   keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","general"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "PlasmaPy"
   url: "http://www.plasmapy.org/"
