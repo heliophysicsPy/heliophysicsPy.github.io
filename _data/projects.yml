@@ -405,10 +405,10 @@
   description: "A Python package to provide machine learning and statistical methods to heliophysics data"
   contact: "Romain Dupuis, Jorge Amaya, Giovanni Lapenta"
   keyword: ["machine learning", "heliophysics", "statistics", "data"]
-  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
-  software_maturity: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
