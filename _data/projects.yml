@@ -402,6 +402,12 @@
   description: "Access to ESA Swarm mission products"
   contact: "EOX IT Services / Ashley Smith"
   keywords: ["magnetosphere", "ionosphere_thermosphere_mesosphere", "data_retrieval", "webservice", "remote", "data_access", "general"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "aiapy"
   code: "https://gitlab.com/LMSAL_HUB/aia_hub/aiapy"
