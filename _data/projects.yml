@@ -249,14 +249,6 @@
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
-- name: "analysator"
-  url: "https://github.com/fmihpc"
-  description: "Vlasiator magnetosphere model."
-  docs: "https://github.com/fmihpc/analysator/tree/master/Documentation"
-  code: "https://github.com/fmihpc/analysator"
-  contact: "Riku Jarvin"
-  keywords: ["magnetosphere","specific"]
-
 - name: "pysatCDF"
   description: "Python reader for NASA CDF, includes CDF libraries."
   code: "https://github.com/rstoneback/pysatCDF"
