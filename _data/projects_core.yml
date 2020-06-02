@@ -44,10 +44,16 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "PlasmaPy"
-  url: "http://www.plasmapy.org/"
+  url: "https://www.plasmapy.org/"
   description: "A Python package for plasma physics"
   logo: "https://github.com/PlasmaPy/PlasmaPy-logo/raw/master/exports/graphic-circular.png"
-  docs: "http://docs.plasmapy.org/"
+  docs: "https://docs.plasmapy.org/"
   code: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","plasma_physics","general"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
