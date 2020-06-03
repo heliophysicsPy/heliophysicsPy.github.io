@@ -113,6 +113,11 @@
   description: Mars Global Surveyor utilities (for radio occultation) 
   contact: Michael Hirsch
 
+- name: "OMMBV"
+  description: "Othogonal Multipole Magnetic Basis Vectors - Express vectors relative to a multipole magnetic field using an orthogonal curvi-linear basis."
+  code_url: "https://github.com/rstoneback/OMMBV"
+  contact: "Russell Stoneback"
+
 - name: POLAN
   code_url: https://github.com/scivision/POLAN
   description: estimate true ionosphere height from ionosonde
