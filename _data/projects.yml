@@ -6,8 +6,15 @@
 
 - name: AFINO
   code: https://github.com/aringlis/afino_release_version
+  docs: https://afino-release-version.readthedocs.io/en/latest/
   description: A tool for finding oscillations in time series data
   contact: Andrew Inglis
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partally met"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partally met"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partally met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partally met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   
 - name: AstrometryAzEl
   code: https://github.com/scivision/astrometry_azel
