@@ -222,13 +222,7 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-
-- name: "PySPICE"
-  code: "https://github.com/rca/PySPICE"
-  description: "Spice wrapper."
-  code: "https://github.com/rca/PySPICE"
-  keywords: ["solar","general"]
-
+  
 - name: ScienceDates
   code: https://github.com/scivision/sciencedates
   description: Date / time conversions used in the sciences.
