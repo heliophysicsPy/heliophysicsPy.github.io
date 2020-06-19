@@ -229,12 +229,6 @@
   code: "https://github.com/rca/PySPICE"
   keywords: ["solar","general"]
 
-- name: "PySitools"
-  url: "http://medocias.github.io/pySitools2_1.0/"
-  description: "Client for SiTools2, including MEDOC SDO archive"
-  code: "https://github.com/MedocIAS/pySitools2_1.0"
-  keywords: ["solar","specific"]
-
 - name: ScienceDates
   code: https://github.com/scivision/sciencedates
   description: Date / time conversions used in the sciences.
