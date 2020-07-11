@@ -137,6 +137,12 @@
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
+- name: Kamodo
+  code: https://github.com/nasa/Kamodo
+  description: CCMC tool for access, interpolation, and visualization of space weather models and data
+  contact: Asher Pembroke
+  keywords: ["data_retrieval","plotting","spectra"]
+
 - name: LOWTRAN
   code: https://github.com/scivision/lowtran
   description: LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python and Matlab
