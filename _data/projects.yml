@@ -95,7 +95,7 @@
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
 - name: "HAPI Client"
-  url: "https://hapi-server.org/"
+  url: "https://github.com/hapi-server/client-python"
   description: "Access time series data access from many sources"
   logo: "https://avatars0.githubusercontent.com/u/22482204?s=200&v=4"
   docs: "https://github.com/hapi-server/client-python/blob/master/README.rst"
