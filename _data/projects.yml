@@ -94,12 +94,20 @@
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
-- name: HAPI
-  code: https://github.com/hapi-server/client-python
-  description: Python HAPI Client
-  logo: https://avatars0.githubusercontent.com/u/22482204?s=200&v=4
-  contact: Bob Weigel
+- name: "HAPI Client"
+  url: "https://hapi-server.org/"
+  description: "Access time series data access from many sources"
+  logo: "https://avatars0.githubusercontent.com/u/22482204?s=200&v=4"
+  docs: "https://github.com/hapi-server/client-python/blob/master/README.rst"
+  code: "https://github.com/hapi-server/client-python"
+  contact: "Bob Weigel"
   keywords: ["data_retrieval","line_plots","plotting","spectra"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: HWM-93
   code: https://github.com/scivision/hwm93
