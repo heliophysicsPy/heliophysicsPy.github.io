@@ -1,7 +1,7 @@
 # Live website
 This code base is for the website:
 
-[http://heliopython.org](https://heliopython.org)
+[http://heliopython.org](http://heliopython.org)
 
 The website is based on Jekyll, which automatically builds changes on GitHub.
 You don't have to run Jekyll yourself to make changes.
