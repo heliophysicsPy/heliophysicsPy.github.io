@@ -222,20 +222,6 @@
   description: Dowload & plot Scanning Doppler Interferometer data from PI Mark Conde's instruments.
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
-
-- name: "SpacePy"
-  description: "Space science library for Python. Includes file I/O, time and coordinate conversions, common analysis techniques."
-  logo: "https://spacepy.github.io/_static/spacepy_logo.jpg"
-  docs: "https://spacepy.github.io/"
-  code: "https://github.com/spacepy/spacepy"
-  contact: "Steve Morley"
-  keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","general"]
-  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
-  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   
 - name: ScienceDates
   code: https://github.com/scivision/sciencedates
