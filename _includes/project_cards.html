@@ -34,7 +34,7 @@
             <tr>
               <th>{{ project.name }}</th>
               <td>{{ project.description }}</td>
-              <td><a href="{{ project.code }}" class="card-link"><i class="fab fa-{% if project.code contains "gitlab" %}gitlab{% else %}github{% endif %} fa-2x"></i></a></td>
+              <td><a href="{{ project.code }}" class="card-link"><i class="fab fa-{% if project.code contains "gitlab.com" %}gitlab{% else %}github{% endif %} fa-2x"></i></a></td>
               <td>{% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}</td>
               <td>{% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}</td>
               <td>{{ project.contact }}</td>
