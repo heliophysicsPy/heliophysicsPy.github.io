@@ -38,7 +38,7 @@
 - name: DASCutils
   code: https://github.com/scivision/dascutils
   description: Digital All Sky Camera utilities, for camera at Poker Flat Research Range and elsewhere
-  logo: http://optics.gi.alaska.edu/optics/sites/default/files/logo.png
+  logo: https://i.ibb.co/JKLF4FB/logo.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
@@ -232,7 +232,7 @@
 - name: THEMISasi
   code: https://github.com/scivision/themisasi
   description: Read & Plot THEMIS ASI 256x256 "high resolution" GBO ground-based imager data
-  logo: http://themis.ssl.berkeley.edu/gbo/thm_gbo_logo.png
+  logo: https://i.ibb.co/Jyx1nNd/thm-gbo-logo.jpg
   contact: Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
 
