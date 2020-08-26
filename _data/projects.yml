@@ -278,7 +278,7 @@
 - name: "MadrigalWeb"
   url: "http://cedar.openmadrigal.org"
   description: "Access data from any Madrigal database."
-  code: "https://pypi.python.org/pypi/madrigalWeb"
+  code: "https://pypi.org/project/madrigalWeb"
   contact: "Bill Rideout"
   keywords: ["ionosphere_thermosphere_mesosphere","general"]
 

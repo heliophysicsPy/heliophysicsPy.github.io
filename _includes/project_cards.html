@@ -34,7 +34,17 @@
             <tr>
               <th>{{ project.name }}</th>
               <td>{{ project.description }}</td>
-              <td><a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a></td>
+              <td><a href="{{ project.code }}" 
+                {%- capture site_icon -%}
+                  {%- if project.code contains "gitlab.com" -%}
+                    gitlab
+                  {%- elsif project.code contains "pypi.org" -%}
+                    python
+                  {%- else -%}
+                    github
+                  {%- endif -%}
+                {%- endcapture -%}
+                class="card-link"><i class="fab fa-{{site_icon}} fa-2x"></i></a></td>
               <td>{% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}</td>
               <td>{% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}</td>
               <td>{{ project.contact }}</td>
@@ -66,7 +76,17 @@
                     </p>
                 </div>
                 <div class="card-footer text-right">
-                    <a href="{{ project.code }}" class="card-link"><i class="fab fa-github fa-2x"></i></a>
+                    <a href="{{ project.code }}" 
+                      {%- capture site_icon -%}
+                        {%- if project.code contains "gitlab.com" -%}
+                          gitlab
+                        {%- elsif project.code contains "pypi.org" -%}
+                          python
+                        {%- else -%}
+                          github
+                        {%- endif -%}
+                      {%- endcapture -%}
+                      class="card-link"><i class="fab fa-{{site_icon}} fa-2x"></i></a>
                     {% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}
                     {% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}
                 </div>
