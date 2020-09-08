@@ -315,7 +315,7 @@
 
 - name: "OCBpy"
   description: "A Python module that converts between AACGM coordinates and an adjustable magnetic coordinate system based on the location of the polar cap"
-  logo: "https://github.com/aburrell/ocbpy/blob/main/docs/figures/ocbpy_logo.gif"
+  logo: "https://raw.githubusercontent.com/aburrell/ocbpy/main/docs/figures/ocbpy_logo.gif"
   docs: "http://ocbpy.readthedocs.io/en/latest/"
   code: "https://github.com/aburrell/ocbpy"
   contact: "Angeline G. Burrell"
