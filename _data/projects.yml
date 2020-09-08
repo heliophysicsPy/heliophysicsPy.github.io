@@ -70,7 +70,7 @@
 - name: GOESutils
   code: https://github.com/scivision/GOESutils
   description:  Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time
-  logo: https://raw.githubusercontent.com/scivision/GOESutils/master/tests/goes13-IR-2017-07-13-12.jpg
+  logo: https://raw.githubusercontent.com/space-physics/GOESplot/master/goesplot/tests/goes13-IR-2017-07-13-12.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","solar","magnetosphere","specific"]
 
@@ -315,7 +315,7 @@
 
 - name: "OCBpy"
   description: "A Python module that converts between AACGM coordinates and an adjustable magnetic coordinate system based on the location of the polar cap"
-  logo: "https://github.com/aburrell/ocbpy/blob/main/docs/figures/ocbpy_logo.gif"
+  logo: "https://raw.githubusercontent.com/aburrell/ocbpy/main/docs/figures/ocbpy_logo.gif"
   docs: "http://ocbpy.readthedocs.io/en/latest/"
   code: "https://github.com/aburrell/ocbpy"
   contact: "Angeline G. Burrell"
@@ -368,7 +368,7 @@
 
 - name: "NDCube"
   description: "A Python package for manipulating, inspecting and visualizing multi-dimensional contiguous and non-contiguous coordinate-aware data arrays"
-  logo: "https://github.com/sunpy/ndcube/blob/master/docs/logo/ndcube.png"
+  logo: "https://raw.githubusercontent.com/sunpy/ndcube/master/docs/logo/ndcube.png"
   docs: "https://docs.sunpy.org/projects/ndcube/en/stable/"
   code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
