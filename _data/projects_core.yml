@@ -31,7 +31,7 @@
 
 - name: "pysat"
   description: "Management and analysis tool for satellite and radar data."
-  logo: "https://raw.githubusercontent.com/rstoneback/pysat/master/logo.png"
+  logo: "https://github.com/pysat/pysat/raw/main/logo.png"
   docs: "https://pysat.readthedocs.io"
   code: "https://github.com/pysat/pysat"
   contact: "Russell Stoneback"
