@@ -368,7 +368,7 @@
 
 - name: "NDCube"
   description: "A Python package for manipulating, inspecting and visualizing multi-dimensional contiguous and non-contiguous coordinate-aware data arrays"
-  logo: "https://github.com/sunpy/ndcube/blob/master/docs/logo/ndcube.png"
+  logo: "https://raw.githubusercontent.com/sunpy/ndcube/master/docs/logo/ndcube.png"
   docs: "https://docs.sunpy.org/projects/ndcube/en/stable/"
   code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
