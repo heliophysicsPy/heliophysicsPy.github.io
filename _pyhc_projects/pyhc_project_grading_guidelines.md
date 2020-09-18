@@ -156,7 +156,7 @@ This deals with a project's compatability with Python 3. See the [PyHC Community
 
 ### License
 
-Projects need to have permissive licenses for open source scientific software (see specific recommendations in the [PyHC standards, point 5]).
+Projects need to have permissive licenses for open source scientific software (see specific recommendations in the [PyHC standards, point 5](https://github.com/heliophysicsPy/standards/blob/master/standards.md).
 
 <table>
 <tr>
