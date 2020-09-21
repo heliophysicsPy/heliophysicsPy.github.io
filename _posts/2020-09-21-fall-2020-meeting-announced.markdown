@@ -11,4 +11,4 @@ The meeting's web page will be up shortly. **Registration, which is free, but re
 ) where we discuss various PyHC issues/topics, as well as discussing other Python-related questions.
 
 **Registration Deadline: COB, Friday, October 23rd, 2020.**  
-Note: If you already registered and later decide to change your registration, you should be able to do that directly, but if you experience any difficulties please email [Julie Barnum](mailto:Julie.Barnum@lasp.colorado.edu).
+Note: If you already registered and later decide to change your registration, you should be able to do that directly, but if you experience any difficulties please email [Julie Barnum](mailto:Julie.Barnum@lasp.colorado.edu) or [Shawn Polson](shpo9723@colorado.edu).
