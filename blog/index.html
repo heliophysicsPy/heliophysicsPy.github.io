@@ -21,7 +21,7 @@ title: Blog
     <span class="previous">Previous</span>
   {% endif %}
   <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    <b>&nbsp;&nbsp;Page {{ paginator.page }} of {{ paginator.total_pages }}&nbsp;&nbsp;</b>
   </span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
