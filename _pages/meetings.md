@@ -14,7 +14,7 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 
 ### Community Meetings
 
-The 2020 Fall Python in Heliophysics Community Meeting **will be held remotely** on Zoom (see details on the meeting's web page - coming soon), spanning over the course of four weeks. The meeting will begin on Monday, October 26th, 2020, and end Monday, November 16th, 2020.
+The 2020 Fall Python in Heliophysics Community Meeting **will be held remotely** on Zoom (see details on the meeting's web page - coming soon), spanning over the course of four weeks. The meeting will begin on Monday, October 26th, 2020 and end Monday, November 16th, 2020.
 * [Registration](https://forms.gle/ZYESjbYwiGooCkKJ7)
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/u/0/folders/1T3CGRwXAst8jd7I6xFiKxyCgluGGpg0A)
 
