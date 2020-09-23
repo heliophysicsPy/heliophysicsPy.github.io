@@ -66,6 +66,18 @@ h3.text-center {
   margin-top: 28px;
 }
 
+/* Blog pagination */
+.pagination {
+  display: flex;
+}
+.centered {
+  margin: auto;
+}
+span.previous,
+span.next {
+  color: grey;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   /* Remove the padding we set earlier */

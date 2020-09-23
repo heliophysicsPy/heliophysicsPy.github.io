@@ -12,12 +12,12 @@ title: Blog
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="pagination" style="display:flex;">
-  <div class="centered" style="margin:auto;">
+<div class="pagination">
+  <div class="centered">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
     {% else %}
-      <span class="previous" style="color:grey;">Previous</span>
+      <span class="previous">Previous</span>
     {% endif %}
     &nbsp;&nbsp;
     <span class="page_numbers">
@@ -38,7 +38,7 @@ title: Blog
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path }}" class="next">Next</a>
     {% else %}
-      <span class="next" style="color:grey;">Next</span>
+      <span class="next">Next</span>
     {% endif %}
   </div>
 </div>
