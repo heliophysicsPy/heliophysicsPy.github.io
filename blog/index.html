@@ -12,20 +12,33 @@ title: Blog
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    <b>&nbsp;&nbsp;Page {{ paginator.page }} of {{ paginator.total_pages }}&nbsp;&nbsp;</b>
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
+<div class="pagination" style="display:flex;">
+  <div class="centered" style="margin:auto;">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    {% else %}
+      <span class="previous" style="color:grey;">Previous</span>
+    {% endif %}
+    &nbsp;&nbsp;
+    <span class="page_numbers">
+      {% if paginator.page == 1 %}
+        <b>1</b>&nbsp;
+      {% else %}
+        <a href="/blog/">1</a>&nbsp;
+      {% endif %}
+      {% for i in (2..paginator.total_pages) %}
+        {% if paginator.page == i %}
+          <b>{{i}}</b>&nbsp;
+        {% else %}
+          <a href="/blog/page{{i}}/">{{i}}</a>&nbsp;
+        {% endif %}
+      {% endfor %}
+    </span>
+    &nbsp;
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+      <span class="next" style="color:grey;">Next</span>
+    {% endif %}
+  </div>
 </div>
