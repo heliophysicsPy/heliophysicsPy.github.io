@@ -1,0 +1,44 @@
+---
+layout: page
+title: Blog
+---
+<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+{% for post in paginator.posts %}
+  <h3><a href="{{ post.url | prepend: site.baseurl }}" class="nounderline">{{ post.title }}</a></h3>
+  <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <time>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • <a href="http://github.com/{{ post.author }}" target="_blank"><img src="https://github.com/{{ post.author }}.png?size=15"/></a> @{{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</time>
+  {{ post.content | markdownify }}
+  <hr>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  <div class="centered">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+    &nbsp;&nbsp;
+    <span class="page_numbers">
+      {% if paginator.page == 1 %}
+        <b>1</b>&nbsp;
+      {% else %}
+        <a href="/blog/">1</a>&nbsp;
+      {% endif %}
+      {% for i in (2..paginator.total_pages) %}
+        {% if paginator.page == i %}
+          <b>{{i}}</b>&nbsp;
+        {% else %}
+          <a href="/blog/page{{i}}/">{{i}}</a>&nbsp;
+        {% endif %}
+      {% endfor %}
+    </span>
+    &nbsp;
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+      <span class="next">Next</span>
+    {% endif %}
+  </div>
+</div>

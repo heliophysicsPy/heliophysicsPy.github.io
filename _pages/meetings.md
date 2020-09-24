@@ -2,7 +2,7 @@
 layout: page
 title: Meetings
 permalink: /meetings/
-order: 2
+order: 3
 ---
 ### Telecons
 
