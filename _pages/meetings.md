@@ -42,13 +42,7 @@ _pages/meetings/april2020.md %}) **will be held remotely** on Zoom (see details 
 
 #### AGU Sessions
 
-AGU 2020 Call for Abstracts is now open! PyHC will be convening the following session:
+* [SH010 - Python Application Development for Solar and Space Physics (Poster session)](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/102187), Tuesday, 8 December 2020  0:400 - 20:59 PST)
 
-**Session ID:** 102187  
-**Session Title:** Python Application Development for Solar and Space Physics  
-**Section:** SPA-Solar and Heliospheric Physics
-
-Abstracts for this session can be submitted [here](https://agu.confex.com/agu/fm20/prelim.cgi/Session/102187). **The deadline for abstract submissions is Wednesday, July 29th, at 23:59 EDT.**
-
-
-[//]: # (* [SH41C - Python Application Development for Solar and Space Physics](https://agu.confex.com/agu/fm20/prelim.cgi/Session/102187), Thursday, 12 December 2019  08:00-12:20)
+    * Early bird registration ends October 30th, 2020! Register [here](https://www.agu.org/Fall-Meeting/Pages/Register-Housing/Registration-Rates) soon if you haven't already!
+    * If you're submitting a poster to the PyHC poster session, those are due by Friday, November 20th, 2020, at 17:00 PST (poster should be a digital, interactive virtual poster through [aMuze! iPosterSessions](https://ipostersessions.com/cases/))
