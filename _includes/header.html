@@ -9,8 +9,11 @@
       <a class="navbar-brand" href="/">PyHC</a>
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a class="nav-link" href="http://heliopython.org/gallery/generated/gallery/index.html">Examples</a>
-          </li>
+          <a class="nav-link" href="https://heliopython.org/gallery/generated/gallery/index.html">Examples</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/blog/">Blog</a>
+        </li>
         {% assign pages = site.pages | sort:'order' %}
         {% for p in pages %}
           {% unless p.exclude %}
