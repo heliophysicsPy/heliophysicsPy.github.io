@@ -43,7 +43,7 @@ _pages/meetings/april2020.md %}) **will be held remotely** on Zoom (see details 
 
 #### AGU Sessions
 
-* [SH010 - Python Application Development for Solar and Space Physics (Poster session)](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/102187), Tuesday, 8 December 2020  0:400 - 20:59 PST)
+* [SH010 - Python Application Development for Solar and Space Physics (Poster session)](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/102187), Tuesday, December 8th, 2020, from 04:00 - 20:59 PST
 
     * Early bird registration ends October 30th, 2020! Register [here](https://www.agu.org/Fall-Meeting/Pages/Register-Housing/Registration-Rates) soon if you haven't already!
     * If you're submitting a poster to the PyHC poster session, those are due by Friday, November 20th, 2020, at 17:00 PST (poster should be a digital, interactive virtual poster through [aMuze! iPosterSessions](https://ipostersessions.com/cases/))
