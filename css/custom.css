@@ -122,8 +122,27 @@ table.dataTable thead .sorting_asc_disabled,
 table.dataTable thead .sorting_desc_disabled {
   cursor: pointer;
   *cursor: hand;
-  /* background-repeat: no-repeat;
-  background-position: center right; */
+  background-repeat: no-repeat;
+  background-position: 100% 75%;
+}
+
+table.dataTable th {
+  padding-right: 20px;
+}
+table.dataTable thead .sorting {
+  background-image: url("../img/assets/sort_both.png");
+}
+table.dataTable thead .sorting_asc {
+  background-image: url("../img/assets/sort_asc.png");
+}
+table.dataTable thead .sorting_desc {
+  background-image: url("../img/assets/sort_desc.png");
+}
+table.dataTable thead .sorting_asc_disabled {
+  background-image: url("../img/assets/sort_asc_disabled.png");
+}
+table.dataTable thead .sorting_desc_disabled {
+  background-image: url("../img/assets/sort_desc_disabled.png");
 }
 
 .hidden {
