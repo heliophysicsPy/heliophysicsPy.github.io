@@ -8,6 +8,6 @@ We have a new PyHC logo! Thank you to graphic designer Dayana Gonzalez for her e
 
 <p style="text-align:center">
     <a href="https://github.com/heliophysicsPy/Logo">
-        <img src="{{ site.baseurl }}/img/Titled PyHC logo 6250x6250.jpg" alt="PyHC Logo" width="500" height="500">
+        <img src="{{ site.baseurl }}/img/Titled PyHC logo 6250x6250.jpg" alt="PyHC Logo" width="350" height="350">
     </a>
 </p>
