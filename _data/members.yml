@@ -52,9 +52,6 @@
   name: "David Parunakian"
   affiliation: ""
 
-- handle: "kailia0209"
-  name: "Juhyeong Kang"
-
 - handle: scivision
   name: Michael Hirsch
 
@@ -97,3 +94,56 @@
 - handle: "jtniehof"
   name: "Jon Niehof"
   affiliation: "UNH"
+
+- handle: "smithara"
+  name: "Ashley Smith"
+  affiliation: ""
+  
+- handle: "aharonroberts"
+  name: "D. Aaron Roberts"
+  affiliation: ""
+  
+- handle: "darrendezeeuw"
+  name: "Darren De Zeeuw"
+  affiliation: ""
+  
+- handle: "BaptisteCecconi"
+  name: "Baptiste Cecconi"
+  affiliation: ""
+  
+- handle: "hayesla"
+  name: "Laura Hayes"
+  affiliation: ""
+  
+- handle: "cdkharris"
+  name: "Camilla D.K. Harris"
+  affiliation: ""
+  
+- handle: "neerajkulk"
+  name: "Neeraj Kulkarni"
+  affiliation: ""
+  
+- handle: "rweigel"
+  name: "Bob Weigel"
+  affiliation: ""
+  
+- handle: "bryan-harter"
+  name: "Bryan Harter"
+  affiliation: "LASP"
+  
+- handle: "abbyazari"
+  name: "Abby Azari"
+  affiliation: ""
+  
+- handle: "spacemanjosh"
+  name: "Josh Elliott"
+  affiliation: "LASP"
+  
+- handle: "jmason86"
+  name: "James Mason"
+  affiliation: ""
+  
+- handle: "balapoduval"
+  name: "Bala Poduval"
+  affiliation: ""
+  
