@@ -18,11 +18,13 @@ The [2020 Fall Python in Heliophysics Community Meeting]({% link
 _pages/meetings/fall2020.md %}) **will be held remotely** on Zoom (see details on the meeting's web page), spanning over the course of four weeks. The meeting will begin on Monday, October 26th, 2020 and end Monday, November 16th, 2020.
 * [Registration](https://forms.gle/ZYESjbYwiGooCkKJ7)
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/u/0/folders/1T3CGRwXAst8jd7I6xFiKxyCgluGGpg0A)
+* [Meeting Report](https://docs.google.com/document/d/1roGSs_DKtXP5uLyPEHZrtA6taHW9zcMp0L54JKpg1p0/edit#heading=h.mpebd2k6hb5s)
 
 The [2020 Spring Python in Heliophysics Community Meeting]({% link
 _pages/meetings/april2020.md %}) **will be held remotely** on Zoom (see details on the meeting's web page) on Wednesday, April 29th, 2020 from 9 AM - 12 PM MT.
 * [Registration](https://forms.gle/fYxWXWccyTZxnVUH9)
 * [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV)
+* [Meeting Report](https://docs.google.com/document/d/1FqR3u4nP4HtH6baIYyzehMeDDo6Qp5ivKtduPmHETFY/edit)
 
 2019 Fall Python in Heliophysics Community Meeting, November 4-6, 2019 (at LASP).
 * [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1lSM0DwLuKli1Rv9eKYe0vBVB_V8_9wKB)
@@ -45,5 +47,3 @@ _pages/meetings/april2020.md %}) **will be held remotely** on Zoom (see details 
 
 * [SH010 - Python Application Development for Solar and Space Physics (Poster session)](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/102187), Tuesday, December 8th, 2020, from 04:00 - 20:59 PST
 
-    * Early bird registration ends October 30th, 2020! Register [here](https://www.agu.org/Fall-Meeting/Pages/Register-Housing/Registration-Rates) soon if you haven't already!
-    * If you're submitting a poster to the PyHC poster session, those are due by Friday, November 20th, 2020, at 17:00 PST (poster should be a digital, interactive virtual poster through [aMuze! iPosterSessions](https://ipostersessions.com/cases/))
