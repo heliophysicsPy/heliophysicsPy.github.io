@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-order: 6
+order: 7
 ---
 ## Mailing List
 There is a Google Groups mailing list for discussions open to anyone. To be added to the mailing list for this project, please do the following:<br />
