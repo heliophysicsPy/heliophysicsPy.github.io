@@ -20,4 +20,4 @@ Thank you to Dayana Gonzalez for her excellent design work creating our PyHC log
         <img class="rounded-circle" src="{{ site.baseurl }}/img/project_logos/NASA.jpeg" alt="NASA's Goddard Space Flight Center logo" width="110px" height="110px"/> 
     </a>
 </div>
-Thank you to NASA's Goddard Space Flight Center for contributing funds to PyHC. 
+This work is supported by NASA under award 80NSSC20K1443, managed by the Goddard Space Flight Center.
