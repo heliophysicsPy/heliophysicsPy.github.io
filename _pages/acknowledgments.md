@@ -20,4 +20,4 @@ Thank you to Dayana Gonzalez for her excellent design work creating our PyHC log
         <img class="rounded-circle" src="{{ site.baseurl }}/img/project_logos/NASA.jpeg" alt="NASA's Goddard Space Flight Center logo" width="110px" height="110px"/> 
     </a>
 </div>
-This work is supported by NASA under award 80NSSC20K1443, managed by the Goddard Space Flight Center.
+This work is supported by NASA under award 80NSSC20K1443, managed by the Goddard Space Flight Center. It was initiated by D. Aaron Roberts at Goddard in early 2018 after we began talking about how to coordinate all the different Python projects related to heliophysics. He worked with others at Goddard to provide funding for Alexandria Ware at [LASP](https://lasp.colorado.edu/home/) to organize telecons and a kickoff meeting. The continuing support over the years has made it possible for us to host regular in-person and virtual meetings, coordinate [AGU](https://www.agu.org) sessions, and maintain this community website.
