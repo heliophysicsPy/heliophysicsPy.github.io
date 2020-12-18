@@ -145,6 +145,19 @@ table.dataTable thead .sorting_desc_disabled {
   background-image: url("../img/assets/sort_desc_disabled.png");
 }
 
+.dataTables_filter {
+  color: #333;
+  float: none;
+  margin-top: 1em;
+}
+.dataTables_filter input {
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  padding: 5px;
+  background-color: transparent;
+  margin-left: 3px
+}
+
 .hidden {
   display: none;
 }

@@ -2,7 +2,7 @@
   code: https://github.com/space-physics/ACE_magnetometer
   description: Load and Plot ACE satelite magnetometer data
   contact: Michael Hirsch
-  keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["magnetosphere","ionosphere thermosphere mesosphere","specific"]
 
 - name: AFINO
   code: https://github.com/aringlis/afino_release_version
@@ -20,33 +20,33 @@
   code: https://github.com/space-physics/astrometry_azel
   description: plate scale / calibrate star imagery to use multiple auroral/airglow cameras together
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: Auroral Electrojet
   code: https://github.com/space-physics/AEindex
   description: Auroral Electrojet AE-index read and plot.
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: CDFlib
   code: https://github.com/MAVENSDC/cdflib
   description: Read / Write NASA CDF with pure Python + Numpy, no compiling
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
-  keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["magnetosphere","ionosphere thermosphere mesosphere","specific"]
 
 - name: DASCutils
   code: https://github.com/space-physics/dascasi
   description: Digital All Sky Camera utilities, for camera at Poker Flat Research Range and elsewhere
   logo: https://i.ibb.co/JKLF4FB/logo.jpg
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: Digital Meridian Spectrometer
   code: https://github.com/space-physics/digital-meridian-spectrometer
   description: UAF Digital Meridian Spectrometer-- load and plot
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: enlilviz
   description: A Python toolkit for Enlil solar wind visualizations.
@@ -65,27 +65,27 @@
   code: https://github.com/geospace-code/georinex
   description: Python RINEX 2/3 NAV/OBS reader with speed and simplicity, handling most RINEX formats.
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: GOESutils
   code: https://github.com/space-physics/GOESplot
   description:  Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time
   logo: https://raw.githubusercontent.com/space-physics/GOESplot/master/goesplot/tests/goes13-IR-2017-07-13-12.jpg
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","solar","magnetosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","solar","magnetosphere","specific"]
 
 - name: GIMAmag
   code: https://github.com/space-physics/gima-magnetometer
   description: UAF Geophysical Institute magnetometer network data read and plot
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: GLOW
   code: https://github.com/space-physics/NCAR-GLOW
   description: NCAR GLOW 0.981 aurora/airglow model IR-VIS-UV from Python
   logo: https://www2.hao.ucar.edu/sites/default/files/resize/images/ICON-GOLD_2016/IonosphereHorizon-Banner-980x232.jpg
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: "HAPI Client"
   url: "https://github.com/hapi-server/client-python"
@@ -107,28 +107,28 @@
   description: NASA Horizontal Wind Model HWM93 in Python and Matlab
   logo: https://ccmc.gsfc.nasa.gov/images/CCMC-LOGO-2.gif
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: IGRF-13
   code: https://github.com/space-physics/igrf
   description: International Geomagnetic Reference Field IGRF -- in Python and Matlab
   logo: https://www.ngdc.noaa.gov/IAGA/vmod/img/vmod_header.gif
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: IRI-2016
   code: https://github.com/space-physics/iri2016
   description: International Reference Ionosphere 2016 from Python and Matlab
   logo: https://iri.gsfc.nasa.gov/images/red_band-179.jpg
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: IRI-90
   code: https://github.com/space-physics/iri90
   description: IRI90-international reference ionosphere in Python
   logo: https://iri.gsfc.nasa.gov/images/tail-179.jpg
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: Kamodo
   code: https://github.com/nasa/Kamodo
@@ -141,13 +141,13 @@
   description: LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python and Matlab
   logo: https://raw.githubusercontent.com/space-physics/lowtran/master/gfx/whyskyisblue.png
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: Maidenhead
   code: https://github.com/space-physics/maidenhead
   description: Python Maidenhead <--> WGS84 coordinate conversions, useful for crowdsourced observations
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: MGSutils
   code: https://github.com/space-physics/mgs-radio
@@ -164,51 +164,51 @@
   code: https://github.com/space-physics/POLAN
   description: estimate true ionosphere height from ionosonde
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: "pyglow"
   description: "Upper atmosphere models and geophysical indices."
   logo: "https://camo.githubusercontent.com/446f7d47177fd5b0f7aa141a31cef246769cf843/68747470733a2f2f7261772e6769746875622e636f6d2f74696d64756c79342f7079676c6f772f6d61737465722f6c6f676f2e706e67"
   code: "https://github.com/timduly4/pyglow"
   contact: "Timothy Duly"
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: "PyDARN"
   description: "A package for analyzing data from SuperDARN."
   code: "https://github.com/SuperDARN/pydarn"
   contact: "Marina Schmidt"
-  keywords: ["ionosphere_thermosphere_mesosphere","general"]
+  keywords: ["ionosphere thermosphere mesosphere","general"]
 
 - name: PyGemini
   description: Python frontend for Gemini3D ionospheric kintic + fluid dynamics models
   code: https://github.com/gemini3d/gemini3d
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: PyMap3D
   code: https://github.com/geospace-code/pymap3d
   description: Python 3D coordinate conversions for geospace ecef enu eci and more
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: PyZenodo
   code: https://github.com/space-physics/pyzenodo3
   description: Simple, clean pure Python 3 Zenodo API (upload, download data).
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","solar","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","magnetosphere","solar","specific"]
 
 - name: ReesAurora
   code: https://github.com/space-physics/reesaurora
   description: Rees/Sergienko module of excitation rates, relevant to auroral optical emissions
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: sami2py
   code: https://github.com/sami2py/sami2py
   docs: https://sami2py.readthedocs.io
   description: Run, read, and plot the SAMI2 ionospheric model.
   contact: Jeff Klenzing
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -220,20 +220,20 @@
   code: https://github.com/space-physics/scanning-doppler-interferometer
   description: Dowload & plot Scanning Doppler Interferometer data from PI Mark Conde's instruments.
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: ScienceDates
   code: https://github.com/geospace-code/sciencedates
   description: Date / time conversions used in the sciences.
   contact: Michael Hirsch
-  keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["solar","magnetosphere","ionosphere thermosphere mesosphere","specific"]
 
 - name: THEMISasi
   code: https://github.com/space-physics/themisasi
   description: Read & Plot THEMIS ASI 256x256 "high resolution" GBO ground-based imager data
   logo: https://i.ibb.co/Jyx1nNd/thm-gbo-logo.jpg
   contact: Michael Hirsch
-  keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["magnetosphere","ionosphere thermosphere mesosphere","specific"]
 
 - name: "TomograPy"
   url: "http://nbarbey.github.io/TomograPy/"
@@ -246,52 +246,52 @@
   code: https://github.com/space-physics/WMM2020
   description: World Magnetic Model 2020 from Python
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: WMM2015
   code: https://github.com/space-physics/WMM2015
   description: World Magnetic Model 2015 from Python
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: "pysatCDF"
   description: "Python reader for NASA CDF, includes CDF libraries."
   code: "https://github.com/rstoneback/pysatCDF"
   contact: "Russell Stoneback"
-  keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","magnetosphere","specific"]
 
 - name: "pysatMagVect"
   description: "Geomagnetic field line tracing, unit vectors, ion drift mapping, vector and coordinate transformations."
   code: "https://github.com/rstoneback/pysatMagVect"
   contact: "Russell Stoneback"
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: "geodata"
   description: "Geophysics analysis of radar and optical systems."
   logo: "https://github.com/jswoboda/GeoDataPython/raw/master/logo/logo1.png"
   code: "https://github.com/jswoboda/GeoDataPython"
   contact: "John Swoboda"
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: MSISE-00
   description:  NRL MSISE-00 atmospheric model-- in Python and Matlab
   docs: https://ccmc.gsfc.nasa.gov/modelweb/models/nrlmsise00.php
   code: https://github.com/space-physics/msise00
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
 
 - name: "MadrigalWeb"
   url: "http://cedar.openmadrigal.org"
   description: "Access data from any Madrigal database."
   code: "https://pypi.org/project/madrigalWeb"
   contact: "Bill Rideout"
-  keywords: ["ionosphere_thermosphere_mesosphere","general"]
+  keywords: ["ionosphere thermosphere mesosphere","general"]
 
 - name: NEXRADutils
   code: https://github.com/space-physics/NEXRADutils
   description: Download/Plot NEXRAD compositive reflectivity by date/time, for ionospheric perturbations
   contact: Michael Hirsch
-  keywords: ["ionosphere_thermosphere_mesosphere","general"]
+  keywords: ["ionosphere thermosphere mesosphere","general"]
 
 - name: "python-magnetosphere"
   description: "Python wrapper for cxform, coordinate transformation package "
@@ -310,7 +310,7 @@
   docs: "http://fiasco.readthedocs.io/en/latest/"
   code: "https://github.com/wtbarnes/fiasco"
   contact: "Will Barnes"
-  keywords: ["solar","ionosphere_thermosphere_mesosphere","general"]
+  keywords: ["solar","ionosphere thermosphere mesosphere","general"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -324,7 +324,7 @@
   docs: "http://ocbpy.readthedocs.io/en/latest/"
   code: "https://github.com/aburrell/ocbpy"
   contact: "Angeline G. Burrell"
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -337,7 +337,7 @@
   docs: "http://aacgmv2.readthedocs.io/en/latest/"
   code: "https://github.com/aburrell/aacgmv2"
   contact: "Angeline G. Burrell"
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -350,7 +350,7 @@
   docs: "http://apexpy.readthedocs.io/en/latest/"
   code: "https://github.com/aburrell/apexpy"
   contact: "Angeline G. Burrell"
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  keywords: ["ionosphere thermosphere mesosphere","specific"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
@@ -363,7 +363,7 @@
   docs: "https://spiceypy.readthedocs.io/en/latest/"
   code: "https://github.com/AndrewAnnex/SpiceyPy"
   contact: "Andrew M. Annex"
-  keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
+  keywords: ["solar","magnetosphere","ionosphere thermosphere mesosphere","general"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -390,7 +390,7 @@
   description: Based on IDL tplot, plots and manipulates time series data
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: "Bryan Harter"
-  keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
+  keywords: ["solar","magnetosphere","ionosphere thermosphere mesosphere","general"]
 
 - name: "viresclient"
   code: "https://github.com/ESA-VirES/VirES-Python-Client/"
@@ -399,7 +399,7 @@
   logo: "https://raw.githubusercontent.com/ESA-VirES/Swarm-VRE/staging/docs/_static/vre_logo.png"
   description: "Access to ESA Swarm mission products"
   contact: "EOX IT Services / Ashley Smith"
-  keywords: ["magnetosphere", "ionosphere_thermosphere_mesosphere", "data_retrieval", "webservice", "remote", "data_access", "general"]
+  keywords: ["magnetosphere", "ionosphere thermosphere mesosphere", "data_retrieval", "webservice", "remote", "data_access", "general"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]

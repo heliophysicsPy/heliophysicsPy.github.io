@@ -35,7 +35,7 @@
   docs: "https://pysat.readthedocs.io"
   code: "https://github.com/pysat/pysat"
   contact: "Russell Stoneback"
-  keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","general"]
+  keywords: ["ionosphere thermosphere mesosphere","magnetosphere","general"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -50,7 +50,7 @@
   docs: "https://docs.plasmapy.org/"
   code: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
-  keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","plasma_physics","general"]
+  keywords: ["solar","magnetosphere","ionosphere thermosphere mesosphere","plasma_physics","general"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -64,7 +64,7 @@
   docs: "https://spacepy.github.io/"
   code: "https://github.com/spacepy/spacepy"
   contact: "Steve Morley"
-  keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","general"]
+  keywords: ["ionosphere thermosphere mesosphere","magnetosphere","general"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
