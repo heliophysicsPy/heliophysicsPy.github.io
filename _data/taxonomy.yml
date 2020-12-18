@@ -1,6 +1,6 @@
 - category: "Science Area"
   description: "Keywords for the scientific area a package is relevant to"
-  keywords: ["solar", "magnetosphere", "ionosphere thermosphere mesosphere", "heliosphere", "planetary", "plasma_physics"]
+  keywords: ["solar", "magnetosphere", "ionosphere_thermosphere_mesosphere", "heliosphere", "planetary", "plasma_physics"]
 
 - category: "Functionality"
   description: "Keywords for the functionality available in a package"
