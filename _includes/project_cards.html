@@ -33,7 +33,20 @@
             {% for project in {{include.sorted_projects}} %}
             <tr>
               <th>{{ project.name }}</th>
-              <td>{{ project.description }}</td>
+              <td>
+                {{ project.description }}
+                <p class="hidden">
+                  <br>
+                  <i>Keywords: </i><br>
+                  {% for keyword in {{project.keywords}} %}
+                    {% if forloop.last == true %}
+                      {{ keyword }}
+                    {% else %}
+                      {{ keyword }},<br>
+                    {% endif %}
+                  {% endfor %}
+                </p>
+              </td>
               <td><p class="hidden">{{ project.code }}</p><a href="{{ project.code }}" 
                 {%- capture site_icon -%}
                   {%- if project.code contains "gitlab.com" -%}
