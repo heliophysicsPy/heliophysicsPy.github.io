@@ -158,6 +158,10 @@ table.dataTable thead .sorting_desc_disabled {
   margin-left: 3px
 }
 
+.taxonomy-filters {
+  margin-top: 8px;
+}
+
 .hidden {
   display: none;
 }
