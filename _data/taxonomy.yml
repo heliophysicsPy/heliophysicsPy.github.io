@@ -13,11 +13,11 @@
 
 - category: "Input/Output Formats"
   description: "Keywords for the functionality for reading and writing different data formats"
-  keywords: ["fits", "cdf", "net_cdf", "ascii", "idl_save", "geny", "hdf5", "omni", "csv"]
+  keywords: ["fits", "cdf", "netcdf", "ascii", "idl_save", "geny", "hdf5", "omni", "csv"]
 
 - category: "Input Sources"
   description: "Keywords for the functionality of projects to access webservice data/local data"
-  keywords: ["local", "remote", "webservice"]
+  keywords: ["local", "remote", "web_service"]
 
 - category: "Intent"
   description: "Keywords for the overarching purpose of project to user"
