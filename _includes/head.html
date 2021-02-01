@@ -28,23 +28,80 @@
 
 <!-- Project sorting with DataTables-->
 <script type="text/javascript" class="init">
+    var table1;
+    var table2;
+    var searchValue1 = '';
+    var searchValue2 = '';
+
     $(document).ready(function() {
 
-        $('#dataTable1').DataTable({
+        table1 = $('#dataTable1').DataTable({
+            "ordering":  true,
+            "paging":    false,
+            "info":      false,
+            "searching": true
+        });
+        
+        table2 = $('#dataTable2').DataTable({
             "ordering":  true,
             "paging":    false,
             "info":      false,
             "searching": true
         });
 
-        $('#dataTable2').DataTable({
-            "ordering":  true,
-            "paging":    false,
-            "info":      false,
-            "searching": true
-        });
+        // Store value in first table's search box
+        $('#dataTable1').on('search.dt', function() {
+            var value = $('.dataTables_filter input[aria-controls="dataTable1"]').val();
+            searchValue1 = value;
+        }); 
 
+        // Store value in second table's search box
+        $('#dataTable2').on('search.dt', function() {
+            var value = $('.dataTables_filter input[aria-controls="dataTable2"]').val();
+            searchValue2 = value;
+        }); 
     });
+
+    /*
+     * Given the ID of a select drop-down, determine which table it belongs to 
+     * by checking if it ends in "1" or "2", then collect all the defined values
+     * of the selects for that table and filter the table using them.
+     * TODO: Can't use table's built-in input search box. Refactor. Remove console.logs.
+     */
+    function updateTaxonomyFilters(id) {
+        let tableNum = id.slice(-1);
+        
+        if (!(tableNum == "1" || tableNum == "2")) {
+            // Error, exit function
+            console.error("Invalid table number found: " + tableNum);
+            return;
+        }
+
+        let scienceArea = document.getElementById("science_area"+tableNum).value;
+        let functionality = document.getElementById("functionality"+tableNum).value;
+        let span = document.getElementById("span" + tableNum).value;
+        let inputOutputFormats = document.getElementById("input_output_formats"+tableNum).value;
+        let inputSources = document.getElementById("input_sources"+tableNum).value;
+        let intent = document.getElementById("intent"+tableNum).value;
+
+        let selectValues = [scienceArea, functionality, span, inputOutputFormats, inputSources, intent];
+        let filterStr = '';
+
+        switch(tableNum) {
+            case "1":
+                selectValues.unshift(searchValue1); // prepend first table's search text
+                filterStr = selectValues.filter(function (v) { return v !== ''; }).join(' ');
+                console.log("------------Filter table 1 with: " + filterStr);
+                table1.search(filterStr).draw();
+                break;
+            case "2":
+                selectValues.unshift(searchValue2); // prepend second table's search text
+                filterStr = selectValues.filter(function (v) { return v !== ''; }).join(' ');
+                console.log("------------Filter table 2 with: " + filterStr);
+                table2.search(filterStr).draw();
+                break;
+        }
+    }
 </script>
 
 {% seo %}
