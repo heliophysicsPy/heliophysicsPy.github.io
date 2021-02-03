@@ -32,9 +32,10 @@
     var table2;
     var searchValue1 = '';
     var searchValue2 = '';
+    var selectValues1 = [];
+    var selectValues2 = [];
 
     $(document).ready(function() {
-
         table1 = $('#dataTable1').DataTable({
             "ordering":  true,
             "paging":    false,
@@ -49,28 +50,49 @@
             "searching": true
         });
 
-        // Store value in first table's search box
-        $('#dataTable1').on('search.dt', function() {
-            var value = $('.dataTables_filter input[aria-controls="dataTable1"]').val();
-            searchValue1 = value;
-        }); 
+        // Store value in first table's search box before searching
+        $('#table_search1').keyup(function(e) {
+            searchValue1 = $(this).val();
+            tableSearch(1);
+        });
 
-        // Store value in second table's search box
-        $('#dataTable2').on('search.dt', function() {
-            var value = $('.dataTables_filter input[aria-controls="dataTable2"]').val();
-            searchValue2 = value;
-        }); 
+        // Store value in second table's search box before searching
+        $('#table_search2').keyup(function(e) {
+            searchValue2 = $(this).val();
+            tableSearch(2);
+        });
     });
+
+    /*
+     * Given a table number, perform a smart search in that table
+     * using the combined values of its search box and taxonomy drop-downs.
+     */
+     function tableSearch(tableNum) {
+        let filterStr = "";
+        switch(tableNum) {
+            case 1:
+                filterStr = searchValue1 + ' ' + selectValues1.join(' ');
+                table1.search(filterStr).draw();
+                break;
+            case 2:
+                filterStr = searchValue2 + ' ' + selectValues2.join(' ');
+                table2.search(filterStr).draw();
+                break;
+            default:
+                // Error, exit function
+                console.error("Invalid table number found: " + tableNum);
+                return;
+        }
+    }
 
     /*
      * Given the ID of a select drop-down, determine which table it belongs to 
      * by checking if it ends in "1" or "2", then collect all the defined values
      * of the selects for that table and filter the table using them.
-     * TODO: Can't use table's built-in input search box. Refactor. Remove console.logs.
      */
     function updateTaxonomyFilters(id) {
         let tableNum = id.slice(-1);
-        
+
         if (!(tableNum == "1" || tableNum == "2")) {
             // Error, exit function
             console.error("Invalid table number found: " + tableNum);
@@ -85,20 +107,17 @@
         let intent = document.getElementById("intent"+tableNum).value;
 
         let selectValues = [scienceArea, functionality, span, inputOutputFormats, inputSources, intent];
-        let filterStr = '';
 
         switch(tableNum) {
             case "1":
-                selectValues.unshift(searchValue1); // prepend first table's search text
-                filterStr = selectValues.filter(function (v) { return v !== ''; }).join(' ');
-                console.log("------------Filter table 1 with: " + filterStr);
-                table1.search(filterStr).draw();
+                // Store non-empty select values for first table before searching
+                selectValues1 = selectValues.filter(function (v) { return v !== ''; });
+                tableSearch(1);
                 break;
             case "2":
-                selectValues.unshift(searchValue2); // prepend second table's search text
-                filterStr = selectValues.filter(function (v) { return v !== ''; }).join(' ');
-                console.log("------------Filter table 2 with: " + filterStr);
-                table2.search(filterStr).draw();
+                // Store non-empty select values for second table before searching
+                selectValues2 = selectValues.filter(function (v) { return v !== ''; });
+                tableSearch(2);
                 break;
         }
     }

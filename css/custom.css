@@ -146,15 +146,20 @@ table.dataTable thead .sorting_desc_disabled {
 }
 
 .dataTables_filter {
-  color: #333;
-  float: none;
-  margin-top: 1em;
+  display: none;
 }
 .dataTables_filter input {
+  display: none;
+}
+.tables_filter {
+  color: #333;
+  float: none;
   border: 1px solid #aaa;
   border-radius: 3px;
   padding: 5px;
   background-color: transparent;
+  margin-top: 1em;
+  margin-bottom: 10px;
   margin-left: 3px
 }
 
