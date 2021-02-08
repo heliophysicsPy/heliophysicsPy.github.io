@@ -99,12 +99,12 @@
             return;
         }
 
-        let scienceArea = document.getElementById("science_area"+tableNum).value;
-        let functionality = document.getElementById("functionality"+tableNum).value;
+        let scienceArea = document.getElementById("science_area" + tableNum).value;
+        let functionality = document.getElementById("functionality" + tableNum).value;
         let span = document.getElementById("span" + tableNum).value;
-        let inputOutputFormats = document.getElementById("input_output_formats"+tableNum).value;
-        let inputSources = document.getElementById("input_sources"+tableNum).value;
-        let intent = document.getElementById("intent"+tableNum).value;
+        let inputOutputFormats = document.getElementById("input_output_formats" + tableNum).value;
+        let inputSources = document.getElementById("input_sources" + tableNum).value;
+        let intent = document.getElementById("intent" + tableNum).value;
 
         let selectValues = [scienceArea, functionality, span, inputOutputFormats, inputSources, intent];
 
@@ -119,6 +119,30 @@
                 selectValues2 = selectValues.filter(function (v) { return v !== ''; });
                 tableSearch(2);
                 break;
+        }
+    }
+
+    /*
+     * Show/hide taxonomy drop-down filters for the appropriate table.
+     * TODO: Expand/collapse height animation
+     */ 
+    function toggleFilters(id) {
+        let tableNum = id.slice(-1);
+
+        if (!(tableNum == "1" || tableNum == "2")) {
+            // Error, exit function
+            console.error("Invalid table number found: " + tableNum);
+            return;
+        }
+
+        let filters = document.getElementById("taxonomy-filters" + tableNum);
+        let toggleBtn = document.getElementById("filter-toggle" + tableNum);
+        if (filters.classList.contains("hide")) {
+            filters.classList.remove("hide");
+            toggleBtn.innerHTML = "Hide Keyword Filters";
+        } else {
+            filters.classList.add("hide");
+            toggleBtn.innerHTML = "Show Keyword Filters";
         }
     }
 </script>

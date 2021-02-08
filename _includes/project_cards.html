@@ -15,10 +15,8 @@
           <!-- Taxonomy drop-down filters 
                TODO: generate dynamically from taxonomy.yml,
                      put description values in tooltips.     -->
-          <div class="taxonomy-filters">
-            <p>Filter by keywords:</p>
-            <label for="science_area">Science Area</label>
-            <select name="science_area" id="science_area{{id}}" onchange="updateTaxonomyFilters(this.id)">
+          <div class="taxonomy-filters hide" id="taxonomy-filters{{id}}">
+            <select class="filter" name="science_area" id="science_area{{id}}" onchange="updateTaxonomyFilters(this.id)">
               <option value=""></option>
               <option value="solar">solar</option>
               <option value="magnetosphere">magnetosphere</option>
@@ -26,9 +24,11 @@
               <option value="heliosphere">heliosphere</option>
               <option value="planetary">plasma_physics</option>
             </select>
+            <label for="science_area">Science Area</label>
 
-            <label for="functionality">Functionality</label>
-            <select name="functionality" id="functionality{{id}}" onchange="updateTaxonomyFilters(this.id)">
+            <br>
+
+            <select class="filter" name="functionality" id="functionality{{id}}" onchange="updateTaxonomyFilters(this.id)">
               <option value=""></option>
               <option value="time">time</option>
               <option value="coordinates">coordinates</option>
@@ -44,16 +44,20 @@
               <option value="multidimensional">multidimensional</option>
               <option value="interactive">interactive</option>
             </select>
+            <label for="functionality">Functionality</label>
 
-            <label for="span">Span</label>
-            <select name="span" id="span{{id}}" onchange="updateTaxonomyFilters(this.id)">
+            <br>
+
+            <select class="filter" name="span" id="span{{id}}" onchange="updateTaxonomyFilters(this.id)">
               <option value=""></option>
               <option value="general">general</option>
               <option value="specific">specific</option>
             </select>
+            <label for="span">Span</label>
 
-            <label for="input_output_formats">Input/Output Formats</label>
-            <select name="input_output_formats" id="input_output_formats{{id}}" onchange="updateTaxonomyFilters(this.id)">
+            <br>
+
+            <select class="filter" name="input_output_formats" id="input_output_formats{{id}}" onchange="updateTaxonomyFilters(this.id)">
               <option value=""></option>
               <option value="fits">fits</option>
               <option value="cdf">cdf</option>
@@ -65,17 +69,21 @@
               <option value="omni">omni</option>
               <option value="csv">csv</option>
             </select>
+            <label for="input_output_formats">Input/Output Formats</label>
 
-            <label for="input_sources">Input Sources</label>
-            <select name="input_sources" id="input_sources{{id}}" onchange="updateTaxonomyFilters(this.id)">
+            <br>
+
+            <select class="filter" name="input_sources" id="input_sources{{id}}" onchange="updateTaxonomyFilters(this.id)">
               <option value=""></option>
               <option value="local">local</option>
               <option value="remote">remote</option>
               <option value="web_service">web_service</option>
             </select>
+            <label for="input_sources">Input Sources</label>
 
-            <label for="intent">Intent</label>
-            <select name="intent" id="intent{{id}}" onchange="updateTaxonomyFilters(this.id)">
+            <br>
+
+            <select class="filter" name="intent" id="intent{{id}}" onchange="updateTaxonomyFilters(this.id)">
               <option value=""></option>
               <option value="data_analysis">data_analysis</option>
               <option value="simulation">simulation</option>
@@ -87,10 +95,12 @@
               <option value="reference_data">reference_data</option>
               <option value="wrapper">wrapper</option>
             </select>
+            <label for="intent">Intent</label>
           </div>
           <!-------------------------------->
           <label for="table_search{{id}}">Search:</label>
           <input type="search" class="tables_filter" id="table_search{{id}}" name="table_search{{id}}">
+          <button class="filter-toggle" id="filter-toggle{{id}}" onclick="toggleFilters(this.id)">Show Keyword Filters</button>
           <thead class="thead-dark">
             <tr>
               <th scope="col">Name</th>
