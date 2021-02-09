@@ -196,9 +196,9 @@ select.filter {
 	  inset 0px 1px 1px rgba(255,255,255,0.7);	
 }
 .white {
-	text-shadow: 1px 1px 0px #f8f8f8;
-	color: black;
-	border: 1px solid #d3d3d3;	
+  text-shadow: 1px 1px 0px #f8f8f8;
+  color: black;
+  border: 1px solid #d3d3d3;	
   background: #ededed; /*fallback for non-CSS3 browsers*/
   background: -webkit-gradient(linear, 0 0, 0 100%, from(#f9f9f9) to(#ededed)); /*old webkit*/
   background: -webkit-linear-gradient(#f9f9f9, #ededed); /*new webkit*/
