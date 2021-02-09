@@ -182,39 +182,39 @@ select.filter {
 /* DataTable button styling */
 .filter-toggle {
   margin-left: 20px;
-	padding: 5px 10px;
-	cursor:pointer;	
-	border-radius: 2px;
-	-moz-border-radius: 2px;
-	-webkit-border-radius: 2px;	
-	box-shadow: #e3e3e3 0 1px 1px;	
-	-moz-box-shadow:
-		0px 1px 1px rgba(000,000,000,0.1),
-		inset 0px 1px 1px rgba(255,255,255,0.7);
-	-webkit-box-shadow:
-		0px 1px 1px rgba(000,000,000,0.1),
-		inset 0px 1px 1px rgba(255,255,255,0.7);	
+  padding: 5px 10px;
+  cursor:pointer;	
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;	
+  box-shadow: #e3e3e3 0 1px 1px;	
+  -moz-box-shadow:
+	  0px 1px 1px rgba(000,000,000,0.1),
+	  inset 0px 1px 1px rgba(255,255,255,0.7);
+  -webkit-box-shadow:
+	  0px 1px 1px rgba(000,000,000,0.1),
+	  inset 0px 1px 1px rgba(255,255,255,0.7);	
 }
 .white {
 	text-shadow: 1px 1px 0px #f8f8f8;
 	color: black;
 	border: 1px solid #d3d3d3;	
-    background: #ededed; /*fallback for non-CSS3 browsers*/
-    background: -webkit-gradient(linear, 0 0, 0 100%, from(#f9f9f9) to(#ededed)); /*old webkit*/
-    background: -webkit-linear-gradient(#f9f9f9, #ededed); /*new webkit*/
-    background: -moz-linear-gradient(#f9f9f9, #ededed); /*gecko*/
-    background: -ms-linear-gradient(#f9f9f9, #ededed); /*IE10*/
-    background: -o-linear-gradient(#f9f9f9, #ededed); /*opera 11.10+*/
-    background: linear-gradient(#f9f9f9, #ededed); /*future CSS3 browsers*/
+  background: #ededed; /*fallback for non-CSS3 browsers*/
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#f9f9f9) to(#ededed)); /*old webkit*/
+  background: -webkit-linear-gradient(#f9f9f9, #ededed); /*new webkit*/
+  background: -moz-linear-gradient(#f9f9f9, #ededed); /*gecko*/
+  background: -ms-linear-gradient(#f9f9f9, #ededed); /*IE10*/
+  background: -o-linear-gradient(#f9f9f9, #ededed); /*opera 11.10+*/
+  background: linear-gradient(#f9f9f9, #ededed); /*future CSS3 browsers*/
 }
 .white:active {
-    background: #ededed; /*fallback for non-CSS3 browsers*/
-    background: -webkit-gradient(linear, 0 0, 0 100%, from(#ededed) to(#f9f9f9)); /*old webkit*/
-    background: -webkit-linear-gradient(#ededed, #f9f9f9); /*new webkit*/
-    background: -moz-linear-gradient(#ededed, #f9f9f9); /*gecko*/
-    background: -ms-linear-gradient(#ededed, #f9f9f9); /*IE10*/
-    background: -o-linear-gradient(#ededed, #f9f9f9); /*opera 11.10+*/
-    background: linear-gradient(#ededed, #f9f9f9); /*future CSS3 browsers*/
+  background: #ededed; /*fallback for non-CSS3 browsers*/
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#ededed) to(#f9f9f9)); /*old webkit*/
+  background: -webkit-linear-gradient(#ededed, #f9f9f9); /*new webkit*/
+  background: -moz-linear-gradient(#ededed, #f9f9f9); /*gecko*/
+  background: -ms-linear-gradient(#ededed, #f9f9f9); /*IE10*/
+  background: -o-linear-gradient(#ededed, #f9f9f9); /*opera 11.10+*/
+  background: linear-gradient(#ededed, #f9f9f9); /*future CSS3 browsers*/
 }
 
 .hidden {
