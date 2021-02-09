@@ -189,11 +189,11 @@ select.filter {
   -webkit-border-radius: 2px;	
   box-shadow: #e3e3e3 0 1px 1px;	
   -moz-box-shadow:
-	  0px 1px 1px rgba(000,000,000,0.1),
-	  inset 0px 1px 1px rgba(255,255,255,0.7);
+    0px 1px 1px rgba(000,000,000,0.1),
+    inset 0px 1px 1px rgba(255,255,255,0.7);
   -webkit-box-shadow:
-	  0px 1px 1px rgba(000,000,000,0.1),
-	  inset 0px 1px 1px rgba(255,255,255,0.7);	
+    0px 1px 1px rgba(000,000,000,0.1),
+    inset 0px 1px 1px rgba(255,255,255,0.7);	
 }
 .white {
   text-shadow: 1px 1px 0px #f8f8f8;
