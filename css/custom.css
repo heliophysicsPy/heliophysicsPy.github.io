@@ -176,8 +176,7 @@ select.filter {
 }
 .taxonomy-filters.hide {
   opacity: 0;
-  /* Note: display: none cancels out the animation */
-  display: none;
+  display: none; /* Note: display: none cancels out the animation */
 }
 
 /* DataTable button styling */
