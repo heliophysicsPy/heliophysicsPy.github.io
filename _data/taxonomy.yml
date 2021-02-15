@@ -1,25 +1,33 @@
 - category: "Science Area"
   description: "Keywords for the scientific area a package is relevant to"
   keywords: ["solar", "magnetosphere", "ionosphere_thermosphere_mesosphere", "heliosphere", "planetary", "plasma_physics"]
+  display_names: ["Solar", "Magnetosphere", "Ionosphere/Thermosphere/Mesosphere", "Heliosphere", "Planetary", "Plasma Physics"]
 
 - category: "Functionality"
   description: "Keywords for the functionality available in a package"
   keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_imaging", "plotting", "3D_graphics", 
              "data_container", "power_spectra", "spectra", "calibration", "multidimensional", "interactive"]
+  display_names: ["Time", "Coordinates", "Data Retrieval", "Line Plots", "2D Imaging", "Plotting", "3D Graphics", 
+             "Data Container", "Power Spectra", "Spectra", "Calibration", "Multidimensional", "Interactive"]
              
 - category: "Span"
   description: "Keywords for the user scope of a project"
   keywords: ["general", "specific"]
+  display_names: ["General", "Specific"]
 
 - category: "Input/Output Formats"
   description: "Keywords for the functionality for reading and writing different data formats"
   keywords: ["fits", "cdf", "netcdf", "ascii", "idl_save", "geny", "hdf5", "omni", "csv"]
+  display_names: ["FITS", "CDF", "NetCDF", "ASCII", "IDL SAVE", "Geny", "HDF5", "Omni", "CSV"]
 
 - category: "Input Sources"
   description: "Keywords for the functionality of projects to access webservice data/local data"
   keywords: ["local", "remote", "web_service"]
+  display_names: ["Local", "Remote", "Web Service"]
 
 - category: "Intent"
   description: "Keywords for the overarching purpose of project to user"
   keywords: ["data_analysis", "simulation", "theory", "data_assimilation", "laboratory", "instrumentation", 
              "data_access", "reference_data", "wrapper"]
+  display_names: ["Data Analysis", "Simulation", "Theory", "Data Assimilation", "Laboratory", "Instrumentation", 
+             "Data Access", "Reference Data", "Wrapper"]
