@@ -99,12 +99,12 @@
             return;
         }
 
-        let scienceArea = document.getElementById("science_area" + tableNum).value;
-        let functionality = document.getElementById("functionality" + tableNum).value;
-        let span = document.getElementById("span" + tableNum).value;
-        let inputOutputFormats = document.getElementById("input_output_formats" + tableNum).value;
-        let inputSources = document.getElementById("input_sources" + tableNum).value;
-        let intent = document.getElementById("intent" + tableNum).value;
+        let scienceArea = document.getElementById("tax_cat_1_" + tableNum).value;
+        let functionality = document.getElementById("tax_cat_2_" + tableNum).value;
+        let span = document.getElementById("tax_cat_3_" + tableNum).value;
+        let inputOutputFormats = document.getElementById("tax_cat_4_" + tableNum).value;
+        let inputSources = document.getElementById("tax_cat_5_" + tableNum).value;
+        let intent = document.getElementById("tax_cat_6_" + tableNum).value;
 
         let selectValues = [scienceArea, functionality, span, inputOutputFormats, inputSources, intent];
 
@@ -143,6 +143,35 @@
         } else {
             filters.classList.add("hide");
             toggleBtn.innerHTML = "Show Keyword Filters";
+        }
+    }
+
+    /*
+     * Pretty print the given keyword for display.
+     */
+    function prettyPrintKeyword(keyword) {
+        switch(keyword) {
+            //special replacements
+            case "ionosphere_thermosphere_mesosphere":
+                return "Ionosphere/Thermosphere/Mesosphere";
+            case "netcdf":
+                return "NetCDF";
+            //all caps replacements
+            case "fits":
+            case "cdf":
+            case "ascii":
+            case "idl_save":
+            case "hdf5":
+            case "csv":
+                return keyword.toUpperCase().replace("_", " ");
+            //capital first letter replacements
+            default:
+                return keyword
+                    .split('_')
+                    .map(function(word) {
+                        return word[0].toUpperCase() + word.substr(1);
+                    })
+                    .join(' ');
         }
     }
 </script>

@@ -13,89 +13,24 @@
     <div class="tab-pane fade show active" id="table{{id}}">
         <table class="table table-striped" id="dataTable{{id}}">
           <!-- Taxonomy drop-down filters 
-               TODO: generate dynamically from taxonomy.yml,
-                     put description values in tooltips.     -->
+               TODO: put description values in tooltips.     -->
           <div class="taxonomy-filters hide" id="taxonomy-filters{{id}}">
-            <select class="filter" name="science_area" id="science_area{{id}}" onchange="updateTaxonomyFilters(this.id)">
-              <option value=""></option>
-              <option value="solar">Solar</option>
-              <option value="magnetosphere">Magnetosphere</option>
-              <option value="ionosphere_thermosphere_mesosphere">Ionosphere/Thermosphere/Mesosphere</option>
-              <option value="heliosphere">Heliosphere</option>
-              <option value="planetary">Plasma Physics</option>
-            </select>
-            <label for="science_area">Science Area</label>
-
-            <br>
-
-            <select class="filter" name="functionality" id="functionality{{id}}" onchange="updateTaxonomyFilters(this.id)">
-              <option value=""></option>
-              <option value="time">Time</option>
-              <option value="coordinates">Coordinates</option>
-              <option value="data_retrieval">Data Retrieval</option>
-              <option value="line_plots">Line Plots</option>
-              <option value="2D_imaging">2D Imaging</option>
-              <option value="plotting">Plotting</option>
-              <option value="3D_graphics">3D Graphics</option>
-              <option value="data_container">Data Container</option>
-              <option value="power_spectra">Power Spectra</option>
-              <option value="spectra">Spectra</option>
-              <option value="calibration">Calibration</option>
-              <option value="multidimensional">Multidimensional</option>
-              <option value="interactive">Interactive</option>
-            </select>
-            <label for="functionality">Functionality</label>
-
-            <br>
-
-            <select class="filter" name="span" id="span{{id}}" onchange="updateTaxonomyFilters(this.id)">
-              <option value=""></option>
-              <option value="general">General</option>
-              <option value="specific">Specific</option>
-            </select>
-            <label for="span">Span</label>
-
-            <br>
-
-            <select class="filter" name="input_output_formats" id="input_output_formats{{id}}" onchange="updateTaxonomyFilters(this.id)">
-              <option value=""></option>
-              <option value="fits">FITS</option>
-              <option value="cdf">CDF</option>
-              <option value="netcdf">NetCDF</option>
-              <option value="ascii">ASCII</option>
-              <option value="idl_save">IDL SAVE</option>
-              <option value="geny">Geny</option>
-              <option value="hdf5">HDF5</option>
-              <option value="omni">Omni</option>
-              <option value="csv">CSV</option>
-            </select>
-            <label for="input_output_formats">Input/Output Formats</label>
-
-            <br>
-
-            <select class="filter" name="input_sources" id="input_sources{{id}}" onchange="updateTaxonomyFilters(this.id)">
-              <option value=""></option>
-              <option value="local">Local</option>
-              <option value="remote">Remote</option>
-              <option value="web_service">Web Service</option>
-            </select>
-            <label for="input_sources">Input Sources</label>
-
-            <br>
-
-            <select class="filter" name="intent" id="intent{{id}}" onchange="updateTaxonomyFilters(this.id)">
-              <option value=""></option>
-              <option value="data_analysis">Data Analysis</option>
-              <option value="simulation">Simulation</option>
-              <option value="theory">Theory</option>
-              <option value="data_assimilation">Data Assimilation</option>
-              <option value="laboratory">Laboratory</option>
-              <option value="instrumentation">Instrumentation</option>
-              <option value="data_access">Data Access</option>
-              <option value="reference_data">Reference Data</option>
-              <option value="wrapper">Wrapper</option>
-            </select>
-            <label for="intent">Intent</label>
+            {% for category in site.data.taxonomy %}    
+              <select class="filter" name="tax_cat_{{ forloop.index }}" id="tax_cat_{{ forloop.index }}_{{id}}" onchange="updateTaxonomyFilters(this.id)">
+                <option value=""></option>
+                {% assign sorted_keywords = category.keywords | sort %}
+                {% for keyword in sorted_keywords %}
+                  <option value="{{ keyword }}">
+                    <script>
+                      document.write(prettyPrintKeyword("{{ keyword }}"));
+                    </script>
+                  </option>
+                {% endfor %}
+              </select>
+              <label for="tax_cat_{{ forloop.index }}">{{ category.category }}</label>
+  
+              <br>
+            {% endfor %}
           </div>
           <!-------------------------------->
           <label for="table_search{{id}}">Search:</label>
@@ -127,13 +62,7 @@
                 <p class="hidden">
                   <br>
                   <i>Keywords: </i><br>
-                  {% for keyword in {{project.keywords}} %}
-                    {% if forloop.last == true %}
-                      {{ keyword }}
-                    {% else %}
-                      {{ keyword }},<br>
-                    {% endif %}
-                  {% endfor %}
+                  {{ project.keywords | join: ', ' }}
                 </p>
               </td>
               <td><p class="hidden">{{ project.code }}</p><a href="{{ project.code }}" 
