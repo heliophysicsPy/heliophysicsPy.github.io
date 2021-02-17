@@ -61,6 +61,11 @@
             searchValue2 = $(this).val();
             tableSearch(2);
         });
+
+        $('[data-toggle="tooltip"]').tooltip({
+            delay: {show: 2000, hide: 100},
+            trigger: "hover"
+        });   
     });
 
     /*
