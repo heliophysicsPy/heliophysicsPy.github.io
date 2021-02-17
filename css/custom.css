@@ -169,14 +169,17 @@ select.filter {
   width: 200px;
 }
 
+/* Expand/collapse filters */
+.expand-container {
+  overflow: hidden;
+}
+
 .taxonomy-filters {
   margin-top: 25px;
-  opacity: 1;
-  transition: opacity 1s;
+  transition: 1s all 0s;
 }
 .taxonomy-filters.hide {
-  opacity: 0;
-  display: none; /* Note: display: none cancels out the animation */
+  margin-top: -100%;
 }
 
 /* DataTable button styling */
@@ -216,7 +219,7 @@ select.filter {
   background: linear-gradient(#ededed, #f9f9f9); /*future CSS3 browsers*/
 }
 
-/* Tooltip */
+/* Tooltips */
 .tooltip-container {
   display: inline-block;
 }
