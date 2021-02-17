@@ -173,13 +173,9 @@ select.filter {
 .expand-container {
   overflow: hidden;
 }
-
 .taxonomy-filters {
   margin-top: 25px;
-  transition: 1s all 0s;
-}
-.taxonomy-filters.hide {
-  margin-top: -100%;
+  display: none; /* initially hide filters, gets overriden in toggleFilters() */
 }
 
 /* DataTable button styling */
@@ -217,28 +213,6 @@ select.filter {
   background: -ms-linear-gradient(#ededed, #f9f9f9); /*IE10*/
   background: -o-linear-gradient(#ededed, #f9f9f9); /*opera 11.10+*/
   background: linear-gradient(#ededed, #f9f9f9); /*future CSS3 browsers*/
-}
-
-/* Tooltips */
-.tooltip-container {
-  display: inline-block;
-}
-
-.tooltip-inner {
-  background-color: #4b4b4b; 
-  color: #FFFFFF; 
-  border: none; 
-  font-size: 0.8rem;
-}
-.bs-tooltip-right .arrow::before {
-  right: 0;
-  border-width: .4rem .4rem .4rem 0;
-  border-right-color: #4b4b4b;
-}
-.bs-tooltip-left .arrow::before {
-  left: 0;
-  border-width: .4rem 0 .4rem .4rem;
-  border-left-color: #4b4b4b;
 }
 
 .hidden {

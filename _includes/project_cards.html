@@ -13,9 +13,8 @@
     <div class="tab-pane fade show active" id="table{{id}}">
         <table class="table table-striped" id="dataTable{{id}}">
           <div class="expand-container">
-            <div class="taxonomy-filters hide" id="taxonomy-filters{{id}}">
+            <div class="taxonomy-filters" id="taxonomy-filters{{id}}">
               {% for category in site.data.taxonomy %}   
-                <div class="tooltip-container" data-toggle="tooltip" data-placement="right" title="{{ category.description }}">
                   <select class="filter" name="tax_cat_{{ forloop.index }}" id="tax_cat_{{ forloop.index }}_{{id}}" onchange="updateTaxonomyFilters(this.id)">
                     <option value=""></option>
                     {% assign sorted_keywords = category.keywords | sort %}
@@ -28,7 +27,6 @@
                     {% endfor %}
                   </select>
                   <label for="tax_cat_{{ forloop.index }}">{{ category.category }}</label>
-                </div>
                 <br>
               {% endfor %}
             </div>
