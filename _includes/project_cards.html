@@ -12,6 +12,28 @@
 
     <div class="tab-pane fade show active" id="table{{id}}">
         <table class="table table-striped" id="dataTable{{id}}">
+          <div class="expand-container">
+            <div class="taxonomy-filters" id="taxonomy-filters{{id}}">
+              {% for category in site.data.taxonomy %}   
+                  <select class="filter" name="tax_cat_{{ forloop.index }}" id="tax_cat_{{ forloop.index }}_{{id}}" onchange="updateTaxonomyFilters(this.id)">
+                    <option value=""></option>
+                    {% assign sorted_keywords = category.keywords | sort %}
+                    {% for keyword in sorted_keywords %}
+                      <option value="{{ keyword }}">
+                        <script>
+                          document.write(prettyPrintKeyword("{{ keyword }}"));
+                        </script>
+                      </option>
+                    {% endfor %}
+                  </select>
+                  <label for="tax_cat_{{ forloop.index }}">{{ category.category }}</label>
+                <br>
+              {% endfor %}
+            </div>
+          </div>
+          <label for="table_search{{id}}">Search:</label>
+          <input type="search" class="tables_filter" id="table_search{{id}}" name="table_search{{id}}">
+          <button class="filter-toggle white" id="filter-toggle{{id}}" onclick="toggleFilters(this.id)">Show Keyword Filters</button>
           <thead class="thead-dark">
             <tr>
               <th scope="col">Name</th>
@@ -38,13 +60,7 @@
                 <p class="hidden">
                   <br>
                   <i>Keywords: </i><br>
-                  {% for keyword in {{project.keywords}} %}
-                    {% if forloop.last == true %}
-                      {{ keyword }}
-                    {% else %}
-                      {{ keyword }},<br>
-                    {% endif %}
-                  {% endfor %}
+                  {{ project.keywords | join: ', ' }}
                 </p>
               </td>
               <td><p class="hidden">{{ project.code }}</p><a href="{{ project.code }}" 

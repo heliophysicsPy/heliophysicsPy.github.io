@@ -1,25 +1,25 @@
 - category: "Science Area"
-  description: "Keywords for the scientific area a package is relevant to"
+  description: "The scientific area a package is relevant to"
   keywords: ["solar", "magnetosphere", "ionosphere_thermosphere_mesosphere", "heliosphere", "planetary", "plasma_physics"]
 
 - category: "Functionality"
-  description: "Keywords for the functionality available in a package"
+  description: "The functionality available in a package"
   keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_imaging", "plotting", "3D_graphics", 
              "data_container", "power_spectra", "spectra", "calibration", "multidimensional", "interactive"]
-             
+  
 - category: "Span"
-  description: "Keywords for the user scope of a project"
+  description: "The user scope of a project"
   keywords: ["general", "specific"]
 
 - category: "Input/Output Formats"
-  description: "Keywords for the functionality for reading and writing different data formats"
-  keywords: ["fits", "cdf", "net_cdf", "ascii", "idl_save", "geny", "hdf5", "omni", "csv"]
+  description: "The different data formats a package reads and/or writes"
+  keywords: ["fits", "cdf", "netcdf", "ascii", "idl_save", "geny", "hdf5", "omni", "csv"]
 
 - category: "Input Sources"
-  description: "Keywords for the functionality of projects to access webservice data/local data"
-  keywords: ["local", "remote", "webservice"]
+  description: "The ability of a project to access web service data/local data"
+  keywords: ["local", "remote", "web_service"]
 
 - category: "Intent"
-  description: "Keywords for the overarching purpose of project to user"
+  description: "The overarching purpose of a project"
   keywords: ["data_analysis", "simulation", "theory", "data_assimilation", "laboratory", "instrumentation", 
              "data_access", "reference_data", "wrapper"]
