@@ -157,7 +157,7 @@
 
 - name: "OMMBV"
   description: "Othogonal Multipole Magnetic Basis Vectors - Express vectors relative to a multipole magnetic field using an orthogonal curvi-linear basis."
-  code_url: "https://github.com/rstoneback/OMMBV"
+  code: "https://github.com/rstoneback/OMMBV"
   contact: "Russell Stoneback"
 
 - name: POLAN
