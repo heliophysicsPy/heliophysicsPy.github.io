@@ -64,7 +64,7 @@
   docs: "https://spacepy.github.io/"
   code: "https://github.com/spacepy/spacepy"
   contact: "Steve Morley"
-  keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","general"]
+  keywords: ["heliosphere","ionosphere_thermosphere_mesosphere","magnetosphere","general","time","coordinates","data_container","plotting","ascii","cdf","csv","hdf5","omni","local","data_access","data_analysis","reference_data","simulation"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
