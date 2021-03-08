@@ -50,7 +50,7 @@
   docs: "https://docs.plasmapy.org/"
   code: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
-  keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","plasma_physics","general"]
+  keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","plasma_physics","heliosphere","general","laboratory","simulation","theory","instrumentation","data_analysis"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
