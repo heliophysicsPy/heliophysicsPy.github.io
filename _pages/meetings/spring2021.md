@@ -60,4 +60,4 @@ Meeting ID: **395 871 054**
 
 ### Registration
 
-Please [**register**](https://docs.google.com/forms/d/1tk9uQTm9TzwNV8jle3QCg8IZkhZsQjLKMQDN-02a4IY/edit?usp=sharing) by close of business on October 23, 2020 if you plan to participate remotely so that you may receive email announcements and updates.  No registration fee is required.  You may still participate without registering.
+Please [**register**](https://docs.google.com/forms/d/1tk9uQTm9TzwNV8jle3QCg8IZkhZsQjLKMQDN-02a4IY/edit?usp=sharing) by close of business Friday May 7th, 2021 if you plan to participate remotely so that you may receive email announcements and updates.  No registration fee is required.  You may still participate without registering.
