@@ -14,15 +14,19 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 
 ### Community Meetings
 
-The [2020 Fall Python in Heliophysics Community Meeting]({% link
-_pages/meetings/fall2020.md %}) **will be held remotely** on Zoom (see details on the meeting's web page), spanning over the course of four weeks. The meeting will begin on Monday, October 26th, 2020 and end Monday, November 16th, 2020.
-* [Registration](https://forms.gle/ZYESjbYwiGooCkKJ7)
+The [2021 Spring Python in Heliophysics Community Meeting]({% link
+_pages/meetings/spring2021.md %}) **will be held remotely** on Zoom (see details on the meeting's web page), spanning over the course of four days. The meeting will begin on Monday, May 10th, 2021 and end Thursday, May 13th, 2021.
+* [Registration](https://docs.google.com/forms/d/1tk9uQTm9TzwNV8jle3QCg8IZkhZsQjLKMQDN-02a4IY/edit?usp=sharing)
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/u/0/folders/1T3CGRwXAst8jd7I6xFiKxyCgluGGpg0A)
 * [Meeting Report](https://docs.google.com/document/d/1roGSs_DKtXP5uLyPEHZrtA6taHW9zcMp0L54JKpg1p0/edit#heading=h.mpebd2k6hb5s)
 
-The [2020 Spring Python in Heliophysics Community Meeting]({% link
-_pages/meetings/april2020.md %}) **will be held remotely** on Zoom (see details on the meeting's web page) on Wednesday, April 29th, 2020 from 9 AM - 12 PM MT.
-* [Registration](https://forms.gle/fYxWXWccyTZxnVUH9)
+[2020 Fall Python in Heliophysics Community Meeting]({% link
+_pages/meetings/fall2020.md %}), October 26-November 16 (remote).
+* [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/u/0/folders/1T3CGRwXAst8jd7I6xFiKxyCgluGGpg0A)
+* [Meeting Report](https://docs.google.com/document/d/1roGSs_DKtXP5uLyPEHZrtA6taHW9zcMp0L54JKpg1p0/edit#heading=h.mpebd2k6hb5s)
+
+[2020 Spring Python in Heliophysics Community Meeting]({% link
+_pages/meetings/april2020.md %}), April 29 (remote).
 * [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1vONfB6hf0y-VVOPj1748R3U9agFyq0iV)
 * [Meeting Report](https://docs.google.com/document/d/1FqR3u4nP4HtH6baIYyzehMeDDo6Qp5ivKtduPmHETFY/edit)
 
