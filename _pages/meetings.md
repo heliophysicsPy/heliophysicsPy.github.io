@@ -17,8 +17,8 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 The [2021 Spring Python in Heliophysics Community Meeting]({% link
 _pages/meetings/spring2021.md %}) **will be held remotely** on Zoom (see details on the meeting's web page), spanning over the course of four days. The meeting will begin on Monday, May 10th, 2021 and end Thursday, May 13th, 2021.
 * [Registration](https://docs.google.com/forms/d/1tk9uQTm9TzwNV8jle3QCg8IZkhZsQjLKMQDN-02a4IY/edit?usp=sharing)
-* [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/u/0/folders/1T3CGRwXAst8jd7I6xFiKxyCgluGGpg0A)
-* [Meeting Report](https://docs.google.com/document/d/1roGSs_DKtXP5uLyPEHZrtA6taHW9zcMp0L54JKpg1p0/edit#heading=h.mpebd2k6hb5s)
+* [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/u/0/folders/1HcIQRnVmEXiTgNVx7cVL5mMySxVbUFYc)
+* Meeting Report (coming soon)
 
 [2020 Fall Python in Heliophysics Community Meeting]({% link
 _pages/meetings/fall2020.md %}), October 26-November 16 (remote).
