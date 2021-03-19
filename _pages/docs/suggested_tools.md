@@ -8,7 +8,7 @@ Listed here are tools that PyHC suggests using to aid Python development. The li
 
 <br>
 
-### IDE
+### IDEs
 An IDE, or Integrated Development Environment, enables developers to consolidate the different aspects of writing programs. IDEs increase productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging. They offer so many conveniences that we recommend using one.
 
 #### [PyCharm](https://www.jetbrains.com/pycharm/)
@@ -22,69 +22,83 @@ An IDE, or Integrated Development Environment, enables developers to consolidate
  * Support for Python is offered through the [Microsoft Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
  * Offered as a free product by Microsoft
  * The secondmost popular IDE among PyHC respondents (18%)
- 
-#### [Spyder](https://www.spyder-ide.org) 
- * 3 (9%)
 
-#### None 
- * 38% of respondents said they do not use an IDE.
+#### [Spyder](https://www.spyder-ide.org) 
+ * The Scientific Python Development Environment
+ * Designed by and for scientists, written in Python for Python
+ * Free and open source, with plugins that extend its functionality
+ * 9% of PyHC respondents reported using it
 
 <br>
 
-### Linter
-
-#### None 
- * 14 (42%)
+### Linters
+A linter is a basic static code analyzer that checks your source code for programmatic and stylistic errors. They are especially useful for enforcing coding style (like [PEP 8](https://www.python.org/dev/peps/pep-0008/), the style guide all PyHC projects must follow) in projects with multiple developers.
 
 #### [Pylint](https://www.pylint.org) 
- * 9 (26%) (Right up there with Flake8 in industry use)
+ * A thorough Python linter with widespread industry adoption
+ * 26% of PyHC respondents use it
 
 #### [Flake8](https://flake8.pycqa.org/en/latest/) 
- * 6 (18%) (Probably most popular in industry)
+ * A lightweight alternative to Pylint with comparable industry adoption (arguably more, depending who you ask)
+ * 18% of PyHC respondents use it
 
 #### [Black](https://github.com/psf/black) 
- * 2 (6%)
+ * "The Uncompromising Code Formatter"—_formats_ code instead of just _reporting_ the errors like Pylint and Flake8
+ * Very few configuration options to affect the style, meaning code from project to project that is Black formatted looks very similar
+ * 6% of PyHC respondents use it
 
 <br>
 
-### Virtual environment manager 
+### Virtual Environment Managers
+A Python virtual environment is a self-contained directory tree that contains a Python installation for a particular version of Python, plus a number of additional packages. We recommend using a different virtual environment for every project you work on to avoid dependency compatibility issues—ignoring the default Python installation on your machine altogether.
 
-#### [Anaconda](https://www.anaconda.com)/[conda](https://docs.conda.io/en/latest/)/[miniconda](https://docs.conda.io/en/latest/miniconda.html) 
- * 18 (53%)
+#### [Anaconda](https://www.anaconda.com) / [Miniconda](https://docs.conda.io/en/latest/miniconda.html) / [Conda](https://docs.conda.io/en/latest/) 
+ * Anaconda is the world's most popular Python distribution platform. It includes about a hundred packages, one of which is Conda. It offers a GUI, [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/), that lets you manage Python without using the command line.
+ * Miniconda is for the many who consider Anaconda too bloated. It is the smaller alternative to Anaconda that is just Conda and its dependencies.
+ * Conda is a package/virtual environment manager, and is the main alternative to [Pip](https://pypi.org/project/pip/). Its benefits include managing virtual environments, not just packages, and checking for dependency compatibility issues before installing new packages.
+ * 53% of PyHC respondents use some combination of the three.
 
 #### [Venv](https://docs.python.org/3/library/venv.html) 
- * 4 (now included with Python as of 3.3) (12%)
+ * The go-to virtual environment manager, bundled with Python as of version 3.3
+ * Easy to use but lacks more advanced features
+ * 12% of PyHC respondents use it
 
 #### [Pyenv](https://github.com/pyenv/pyenv) 
- * 3 (9%)
-
-### Anaconda
- * No - 3 (9%)
- * Yes - 31 (92%)(Manage packages/environments, run Jupyter notebooks. Reoccurring sentiment that Anaconda is too much, recommend conda or miniconda instead)
-
-#### None 
- * 11 (32%)
+ * Has a more complicated workflow than Venv, but offers more features
+ * Makes downloading and installing multiple Python versions easy with its `pyenv install` command
+ * 9% of PyHC respondents use it
 
 <br>
 
-### Python notebooks
+### Python Notebooks
+Python notebooks are documents that contain live code, equations, visualizations, and/or narrative text all together in one place. They're convenient for sharing code examples and results, among other things.
+#### [Jupyter Notebook](https://jupyter.org/#about-notebook) 
+ * The go-to Python notebook
+ * An open-source web application for creating notebooks
+ * 76% of PyHC respondents use it
 
-#### [Jupyter Notebooks](https://jupyter.org/#about-notebook) 
- * 26 (76%)(JupyterLab mentioned 4 times)
-
-#### None 
- * 6 (18%)
+#### [JupyterLab](https://jupyter.org/#jupyterlab)
+ * The next-generation interface for Jupyter notebooks
+ * Includes all classic Jupyter Notebook features plus new features
+ * Project Jupyter encourages its use
+ * 12% (and growing) of PyHC respondents use it
 
 <br>
 
-### Other tools
-Tools that stand out to me:
+### Other Tools
+Other tools that stand out to us:
  * [ColorOracle](https://colororacle.org)
- * [GitHub Actions](https://github.com/features/actions) (over [TravisCI](https://travis-ci.com))
+    * A free color blindness simulator that takes the guesswork out of designing for color blindness by showing you in real time what people with common color vision impairments will see
+ * [GitHub Actions](https://github.com/features/actions)
+    * We recommend checking out GitHub Actions as an alternative to [TravisCI](https://travis-ci.com), which had been the go-to continuous integration tool for years until it was acquired by Idera and subsequently became expensive
  * [ReadTheDocs](https://readthedocs.org)
- * [pytest](https://docs.pytest.org/en/stable/), 
- * coverage (vs [coverage.py](https://coverage.readthedocs.io/en/coverage-5.5/)?), 
- * [mypy](http://mypy-lang.org) (optional static type checker)
+    * An excelent documentation tool that automates the building, versioning, and hosting of your docs
+ * [pytest](https://docs.pytest.org/en/stable/)
+    * The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries
+ * [coverage.py](https://coverage.readthedocs.io/en/coverage-5.5/)
+    * A tool for measuring code coverage of Python programs
+ * [mypy](http://mypy-lang.org)
+    * An optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing
 
 <br>
 
