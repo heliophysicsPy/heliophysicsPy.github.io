@@ -21,7 +21,7 @@ An IDE, or Integrated Development Environment, enables developers to consolidate
  * A popular IDE for a variety of languages
  * Support for Python is offered through the [Microsoft Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
  * Offered as a free product by Microsoft
- * The secondmost popular IDE among PyHC respondents (18%)
+ * The second most popular IDE among PyHC respondents (18%)
 
 #### [Spyder](https://www.spyder-ide.org) 
  * The Scientific Python Development Environment
@@ -92,7 +92,7 @@ Other tools that stand out to us:
  * [GitHub Actions](https://github.com/features/actions)
     * We recommend checking out GitHub Actions as an alternative to [TravisCI](https://travis-ci.com), which had been the go-to continuous integration tool for years until it was acquired by Idera and subsequently became expensive
  * [ReadTheDocs](https://readthedocs.org)
-    * An excelent documentation tool that automates the building, versioning, and hosting of your docs
+    * An excellent documentation tool that automates the building, versioning, and hosting of your docs
  * [pytest](https://docs.pytest.org/en/stable/)
     * The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries
  * [coverage.py](https://coverage.readthedocs.io/en/coverage-5.5/)
