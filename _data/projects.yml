@@ -446,3 +446,9 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  
+- name: "geopack"
+  description: "Python version of geopack and Tsyganenko models"
+  docs: "https://github.com/tsssss/geopack/blob/master/README.md"
+  code: "https://github.com/tsssss/geopack"
+  contact: "Sheng Tian"
