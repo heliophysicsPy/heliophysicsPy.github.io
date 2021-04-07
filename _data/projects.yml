@@ -9,10 +9,10 @@
   docs: https://afino-release-version.readthedocs.io/en/latest/
   description: A tool for finding oscillations in time series data
   contact: Andrew Inglis
-  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partally met"]
-  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partally met"]
-  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partally met"]
-  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partally met"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
@@ -54,9 +54,9 @@
   code: https://github.com/SWxTREC/enlilviz
   contact: Greg Lucas
   keywords: ["heliosphere","plotting","specific"]
-  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -311,7 +311,7 @@
   code: "https://github.com/wtbarnes/fiasco"
   contact: "Will Barnes"
   keywords: ["solar","ionosphere_thermosphere_mesosphere","general"]
-  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -414,7 +414,7 @@
   description: "A Python package for analyzing data from SDO/AIA"
   contact: "Will Barnes, Mark Cheung"
   keywords: ["solar", "specific"]
-  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -427,10 +427,10 @@
   description: "A Python package to provide machine learning and statistical methods to heliophysics data"
   contact: "Romain Dupuis, Jorge Amaya, Giovanni Lapenta"
   keyword: ["machine learning", "heliophysics", "statistics", "data"]
-  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
-  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
-  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
-  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Paritally met"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
@@ -443,6 +443,19 @@
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  
+- name: "geopack"
+  description: "Python version of geopack and Tsyganenko models"
+  docs: "https://github.com/tsssss/geopack/blob/master/README.md"
+  code: "https://github.com/tsssss/geopack"
+  contact: "Sheng Tian"
+  keywords: ["heliophysics", "space physics", "magnetospheric physics"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
