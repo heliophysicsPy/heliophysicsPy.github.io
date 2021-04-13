@@ -5,7 +5,7 @@ permalink: /meetings/spring2021/
 exclude: true
 ---
 
-The spring 2021 meeting of the [Python in Heliophysics Community](http://heliopython.org) will be held remotely [**at this Zoom link**](https://cuboulder.zoom.us/j/395871054) (Meeting ID: **395 871 054**). _The Zoom meeting will be recorded._ It will be spread across four sessions, starting Monday, May 10th, 2021 and ending Thursday, May 13th, 2021:
+The spring 2021 meeting of the [Python in Heliophysics Community](http://heliopython.org) will be held remotely [**at this Zoom link**](https://cuboulder.zoom.us/j/395871054) (Meeting ID: **395 871 054**). _The Zoom sessions will be recorded._ It will be spread across four sessions, starting Monday, May 10th, 2021 and ending Thursday, May 13th, 2021:
 
  - **Presentations:** May 10th 9:00 AM–11:00 AM (MT)
  - **Tutorials/Presentations:** May 11th 9:00 AM–11:00 AM (MT)
