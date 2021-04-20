@@ -286,6 +286,12 @@
   code: "https://pypi.org/project/madrigalWeb"
   contact: "Bill Rideout"
   keywords: ["ionosphere_thermosphere_mesosphere","general"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
 
 - name: NEXRADutils
   code: https://github.com/space-physics/NEXRADutils
