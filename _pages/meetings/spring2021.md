@@ -22,6 +22,13 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
  - [Hackathon projects](https://docs.google.com/spreadsheets/d/1EUqKfj6iAEPj2AQsyeNyo03qlbCFL0jNoygja4N6KtQ/edit#gid=0)
  - [Presentation and Tutorials Organizing](https://docs.google.com/spreadsheets/d/1JKoWtBTkwsackg_DbFFb3EXHXNDko0mmBBTu9cc2A2g/edit#gid=0)
 
+#### Meeting Recordings
+
+ - [Watch Day 1 here](https://cuboulder.zoom.us/rec/share/fP-LpSikrHRYGEeJ-g9BMXLpZ78h67gSHy6iXvR937lE8OpQV07HoyD15mC1O-gD.Wif-UdiYIK8FU3PR) 
+   - Passcode: !Y3G5xL9
+ - [Watch Day 2 here](https://cuboulder.zoom.us/rec/share/hQzT1TQLAIpmcG2LYv3W_e1KiHoA2stgaRSj-JEu74iO2dlVNC4t4GyqcaAZaA94.UXgwJcanCjiZ1OS6)
+   - Passcode: $rCTe7a0
+
 ### Zoom Meeting Information
 
 Join Zoom Meeting
