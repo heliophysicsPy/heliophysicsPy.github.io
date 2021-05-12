@@ -1,11 +1,11 @@
 - category: "Science Area"
   description: "The scientific area a package is relevant to"
-  keywords: ["solar", "magnetosphere", "ionosphere_thermosphere_mesosphere", "heliosphere", "planetary", "plasma_physics"]
+  keywords: ["solar", "magnetosphere", "ionosphere_thermosphere_mesosphere", "heliosphere", "planetary", "plasma_physics", "geospace"]
 
 - category: "Functionality"
   description: "The functionality available in a package"
-  keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_imaging", "plotting", "3D_graphics", 
-             "data_container", "power_spectra", "spectra", "calibration", "multidimensional", "interactive"]
+  keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_graphics", "plotting", "3D_graphics", 
+             "data_container", "power_spectra", "spectra", "calibration", "multidimensional", "interactive", "machine_learning"]
   
 - category: "Span"
   description: "The user scope of a project"
@@ -13,11 +13,11 @@
 
 - category: "Input/Output Formats"
   description: "The different data formats a package reads and/or writes"
-  keywords: ["fits", "cdf", "netcdf", "ascii", "idl_save", "geny", "hdf5", "omni", "csv"]
+  keywords: ["fits", "cdf", "netcdf", "ascii", "idl_save", "hdf5", "csv"]
 
 - category: "Input Sources"
   description: "The ability of a project to access web service data/local data"
-  keywords: ["local", "remote", "web_service"]
+  keywords: ["local", "remote", "web_service", "hapi"]
 
 - category: "Intent"
   description: "The overarching purpose of a project"
