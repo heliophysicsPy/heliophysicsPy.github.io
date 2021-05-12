@@ -399,7 +399,7 @@
   logo: "https://raw.githubusercontent.com/ESA-VirES/Swarm-VRE/staging/docs/_static/vre_logo.png"
   description: "Access to ESA Swarm mission products"
   contact: "EOX IT Services / Ashley Smith"
-  keywords: ["magnetosphere", "ionosphere_thermosphere_mesosphere", "data_retrieval", "webservice", "remote", "data_access", "general"]
+  keywords: ["geospace", "ionosphere_thermosphere_mesosphere", "data_retrieval", "web_service", "remote", "data_access", "specific"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
