@@ -70,7 +70,7 @@
 - name: GOESutils
   code: https://github.com/space-physics/GOESplot
   description:  Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time
-  logo: https://raw.githubusercontent.com/space-physics/GOESplot/master/goesplot/tests/goes13-IR-2017-07-13-12.jpg
+  logo: https://raw.githubusercontent.com/space-physics/GOESplot/master/src/goesplot/tests/goes13-IR-2017-07-13-12.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","solar","magnetosphere","specific"]
 
