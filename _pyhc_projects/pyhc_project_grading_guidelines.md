@@ -41,7 +41,7 @@ The six standards against which we assess a project are the following:
 * Python3
 * License
 
-An explanation of each standard (and sub-standards therein) are defined in the [PyHC Community Standards](https://github.com/heliophysicsPy/standards/blob/master/standards.md)
+An explanation of each standard (and sub-standards therein) are defined in the [PyHC Community Standards](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
 
 ### Community
 
@@ -51,7 +51,7 @@ In order to conform to the PyHC Community standard, packages need to successfull
 * Collaboration
 * Code of Conduct
 
-See the [PyHC Community Standards, points 2, 12, 13, and 15](https://github.com/heliophysicsPy/standards/blob/master/standards.md)
+See the [PyHC Community Standards, points 2, 12, 13, and 15](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ See the [PyHC Community Standards, points 2, 12, 13, and 15](https://github.com/
 ### Documentation
 
 Basically, make sure that the project has documentation, and if so, take note of the state of said documentation.
-See the [PyHC Standards, point 8](https://github.com/heliophysicsPy/standards/blob/master/standards.md) for the specifics on what should be included in documentation.
+See the [PyHC Standards, point 8](https://github.com/heliophysicsPy/standards/blob/main/standards.md) for the specifics on what should be included in documentation.
 
 <table>
 <tr>
@@ -90,7 +90,7 @@ See the [PyHC Standards, point 8](https://github.com/heliophysicsPy/standards/bl
 
 ### Testing
 
-Code must have unit tests to ensure its functionality. Unit tests should cover all individual components of code, as well as interaction between different components in the code. Automated testing, and system and acceptance testing is encouraged. See [PyHC Standards, point 9](https://github.com/heliophysicsPy/standards/blob/master/standards.md) for more specifics on testing expectations.
+Code must have unit tests to ensure its functionality. Unit tests should cover all individual components of code, as well as interaction between different components in the code. Automated testing, and system and acceptance testing is encouraged. See [PyHC Standards, point 9](https://github.com/heliophysicsPy/standards/blob/main/standards.md) for more specifics on testing expectations.
 
 <table>
 <tr>
@@ -118,7 +118,7 @@ The Software Maturity standard contains seven sub-standards:
 * Dependencies
 * Binaries
 
-See the [PyHC Community Standards, points 1, 3, 4, 6, 7, 10, and 14](https://github.com/heliophysicsPy/standards/blob/master/standards.md)
+See the [PyHC Community Standards, points 1, 3, 4, 6, 7, 10, and 14](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
 
 <table>
 <tr>
@@ -137,7 +137,7 @@ See the [PyHC Community Standards, points 1, 3, 4, 6, 7, 10, and 14](https://git
 
 ### Python3
 
-This deals with a project's compatability with Python 3. See the [PyHC Community Standards, point 11](https://github.com/heliophysicsPy/standards/blob/master/standards.md)
+This deals with a project's compatability with Python 3. See the [PyHC Community Standards, point 11](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ This deals with a project's compatability with Python 3. See the [PyHC Community
 
 ### License
 
-Projects need to have permissive licenses for open source scientific software (see specific recommendations in the [PyHC standards, point 5](https://github.com/heliophysicsPy/standards/blob/master/standards.md).
+Projects need to have permissive licenses for open source scientific software (see specific recommendations in the [PyHC standards, point 5](https://github.com/heliophysicsPy/standards/blob/main/standards.md).
 
 <table>
 <tr>

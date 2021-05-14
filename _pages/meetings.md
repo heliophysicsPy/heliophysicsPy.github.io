@@ -40,7 +40,7 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 2018 Python in Heliophysics Working Group Meeting, November 13-15, 2018 (at LASP). 
 * [Meeting Report](https://docs.google.com/document/d/1ejP0kaibf6DRxjYJNmPrF1t3Nl21r0pC1FuDhu0hPnM/edit?usp=sharing)
 * [Presentations and Documents](https://drive.google.com/open?id=1snib9D8PcSaPByMqrAx8_4b05RfsTh58)
-* [Python in Heliophysics Community (PyHC) Standards](https://github.com/heliophysicsPy/standards/blob/master/standards.md)
+* [Python in Heliophysics Community (PyHC) Standards](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
 
 ### Related Meetings
 
