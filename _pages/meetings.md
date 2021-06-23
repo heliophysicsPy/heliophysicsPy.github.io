@@ -48,5 +48,5 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 
 #### AGU Sessions
 
-* AGU 2021 abstract submissions are now open! Submit to our session, SH023 - Python Applications for Solar and Space Physics (Virtual-only poster session) [at this link](https://agu.confex.com/agu/fm21/prelim.cgi/Session/119817).
+* AGU 2021 abstract submissions are now open! Submit to our session, SH023 - Python Applications for Solar and Space Physics (Virtual-only poster session) [at this link](https://agu.confex.com/agu/fm21/prelim.cgi/Session/119817). Abstract submissions are due no later than 4 August 2021 at 23:59 EDT. Late submissions will not be accepted.
 
