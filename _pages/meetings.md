@@ -44,10 +44,9 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 
 ### Related Meetings
 
-* [CEDAR workshop](http://cedarweb.vsp.ucar.edu/wiki/index.php/2019_Workshop:Python_for_Space_Science)
-* SHINE 2019 Tutorial: [Using SunPy and HelioPy to work with remote and in situ data](https://shinecon.org/shine2019/session2019.php#session22)
+* [2021 Hack Week by PlasmaPy](https://hack.plasmapy.org/)
 
 #### AGU Sessions
 
-* [SH010 - Python Application Development for Solar and Space Physics (Poster session)](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/102187), Tuesday, December 8th, 2020, from 04:00 - 20:59 PST
+* AGU 2021 abstract submissions are now open! Submit to our session, SH023 - Python Applications for Solar and Space Physics (Virtual-only poster session) [at this link](https://agu.confex.com/agu/fm21/prelim.cgi/Session/119817). Abstract submissions are due no later than 4 August 2021 at 23:59 EDT. Late submissions will not be accepted.
 
