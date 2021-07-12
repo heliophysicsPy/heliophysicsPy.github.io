@@ -34,6 +34,12 @@
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: DASCutils
   code: https://github.com/space-physics/dascasi
@@ -310,6 +316,12 @@
   code: "https://github.com/SNU-sunday/fisspy"
   contact: "Juhyeong Kang"
   keywords: ["solar","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "fiasco"
   description: "A Python interface to the CHIANTI atomic database."
