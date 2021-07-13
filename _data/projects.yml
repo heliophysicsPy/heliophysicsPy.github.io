@@ -141,6 +141,12 @@
   description: CCMC tool for access, interpolation, and visualization of space weather models and data
   contact: Asher Pembroke
   keywords: ["data_retrieval","plotting","spectra"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: LOWTRAN
   code: https://github.com/space-physics/lowtran
@@ -165,6 +171,12 @@
   description: "Othogonal Multipole Magnetic Basis Vectors - Express vectors relative to a multipole magnetic field using an orthogonal curvi-linear basis."
   code: "https://github.com/rstoneback/OMMBV"
   contact: "Russell Stoneback"
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: POLAN
   code: https://github.com/space-physics/POLAN
@@ -278,6 +290,12 @@
   code: "https://github.com/jswoboda/GeoDataPython"
   contact: "John Swoboda"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: MSISE-00
   description:  NRL MSISE-00 atmospheric model-- in Python and Matlab
