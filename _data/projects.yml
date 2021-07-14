@@ -459,3 +459,16 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "MCALF"
+  description: "Accurately constraining velocity information from spectral imaging observations using machine learning techniques."
+  docs: "https://mcalf.macbride.me/"
+  code: "https://github.com/ConorMacBride/mcalf"
+  contact: "Conor MacBride"
+  keywords: ["solar", "machine_learning", "spectra", "plotting", "line_plots", "2D_graphics", "multidimensional", "specific", "fits", "local", "data_analysis"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
