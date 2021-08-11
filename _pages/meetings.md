@@ -43,9 +43,9 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 
 ### Related Meetings
 
-* [2021 Hack Week by PlasmaPy](https://hack.plasmapy.org/)
 
 #### AGU Sessions
 
-* AGU 2021 abstract submissions are now open! Submit to our session, SH023 - Python Applications for Solar and Space Physics (Virtual-only poster session) [at this link](https://agu.confex.com/agu/fm21/prelim.cgi/Session/119817). Abstract submissions are due no later than 4 August 2021 at 23:59 EDT. Late submissions will not be accepted.
+* AGU Fall 2021 meeting: SH023 - Python Applications for Solar and Space Physics (virtual-only poster session) 
+    * [Registration](https://www.agu.org/Fall-Meeting/Pages/Register-Housing) opens 23 August 2021 
 
