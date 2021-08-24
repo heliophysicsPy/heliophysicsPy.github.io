@@ -190,12 +190,24 @@
   code: "https://github.com/timduly4/pyglow"
   contact: "Timothy Duly"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "PyDARN"
   description: "A package for analyzing data from SuperDARN."
   code: "https://github.com/SuperDARN/pydarn"
   contact: "Marina Schmidt"
   keywords: ["ionosphere_thermosphere_mesosphere","general"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"] 
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: PyGemini
   description: Python frontend for Gemini3D ionospheric kintic + fluid dynamics models
@@ -259,6 +271,12 @@
   code: "https://github.com/nbarbey/TomograPy"
   contact: "Nicolas Barbey"
   keywords: ["solar","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: WMM2020
   code: https://github.com/space-physics/WMM2020
@@ -277,12 +295,12 @@
   code: "https://github.com/rstoneback/pysatCDF"
   contact: "Russell Stoneback"
   keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","specific"]
-
-- name: "pysatMagVect"
-  description: "Geomagnetic field line tracing, unit vectors, ion drift mapping, vector and coordinate transformations."
-  code: "https://github.com/rstoneback/pysatMagVect"
-  contact: "Russell Stoneback"
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "geodata"
   description: "Geophysics analysis of radar and optical systems."
@@ -328,6 +346,12 @@
   code: "https://github.com/dpq/python-magnetosphere"
   contact: "David Parunakian"
   keywords: ["magnetosphere","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  python3: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "fisspy"
   description: "Fast Imaging Solar Spectrograph (FISS) on the New Solar Telescope."
@@ -427,6 +451,12 @@
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: "Bryan Harter"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "viresclient"
   code: "https://github.com/ESA-VirES/VirES-Python-Client/"
