@@ -83,6 +83,12 @@ Python notebooks are documents that contain live code, equations, visualizations
  * Project Jupyter encourages its use
  * 12% (and growing) of PyHC respondents use it
 
+#### [Deepnote](https://deepnote.com/)
+ * Jupyter-compatible
+ * Real-time collaboration running in the cloud
+ * Customizable environments
+ * Keeps data together with notebooks
+
 <br>
 
 ### Other Tools
