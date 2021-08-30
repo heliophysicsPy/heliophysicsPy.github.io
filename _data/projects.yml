@@ -478,7 +478,7 @@
   docs: "https://wtbarnes.github.io/hissw/"
   code: "https://github.com/wtbarnes/hissw"
   contact: "Will Barnes"
-  keywords: ["solar", "SSW", "IDL", "SolarSoftware", "SolarSoft"]
+  keywords: ["solar", "general", "wrapper", "idl_save"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
