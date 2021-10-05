@@ -24,12 +24,9 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
 
 #### Meeting Recordings
 
- - [Watch Day 1 here](https://cuboulder.zoom.us/rec/share/fP-LpSikrHRYGEeJ-g9BMXLpZ78h67gSHy6iXvR937lE8OpQV07HoyD15mC1O-gD.Wif-UdiYIK8FU3PR) 
-   - Passcode: !Y3G5xL9
- - [Watch Day 2 here](https://cuboulder.zoom.us/rec/share/hQzT1TQLAIpmcG2LYv3W_e1KiHoA2stgaRSj-JEu74iO2dlVNC4t4GyqcaAZaA94.UXgwJcanCjiZ1OS6)
-   - Passcode: $rCTe7a0
- - [Watch Day 4 here](https://cuboulder.zoom.us/rec/share/CvNAKj0wF9-ZQbGJ2aP3l7utEFGTFD5rBLk1eS1972E6h0s5ikMfa8V97-0PAVtT.aoiLpUZi5CmRRsC2)
-   - Passcode: iiQ8dc.*
+ - [Watch Day 1 here](https://drive.google.com/file/d/1H4FxnNdRmG5ZpyXrFzt2S8yM1h5iArWo/view?usp=sharing) 
+ - [Watch Day 2 here](https://drive.google.com/file/d/162bCkIQ7tLmrt4NdwMkhe3pyfbr9t_Kp/view?usp=sharing)
+ - [Watch Day 4 here](https://drive.google.com/file/d/1xaq0VdV9IFRhJ5ZhYTvRi_1o-BzdXQ4T/view?usp=sharing)
 
 ### Zoom Meeting Information
 
