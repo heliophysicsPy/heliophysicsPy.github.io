@@ -51,6 +51,8 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 
 #### AGU Sessions
 
-* AGU Fall 2021 meeting: SH023 - Python Applications for Solar and Space Physics (virtual-only poster session) 
-    * [Registration](https://www.agu.org/Fall-Meeting/Pages/Register-Housing) opens 23 August 2021 
+* AGU Fall 2021 meeting: SH35H - Python Applications for Solar and Space Physics I Poster (virtual-only poster session) 
+    * Wednesday, 15 December 2021, 15:00 - 16:15 CT, Online Only
+    * [Link to Session Info Page](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/119817)
+    * [AGU Registration](https://www.agu.org/Fall-Meeting/Pages/Register-Housing) opens 23 August 2021
 
