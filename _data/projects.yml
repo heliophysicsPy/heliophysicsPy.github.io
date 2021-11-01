@@ -472,3 +472,16 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "hissw"
+  description: "Easily integrate SSWIDL scripts into your Python workflow via Jinja templates"
+  docs: "https://wtbarnes.github.io/hissw/"
+  code: "https://github.com/wtbarnes/hissw"
+  contact: "Will Barnes"
+  keywords: ["solar", "general", "wrapper", "idl_save"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
