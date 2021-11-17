@@ -55,3 +55,16 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "pySPEDAS"
+  description: "Tools for loading, analysis and plotting of data from various heliophysics missions and ground magnetometers"
+  docs: "https://github.com/spedas/pyspedas"
+  code: "https://github.com/spedas/pyspedas"
+  contact: "Nick Hatzigeorgiu, Eric Grimes"
+  keywords: ["heliophysics", "space physics", "magnetospheric physics", "data"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
