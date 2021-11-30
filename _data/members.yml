@@ -1,3 +1,7 @@
+- handle: "supervised"
+  name: "Eric Grimes"
+  affiliation: "UCLA Dept. of Earth, Planetary & Space Sciences"
+
 - handle: "ehsteve"
   name: "Steven D. Christe"
   affiliation: "NASA GSFC"
