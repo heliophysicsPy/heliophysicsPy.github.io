@@ -156,9 +156,18 @@
   keywords: ["planetary","specific"]
 
 - name: "OMMBV"
-  description: "Othogonal Multipole Magnetic Basis Vectors - Express vectors relative to a multipole magnetic field using an orthogonal curvi-linear basis."
+  description: "Othogonal Multipole Magnetic Basis Vectors - Map electric fields and ion drifts, express vectors relative to a multipole magnetic field using an orthogonal basis."
+  logo: "https://github.com/rstoneback/OMMBV/blob/main/docs/images/logo_high_res.png"
+  docs: "https://ommbv.readthedocs.io/en/latest/?badge=latest"
   code: "https://github.com/rstoneback/OMMBV"
   contact: "Russell Stoneback"
+  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"] 
 
 - name: POLAN
   code: https://github.com/space-physics/POLAN
@@ -259,12 +268,6 @@
   code: "https://github.com/rstoneback/pysatCDF"
   contact: "Russell Stoneback"
   keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","specific"]
-
-- name: "pysatMagVect"
-  description: "Geomagnetic field line tracing, unit vectors, ion drift mapping, vector and coordinate transformations."
-  code: "https://github.com/rstoneback/pysatMagVect"
-  contact: "Russell Stoneback"
-  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
 - name: "geodata"
   description: "Geophysics analysis of radar and optical systems."
