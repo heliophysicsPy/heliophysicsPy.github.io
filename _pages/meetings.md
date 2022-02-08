@@ -56,3 +56,7 @@ _pages/meetings/april2020.md %}), April 29 (remote).
     * [Link to Session Info Page](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/119817)
     * [AGU Registration](https://www.agu.org/Fall-Meeting/Pages/Register-Housing) opens 23 August 2021
 
+#### Summer School
+
+* We are excited to announce our inaugural [2022 Summer School]("{{ site.baseurl }}/summer-school/"), in partnership with the European Space Astronomy Centre (ESAC)! [Click here for more info]("{{ site.baseurl }}/summer-school/").
+
