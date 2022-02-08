@@ -13,8 +13,12 @@ The Python in Heliophysics Community (PyHC) is excited to announce its inaugural
 ### Preregistration
 [Pre-register here](https://www.cosmos.esa.int/web/ihdea) today! 
 
+<br>
+
 ### Dates
 30 May 2022 – 3 June 2022
+
+<br>
 
 ### Location
 European Space Astronomy Centre (ESAC)<br>
@@ -24,6 +28,8 @@ Villanueva de la Cañada<br>
 E-28692 Madrid, Spain<br>
 
 (and online)
+
+<br>
 
 ### Agenda
 #### Day 1: Monday, 30 May 2022
@@ -96,6 +102,8 @@ E-28692 Madrid, Spain<br>
     - Retrospective
     - Gather feedback from attendees on Summer School (should also allow other options for anonymous feedback) - what did they like? Not like? What needed more/less time? What other topics do they hope to see in future summer schools? 
     - How did having it in Spain and/or online work?
+
+<br>
 
 ### Additional Info
 Please email either: 
