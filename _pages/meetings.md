@@ -8,9 +8,13 @@ order: 3
 
 Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain time, but this can fluctuate depending on holidays/conferences/etc. See the Calendar below for the next telecon time. Presentations and notes are shared on [Google Drive](https://drive.google.com/drive/u/0/folders/1AhFUli3SGW9DHvIh81tFxPMgLtYSPXDm). 
 
+<br>
+
 ### Calendar
 
 Meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+
+<br>
 
 ### Community Meetings
 
@@ -45,6 +49,8 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 * [Meeting Report](https://docs.google.com/document/d/1ejP0kaibf6DRxjYJNmPrF1t3Nl21r0pC1FuDhu0hPnM/edit?usp=sharing)
 * [Presentations and Documents](https://drive.google.com/open?id=1snib9D8PcSaPByMqrAx8_4b05RfsTh58)
 * [Python in Heliophysics Community (PyHC) Standards](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
+
+<br>
 
 ### Related Meetings
 
