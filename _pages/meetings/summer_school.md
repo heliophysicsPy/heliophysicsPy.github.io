@@ -41,24 +41,24 @@ E-28692 Madrid, Spain<br>
     - Overview of PyHC activities
     - Mention of our [standards](https://github.com/heliophysicsPy/standards/blob/main/standards.md), mission statement and strategic goals, and how they fit into everything we’ve learned about so far w.r.t. doing open science! 
  - “AstroPy for Heliophysics” Project introduction [2h45m; included 15 min break halfway]
-    - https://github.com/astropy/astropy 
-    - https://docs.astropy.org/en/stable/ 
+    - [https://github.com/astropy/astropy](https://github.com/astropy/astropy) 
+    - [https://docs.astropy.org/en/stable/](https://docs.astropy.org/en/stable/) 
  - Lunch Break [45m]
  - SunPy Project Introduction [2h45m; included 15 min break halfway]
-    - https://github.com/sunpy/sunpy 
-    - https://docs.sunpy.org/en/stable/ 
+    - [https://github.com/sunpy/sunpy](https://github.com/sunpy/sunpy )
+    - [https://docs.sunpy.org/en/stable/](https://docs.sunpy.org/en/stable/) 
 
 #### Day 2: Tuesday, 31 May 2022
 **Focus: PlasmaPy + SpacePy**
  - Kicking off the day’s activities [15m]
  - PlasmaPy” Project Introduction [2h45m; included 15 min break halfway]
     - PlasmaPy [2h45m; included 15 min break halfway]
-        - https://github.com/PlasmaPy/plasmapy 
-        - https://docs.plasmapy.org/en/stable/
+        - [https://github.com/PlasmaPy/plasmapy](https://github.com/PlasmaPy/plasmapy) 
+        - [https://docs.plasmapy.org/en/stable/](https://docs.plasmapy.org/en/stable/)
  - Lunch Break [45m]
  - SpacePy Project Introduction [2h45m; included 15 min break halfway]
-    - https://github.com/spacepy/spacepy 
-    - https://spacepy.github.io/ 
+    - [https://github.com/spacepy/spacepy](https://github.com/spacepy/spacepy)
+    - [https://spacepy.github.io/](https://spacepy.github.io/) 
 
 #### Day 3: Wednesday, 01 June 2022
 **Focus: HAPI + Python Testing + Group Outing**
@@ -80,22 +80,22 @@ E-28692 Madrid, Spain<br>
 **Focus: pySPEDAS + pysat**
  - Kicking off the day’s activities [15m]
  - pySPEDAS Project Introduction [2h45m; included 15 min break halfway]
-    - https://github.com/spedas/pyspedas 
-    - https://pyspedas.readthedocs.io/en/latest/ 
+    - [https://github.com/spedas/pyspedas](https://github.com/spedas/pyspedas) 
+    - [https://pyspedas.readthedocs.io/en/latest/](https://pyspedas.readthedocs.io/en/latest/) 
  - Lunch Break [45m]
  - pysat Project Introduction [2h45m; included 15 min break halfway]
-    - https://github.com/pysat/pysat 
-    - https://pysat.readthedocs.io/en/latest/ 
+    - [https://github.com/pysat/pysat](https://github.com/pysat/pysat)
+    - [https://pysat.readthedocs.io/en/latest/](https://pysat.readthedocs.io/en/latest/)
 
 #### Day 5: Friday, 03 June 2022
 **Focus: Kamodo + Speasy + Configuring PyHC Software Locally + Wrap Up**
  - Kicking off the day’s activities [15m]
  - Kamodo Project Introduction [2h45m; included 15 min break halfway]
-    - https://github.com/nasa/Kamodo 
-    - https://ccmc.gsfc.nasa.gov/Kamodo/ 
+    - [https://github.com/nasa/Kamodo](https://github.com/nasa/Kamodo)
+    - [https://ccmc.gsfc.nasa.gov/Kamodo/](https://ccmc.gsfc.nasa.gov/Kamodo/ ) 
  - Speasy (formally AmdaPy) Project Introduction [1h45m; included 15 min break at end of session]
-    - https://pypi.org/project/speasy/ ; https://github.com/SciQLop/speasy 
-    - https://speasy.readthedocs.io/en/stable/ 
+    - [https://pypi.org/project/speasy/](https://pypi.org/project/speasy/) ; [https://github.com/SciQLop/speasy](https://github.com/SciQLop/speasy) 
+    - [https://speasy.readthedocs.io/en/stable/](https://speasy.readthedocs.io/en/stable/ )
  - Python Learning Session: Configuring/Basic Usage of PyHC Locally [1h45m]
     - Installing how to’s, basic commands, etc.
  - Wrap up [30m]
