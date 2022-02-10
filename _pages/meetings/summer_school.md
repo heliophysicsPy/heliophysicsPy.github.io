@@ -11,7 +11,7 @@ The Python in Heliophysics Community (PyHC) is excited to announce its inaugural
 <br>
 
 ### Preregistration
-[Pre-register here](https://www.cosmos.esa.int/web/ihdea) today! 
+_**[Pre-register here](https://www.cosmos.esa.int/web/ihdea) today!**_
 
 <br>
 
