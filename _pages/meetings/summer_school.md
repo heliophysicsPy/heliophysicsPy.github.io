@@ -32,6 +32,7 @@ E-28692 Madrid, Spain<br>
 <br>
 
 ### Agenda
+(subject to small changes as we finalize it)
 #### Day 1: Monday, 30 May 2022
 **Focus: PyHC Introduction + AstroPy for Heliophysics + SunPy**
  - Introductions (welcome, agenda, code of conduct reminder, etc.) [15m]
