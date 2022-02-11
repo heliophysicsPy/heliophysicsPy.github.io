@@ -10,8 +10,8 @@ The Python in Heliophysics Community (PyHC) is excited to announce its inaugural
 
 <br>
 
-### Preregistration
-_**[Pre-register here](https://www.cosmos.esa.int/web/ihdea) today!**_
+### Registration
+_**[Register here](https://www.cosmos.esa.int/web/ihdea) today!**_
 (This is a free event!)
 
 <br>
@@ -108,6 +108,5 @@ E-28692 Madrid, Spain<br>
 <br>
 
 ### Additional Info
-Please email either: 
- - <a href="mailto:Julie.Barnum@lasp.colorado.edu">Julie.Barnum@lasp.colorado.edu</a> 
- - <a href="mailto:Shawn.Polson@lasp.colorado.edu">Shawn.Polson@lasp.colorado.edu</a>
+Please email: 
+ - <a href="mailto:pyhc-confidential@lasp.colorado.edu">pyhc-confidential@lasp.colorado.edu</a> 
