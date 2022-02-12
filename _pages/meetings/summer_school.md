@@ -32,6 +32,11 @@ E-28692 Madrid, Spain<br>
 
 <br>
 
+### Official Language
+The official language of the PyHC 2022 Summer School is English. Simultaneous interpretation is not provided. It is therefore expected that attendees are able to communicate in the English language.
+
+<br>
+
 ### Agenda
 (subject to small changes as we finalize it)
 #### Day 1: Monday, 30 May 2022
