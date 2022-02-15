@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Python in Heliophysics Summer School
+summary: The web page for the PyHC 2022 Summer School
 permalink: /summer-school
 exclude: true
 ---
