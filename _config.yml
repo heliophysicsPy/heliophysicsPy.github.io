@@ -1,6 +1,12 @@
 # Site Settings
 title: Python in Heliophysics Community (PyHC)
+title_image: /img/PyHC logo 250x250.png
 description: "Promoting and facilitating the use and development of Python for Heliophysics."
+url: "https://heliopython.org/"
+
+# Social username/URLs
+twitter_username: PyHC_official
+
 # Build Settings
 sass:
   sass_dir: _sass

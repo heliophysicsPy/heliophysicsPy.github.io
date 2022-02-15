@@ -2,7 +2,6 @@
 layout: page
 title: Python in Heliophysics Summer School
 permalink: /summer-school
-image: /../../img/PyHC logo 250x250.png
 exclude: true
 ---
 <img src="../../img/page_images/summer-school.jpg" alt="Summer School 30 May 2022 – Friday, 3 June 2022" style="display: block; margin-left: auto; margin-right: auto; width: 60%">
