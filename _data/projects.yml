@@ -35,6 +35,19 @@
   contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
 
+- name: "dbprocessing"
+  description: "Database-driven Heliophysics processing controller."
+  docs: "https://spacepy.github.io/dbprocessing/"
+  code: "https://github.com/spacepy/dbprocessing"
+  contact: "Jon Niehof"
+  keywords: ["heliosphere","ionosphere_thermosphere_mesosphere","magnetosphere","general"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: DASCutils
   code: https://github.com/space-physics/dascasi
   description: Digital All Sky Camera utilities, for camera at Poker Flat Research Range and elsewhere
