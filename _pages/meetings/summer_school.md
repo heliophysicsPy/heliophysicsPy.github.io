@@ -38,6 +38,11 @@ The official language of the PyHC 2022 Summer School is English. Simultaneous in
 
 <br>
 
+### Python Resources
+You do not have to be a Python expert to attend. We will teach some Python best practices, but if you have no prior experience with Python, please use our <a href="{{ site.baseurl }}/docs/python_resources/">Python Resources</a> page to familiarize yourself with the basics.
+
+<br>
+
 ### Agenda
 (subject to small changes as we finalize it)
 #### Day 1: Monday, 30 May 2022
