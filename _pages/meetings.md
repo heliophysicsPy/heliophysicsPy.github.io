@@ -64,5 +64,5 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 
 #### Summer School
 
-* We are excited to announce our inaugural [2022 Summer School](https://heliopython.org/summer-school), in partnership with the European Space Astronomy Centre (ESAC)! [Click here for more info](https://heliopython.org/summer-school).
+* We are excited to announce our inaugural <a href="{{ site.baseurl }}/summer-school/">2022 Summer School</a>, in partnership with the European Space Astronomy Centre (ESAC)! <a href="{{ site.baseurl }}/summer-school/">Click here for more info</a>.
 
