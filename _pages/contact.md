@@ -14,7 +14,7 @@ Once you've joined, you will be able to send emails to the group via [pyhc-list@
 If the above steps do not work for you, please contact Julie Barnum at LASP, [Julie.Barnum@lasp.colorado.edu](mailto:Julie.Barnum@lasp.colorado.edu)
 
 ## Twitter
-Follow [PyHC on twitter](https://twitter.com/PyHC_official) for quick announcements, updates, projects updates, etc.! 
+Follow [PyHC on Twitter](https://twitter.com/PyHC_official) for quick announcements, updates, projects updates, etc.! 
 
 ## Chat rooms
 For more informal discussions and questions there is a chat room to enable live chat between users and developers. The chat is hosted on matrix and clicking the following [link](https://riot.im/app/#/room/#heliopython:openastronomy.org) will open a browser window with the chat interface. There is no need to install any software.
