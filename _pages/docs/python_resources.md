@@ -31,7 +31,7 @@ The Jupyter Notebook is a web application that allows you to create and share do
 ### SciPy 2019 Presentations
 SciPy 2019 was the 18th annual Scientific Computing with Python conference. Follow these links to watch a selection of helpful presentations from it. Note that we picked 2019 because there was an in-person element.
 
- - [2 Hour Introduction to Python](https://www.youtube.com/watch?v=6KM8HOQi5Xk)
+ - [Two-Hour Introduction to Python](https://www.youtube.com/watch?v=6KM8HOQi5Xk)
 
  - [Getting Started with Jupyter](https://www.youtube.com/watch?v=RFabWieskak)
 
