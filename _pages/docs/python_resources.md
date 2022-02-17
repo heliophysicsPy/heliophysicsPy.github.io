@@ -4,33 +4,37 @@ title: Python Resources
 permalink: /docs/python_resources/
 exclude: true
 ---
-Here are some resources to help you get started if you are new to Python development.
+Below are some resources to help you get started if you are new to Python development.
 
 <br>
 
-### Web Resources
-Some helpful web pages:
+### Getting Started
+Python is an interpreted, dynamically-typed, high-level programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Follow these links to familiarize yourself with the basics of the language.
 
- - For beginner Python material: [https://astg606.github.io/py_courses/beginner_python/](https://astg606.github.io/py_courses/beginner_python/)
+ - [Python Beginner Course for Programmers](https://astg606.github.io/py_courses/beginner_python/)
 
- - PlasmaPy's hackweek had some intro to Python materials here: [https://hack.plasmapy.org/2021/python/](https://hack.plasmapy.org/2021/python/)
+ - [PlasmaPy Hack Week's Prequel Python Tutorials](https://hack.plasmapy.org/2021/python/)
 
- - Another intro to Jupyter notebooks: [https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
-
- - Python's website: [https://www.python.org](https://www.python.org)
-
- - Jupyter's notebook website: [https://jupyter.org](https://jupyter.org)
+ - [Python's Own Introductory Material](https://www.python.org/about/gettingstarted/)
 
 <br>
 
-### Presentations
-Some helpful talks/presentations:
+### Jupyter Notebooks
+The Jupyter Notebook is a web application that allows you to create and share documents that combine live code, narrative text, visualizations, interactive dashboards, and other media. Notebooks are a popular way to write and share Python code. Follow these links to learn about them.
 
- - There should be some [good videos here](https://www.youtube.com/results?search_query=scipy+2019) from the scipy conference in Austin
+ - [The Definitive Guide to Jupyter Notebooks](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 
-   - 4hr Intro to Python: [https://www.youtube.com/watch?v=6KM8HOQi5Xk](https://www.youtube.com/watch?v=6KM8HOQi5Xk)
-   - Getting started with jupyter: [https://www.youtube.com/watch?v=RFabWieskak](https://www.youtube.com/watch?v=RFabWieskak)
-   - numpy intro: [https://www.youtube.com/watch?v=ZB7BZMhfPgk](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
-   - pandas intro: [https://www.youtube.com/watch?v=5rNu16O3YNE](https://www.youtube.com/watch?v=5rNu16O3YNE)
+ - [Jupyter's Website](https://jupyter.org)
 
-   Note, we picked 2019 since there was an in-person element. Other years work as well.
+ <br>
+
+### SciPy 2019 Presentations
+SciPy 2019 was the 18th annual Scientific Computing with Python conference. Follow these links to watch a selection of helpful presentations from it. Note that we picked 2019 because there was an in-person element.
+
+ - [2 Hour Introduction to Python](https://www.youtube.com/watch?v=6KM8HOQi5Xk)
+
+ - [Getting Started with Jupyter](https://www.youtube.com/watch?v=RFabWieskak)
+
+ - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
+ 
+ - [Introduction to Data Processing with Pandas](https://www.youtube.com/watch?v=5rNu16O3YNE)
