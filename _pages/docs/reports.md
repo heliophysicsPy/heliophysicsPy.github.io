@@ -36,3 +36,9 @@ _pages/docs/reports/february2021.md %})
 
  * [May 2021]({% link
 _pages/docs/reports/may2021.md %})
+
+ * [November 2021]({% link
+_pages/docs/reports/november2021.md %})
+
+ * [Februrary 2022]({% link
+_pages/docs/reports/february2022.md %})
