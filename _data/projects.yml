@@ -250,6 +250,19 @@
   contact: Michael Hirsch
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
 
+- name: Speasy
+  code: https://github.com/SciQLop/speasy
+  description: "Retreive data from many space physics Web services"
+  docs: https://speasy.readthedocs.io/en/stable/
+  contact: Alexis Jeandet
+  keyworrds: ["heliophysics", "space physics", "magnetospheric physics", "data_retrieval", "web_service", "remote", "data"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: THEMISasi
   code: https://github.com/space-physics/themisasi
   description: Read & Plot THEMIS ASI 256x256 "high resolution" GBO ground-based imager data
