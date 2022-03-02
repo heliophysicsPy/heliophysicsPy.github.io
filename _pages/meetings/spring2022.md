@@ -64,4 +64,4 @@ Meeting ID: **395 871 054**
 
 ### Registration
 
-Please [**register**](https://docs.google.com/forms/d/e/1FAIpQLScI5cI4zHOEdoFIBqrd5OKCWoXxULq1ekm_b9u4aWH_2dP5WQ/viewform?usp=sf_link) by close of business Friday May 13th, 2022 if you plan to participate remotely so that you may receive email announcements and updates.  No registration fee is required.  You may still participate without registering.
+Please [**register**](https://forms.gle/HxgkVDJB9AKZjr7e6) by close of business Friday May 13th, 2022 if you plan to participate remotely so that you may receive email announcements and updates.  No registration fee is required.  You may still participate without registering.
