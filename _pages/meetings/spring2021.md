@@ -24,9 +24,9 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
 
 #### Meeting Recordings
 
- - [Watch Day 1 here](https://drive.google.com/file/d/1H4FxnNdRmG5ZpyXrFzt2S8yM1h5iArWo/view?usp=sharing) 
- - [Watch Day 2 here](https://drive.google.com/file/d/162bCkIQ7tLmrt4NdwMkhe3pyfbr9t_Kp/view?usp=sharing)
- - [Watch Day 4 here](https://drive.google.com/file/d/1xaq0VdV9IFRhJ5ZhYTvRi_1o-BzdXQ4T/view?usp=sharing)
+ - [Watch Day 1 here](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/juba8233_colorado_edu/Ee4IyRVz87ZIr3epSwbNijMBge8n3lfvhNTzvwYvMGMlZw?e=WTX62o) 
+ - [Watch Day 2 here](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/juba8233_colorado_edu/EbP2K_odCYxNqja6lvWvZcMBy0EA76Ymn_j42S7eaTRTDQ?e=OHm87g)
+ - [Watch Day 4 here](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/juba8233_colorado_edu/EW-XEZB2iNhKkiXBDPWz3iUBEhVur161PaVq4BVn6sbR0Q?e=YXSr6c)
 
 ### Zoom Meeting Information
 
