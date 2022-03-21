@@ -11,7 +11,7 @@ are confident the results are ready to be input to the PyHC Project List, you'll
 [PyHC website repository](https://github.com/heliophysicsPy/heliophysicsPy.github.io). You'll make all your changes in that
 forked repository before creating a Pull Request (PR) to merge your repository's changes into the main PyHC website repository.
 
-In your forked repository, navigate to _data/projects.yml (or_data/projects_core.yml,_if you know your project already resides there_). Think of projects.yml file as a database where you can enter in
+In your forked repository, navigate to _data/projects.yml (or _data/projects_core.yml, _if you know your project already resides there_). Think of projects.yml file as a database where you can enter in
 information about your project that's called by other scripts in the repository to build the Projects page.
 In projects.yml, projects are listed in alphabetical order. Available inputs for your projects are as follows (where mandatory
 inputs are starred, and variable names are shown in parentheses):
