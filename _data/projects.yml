@@ -63,7 +63,7 @@
 
 - name: enlilviz
   description: A Python toolkit for Enlil solar wind visualizations.
-  docs: https://enlilviz.readthedocs.io/en/stable/
+  docs: https://enlilviz.readthedocs.io/
   code: https://github.com/SWxTREC/enlilviz
   contact: Greg Lucas
   keywords: ["heliosphere","plotting","specific"]
@@ -180,7 +180,7 @@
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"] 
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: POLAN
   code: https://github.com/space-physics/POLAN
@@ -253,7 +253,7 @@
 - name: Speasy
   code: https://github.com/SciQLop/speasy
   description: "Retreive data from many space physics Web services"
-  docs: https://speasy.readthedocs.io/en/stable/
+  docs: https://speasy.readthedocs.io/
   contact: Alexis Jeandet
   keyworrds: ["heliophysics", "space physics", "magnetospheric physics", "data_retrieval", "web_service", "remote", "data"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -403,7 +403,7 @@
 - name: "NDCube"
   description: "A Python package for manipulating, inspecting and visualizing multi-dimensional contiguous and non-contiguous coordinate-aware data arrays"
   logo: "https://raw.githubusercontent.com/sunpy/ndcube/master/docs/logo/ndcube.png"
-  docs: "https://docs.sunpy.org/projects/ndcube/en/stable/"
+  docs: "https://docs.sunpy.org/projects/ndcube/"
   code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
   keywords: ["heliophysics", "solar", "astrophysics", "n-dimensional", "data", "container objects", "visualization", "data manipulation"]
@@ -501,3 +501,55 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "sunraster"
+  description: "A SunPy-affiliated package which provides tools to analyze data from spectral data from any solar mission."
+  docs: "https://docs.sunpy.org/projects/sunraster/en/latest/"
+  code: "https://github.com/sunpy/sunraster"
+  contact: "Nabil Freij"
+  keywords: ["solar", "spectral"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "sunkit-image"
+  description: "A image processing toolbox for Solar Physics"
+  docs: "https://docs.sunpy.org/projects/sunkit-image/"
+  code: "https://github.com/sunpy/sunkit-image"
+  contact: "Nabil Freij"
+  keywords: ["solar", "general", "image processing"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "sunkit-instruments"
+  description: "A SunPy-affiliated package for solar instrument-specific tools."
+  docs: "https://docs.sunpy.org/projects/sunkit-instruments/"
+  code: "https://github.com/sunpy/sunkit-instruments"
+  contact: "Nabil Freij"
+  keywords: ["solar", "intruments"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "pyflct"
+  description: "A Python wrapper for Fourier Local Correlation Tracking"
+  docs: "https://pyflct.readthedocs.io/en/latest/"
+  code: "https://github.com/sunpy/pyflct"
+  contact: "Nabil Freij"
+  keywords: ["solar", "wrapper", "flct"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
