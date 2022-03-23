@@ -31,6 +31,9 @@ E-28692 Madrid, Spain<br>
 
 (and online)
 
+#### Hotel
+We recommend staying at the [Leonardo Hotel Madrid City Center](https://www.leonardo-hotels.es/madrid/leonardo-hotel-madrid-city-center).
+
 <br>
 
 ### Official Language
