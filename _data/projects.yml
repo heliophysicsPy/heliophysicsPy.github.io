@@ -6,7 +6,7 @@
 
 - name: AFINO
   code: https://github.com/aringlis/afino_release_version
-  docs: https://afino-release-version.readthedocs.io/en/latest/
+  docs: https://afino-release-version.readthedocs.io/
   description: A tool for finding oscillations in time series data
   contact: Andrew Inglis
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -37,7 +37,7 @@
 
 - name: "dbprocessing"
   description: "Database-driven Heliophysics processing controller."
-  docs: "https://spacepy.github.io/dbprocessing/"
+  docs: "https://spacepy.github.io/dbprocessing"
   code: "https://github.com/spacepy/dbprocessing"
   contact: "Jon Niehof"
   keywords: ["heliosphere","ionosphere_thermosphere_mesosphere","magnetosphere","general"]
@@ -63,7 +63,7 @@
 
 - name: enlilviz
   description: A Python toolkit for Enlil solar wind visualizations.
-  docs: https://enlilviz.readthedocs.io/en/stable/
+  docs: https://enlilviz.readthedocs.io/
   code: https://github.com/SWxTREC/enlilviz
   contact: Greg Lucas
   keywords: ["heliosphere","plotting","specific"]
@@ -171,7 +171,7 @@
 - name: "OMMBV"
   description: "Othogonal Multipole Magnetic Basis Vectors - Map electric fields and ion drifts, express vectors relative to a multipole magnetic field using an orthogonal basis."
   logo: "https://github.com/rstoneback/OMMBV/blob/main/docs/images/logo_high_res.png"
-  docs: "https://ommbv.readthedocs.io/en/latest/?badge=latest"
+  docs: "https://ommbv.readthedocs.io"
   code: "https://github.com/rstoneback/OMMBV"
   contact: "Russell Stoneback"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
@@ -180,7 +180,7 @@
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"] 
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: POLAN
   code: https://github.com/space-physics/POLAN
@@ -253,7 +253,7 @@
 - name: Speasy
   code: https://github.com/SciQLop/speasy
   description: "Retreive data from many space physics Web services"
-  docs: https://speasy.readthedocs.io/en/stable/
+  docs: https://speasy.readthedocs.io/
   contact: Alexis Jeandet
   keyworrds: ["heliophysics", "space physics", "magnetospheric physics", "data_retrieval", "web_service", "remote", "data"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -271,7 +271,7 @@
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
 
 - name: "TomograPy"
-  url: "http://nbarbey.github.io/TomograPy/"
+  url: "http://nbarbey.github.io/TomograPy"
   description: "Coronal tomographic reconstructions."
   code: "https://github.com/nbarbey/TomograPy"
   contact: "Nicolas Barbey"
@@ -336,7 +336,7 @@
 
 - name: "fiasco"
   description: "A Python interface to the CHIANTI atomic database."
-  docs: "http://fiasco.readthedocs.io/en/latest/"
+  docs: "http://fiasco.readthedocs.io"
   code: "https://github.com/wtbarnes/fiasco"
   contact: "Will Barnes"
   keywords: ["solar","ionosphere_thermosphere_mesosphere","general"]
@@ -350,7 +350,7 @@
 - name: "OCBpy"
   description: "A Python module that converts between AACGM coordinates and an adjustable magnetic coordinate system based on the location of the polar cap"
   logo: "https://raw.githubusercontent.com/aburrell/ocbpy/main/docs/figures/ocbpy_logo.gif"
-  docs: "http://ocbpy.readthedocs.io/en/latest/"
+  docs: "http://ocbpy.readthedocs.io"
   code: "https://github.com/aburrell/ocbpy"
   contact: "Angeline G. Burrell"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
@@ -363,7 +363,7 @@
 
 - name: "AACGMV2"
   description: "A Python wrapper for the AACGM-v2 C library"
-  docs: "http://aacgmv2.readthedocs.io/en/latest/"
+  docs: "http://aacgmv2.readthedocs.io"
   code: "https://github.com/aburrell/aacgmv2"
   contact: "Angeline G. Burrell"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
@@ -376,7 +376,7 @@
 
 - name: "apexpy"
   description: "A Python wrapper for the Apex fortran library"
-  docs: "http://apexpy.readthedocs.io/en/latest/"
+  docs: "http://apexpy.readthedocs.io"
   code: "https://github.com/aburrell/apexpy"
   contact: "Angeline G. Burrell"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
@@ -389,7 +389,7 @@
 
 - name: "SpiceyPy"
   description: "Pythonic wrapper for Spice."
-  docs: "https://spiceypy.readthedocs.io/en/latest/"
+  docs: "https://spiceypy.readthedocs.io"
   code: "https://github.com/AndrewAnnex/SpiceyPy"
   contact: "Andrew M. Annex"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
@@ -403,7 +403,7 @@
 - name: "NDCube"
   description: "A Python package for manipulating, inspecting and visualizing multi-dimensional contiguous and non-contiguous coordinate-aware data arrays"
   logo: "https://raw.githubusercontent.com/sunpy/ndcube/master/docs/logo/ndcube.png"
-  docs: "https://docs.sunpy.org/projects/ndcube/en/stable/"
+  docs: "https://docs.sunpy.org/projects/ndcube"
   code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
   keywords: ["heliophysics", "solar", "astrophysics", "n-dimensional", "data", "container objects", "visualization", "data manipulation"]
@@ -422,9 +422,9 @@
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
 
 - name: "viresclient"
-  code: "https://github.com/ESA-VirES/VirES-Python-Client/"
-  docs: "https://viresclient.readthedocs.io/"
-  url: "https://vires.services/"
+  code: "https://github.com/ESA-VirES/VirES-Python-Client"
+  docs: "https://viresclient.readthedocs.io"
+  url: "https://vires.services"
   logo: "https://raw.githubusercontent.com/ESA-VirES/Swarm-VRE/staging/docs/_static/vre_logo.png"
   description: "Access to ESA Swarm mission products"
   contact: "EOX IT Services / Ashley Smith"
@@ -478,7 +478,7 @@
 
 - name: "MCALF"
   description: "Accurately constraining velocity information from spectral imaging observations using machine learning techniques."
-  docs: "https://mcalf.macbride.me/"
+  docs: "https://mcalf.macbride.me"
   code: "https://github.com/ConorMacBride/mcalf"
   contact: "Conor MacBride"
   keywords: ["solar", "machine_learning", "spectra", "plotting", "line_plots", "2D_graphics", "multidimensional", "specific", "fits", "local", "data_analysis"]
@@ -491,7 +491,7 @@
 
 - name: "hissw"
   description: "Easily integrate SSWIDL scripts into your Python workflow via Jinja templates"
-  docs: "https://wtbarnes.github.io/hissw/"
+  docs: "https://wtbarnes.github.io/hissw"
   code: "https://github.com/wtbarnes/hissw"
   contact: "Will Barnes"
   keywords: ["solar", "general", "wrapper", "idl_save"]
@@ -501,3 +501,68 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "sunraster"
+  description: "A SunPy-affiliated package which provides tools to analyze data from spectral data from any solar mission."
+  docs: "https://docs.sunpy.org/projects/sunraster"
+  code: "https://github.com/sunpy/sunraster"
+  contact: "Nabil Freij"
+  keywords: ["solar", "data_container", "spectral", "plotting", "general", "fits"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "sunkit-image"
+  description: "A image processing toolbox for Solar Physics"
+  docs: "https://docs.sunpy.org/projects/sunkit-image"
+  code: "https://github.com/sunpy/sunkit-image"
+  contact: "Nabil Freij"
+  keywords: ["solar", "general", "data_analysis"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "sunkit-instruments"
+  description: "A SunPy-affiliated package for solar instrument-specific tools."
+  docs: "https://docs.sunpy.org/projects/sunkit-instruments"
+  code: "https://github.com/sunpy/sunkit-instruments"
+  contact: "Nabil Freij"
+  keywords: ["solar", "specific", "instrumentation"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "pyflct"
+  description: "A Python wrapper for Fourier Local Correlation Tracking"
+  docs: "https://pyflct.readthedocs.io"
+  code: "https://github.com/sunpy/pyflct"
+  contact: "Nabil Freij"
+  keywords: ["solar", "wrapper", "specific", "data_analysis"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+
+- name: "irispy-lmsal"
+  description: "A Python package that provides the tools to read in and analyze data from the IRIS solar-observing satellite."
+  docs: "https://irispy-lmsal.readthedocs.io"
+  code: "https://gitlab.com/LMSAL_HUB/iris_hub/irispy-lmsal"
+  contact: "Nabil Freij"
+  keywords: ["solar", "specific", "data_analysis", "spectral", "fits", "time", "coordinates","plotting", "multidimensional"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
