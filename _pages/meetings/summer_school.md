@@ -49,7 +49,7 @@ You do not have to be a Python expert to attend. We will teach important Python 
 ### Agenda
 (subject to small changes as we finalize it)
 #### Day 1: Monday, 30 May 2022
-**2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC**
+2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: PyHC Introduction + AstroPy for Heliophysics + SunPy**
  - Introductions (welcome, agenda, code of conduct reminder, etc.) [15m]
@@ -68,7 +68,7 @@ You do not have to be a Python expert to attend. We will teach important Python 
     - [https://docs.sunpy.org/en/stable/](https://docs.sunpy.org/en/stable/) 
 
 #### Day 2: Tuesday, 31 May 2022 
-**2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC**
+2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: PlasmaPy + SpacePy**
  - Kicking off the day’s activities [15m]
@@ -81,7 +81,7 @@ You do not have to be a Python expert to attend. We will teach important Python 
     - [https://spacepy.github.io/](https://spacepy.github.io/) 
 
 #### Day 3: Wednesday, 01 June 2022
-**2 PM CEST / 12 PM UTC until 5:30 PM CEST / 3:30 PM UTC**
+2 PM CEST / 12 PM UTC until 5:30 PM CEST / 3:30 PM UTC
 
 **Focus: HAPI + Group Outing**
  - Kicking off the day’s activities [15m]
@@ -97,7 +97,7 @@ You do not have to be a Python expert to attend. We will teach important Python 
  - _Group Dinner this night!_
 
 #### Day 4: Thursday, 02 June 2022
-**2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC**
+2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: pySPEDAS + pysat**
  - Kicking off the day’s activities [15m]
@@ -110,7 +110,7 @@ You do not have to be a Python expert to attend. We will teach important Python 
     - [https://pysat.readthedocs.io/en/latest/](https://pysat.readthedocs.io/en/latest/)
 
 #### Day 5: Friday, 03 June 2022
-**2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC**
+2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up**
  - Kicking off the day’s activities [15m]
