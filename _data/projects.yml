@@ -249,13 +249,26 @@
   description: Date / time conversions used in the sciences.
   contact: Michael Hirsch
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  
+- name: solo-epd-loader
+  code: https://github.com/jgieseler/solo-epd-loader
+  description: "Data loader for Solar Orbiter/EPD energetic charged particle sensors EPT, HET, and STEP"
+  docs: https://github.com/jgieseler/solo-epd-loader#readme=
+  contact: Jan Gieseler
+  keywords: ["data", "data_access", "data_retrieval", "heliosphere", "heliophysics", "instrumentation", "solar", "space physics", "specific"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: Speasy
   code: https://github.com/SciQLop/speasy
   description: "Retreive data from many space physics Web services"
   docs: https://speasy.readthedocs.io/
   contact: Alexis Jeandet
-  keyworrds: ["heliophysics", "space physics", "magnetospheric physics", "data_retrieval", "web_service", "remote", "data"]
+  keywords: ["heliophysics", "space physics", "magnetospheric physics", "data_retrieval", "web_service", "remote", "data"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
