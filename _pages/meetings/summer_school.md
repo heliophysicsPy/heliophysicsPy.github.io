@@ -12,8 +12,7 @@ The Python in Heliophysics Community (PyHC) is excited to announce its inaugural
 <br>
 
 ### Registration
-_**[Register here](https://www.cosmos.esa.int/web/ihdea) today!**_
-(This is a free event!)
+Registration closed on 31 March 2022.
 
 <br>
 
