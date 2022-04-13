@@ -7,12 +7,13 @@ exclude: true
 ---
 <img src="../../img/page_images/summer-school.jpg" alt="Summer School 30 May 2022 – Friday, 3 June 2022" style="display: block; margin-left: auto; margin-right: auto; width: 60%">
 
-The Python in Heliophysics Community (PyHC) is excited to announce its inaugural 2022 Summer School, in partnership with the European Space Astronomy Centre (ESAC)! The PyHC Summer School will take place Monday, **30 May 2022 – Friday, 3 June 2022** at ESAC in beautiful Madrid, Spain. There will also be remote participation options (e.g. Zoom) for those unable to attend in-person. **This event is free** and open to all graduate students, early career scientists, and established scientists looking to transition to Python in the Heliophysics and Space Weather disciplines. PyHC Summer School attendees will learn Python best practices and receive hands-on instruction from experts as they take a deep dive — via tutorials, demos, and presentations — into the rich ecosystem of Heliophysics Python packages. 
+The Python in Heliophysics Community (PyHC) is excited to announce its inaugural 2022 Summer School, in partnership with the European Space Astronomy Centre (ESAC)! The PyHC Summer School will take place Monday, **30 May 2022 – Friday, 3 June 2022** at ESAC in beautiful Madrid, Spain. There will also be remote participation options (e.g. Zoom) for those unable to attend in-person. The presentations will be recorded and streamed to YouTube. **This event is free** and open to all graduate students, early career scientists, and established scientists looking to transition to Python in the Heliophysics and Space Weather disciplines. PyHC Summer School attendees will learn Python best practices and receive hands-on instruction from experts as they take a deep dive — via tutorials, demos, and presentations — into the rich ecosystem of Heliophysics Python packages. 
 
 <br>
 
 ### Registration
-Registration closed on 31 March 2022.
+_**[Register here](https://www.cosmos.esa.int/web/ihdea) today!**_
+(This is a free event!)
 
 <br>
 
@@ -22,6 +23,7 @@ Registration closed on 31 March 2022.
 <br>
 
 ### Location
+Rooms D1-D2, D building
 European Space Astronomy Centre (ESAC)<br>
 Camino bajo del Castillo, s/n<br>
 Urbanización Villafranca del Castillo<br>
@@ -31,7 +33,11 @@ E-28692 Madrid, Spain<br>
 (and online via Zoom, details TBA)
 
 #### Hotel
-We recommend booking a hotel near Plaza de España, as buses will transport attendees from Plaza de España to ESAC each day. A good option is the [Leonardo Hotel Madrid City Center](https://www.leonardo-hotels.es/madrid/leonardo-hotel-madrid-city-center).
+We recommend booking a hotel near Plaza de España, as buses will transport attendees from Plaza de España to ESAC each day. A good option is the [Leonardo Hotel Madrid City Center](https://www.leonardo-hotels.es/madrid/leonardo-hotel-madrid-city-center). 
+
+#### Bus
+Bus pickup will be around 11:30 AM but remains to be agreed. Check back here for details. The bus to ESAC is free courtesy of ESA. There is also a public bus line which takes 1h30m at most, usually much less: line 623 from Moncloa station. You can pay with your credit card (contactless) in any bus. Otherwise, please have a look at the [Getting to ESAC page](https://www.esa.int/About_Us/ESAC/Getting_to_ESAC).
+
 
 <br>
 
@@ -48,74 +54,70 @@ You do not have to be a Python expert to attend. We will teach important Python 
 ### Agenda
 (subject to small changes as we finalize it)
 #### Day 1: Monday, 30 May 2022
-2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC
+1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: PyHC Introduction + AstroPy for Heliophysics + SunPy**
- - Introductions (welcome, agenda, code of conduct reminder, etc.) [15m]
- - Slide deck introducing PyHC [30m]
-    - Includes overview of the group as a whole
-    - Overview of PyHC resources (i.e. heliopython.org)
-    - Overview of PyHC activities
-    - Mention of our [standards](https://github.com/heliophysicsPy/standards/blob/main/standards.md), mission statement and strategic goals, and how they fit into doing open science! 
+ - Lunch at ESAC Canteen [1h]
+ - Introductions (welcome, agenda, code of conduct reminder, PyHC introduction, etc.) [15m]
  - “AstroPy for Heliophysics” project introduction [2h45m; included 15m break halfway]
     - [https://github.com/astropy/astropy](https://github.com/astropy/astropy) 
     - [https://docs.astropy.org/en/stable/](https://docs.astropy.org/en/stable/) 
     - Workshop materials available at: [https://github.com/astropy/astropy-workshop](https://github.com/astropy/astropy-workshop) 
- - Lunch break [45m]
+ - Coffee break [45m]
  - SunPy project introduction [2h45m; included 15m break halfway]
     - [https://github.com/sunpy/sunpy](https://github.com/sunpy/sunpy )
     - [https://docs.sunpy.org/en/stable/](https://docs.sunpy.org/en/stable/) 
 
 #### Day 2: Tuesday, 31 May 2022 
-2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC
+1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: PlasmaPy + SpacePy**
+ - Lunch at ESAC Canteen [1h]
  - Kicking off the day’s activities [15m]
  - PlasmaPy project introduction [2h45m; included 15m break halfway]
     - [https://github.com/PlasmaPy/plasmapy](https://github.com/PlasmaPy/plasmapy) 
     - [https://docs.plasmapy.org/en/stable/](https://docs.plasmapy.org/en/stable/)
- - Lunch break [45m]
+ - Coffee break [45m]
  - SpacePy project introduction [2h45m; included 15m break halfway]
     - [https://github.com/spacepy/spacepy](https://github.com/spacepy/spacepy)
     - [https://spacepy.github.io/](https://spacepy.github.io/) 
 
 #### Day 3: Wednesday, 01 June 2022
-2 PM CEST / 12 PM UTC until 5:30 PM CEST / 3:30 PM UTC
+1:30 PM CEST / 11:30 AM UTC until 5:30 PM CEST / 3:30 PM UTC
 
 **Focus: HAPI + Group Outing**
- - Kicking off the day’s activities [15m]
+ - Lunch at ESAC Canteen [1h]
  - HAPI project introduction [3h15m; included 15m break halfway]
     - An intro for software-centric scientists who want to use HAPI data in their analyses 
     - A session for science-minded developers who want to serve HAPI data or incorporate it into their analyses
         - [https://github.com/hapi-server/client-python](https://github.com/hapi-server/client-python)
         - [http://hapi-server.org](http://hapi-server.org)
  - End the day earlier
-    - Transition to free time and/or planned activity
-        - Trip to ESA/NASA deep space network station? (~30m from meeting site)
-        - Hiking?
- - _Group Dinner this night!_
+ - _Buffet dinner together at ESAC this night!_
 
 #### Day 4: Thursday, 02 June 2022
-2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC
+1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: pySPEDAS + pysat**
+ - Lunch at ESAC Canteen [1h]
  - Kicking off the day’s activities [15m]
- - pySPEDAS project introduction [2h45m; included 15m break halfway]
-    - [https://github.com/spedas/pyspedas](https://github.com/spedas/pyspedas) 
-    - [https://pyspedas.readthedocs.io/en/latest/](https://pyspedas.readthedocs.io/en/latest/) 
- - Lunch break [45m]
  - pysat project introduction [2h45m; included 15m break halfway]
     - [https://github.com/pysat/pysat](https://github.com/pysat/pysat)
     - [https://pysat.readthedocs.io/en/latest/](https://pysat.readthedocs.io/en/latest/)
+ - Coffee break [45m]
+ - pySPEDAS project introduction [2h45m; included 15m break halfway]
+    - [https://github.com/spedas/pyspedas](https://github.com/spedas/pyspedas) 
+    - [https://pyspedas.readthedocs.io/en/latest/](https://pyspedas.readthedocs.io/en/latest/) 
 
 #### Day 5: Friday, 03 June 2022
-2 PM CEST / 12 PM UTC until 9 PM CEST / 7 PM UTC
+1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up**
  - Kicking off the day’s activities [15m]
  - Kamodo project introduction [2h45m; included 15m break halfway]
     - [https://github.com/nasa/Kamodo](https://github.com/nasa/Kamodo)
-    - [https://ccmc.gsfc.nasa.gov/Kamodo/](https://ccmc.gsfc.nasa.gov/Kamodo/ ) 
+    - [https://ccmc.gsfc.nasa.gov/Kamodo/](https://ccmc.gsfc.nasa.gov/Kamodo/) 
+ - Coffee break [45m]
  - Project Potpourri [1h45m; included 15m breaks between presentations] 
     - Speasy (formally AmdaPy) project introduction [30m]
        - [https://pypi.org/project/speasy/](https://pypi.org/project/speasy/), [https://github.com/SciQLop/speasy](https://github.com/SciQLop/speasy) 
@@ -124,7 +126,7 @@ You do not have to be a Python expert to attend. We will teach important Python 
        - [https://github.com/rstoneback/OMMBV](https://github.com/rstoneback/OMMBV)
        - [https://ommbv.readthedocs.io/en/latest/?badge=latest](https://ommbv.readthedocs.io/en/latest/?badge=latest)
     - TBD [30m]
- - Python learning session [1h45m]
+ - Python learning session [1h30m]
     - Configuring and using PyHC packages locally 
        - Installing how to’s, basic commands, etc.
     - Python testing
