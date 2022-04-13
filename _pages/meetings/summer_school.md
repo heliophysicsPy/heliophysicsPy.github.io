@@ -23,7 +23,7 @@ _**[Register here](https://www.cosmos.esa.int/web/ihdea) today!**_
 <br>
 
 ### Location
-Rooms D1-D2, D building
+Rooms D1-D2, D building<br>
 European Space Astronomy Centre (ESAC)<br>
 Camino bajo del Castillo, s/n<br>
 Urbanización Villafranca del Castillo<br>
@@ -36,7 +36,7 @@ E-28692 Madrid, Spain<br>
 We recommend booking a hotel near Plaza de España, as buses will transport attendees from Plaza de España to ESAC each day. A good option is the [Leonardo Hotel Madrid City Center](https://www.leonardo-hotels.es/madrid/leonardo-hotel-madrid-city-center). 
 
 #### Bus
-Bus pickup will be around 11:30 AM but remains to be agreed. Check back here for details. The bus to ESAC is free courtesy of ESA. There is also a public bus line which takes 1h30m at most, usually much less: line 623 from Moncloa station. You can pay with your credit card (contactless) in any bus. Otherwise, please have a look at the [Getting to ESAC page](https://www.esa.int/About_Us/ESAC/Getting_to_ESAC).
+Bus pickup will be around 11:30 AM but remains to be agreed (check back here for details). The bus to ESAC is free courtesy of ESA. There is also a public bus line which takes 1h30m at most, usually much less: line 623 from Moncloa station. You can pay with your credit card (contactless) in any bus. Otherwise, please have a look at the [Getting to ESAC page](https://www.esa.int/About_Us/ESAC/Getting_to_ESAC).
 
 
 <br>
@@ -52,19 +52,21 @@ You do not have to be a Python expert to attend. We will teach important Python 
 <br>
 
 ### Agenda
-(subject to small changes as we finalize it)
+Subject to small changes as we finalize it.<br>
+(p = in-person presenter, v = virtual presenter)
+
 #### Day 1: Monday, 30 May 2022
 1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: PyHC Introduction + AstroPy for Heliophysics + SunPy**
  - Lunch at ESAC Canteen [1h]
  - Introductions (welcome, agenda, code of conduct reminder, PyHC introduction, etc.) [15m]
- - “AstroPy for Heliophysics” project introduction [2h45m; included 15m break halfway]
+ - (p) “AstroPy for Heliophysics” project introduction [2h45m; included 15m break halfway]
     - [https://github.com/astropy/astropy](https://github.com/astropy/astropy) 
     - [https://docs.astropy.org/en/stable/](https://docs.astropy.org/en/stable/) 
     - Workshop materials available at: [https://github.com/astropy/astropy-workshop](https://github.com/astropy/astropy-workshop) 
  - Coffee break [45m]
- - SunPy project introduction [2h45m; included 15m break halfway]
+ - (p) SunPy project introduction [2h45m; included 15m break halfway]
     - [https://github.com/sunpy/sunpy](https://github.com/sunpy/sunpy )
     - [https://docs.sunpy.org/en/stable/](https://docs.sunpy.org/en/stable/) 
 
@@ -74,11 +76,11 @@ You do not have to be a Python expert to attend. We will teach important Python 
 **Focus: PlasmaPy + SpacePy**
  - Lunch at ESAC Canteen [1h]
  - Kicking off the day’s activities [15m]
- - PlasmaPy project introduction [2h45m; included 15m break halfway]
+ - (v) PlasmaPy project introduction [2h45m; included 15m break halfway]
     - [https://github.com/PlasmaPy/plasmapy](https://github.com/PlasmaPy/plasmapy) 
     - [https://docs.plasmapy.org/en/stable/](https://docs.plasmapy.org/en/stable/)
  - Coffee break [45m]
- - SpacePy project introduction [2h45m; included 15m break halfway]
+ - (v) SpacePy project introduction [2h45m; included 15m break halfway]
     - [https://github.com/spacepy/spacepy](https://github.com/spacepy/spacepy)
     - [https://spacepy.github.io/](https://spacepy.github.io/) 
 
@@ -87,7 +89,7 @@ You do not have to be a Python expert to attend. We will teach important Python 
 
 **Focus: HAPI + Group Outing**
  - Lunch at ESAC Canteen [1h]
- - HAPI project introduction [3h15m; included 15m break halfway]
+ - (p) HAPI project introduction [3h15m; included 15m break halfway]
     - An intro for software-centric scientists who want to use HAPI data in their analyses 
     - A session for science-minded developers who want to serve HAPI data or incorporate it into their analyses
         - [https://github.com/hapi-server/client-python](https://github.com/hapi-server/client-python)
@@ -101,11 +103,11 @@ You do not have to be a Python expert to attend. We will teach important Python 
 **Focus: pySPEDAS + pysat**
  - Lunch at ESAC Canteen [1h]
  - Kicking off the day’s activities [15m]
- - pysat project introduction [2h45m; included 15m break halfway]
+ - (p) pysat project introduction [2h45m; included 15m break halfway]
     - [https://github.com/pysat/pysat](https://github.com/pysat/pysat)
     - [https://pysat.readthedocs.io/en/latest/](https://pysat.readthedocs.io/en/latest/)
  - Coffee break [45m]
- - pySPEDAS project introduction [2h45m; included 15m break halfway]
+ - (v) pySPEDAS project introduction [2h45m; included 15m break halfway]
     - [https://github.com/spedas/pyspedas](https://github.com/spedas/pyspedas) 
     - [https://pyspedas.readthedocs.io/en/latest/](https://pyspedas.readthedocs.io/en/latest/) 
 
@@ -114,22 +116,22 @@ You do not have to be a Python expert to attend. We will teach important Python 
 
 **Focus: Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up**
  - Kicking off the day’s activities [15m]
- - Kamodo project introduction [2h45m; included 15m break halfway]
+ - (p) Kamodo project introduction [2h45m; included 15m break halfway]
     - [https://github.com/nasa/Kamodo](https://github.com/nasa/Kamodo)
     - [https://ccmc.gsfc.nasa.gov/Kamodo/](https://ccmc.gsfc.nasa.gov/Kamodo/) 
  - Coffee break [45m]
  - Project Potpourri [1h45m; included 15m breaks between presentations] 
-    - Speasy (formally AmdaPy) project introduction [30m]
+    - (p) Speasy (formally AmdaPy) project introduction [30m]
        - [https://pypi.org/project/speasy/](https://pypi.org/project/speasy/), [https://github.com/SciQLop/speasy](https://github.com/SciQLop/speasy) 
        - [https://speasy.readthedocs.io/en/stable/](https://speasy.readthedocs.io/en/stable/)
-    - OMMBV project introduction [30m]
+    - (p) OMMBV project introduction [30m]
        - [https://github.com/rstoneback/OMMBV](https://github.com/rstoneback/OMMBV)
        - [https://ommbv.readthedocs.io/en/latest/?badge=latest](https://ommbv.readthedocs.io/en/latest/?badge=latest)
     - TBD [30m]
  - Python learning session [1h30m]
-    - Configuring and using PyHC packages locally 
+    - (p) Configuring and using PyHC packages locally 
        - Installing how to’s, basic commands, etc.
-    - Python testing
+    - (v) Python testing
        - Intro to testing in Python and best practices for testing
        - Comprised of a pytest tutorial combined with a discussion on best practices for testing scientific software
  - Wrap up [30m]
