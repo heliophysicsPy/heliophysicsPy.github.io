@@ -126,7 +126,8 @@ Subject to small changes as we finalize it.<br>
     - (p) OMMBV project introduction [30m]
        - [https://github.com/rstoneback/OMMBV](https://github.com/rstoneback/OMMBV)
        - [https://ommbv.readthedocs.io/en/latest/?badge=latest](https://ommbv.readthedocs.io/en/latest/?badge=latest)
-    - TBD [30m]
+    - (p) Solar-MACH project introduction [30m]
+       - [https://github.com/esdc-esac-esa-int/Solar-MACH](https://github.com/esdc-esac-esa-int/Solar-MACH)
  - Python learning session [1h30m]
     - (p) Configuring and using PyHC packages locally 
        - Installing how to’s, basic commands, etc.
