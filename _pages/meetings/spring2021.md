@@ -7,12 +7,12 @@ exclude: true
 
 The spring 2021 meeting of the [Python in Heliophysics Community](http://heliopython.org) will be held remotely [**at this Zoom link**](https://cuboulder.zoom.us/j/395871054) (Meeting ID: **395 871 054**). _The Zoom sessions will be recorded._ It will be spread across four sessions, starting Monday, May 10th, 2021 and ending Thursday, May 13th, 2021:
 
- - **Presentations:** May 10th 9:00 AM–11:00 AM (MT)
- - **Tutorials/Presentations:** May 11th 9:00 AM–11:00 AM (MT)
- - **Hackathons:** May 12th 9:00 AM–11:00 AM (MT)
- - **Discussions:** May 13th 9:00 AM–11:00 AM (MT)
+ - **Presentations:** May 10th 9:00 AM-11:00 AM (MT)
+ - **Tutorials/Presentations:** May 11th 9:00 AM-11:00 AM (MT)
+ - **Hackathons:** May 12th 9:00 AM-11:00 AM (MT)
+ - **Discussions:** May 13th 9:00 AM-11:00 AM (MT)
 
-See [the full agenda](https://docs.google.com/spreadsheets/d/1zyakyCm6tnahqjHZHZchYxPrq8mf5FYIY_U3bvIpHNg/edit#gid=0) for exact dates/times of the various sessions. 
+See [the full agenda](https://docs.google.com/spreadsheets/d/1zyakyCm6tnahqjHZHZchYxPrq8mf5FYIY_U3bvIpHNg/edit#gid=0) for exact dates/times of the various sessions.
 
 ### Session Documents and Presentations
 
@@ -24,7 +24,7 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
 
 #### Meeting Recordings
 
- - [Watch Day 1 here](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/juba8233_colorado_edu/Ee4IyRVz87ZIr3epSwbNijMBge8n3lfvhNTzvwYvMGMlZw?e=WTX62o) 
+ - [Watch Day 1 here](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/juba8233_colorado_edu/Ee4IyRVz87ZIr3epSwbNijMBge8n3lfvhNTzvwYvMGMlZw?e=WTX62o)
  - [Watch Day 2 here](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/juba8233_colorado_edu/EbP2K_odCYxNqja6lvWvZcMBy0EA76Ymn_j42S7eaTRTDQ?e=OHm87g)
  - [Watch Day 4 here](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/juba8233_colorado_edu/EW-XEZB2iNhKkiXBDPWz3iUBEhVur161PaVq4BVn6sbR0Q?e=YXSr6c)
 
@@ -61,8 +61,8 @@ Join by H.323
  - 64.211.144.160 (Brazil)
  - 69.174.57.160 (Canada)
  - 207.226.132.110 (Japan)
- 
-Meeting ID: **395 871 054**  
+
+Meeting ID: **395 871 054**
 
 ### Registration
 

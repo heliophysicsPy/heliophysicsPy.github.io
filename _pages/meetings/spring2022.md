@@ -7,12 +7,12 @@ exclude: true
 
 The spring 2022 meeting of the [Python in Heliophysics Community](http://heliopython.org) will be held remotely [**at this Zoom link**](https://cuboulder.zoom.us/j/395871054) (Meeting ID: **395 871 054**). _The Zoom sessions will be recorded._ It will be spread across four sessions, starting Monday, May 16th, 2022 and ending Thursday, May 19th, 2022:
 
- - **Project updates:** May 16th 9:00 AM–11:00 AM (MT)
- - **Hackathon brainstorming and other presentations:** May 17th 9:00 AM–11:00 AM (MT)
- - **Hackathons:** May 18th 9:00 AM–11:00 AM (MT)
- - **Hackathon results and other discussions:** May 19th 9:00 AM–11:00 AM (MT)
+ - **Project updates:** May 16th 9:00 AM-11:00 AM (MT)
+ - **Hackathon brainstorming and other presentations:** May 17th 9:00 AM-11:00 AM (MT)
+ - **Hackathons:** May 18th 9:00 AM-11:00 AM (MT)
+ - **Hackathon results and other discussions:** May 19th 9:00 AM-11:00 AM (MT)
 
-See [the full agenda](https://docs.google.com/spreadsheets/d/1J5bex4gwXKg2gAqW-XWx9GftTPlDtH-4JKFOdURCb5s/edit?usp=sharing) for exact dates/times of the various sessions. 
+See [the full agenda](https://docs.google.com/spreadsheets/d/1J5bex4gwXKg2gAqW-XWx9GftTPlDtH-4JKFOdURCb5s/edit?usp=sharing) for exact dates/times of the various sessions.
 
 ### Session Documents and Presentations
 
@@ -59,8 +59,8 @@ Join by H.323
  - 64.211.144.160 (Brazil)
  - 69.174.57.160 (Canada)
  - 207.226.132.110 (Japan)
- 
-Meeting ID: **395 871 054**  
+
+Meeting ID: **395 871 054**
 
 ### Registration
 
