@@ -5,7 +5,7 @@ permalink: /docs/reports/february2019/
 exclude: true
 ---
 
-The first in-person meeting of the Python in Heliophysics Community was held at LASP in Boulder, Colorado, on November 13-15, 2018. The meeting consisted of a mix of presentations, discussions, and an “unconference,” which allowed attendees to organize a set of discussions based around consensus on topics of interest. A report summarizing the meeting has been produced and is available through http://heliopython.org/meetings/.
+The first in-person meeting of the Python in Heliophysics Community was held at LASP in Boulder, Colorado, on November 13-15, 2018. The meeting consisted of a mix of presentations, discussions, and an "unconference", which allowed attendees to organize a set of discussions based around consensus on topics of interest. A report summarizing the meeting has been produced and is available through http://heliopython.org/meetings/.
 
 We held a well-attended poster session at AGU, and also an informal community lunch meeting. We have continued to hold telecons every two weeks, though the government shutdown caused a pause due to low attendance. Future telecons are being scheduled around topic discussions led by community experts.
 

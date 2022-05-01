@@ -60,7 +60,7 @@ Subject to small changes as we finalize it.<br>
 **Focus: PyHC Introduction + AstroPy for Heliophysics + SunPy**
  - Lunch at ESAC Canteen [1h]
  - Introductions (welcome, agenda, code of conduct reminder, PyHC introduction, etc.) [15m]
- - (p) “AstroPy for Heliophysics” project introduction [2h45m; included 15m break halfway]
+ - (p) "AstroPy for Heliophysics" project introduction [2h45m; included 15m break halfway]
     - [https://github.com/astropy/astropy](https://github.com/astropy/astropy)
     - [https://docs.astropy.org/en/stable/](https://docs.astropy.org/en/stable/)
     - Workshop materials available at: [https://github.com/astropy/astropy-workshop](https://github.com/astropy/astropy-workshop)
