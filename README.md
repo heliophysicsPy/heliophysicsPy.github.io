@@ -8,7 +8,7 @@ You don't have to run Jekyll yourself to make changes.
 
 ## Add software package
 
-1. Fork [this repo](https://github.com/scivision/heliophysicsPy.github.io) on GitHub.
+1. Fork [this repo](https://github.com/heliophysicsPy/heliophysicsPy.github.io) on GitHub.
 2. make your changes in [_data/projects.yml](_data/projects.yml)
 3. Be sure to read the [taxonomy](_data/taxonomy.yml) to properly add keywords
 3. make a Pull Request on GitHub.
