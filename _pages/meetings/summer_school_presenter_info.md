@@ -10,7 +10,7 @@ This web page holds information for those presenting at PyHC's 2022 Summer Schoo
 <br>
 
 ### Dates
-30 May 2022 - 3 June 2022
+30 May 2022 – 3 June 2022
 
 <br>
 
@@ -33,7 +33,7 @@ Grad students/early career scientists, as well as established scientists interes
 ### End Goal
 Meeting attendees should leave with:
  1. An understanding of how to use core PyHC packages and other highly-used PyHC packages in research
- 2. An understanding of how our packages could benefit their specific research workflow (don’t need to understand to the same level as main project developers, but enough to follow along)
+ 2. An understanding of how our packages could benefit their specific research workflow (don't need to understand to the same level as main project developers, but enough to follow along)
  3. An ability to write code that follows PyHC standards.
 
 <br>

@@ -5,9 +5,9 @@ summary: The web page for the PyHC 2022 Summer School
 permalink: /summer-school
 exclude: true
 ---
-<img src="../../img/page_images/summer-school.jpg" alt="Summer School 30 May 2022 - Friday, 3 June 2022" style="display: block; margin-left: auto; margin-right: auto; width: 60%">
+<img src="../../img/page_images/summer-school.jpg" alt="Summer School 30 May 2022 – Friday, 3 June 2022" style="display: block; margin-left: auto; margin-right: auto; width: 60%">
 
-The Python in Heliophysics Community (PyHC) is excited to announce its inaugural 2022 Summer School, in partnership with the European Space Astronomy Centre (ESAC)! The PyHC Summer School will take place Monday, **30 May 2022 - Friday, 3 June 2022** at ESAC in beautiful Madrid, Spain. There will also be remote participation options (e.g. Zoom) for those unable to attend in-person. The presentations will be recorded and streamed to YouTube. **This event is free** and open to all graduate students, early career scientists, and established scientists looking to transition to Python in the Heliophysics and Space Weather disciplines. PyHC Summer School attendees will learn Python best practices and receive hands-on instruction from experts as they take a deep dive — via tutorials, demos, and presentations — into the rich ecosystem of Heliophysics Python packages.
+The Python in Heliophysics Community (PyHC) is excited to announce its inaugural 2022 Summer School, in partnership with the European Space Astronomy Centre (ESAC)! The PyHC Summer School will take place Monday, **30 May 2022 – Friday, 3 June 2022** at ESAC in beautiful Madrid, Spain. There will also be remote participation options (e.g. Zoom) for those unable to attend in-person. The presentations will be recorded and streamed to YouTube. **This event is free** and open to all graduate students, early career scientists, and established scientists looking to transition to Python in the Heliophysics and Space Weather disciplines. PyHC Summer School attendees will learn Python best practices and receive hands-on instruction from experts as they take a deep dive — via tutorials, demos, and presentations — into the rich ecosystem of Heliophysics Python packages.
 
 <br>
 
@@ -17,7 +17,7 @@ Registration closed on 31 March 2022.
 <br>
 
 ### Dates
-30 May 2022 - 3 June 2022
+30 May 2022 – 3 June 2022
 
 <br>
 
@@ -74,7 +74,7 @@ Subject to small changes as we finalize it.<br>
 
 **Focus: PlasmaPy + SpacePy**
  - Lunch at ESAC Canteen [1h]
- - Kicking off the day’s activities [15m]
+ - Kicking off the day's activities [15m]
  - (v) PlasmaPy project introduction [2h45m; included 15m break halfway]
     - [https://github.com/PlasmaPy/plasmapy](https://github.com/PlasmaPy/plasmapy)
     - [https://docs.plasmapy.org/en/stable/](https://docs.plasmapy.org/en/stable/)
@@ -101,7 +101,7 @@ Subject to small changes as we finalize it.<br>
 
 **Focus: pySPEDAS + pysat**
  - Lunch at ESAC Canteen [1h]
- - Kicking off the day’s activities [15m]
+ - Kicking off the day's activities [15m]
  - (p) pysat project introduction [2h45m; included 15m break halfway]
     - [https://github.com/pysat/pysat](https://github.com/pysat/pysat)
     - [https://pysat.readthedocs.io/en/latest/](https://pysat.readthedocs.io/en/latest/)
@@ -114,7 +114,7 @@ Subject to small changes as we finalize it.<br>
 1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up**
- - Kicking off the day’s activities [15m]
+ - Kicking off the day's activities [15m]
  - (p) Kamodo project introduction [2h45m; included 15m break halfway]
     - [https://github.com/nasa/Kamodo](https://github.com/nasa/Kamodo)
     - [https://ccmc.gsfc.nasa.gov/Kamodo/](https://ccmc.gsfc.nasa.gov/Kamodo/)
@@ -130,7 +130,7 @@ Subject to small changes as we finalize it.<br>
        - [https://github.com/esdc-esac-esa-int/Solar-MACH](https://github.com/esdc-esac-esa-int/Solar-MACH)
  - Python learning session [1h30m]
     - (p) Configuring and using PyHC packages locally
-       - Installing how to’s, basic commands, etc.
+       - Installing how to's, basic commands, etc.
     - (v) Python testing
        - Intro to testing in Python and best practices for testing
        - Comprised of a pytest tutorial combined with a discussion on best practices for testing scientific software
