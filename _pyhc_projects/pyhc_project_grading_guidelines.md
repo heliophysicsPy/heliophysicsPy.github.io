@@ -1,19 +1,19 @@
 # PyHC Project Review Guidelines
 
-This document outlines the criteria upon which projects are reviewed for submission to the PyHC Project 
-list (i.e., submission to the [PyHC Project page](https://heliopython.org/projects/)). Its intended audience is the project owner, or the main project developer who is submitting a project review/adding a project to the PyHC Project list. 
-For now, PyHC intends to stick with this "self review" process. In the future, a PyHC developer may also review a 
+This document outlines the criteria upon which projects are reviewed for submission to the PyHC Project
+list (i.e., submission to the [PyHC Project page](https://heliopython.org/projects/)). Its intended audience is the project owner, or the main project developer who is submitting a project review/adding a project to the PyHC Project list.
+For now, PyHC intends to stick with this "self review" process. In the future, a PyHC developer may also review a
 project if needed.
 
-The reviewer's job is to give a grade of "Requires improvement" (red), "Partially met" (yellow), or "Good" (green) 
-with respect to how well their project stacks up to each of the review standards listed in the table below. 
+The reviewer's job is to give a grade of "Requires improvement" (red), "Partially met" (yellow), or "Good" (green)
+with respect to how well their project stacks up to each of the review standards listed in the table below.
 If a project's grade for a standard falls below the "Good" classification, the reviewer should provide some remarks about
-why that is, and what the project's plan is for improvement. 
+why that is, and what the project's plan is for improvement.
 
 At present, no projects will be rejected from the PyHC Project list. However, at the PyHC Spring 2020 meeting we will
-set a date by which projects will be kicked off if they have any "Requires improvement" grades. 
-We will also set up a timeline for which projects are 1) informed they are in danger of being kicked off and 2) given 
-time to fix the problematic categories. 
+set a date by which projects will be kicked off if they have any "Requires improvement" grades.
+We will also set up a timeline for which projects are 1) informed they are in danger of being kicked off and 2) given
+time to fix the problematic categories.
 
 A more detailed description of a review's grading colors is shown below.
 
@@ -137,7 +137,7 @@ See the [PyHC Community Standards, points 1, 3, 4, 6, 7, 10, and 14](https://git
 
 ### Python3
 
-This deals with a project's compatability with Python 3. See the [PyHC Community Standards, point 11](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
+This deals with a project's compatibility with Python 3. See the [PyHC Community Standards, point 11](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
 
 <table>
 <tr>

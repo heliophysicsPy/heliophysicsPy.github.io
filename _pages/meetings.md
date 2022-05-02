@@ -6,7 +6,7 @@ order: 3
 ---
 ### Telecons
 
-Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain time, but this can fluctuate depending on holidays/conferences/etc. See the Calendar below for the next telecon time. Presentations and notes are shared on [Google Drive](https://drive.google.com/drive/u/0/folders/1AhFUli3SGW9DHvIh81tFxPMgLtYSPXDm). 
+Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain time, but this can fluctuate depending on holidays/conferences/etc. See the Calendar below for the next telecon time. Presentations and notes are shared on [Google Drive](https://drive.google.com/drive/u/0/folders/1AhFUli3SGW9DHvIh81tFxPMgLtYSPXDm).
 
 <br>
 
@@ -47,10 +47,10 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 * [Presentations and Documents](https://drive.google.com/drive/u/0/folders/1lSM0DwLuKli1Rv9eKYe0vBVB_V8_9wKB)
 * [Meeting Report](https://docs.google.com/document/d/187QNQuN_OWmM9jS9lZGjSQpUIIiCaCDtBHiw4DAqSmY/edit#heading=h.wk29adekc64s)
 
-2019 Spring Python in Heliophysics Community Meeting, May 21–23, 2019 (at LASP). 
+2019 Spring Python in Heliophysics Community Meeting, May 21–23, 2019 (at LASP).
 * [Meeting materials](https://drive.google.com/drive/u/0/folders/171Ba3Mq3MIaEXoc9X91gZhaXHVjoJde2)
 
-2018 Python in Heliophysics Working Group Meeting, November 13–15, 2018 (at LASP). 
+2018 Python in Heliophysics Working Group Meeting, November 13–15, 2018 (at LASP).
 * [Meeting Report](https://docs.google.com/document/d/1ejP0kaibf6DRxjYJNmPrF1t3Nl21r0pC1FuDhu0hPnM/edit?usp=sharing)
 * [Presentations and Documents](https://drive.google.com/open?id=1snib9D8PcSaPByMqrAx8_4b05RfsTh58)
 * [Python in Heliophysics Community (PyHC) Standards](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
@@ -62,12 +62,11 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 
 #### AGU Sessions
 
-* AGU Fall 2021 meeting: SH35H - Python Applications for Solar and Space Physics iPoster (virtual-only poster session) 
-    * Wednesday, 15 December 2021, 15:00 - 16:15 CT, Online Only
+* AGU Fall 2021 meeting: SH35H - Python Applications for Solar and Space Physics iPoster (virtual-only poster session)
+    * Wednesday, 15 December 2021, 15:00 – 16:15 CT, Online Only
     * [Link to Session Info Page](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/119817)
     * [AGU Registration](https://www.agu.org/Fall-Meeting/Pages/Register-Housing) opens 23 August 2021
 
 #### Summer School
 
 * We are excited to announce our inaugural <a href="{{ site.baseurl }}/summer-school">2022 Summer School</a>, in partnership with the European Space Astronomy Centre (ESAC)! <a href="{{ site.baseurl }}/summer-school">Click here for more info</a>.
-
