@@ -35,7 +35,7 @@ E-28692 Madrid, Spain<br>
 We recommend booking a hotel near Plaza de España, as buses will transport attendees from Plaza de España to ESAC each day. A good option is the [Leonardo Hotel Madrid City Center](https://www.leonardo-hotels.es/madrid/leonardo-hotel-madrid-city-center).
 
 #### Bus
-Bus pickup will be around 11:30 AM but remains to be agreed (check back here for details). The bus to ESAC is free courtesy of ESA. There is also a public bus line which takes 1h30m at most, usually much less: line 623 from Moncloa station. You can pay with your credit card (contactless) in any bus. Otherwise, please have a look at the [Getting to ESAC page](https://www.esa.int/About_Us/ESAC/Getting_to_ESAC).
+Bus pickup will be at 11:30 AM CEST on Day 1 (Monday, 30 May) and then 12:30 PM CEST every other day at the Plaza de España (exact location therein TBD). The bus to ESAC is free courtesy of ESA; there will be a sign on the bus indicating that it is the ESA-provided transportation. There is also a public bus line which takes 1h30m at most, usually much less: line 623 from Moncloa station. You can pay with your credit card (contactless) in any bus. Otherwise, please have a look at the [Getting to ESAC page](https://www.esa.int/About_Us/ESAC/Getting_to_ESAC).
 
 
 <br>
@@ -53,6 +53,8 @@ You do not have to be a Python expert to attend. We will teach important Python 
 ### Agenda
 Subject to small changes as we finalize it.<br>
 (p = in-person presenter, v = virtual presenter)
+
+For a spreadsheet version of the below agenda, see [here](https://docs.google.com/spreadsheets/d/1WR3gKiBlMCFmuRBI7JvUL9CE8J-0uNSRBg_FOCiFD-c/edit?usp=sharing).
 
 #### Day 1: Monday, 30 May 2022
 1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
@@ -82,19 +84,21 @@ Subject to small changes as we finalize it.<br>
  - (v) SpacePy project introduction [2h45m; included 15m break halfway]
     - [https://github.com/spacepy/spacepy](https://github.com/spacepy/spacepy)
     - [https://spacepy.github.io/](https://spacepy.github.io/)
+ - _Buffet dinner together at ESAC this night!_
 
 #### Day 3: Wednesday, 01 June 2022
-1:30 PM CEST / 11:30 AM UTC until 5:30 PM CEST / 3:30 PM UTC
+1:30 PM CEST / 11:30 AM UTC until 7:45 PM CEST / 3:30 PM UTC
 
-**Focus: HAPI + Group Outing**
+**Focus: Solar-MACH + HAPI**
  - Lunch at ESAC Canteen [1h]
- - (p) HAPI project introduction [3h15m; included 15m break halfway]
+ - (v) Solar-MACH project introduction [1h15m; included 15 min break at end]
+    - [https://github.com/esdc-esac-esa-int/Solar-MACH](https://github.com/esdc-esac-esa-int/Solar-MACH)
+ - (p) HAPI project introduction [3h45m; included 45m coffee break halfway]
     - An intro for software-centric scientists who want to use HAPI data in their analyses
     - A session for science-minded developers who want to serve HAPI data or incorporate it into their analyses
         - [https://github.com/hapi-server/client-python](https://github.com/hapi-server/client-python)
         - [http://hapi-server.org](http://hapi-server.org)
  - End the day earlier
- - _Buffet dinner together at ESAC this night!_
 
 #### Day 4: Thursday, 02 June 2022
 1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
@@ -114,30 +118,29 @@ Subject to small changes as we finalize it.<br>
 1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up**
- - Kicking off the day's activities [15m]
+ - Kicking off the day's activities [10m]
  - (p) Kamodo project introduction [2h45m; included 15m break halfway]
     - [https://github.com/nasa/Kamodo](https://github.com/nasa/Kamodo)
     - [https://ccmc.gsfc.nasa.gov/Kamodo/](https://ccmc.gsfc.nasa.gov/Kamodo/)
  - Coffee break [45m]
- - Project Potpourri [1h45m; included 15m breaks between presentations]
+ - Project Potpourri [2h15m; included 15m break after presentations]
     - (p) Speasy (formally AmdaPy) project introduction [30m]
        - [https://pypi.org/project/speasy/](https://pypi.org/project/speasy/), [https://github.com/SciQLop/speasy](https://github.com/SciQLop/speasy)
        - [https://speasy.readthedocs.io/en/stable/](https://speasy.readthedocs.io/en/stable/)
     - (p) OMMBV project introduction [30m]
        - [https://github.com/rstoneback/OMMBV](https://github.com/rstoneback/OMMBV)
        - [https://ommbv.readthedocs.io/en/latest/?badge=latest](https://ommbv.readthedocs.io/en/latest/?badge=latest)
-    - (v) Solar-MACH project introduction [30m]
-       - [https://github.com/esdc-esac-esa-int/Solar-MACH](https://github.com/esdc-esac-esa-int/Solar-MACH)
  - Python learning session [1h30m]
     - (p) Configuring and using PyHC packages locally
        - Installing how to's, basic commands, etc.
     - (v) Python testing
        - Intro to testing in Python and best practices for testing
        - Comprised of a pytest tutorial combined with a discussion on best practices for testing scientific software
- - Wrap up [30m]
-    - Retrospective
-    - Gather feedback from attendees — what did you like? Not like? What needed more/less time? What other topics do you hope to see in future summer schools?
-    - How did having it in Spain and/or online work?
+ - Wrap up [5m]
+    - Closing remarks
+       - Look out for a Summer School follow-up email
+         - Gather feedback from attendees — what did you like? Not like? What needed more/less time? What other topics do you hope to see in future summer schools?
+         - How did having it in Spain and/or online work?
 
 <br>
 
