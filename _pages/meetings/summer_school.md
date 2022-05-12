@@ -37,6 +37,10 @@ We recommend booking a hotel near Plaza de España, as buses will transport atte
 #### Bus
 Bus pickup will be at 11:30 AM CEST on Day 1 (Monday, 30 May) and then 12:30 PM CEST every other day at the Plaza de España (exact location therein TBD). The bus to ESAC is free courtesy of ESA; there will be a sign on the bus indicating that it is the ESA-provided transportation. There is also a public bus line which takes 1h30m at most, usually much less: line 623 from Moncloa station. You can pay with your credit card (contactless) in any bus. Otherwise, please have a look at the [Getting to ESAC page](https://www.esa.int/About_Us/ESAC/Getting_to_ESAC).
 
+<br>
+
+### COVID-19 Rules
+Please check [Spain's travel health website](https://www.spth.gob.es) prior to your trip to ensure you comply with the rules. At the time of this writing, you must be vaccinated within 14–270 days before your arrival. If you do not have an EU Digital COVID Certificate (DCC) or EU Equivalent, you should fill out the FCS form on Spain's website.
 
 <br>
 
