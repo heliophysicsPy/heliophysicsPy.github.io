@@ -251,6 +251,7 @@
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
   
 - name: solarmach
+  url: "https://solar-mach.github.io"
   code: https://github.com/jgieseler/solarmach
   description: "Multi-spacecraft heliospheric configuration plotter"
   docs: https://github.com/jgieseler/solarmach#readme=
