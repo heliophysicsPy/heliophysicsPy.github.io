@@ -249,6 +249,19 @@
   description: Date / time conversions used in the sciences.
   contact: Michael Hirsch
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  
+- name: solarmach
+  code: https://github.com/jgieseler/solarmach
+  description: "Multi-spacecraft heliospheric configuration plotter"
+  docs: https://github.com/jgieseler/solarmach#readme=
+  contact: Jan Gieseler
+  keywords: ["solar", "heliosphere",  "coordinates", "2D_graphics", "plotting", "general", "web_service"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: solo-epd-loader
   code: https://github.com/jgieseler/solo-epd-loader
