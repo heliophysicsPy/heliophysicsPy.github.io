@@ -96,7 +96,7 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
 **Focus: Solar-MACH + HAPI**
  - Lunch at ESAC Canteen [1h]
  - (v) Solar-MACH project introduction [1h15m; included 15 min break at end]
-    - [https://github.com/esdc-esac-esa-int/Solar-MACH](https://github.com/esdc-esac-esa-int/Solar-MACH)
+    - [https://github.com/jgieseler/solarmach](https://github.com/jgieseler/solarmach)
  - (p) HAPI project introduction [3h45m; included 45m coffee break halfway]
     - An intro for software-centric scientists who want to use HAPI data in their analyses
     - A session for science-minded developers who want to serve HAPI data or incorporate it into their analyses
