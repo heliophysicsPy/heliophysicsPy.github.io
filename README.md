@@ -9,9 +9,9 @@ You don't have to run Jekyll yourself to make changes.
 ## Add software package
 
 1. Fork [this repo](https://github.com/heliophysicsPy/heliophysicsPy.github.io) on GitHub.
-2. make your changes in [_data/projects.yml](_data/projects.yml)
-3. Be sure to read the [taxonomy](_data/taxonomy.yml) to properly add keywords
-3. make a Pull Request on GitHub.
+2. Make your changes in [_data/projects.yml](_data/projects.yml) following the [project addition instructions](_pyhc_projects/adding_to_pyhc_project_list.md).
+3. Be sure to read the [taxonomy](_data/taxonomy.yml) to properly add keywords.
+3. Make a Pull Request on GitHub.
 
 ## Add gallery example
 
