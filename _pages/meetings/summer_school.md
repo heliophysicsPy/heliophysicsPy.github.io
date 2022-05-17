@@ -93,7 +93,7 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
 #### Day 3: Wednesday, 01 June 2022
 1:30 PM CEST / 11:30 AM UTC until 7:45 PM CEST / 3:30 PM UTC
 
-**Focus: Solar-MACH + HAPI**
+**Focus: Solar-MACH + HAPI (with a touch of VirES)**
  - Lunch at ESAC Canteen [1h]
  - (v) Solar-MACH project introduction [1h15m; included 15 min break at end]
     - [https://github.com/jgieseler/solarmach](https://github.com/jgieseler/solarmach)
@@ -102,6 +102,8 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
     - A session for science-minded developers who want to serve HAPI data or incorporate it into their analyses
         - [https://github.com/hapi-server/client-python](https://github.com/hapi-server/client-python)
         - [http://hapi-server.org](http://hapi-server.org)
+    - VirES intro included within this time (after the coffee break; 20 min)
+        - https://github.com/ESA-VirES/VirES-Python-Client 
  - End the day earlier
 
 #### Day 4: Thursday, 02 June 2022
