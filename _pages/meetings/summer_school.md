@@ -7,12 +7,12 @@ exclude: true
 ---
 <img src="../../img/page_images/summer-school.jpg" alt="Summer School 30 May 2022 – Friday, 3 June 2022" style="display: block; margin-left: auto; margin-right: auto; width: 60%">
 
-The Python in Heliophysics Community (PyHC) is excited to announce its inaugural 2022 Summer School, in partnership with the European Space Astronomy Centre (ESAC)! The PyHC Summer School will take place Monday, **30 May 2022 – Friday, 3 June 2022** at ESAC in beautiful Madrid, Spain. There will also be remote participation options (e.g. Zoom) for those unable to attend in-person. The presentations will be recorded and streamed to YouTube. **This event is free** and open to all graduate students, early career scientists, and established scientists looking to transition to Python in the Heliophysics and Space Weather disciplines. PyHC Summer School attendees will learn Python best practices and receive hands-on instruction from experts as they take a deep dive — via tutorials, demos, and presentations — into the rich ecosystem of Heliophysics Python packages.
+The Python in Heliophysics Community (PyHC) is excited to announce its inaugural 2022 Summer School, in partnership with the European Space Astronomy Centre (ESAC)! The PyHC Summer School will take place Monday, **30 May 2022 – Friday, 3 June 2022** at ESAC in beautiful Madrid, Spain. There will also be remote participation options (e.g. Zoom) for those unable to attend in-person. The presentations will be recorded and [streamed to YouTube](https://youtube.com/playlist?list=PLDKhoNyHGTFZ345-lI-EeC4CAQhNUfUS0). **This event is free** and open to all graduate students, early career scientists, and established scientists looking to transition to Python in the Heliophysics and Space Weather disciplines. PyHC Summer School attendees will learn Python best practices and receive hands-on instruction from experts as they take a deep dive — via tutorials, demos, and presentations — into the rich ecosystem of Heliophysics Python packages.
 
 <br>
 
 ### Registration
-Registration closed on 31 March 2022.
+Registration closed on 31 March 2022. You can still watch the [YouTube live streams](https://youtube.com/playlist?list=PLDKhoNyHGTFZ345-lI-EeC4CAQhNUfUS0) if you are interested but missed registration.
 
 <br>
 
@@ -61,10 +61,9 @@ Subject to small changes as we finalize it.<br>
 For a spreadsheet version of the below agenda, see [here](https://docs.google.com/spreadsheets/d/1WR3gKiBlMCFmuRBI7JvUL9CE8J-0uNSRBg_FOCiFD-c/edit?usp=sharing).
 
 #### Day 1: Monday, 30 May 2022
-1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: PyHC Introduction + AstroPy for Heliophysics + SunPy**
- - Lunch at ESAC Canteen [1h]
  - Introductions (welcome, agenda, code of conduct reminder, PyHC introduction, etc.) [15m]
  - (p) "AstroPy for Heliophysics" project introduction [2h45m; included 15m break halfway]
     - [https://github.com/astropy/astropy](https://github.com/astropy/astropy)
@@ -76,10 +75,9 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
     - [https://docs.sunpy.org/en/stable/](https://docs.sunpy.org/en/stable/)
 
 #### Day 2: Tuesday, 31 May 2022
-1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: PlasmaPy + SpacePy**
- - Lunch at ESAC Canteen [1h]
  - Kicking off the day's activities [15m]
  - (v) PlasmaPy project introduction [2h45m; included 15m break halfway]
     - [https://github.com/PlasmaPy/plasmapy](https://github.com/PlasmaPy/plasmapy)
@@ -91,10 +89,9 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
  - _Buffet dinner together at ESAC this night!_
 
 #### Day 3: Wednesday, 01 June 2022
-1:30 PM CEST / 11:30 AM UTC until 7:45 PM CEST / 3:30 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 7:45 PM CEST / 3:30 PM UTC
 
 **Focus: Solar-MACH + HAPI (with a touch of VirES)**
- - Lunch at ESAC Canteen [1h]
  - (v) Solar-MACH project introduction [1h15m; included 15 min break at end]
     - [https://github.com/jgieseler/solarmach](https://github.com/jgieseler/solarmach)
  - (p) HAPI project introduction [3h45m; included 45m coffee break halfway]
@@ -107,10 +104,9 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
  - End the day earlier
 
 #### Day 4: Thursday, 02 June 2022
-1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: pySPEDAS + pysat**
- - Lunch at ESAC Canteen [1h]
  - Kicking off the day's activities [15m]
  - (p) pysat project introduction [2h45m; included 15m break halfway]
     - [https://github.com/pysat/pysat](https://github.com/pysat/pysat)
@@ -121,7 +117,7 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
     - [https://pyspedas.readthedocs.io/en/latest/](https://pyspedas.readthedocs.io/en/latest/)
 
 #### Day 5: Friday, 03 June 2022
-1:30 PM CEST / 11:30 AM UTC until 9 PM CEST / 7 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 9 PM CEST / 7 PM UTC
 
 **Focus: Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up**
  - Kicking off the day's activities [10m]
