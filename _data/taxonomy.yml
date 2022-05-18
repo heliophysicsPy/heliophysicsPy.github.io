@@ -1,25 +1,27 @@
 - category: "Science Area"
   description: "The scientific area a package is relevant to"
-  keywords: ["solar", "magnetosphere", "ionosphere_thermosphere_mesosphere", "heliosphere", "planetary", "plasma_physics", "geospace"]
+  keywords: ["geospace", "heliosphere", "ionosphere_thermosphere_mesosphere", "magnetosphere", "planetary", "plasma_physics", "solar"]
 
 - category: "Functionality"
   description: "The functionality available in a package"
-  keywords: ["time", "coordinates", "data_retrieval", "line_plots", "2D_graphics", "plotting", "3D_graphics", 
-             "data_container", "power_spectra", "spectra", "calibration", "multidimensional", "interactive", "machine_learning"]
-  
+  keywords: ["2D_graphics", "3D_graphics", "calibration", "coordinates", "data_container", "data_retrieval", "image_processing", "interactive", "line_plots", "machine_learning", "multidimensional", "orbit", "plotting", "power_spectra", "spectra", "time"]
+
 - category: "Span"
   description: "The user scope of a project"
   keywords: ["general", "specific"]
 
 - category: "Input/Output Formats"
   description: "The different data formats a package reads and/or writes"
-  keywords: ["fits", "cdf", "netcdf", "ascii", "idl_save", "hdf5", "csv"]
+  keywords: ["ascii", "cdf", "csv", "fits", "hdf5", "idl_save", "netcdf"]
 
 - category: "Input Sources"
   description: "The ability of a project to access web service data/local data"
-  keywords: ["local", "remote", "web_service", "hapi"]
+  keywords: ["cdaweb", "fido", "hapi", "local", "remote", "sscweb", "web_service"]
 
 - category: "Intent"
   description: "The overarching purpose of a project"
-  keywords: ["data_analysis", "simulation", "theory", "data_assimilation", "laboratory", "instrumentation", 
-             "data_access", "reference_data", "wrapper"]
+  keywords: ["data_access", "data_analysis", "data_assimilation", "instrumentation", "laboratory", "reference_data", "simulation", "theory", "wrapper"]
+
+- category: "Mission"
+  description: "Observational, including ground and satellite, and also models. TODO."
+  keywords: ["ace", "adelphi", "amgeo", "arase", "bats_r_us", "cluster", "csswe", "ctipe", "de2", "dmsp", "dscovr", "enlil", "equator_s", "fast", "fermi", "gamera", "geotail", "gitm", "goes", "icon", "igrf", "image", "iri", "kyoto_dst", "lasco", "madrigal", "maven", "mica", "mms", "omni", "openggcm", "poes", "polar", "proba_2", "psp", "rhessi", "sami2", "sami3", "sdo", "shue", "soho", "solo", "stereo", "superdarn", "swmf", "themis", "tiegcm", "tsyganenko", "twins", "ulysses", "van_allen_probes", "waccmx", "wind"]
