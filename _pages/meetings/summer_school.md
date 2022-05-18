@@ -61,10 +61,10 @@ Subject to small changes as we finalize it.<br>
 For a spreadsheet version of the below agenda, see [here](https://docs.google.com/spreadsheets/d/1WR3gKiBlMCFmuRBI7JvUL9CE8J-0uNSRBg_FOCiFD-c/edit?usp=sharing).
 
 #### Day 1: Monday, 30 May 2022
-2:30 PM CEST / 12:30 PM UTC until 9 PM CEST / 7 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 9:15 PM CEST / 7:15 PM UTC
 
 **Focus: PyHC Introduction + AstroPy for Heliophysics + SunPy**
- - Introductions (welcome, agenda, code of conduct reminder, PyHC introduction, etc.) [15m]
+ - Introductions (welcome, agenda, code of conduct reminder, PyHC introduction, etc.) [30m]
  - (p) "AstroPy for Heliophysics" project introduction [2h45m; included 15m break halfway]
     - [https://github.com/astropy/astropy](https://github.com/astropy/astropy)
     - [https://docs.astropy.org/en/stable/](https://docs.astropy.org/en/stable/)
@@ -89,9 +89,10 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
  - _Buffet dinner together at ESAC this night!_
 
 #### Day 3: Wednesday, 01 June 2022
-2:30 PM CEST / 12:30 PM UTC until 7:45 PM CEST / 3:30 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 7:45 PM CEST / 5:45 PM UTC
 
 **Focus: Solar-MACH + HAPI (with a touch of VirES)**
+ - Kicking off the day's activities [15m]
  - (v) Solar-MACH project introduction [1h15m; included 15 min break at end]
     - [https://github.com/jgieseler/solarmach](https://github.com/jgieseler/solarmach)
  - (p) HAPI project introduction [3h45m; included 45m coffee break halfway]
@@ -117,7 +118,7 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
     - [https://pyspedas.readthedocs.io/en/latest/](https://pyspedas.readthedocs.io/en/latest/)
 
 #### Day 5: Friday, 03 June 2022
-2:30 PM CEST / 12:30 PM UTC until 9 PM CEST / 7 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 10 PM CEST / 8 PM UTC
 
 **Focus: Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up**
  - Kicking off the day's activities [10m]
@@ -126,10 +127,10 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
     - [https://ccmc.gsfc.nasa.gov/Kamodo/](https://ccmc.gsfc.nasa.gov/Kamodo/)
  - Coffee break [45m]
  - Project Potpourri [2h15m; included 15m break after presentations]
-    - (p) Speasy (formally AmdaPy) project introduction [30m]
+    - (p) Speasy (formally AmdaPy) project introduction [1h]
        - [https://pypi.org/project/speasy/](https://pypi.org/project/speasy/), [https://github.com/SciQLop/speasy](https://github.com/SciQLop/speasy)
        - [https://speasy.readthedocs.io/en/stable/](https://speasy.readthedocs.io/en/stable/)
-    - (p) OMMBV project introduction [30m]
+    - (p) OMMBV project introduction [1h]
        - [https://github.com/rstoneback/OMMBV](https://github.com/rstoneback/OMMBV)
        - [https://ommbv.readthedocs.io/en/latest/?badge=latest](https://ommbv.readthedocs.io/en/latest/?badge=latest)
  - Python learning session [1h30m]
