@@ -5,7 +5,7 @@
   docs: "http://docs.sunpy.org"
   code: "https://github.com/sunpy/sunpy"
   contact: "Stuart Mumford"
-  keywords: ["solar","general"]
+  keywords: ["2D_graphics","cdaweb","coordinates","data_analysis","data_retrieval","fermi","fido","fits","general","goes","heliosphere","image_processing","lasco","line_plots","netcdf","plotting","power_spectra","soho","solar","time"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -19,7 +19,7 @@
   docs: "https://pysat.readthedocs.io"
   code: "https://github.com/pysat/pysat"
   contact: "Russell Stoneback"
-  keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","general"]
+  keywords: ["ace","coordinates","data_analysis","data_retrieval","de2","dmsp","general","icon","ionosphere_thermosphere_mesosphere","madrigal","magnetosphere","omni","orbit","plotting","sami2","tiegcm","time"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -34,7 +34,7 @@
   docs: "https://docs.plasmapy.org/"
   code: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
-  keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","plasma_physics","heliosphere","general","laboratory","simulation","theory","instrumentation","data_analysis"]
+  keywords: ["data_analysis","general","heliosphere","instrumentation","ionosphere_thermosphere_mesosphere","laboratory","magnetosphere","plasma_physics","plotting","simulation","solar","theory"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -48,7 +48,7 @@
   docs: "https://spacepy.github.io/"
   code: "https://github.com/spacepy/spacepy"
   contact: "Steve Morley"
-  keywords: ["heliosphere","ionosphere_thermosphere_mesosphere","magnetosphere","general","time","coordinates","data_container","plotting","ascii","cdf","csv","hdf5","local","data_access","data_analysis","reference_data","simulation"]
+  keywords: ["ascii","bats_r_us","cdf","coordinates","csv","data_access","data_analysis","data_container","general","hdf5","heliosphere","igrf","ionosphere_thermosphere_mesosphere","local","magnetosphere","omni","plotting","reference_data","shue","simulation","swmf","time","tsyganenko"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -58,10 +58,10 @@
 
 - name: "pySPEDAS"
   description: "Tools for loading, analysis and plotting of data from various heliophysics missions and ground magnetometers"
-  docs: "https://github.com/spedas/pyspedas"
+  docs: "https://pyspedas.readthedocs.io"
   code: "https://github.com/spedas/pyspedas"
   contact: "Nick Hatzigeorgiu, Eric Grimes"
-  keywords: ["heliophysics", "space physics", "magnetospheric physics", "data"]
+  keywords: ["ace","arase","cdf","cluster","coordinates","csswe","data","data_access","dscovr","equator_s","fast","geotail","heliophysics","image","kyoto_dst","line_plots","magnetospheric physics","maven","mica","mms","plotting","poes","polar","psp","solo","space physics","spectra","stereo","themis","twins","ulysses","van_allen_probes","wind"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
