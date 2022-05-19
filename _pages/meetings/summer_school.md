@@ -40,7 +40,7 @@ Bus pickup will be at 11:30 AM CEST on Day 1 (Monday, 30 May) and then 12:30 PM 
 <br>
 
 ### COVID-19 Rules
-Please check [Spain's travel health website](https://www.spth.gob.es) prior to your trip to ensure you comply with the rules. At the time of this writing, you must be vaccinated within 14–270 days before your arrival. If you do not have an EU Digital COVID Certificate (DCC) or EU Equivalent, you should fill out the FCS form on Spain's website.
+Please check [Spain's travel health website](https://www.spth.gob.es) prior to your trip to ensure you comply with the rules. At the time of this writing, you must be vaccinated within 14–270 days before your arrival. If you do not have an EU Digital COVID Certificate (DCC) or EU Equivalent, you should fill out the FCS form on Spain's website. If you need a negative test to return home, [eMed](https://www.emed.com/products/covid-at-home-testkit-six-pack)/[Abbott](https://store.optum.com/shop/products/abbott-binaxNOW-COVID-19-ag-emed-at-home-test-kit-2-pack/?utm_source=united&utm_medium=referral&utm_term=&utm_content=2-pack&utm_campaign=travel_ready_covid_test&utm_nooverride=1) at-home proctored tests may be a good option. You may also find testing at the airport, or your hotel may be able to point you to a testing site, although these aren't guaranteed.
 
 <br>
 
@@ -61,10 +61,10 @@ Subject to small changes as we finalize it.<br>
 For a spreadsheet version of the below agenda, see [here](https://docs.google.com/spreadsheets/d/1WR3gKiBlMCFmuRBI7JvUL9CE8J-0uNSRBg_FOCiFD-c/edit?usp=sharing).
 
 #### Day 1: Monday, 30 May 2022
-2:30 PM CEST / 12:30 PM UTC until 9 PM CEST / 7 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 9:15 PM CEST / 7:15 PM UTC
 
 **Focus: PyHC Introduction + AstroPy for Heliophysics + SunPy**
- - Introductions (welcome, agenda, code of conduct reminder, PyHC introduction, etc.) [15m]
+ - Introductions (welcome, agenda, code of conduct reminder, PyHC introduction, etc.) [30m]
  - (p) "AstroPy for Heliophysics" project introduction [2h45m; included 15m break halfway]
     - [https://github.com/astropy/astropy](https://github.com/astropy/astropy)
     - [https://docs.astropy.org/en/stable/](https://docs.astropy.org/en/stable/)
@@ -89,9 +89,10 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
  - _Buffet dinner together at ESAC this night!_
 
 #### Day 3: Wednesday, 01 June 2022
-2:30 PM CEST / 12:30 PM UTC until 7:45 PM CEST / 3:30 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 7:45 PM CEST / 5:45 PM UTC
 
 **Focus: Solar-MACH + HAPI (with a touch of VirES)**
+ - Kicking off the day's activities [15m]
  - (v) Solar-MACH project introduction [1h15m; included 15 min break at end]
     - [https://github.com/jgieseler/solarmach](https://github.com/jgieseler/solarmach)
  - (p) HAPI project introduction [3h45m; included 45m coffee break halfway]
@@ -117,7 +118,7 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
     - [https://pyspedas.readthedocs.io/en/latest/](https://pyspedas.readthedocs.io/en/latest/)
 
 #### Day 5: Friday, 03 June 2022
-2:30 PM CEST / 12:30 PM UTC until 9 PM CEST / 7 PM UTC
+2:30 PM CEST / 12:30 PM UTC until 10 PM CEST / 8 PM UTC
 
 **Focus: Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up**
  - Kicking off the day's activities [10m]
@@ -126,10 +127,10 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
     - [https://ccmc.gsfc.nasa.gov/Kamodo/](https://ccmc.gsfc.nasa.gov/Kamodo/)
  - Coffee break [45m]
  - Project Potpourri [2h15m; included 15m break after presentations]
-    - (p) Speasy (formally AmdaPy) project introduction [30m]
+    - (p) Speasy (formally AmdaPy) project introduction [1h]
        - [https://pypi.org/project/speasy/](https://pypi.org/project/speasy/), [https://github.com/SciQLop/speasy](https://github.com/SciQLop/speasy)
        - [https://speasy.readthedocs.io/en/stable/](https://speasy.readthedocs.io/en/stable/)
-    - (p) OMMBV project introduction [30m]
+    - (p) OMMBV project introduction [1h]
        - [https://github.com/rstoneback/OMMBV](https://github.com/rstoneback/OMMBV)
        - [https://ommbv.readthedocs.io/en/latest/?badge=latest](https://ommbv.readthedocs.io/en/latest/?badge=latest)
  - Python learning session [1h30m]
