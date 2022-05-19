@@ -40,7 +40,7 @@ Bus pickup will be at 11:30 AM CEST on Day 1 (Monday, 30 May) and then 12:30 PM 
 <br>
 
 ### COVID-19 Rules
-Please check [Spain's travel health website](https://www.spth.gob.es) prior to your trip to ensure you comply with the rules. At the time of this writing, you must be vaccinated within 14–270 days before your arrival. If you do not have an EU Digital COVID Certificate (DCC) or EU Equivalent, you should fill out the FCS form on Spain's website.
+Please check [Spain's travel health website](https://www.spth.gob.es) prior to your trip to ensure you comply with the rules. At the time of this writing, you must be vaccinated within 14–270 days before your arrival. If you do not have an EU Digital COVID Certificate (DCC) or EU Equivalent, you should fill out the FCS form on Spain's website. If you need a negative test to return home, [eMed](https://www.emed.com/products/covid-at-home-testkit-six-pack)/[Abbott](https://store.optum.com/shop/products/abbott-binaxNOW-COVID-19-ag-emed-at-home-test-kit-2-pack/?utm_source=united&utm_medium=referral&utm_term=&utm_content=2-pack&utm_campaign=travel_ready_covid_test&utm_nooverride=1) at-home proctored tests may be a good option. You may also find testing at the airport, or your hotel may be able to point you to a testing site, although these aren't guaranteed.
 
 <br>
 
