@@ -122,7 +122,7 @@ For a spreadsheet version of the below agenda, see [here](https://docs.google.co
 
 **Focus: Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up**
  - Kicking off the day's activities [10m]
- - (p) Kamodo project introduction [2h45m; included 15m break halfway]
+ - (v) Kamodo project introduction [2h45m; included 15m break halfway]
     - [https://github.com/nasa/Kamodo](https://github.com/nasa/Kamodo)
     - [https://ccmc.gsfc.nasa.gov/Kamodo/](https://ccmc.gsfc.nasa.gov/Kamodo/)
  - Coffee break [45m]
