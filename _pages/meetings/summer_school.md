@@ -35,7 +35,7 @@ E-28692 Madrid, Spain<br>
 We recommend booking a hotel near Plaza de España, as buses will transport attendees from Plaza de España to ESAC each day. A good option is the [Leonardo Hotel Madrid City Center](https://www.leonardo-hotels.es/madrid/leonardo-hotel-madrid-city-center).
 
 #### Bus
-Bus pickup will be at 11:30 AM CEST on Day 1 (Monday, 30 May) and then 12:30 PM CEST every other day at the Plaza de España (exact location therein TBD). The bus to ESAC is free courtesy of ESA; there will be a sign on the bus indicating that it is the ESA-provided transportation. There is also a public bus line which takes 1h30m at most, usually much less: line 623 from Moncloa station. You can pay with your credit card (contactless) in any bus. Otherwise, please have a look at the [Getting to ESAC page](https://www.esa.int/About_Us/ESAC/Getting_to_ESAC).
+Bus pickup will be at 12:30 PM CEST every day from the corner of Calle San Leonardo & Calle Princesa by Plaza de España. The bus to ESAC is free courtesy of ESA; there will be a sign on the bus indicating that it is the ESA-provided transportation. There is also a public bus line which takes 1h30m at most, usually much less: line 623 from Moncloa station. You can pay with your credit card (contactless) in any bus. Otherwise, please have a look at the [Getting to ESAC page](https://www.esa.int/About_Us/ESAC/Getting_to_ESAC).
 
 <br>
 
