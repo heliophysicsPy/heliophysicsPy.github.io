@@ -54,6 +54,11 @@ You do not have to be a Python expert to attend. We will teach important Python 
 
 <br>
 
+### Summer School Materials
+Looking for notebooks or slides presented at the Summer School? They will be stored in our [GitHub repo](https://github.com/heliophysicsPy/summer-school).
+
+<br>
+
 ### Agenda
 Subject to small changes as we finalize it.<br>
 (p = in-person presenter, v = virtual presenter)
