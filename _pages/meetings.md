@@ -62,11 +62,12 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 
 #### AGU Sessions
 
-* AGU Fall 2021 meeting: SH35H - Python Applications for Solar and Space Physics iPoster (virtual-only poster session)
-    * Wednesday, 15 December 2021, 15:00 – 16:15 CT, Online Only
-    * [Link to Session Info Page](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/119817)
-    * [AGU Registration](https://www.agu.org/Fall-Meeting/Pages/Register-Housing) opens 23 August 2021
+* AGU Fall 2022 meeting: SH023 - Python Implementations in Solar and Space Physics
+    * [Link to Session Info Page](https://agu.confex.com/agu/fm22/prelim.cgi/Session/160670)
+    * Interested in submitting an abstract? [See here for more info!](https://agu.confex.com/agu/fm22/prelim.cgi/Home/0)
+        * Abstracts due 3 August 2022 at 23:59 EDT/03:59 + 1 GMT (late submissions will not be accepted)
+    * [AGU Registration](https://www.agu.org/Fall-Meeting/Pages/Attend/Register#rates) opens 17 August 2022
 
 #### Summer School
 
-* We are excited to announce our inaugural <a href="{{ site.baseurl }}/summer-school">2022 Summer School</a>, in partnership with the European Space Astronomy Centre (ESAC)! <a href="{{ site.baseurl }}/summer-school">Click here for more info</a>.
+* We recently held our inaugural <a href="{{ site.baseurl }}/summer-school">2022 Summer School</a>, in partnership with the European Space Astronomy Centre (ESAC)! <a href="{{ site.baseurl }}/summer-school">Click here for more info</a>.
