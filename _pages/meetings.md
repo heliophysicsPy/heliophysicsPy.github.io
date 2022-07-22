@@ -12,7 +12,9 @@ Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain 
 
 ### Calendar
 
-Meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+Meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ):
+<br>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23f9e79f&ctz=America%2FDenver&showTitle=0&title=PyHC%20Events&showDate=1&showPrint=0&showTabs=1&showCalendars=0&showNav=1&src=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 <br>
 
