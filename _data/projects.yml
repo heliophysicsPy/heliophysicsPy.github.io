@@ -142,13 +142,7 @@
   logo: https://iri.gsfc.nasa.gov/images/tail-179.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
-
-- name: Kamodo
-  code: https://github.com/nasa/Kamodo
-  description: CCMC tool for access, interpolation, and visualization of space weather models and data
-  contact: Asher Pembroke
-  keywords: ["2D_graphics","3D_graphics","adelphi","amgeo","ascii","coordinates","csv","ctipe","data_access","data_retrieval","enlil","gamera","general","geospace","gitm","hapi","heliosphere","interactive","ionosphere_thermosphere_mesosphere","iri","line_plots","local","magnetosphere","multidimensional","netcdf","openggcm","orbit","orbit","plotting","remote","sami3","solar","superdarn","swmf","tiegcm","time","waccmx","web_service"]
-
+  
 - name: LOWTRAN
   code: https://github.com/space-physics/lowtran
   description: LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python and Matlab
