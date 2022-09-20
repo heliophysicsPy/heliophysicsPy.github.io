@@ -24,7 +24,7 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
 
 #### Meeting Recordings
 
- - (Check back here after the meeting)
+ - [Watch Day 1 here](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/juba8233_colorado_edu/ETAI1ZOECdJNjAoMZ97395MBUxeET_L0eEThl9wmuPUKYQ?e=5ggdtC)
 
 ### Zoom Meeting Information
 
