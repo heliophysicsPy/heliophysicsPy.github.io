@@ -18,7 +18,7 @@ See [the full agenda](https://docs.google.com/spreadsheets/d/1J5bex4gwXKg2gAqW-X
 
 Materials associated with the meeting sessions will be kept in the [**meeting folder**](https://drive.google.com/drive/folders/1CCI5OSGNFcJwzpzgxaQMo8_s_oRN9j1o?usp=sharing) on Google Drive.
 
- - [Meeting schedule](https://docs.google.com/spreadsheets/d/1J5bex4gwXKg2gAqW-XWx9GftTPlDtH-4JKFOdURCb5s/edit?usp=sharing) (subject to change)
+ - [Meeting schedule](https://docs.google.com/spreadsheets/d/1J5bex4gwXKg2gAqW-XWx9GftTPlDtH-4JKFOdURCb5s/edit?usp=sharing)
  - [Hackathon projects](https://docs.google.com/spreadsheets/d/15ebuF2yN6zyfaFpCpoSWtoUdIjOZpx1KrzeiANEMRPk/edit?usp=sharing)
  - [Presentation and Tutorials Organizing](https://docs.google.com/spreadsheets/d/17RD7IS4Clw2GFGnqp3nCzYRdEVTG3vCMR8riZ4qgLCg/edit?usp=sharing)
 
