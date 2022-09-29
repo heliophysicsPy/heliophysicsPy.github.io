@@ -244,6 +244,21 @@
   contact: Michael Hirsch
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
   
+- name: "SkyWinder"
+  url: “”
+  description: "SkyWinder is an open-source Python package useful for instrument control and telemetry."
+  logo: "”
+  docs: ""
+  code: "https://github.com/PolarMesosphericClouds/SkyWinder"
+  contact: "Carl Bjorn Kjellstrand"
+  keywords: [“flight control”, “telemetry”, “ballooning”]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity:  ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  
 - name: solarmach
   url: "https://solar-mach.github.io"
   code: https://github.com/jgieseler/solarmach
