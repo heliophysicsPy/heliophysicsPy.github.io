@@ -255,18 +255,18 @@
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  software_maturity:  ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity:  ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   
 - name: "SkyWinder-Analysis"
   url: “”
-  description: "The analysis counterpart to the SkyWinder flight package."
+  description: "The image analysis counterpart to the SkyWinder flight package."
   logo: "”
   docs: ""
   code: "https://github.com/PolarMesosphericClouds/SkyWinder"
   contact: "Carl Bjorn Kjellstrand"
-  keywords: [“aeronomy”, "image processing”]
+  keywords: [“aeronomy”, "image processing”, "image projection"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
