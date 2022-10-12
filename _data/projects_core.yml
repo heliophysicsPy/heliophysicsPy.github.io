@@ -15,7 +15,7 @@
 
 - name: "pysat"
   description: "Management and analysis tool for satellite and radar data."
-  logo: "https://github.com/pysat/pysat/raw/main/logo.png"
+  logo: "https://raw.githubusercontent.com/pysat/pysat/main/docs/images/logo.png"
   docs: "https://pysat.readthedocs.io"
   code: "https://github.com/pysat/pysat"
   contact: "Russell Stoneback"
@@ -30,7 +30,7 @@
 - name: "PlasmaPy"
   url: "https://www.plasmapy.org/"
   description: "A Python package for plasma physics"
-  logo: "https://github.com/PlasmaPy/PlasmaPy-logo/raw/master/exports/graphic-circular.png"
+  logo: "https://github.com/PlasmaPy/PlasmaPy-logo/raw/main/exports/graphic-circular.png"
   docs: "https://docs.plasmapy.org/"
   code: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
@@ -74,7 +74,7 @@
   code: "https://github.com/nasa/Kamodo"
   docs: "https://github.com/nasa/Kamodo/tree/master/docs"
   description: "CCMC tool for access, interpolation, and visualization of space weather models and data"
-  logo: "https://drive.google.com/file/d/1xJNjL-OJvk1xXDZ5SCYfFazz1J6ck0fg/view?usp=sharing"
+  logo: "https://drive.google.com/file/d/1xJNjL-OJvk1xXDZ5SCYfFazz1J6ck0fg/preview"
   contact: "Rebecca Ringuette rebecca.ringuette@nasa.gov"
   keywords: ["2D_graphics","3D_graphics","adelphi","amgeo","ascii","coordinates","csv","ctipe","data_access","data_retrieval","enlil","gamera","general","geospace","gitm","hapi","heliosphere","interactive","ionosphere_thermosphere_mesosphere","iri","line_plots","local","magnetosphere","multidimensional","netcdf","openggcm","orbit","orbit","plotting","remote","sami3","solar","superdarn","swmf","tiegcm","time","waccmx","web_service"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
