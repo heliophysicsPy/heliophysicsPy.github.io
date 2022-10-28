@@ -245,13 +245,10 @@
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
   
 - name: "SkyWinder"
-  url: “”
   description: "SkyWinder is an open-source Python package useful for instrument control and telemetry."
-  logo: "”
-  docs: ""
   code: "https://github.com/PolarMesosphericClouds/SkyWinder"
   contact: "Carl Bjorn Kjellstrand"
-  keywords: [“flight control”, “telemetry”, “ballooning”]
+  keywords: ["ionosphere_thermosphere_mesosphere", "geospace", "planetary", "instrumentation", "image"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -260,13 +257,10 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   
 - name: "SkyWinder-Analysis"
-  url: “”
   description: "The image analysis counterpart to the SkyWinder flight package."
-  logo: "”
-  docs: ""
   code: "https://github.com/PolarMesosphericClouds/SkyWinder"
   contact: "Carl Bjorn Kjellstrand"
-  keywords: [“aeronomy”, "image processing”, "image projection"]
+  keywords: ["ionosphere_thermosphere_mesosphere", "geospace", "planetary", "2D_graphics","coordinates", "data_container", "image_processing", "csv", "netcdf", "data_analysis", "image"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
