@@ -235,9 +235,9 @@
   contact: "Carl Bjorn Kjellstrand"
   keywords: ["ionosphere_thermosphere_mesosphere", "geospace", "planetary", "instrumentation", "image"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
-  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  software_maturity:  ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   
@@ -245,11 +245,11 @@
   description: "The image analysis counterpart to the SkyWinder flight package."
   code: "https://github.com/PolarMesosphericClouds/SkyWinder"
   contact: "Carl Bjorn Kjellstrand"
-  keywords: ["ionosphere_thermosphere_mesosphere", "geospace", "planetary", "2D_graphics","coordinates", "data_container", "image_processing", "csv", "netcdf", "data_analysis", "image"]
+  keywords: ["ionosphere_thermosphere_mesosphere", "geospace", "planetary", "2D_graphics", "coordinates", "data_container", "image_processing", "csv", "netcdf", "data_analysis", "image"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
-  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
-  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
-  software_maturity:  ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   
