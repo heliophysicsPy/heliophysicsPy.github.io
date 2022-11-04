@@ -80,6 +80,21 @@
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
+- name: "GeospaceLAB"
+  url: "https://github.com/JouleCai/geospacelab"
+  description: "A Python library for managing and visualizing data in Space Physics."
+  logo: "https://github.com/JouleCai/geospacelab/blob/master/docs/images/logo_v1_landscape_accent_colors.png"
+  docs: "https://geospacelab.readthedocs.io/en/latest/"
+  code: "https://github.com/JouleCai/geospacelab"
+  contact: "Lei Cai"
+  keywords: ["geospace","space weather","geomangetic indices", "solar wind", "magnetosphere-ionosphere-thermosphere coupling"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: GOESutils
   code: https://github.com/space-physics/GOESplot
   description:  Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time
