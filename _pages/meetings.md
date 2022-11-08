@@ -69,10 +69,11 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 
 #### AGU Sessions
 
-* AGU Fall 2022 meeting: SH023 - Python Implementations in Solar and Space Physics
-    * [Link to Session Info Page](https://agu.confex.com/agu/fm22/prelim.cgi/Session/160670)
-    * Interested in submitting an abstract? [See here for more info!](https://agu.confex.com/agu/fm22/prelim.cgi/Home/0)
-        * Abstracts due 3 August 2022 at 23:59 EDT/03:59 + 1 GMT (late submissions will not be accepted)
+* AGU Fall 2022 meeting: Python Implementations in Solar and Space Physics
+    * We have 3 sessions at AGU this year: an in-person poster session, an online poster session, and an in-person oral session.
+        * [SH41C Online Poster Session](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/169378); Thursday, 15 December 2022, 8 - 9 CST
+        * [SH42E In-person Poster Session](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/160670); Thursday, 15 December 2022, 9 - 12:30 CST
+        * [SH45B In-person Oral Session](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/169371); Thursday, 15 December 2022, 14:45 - 16:15 CST
     * [AGU Registration](https://www.agu.org/Fall-Meeting/Pages/Attend/Register#rates) opens 17 August 2022
 
 #### Summer School
