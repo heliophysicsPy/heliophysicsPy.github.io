@@ -87,7 +87,7 @@
   docs: "https://geospacelab.readthedocs.io/en/latest/"
   code: "https://github.com/JouleCai/geospacelab"
   contact: "Lei Cai"
-  keywords: ["geospace","space weather","geomangetic indices", "solar wind", "magnetosphere-ionosphere-thermosphere coupling"]
+  keywords: ["geospace","ionosphere_thermosphere_mesosphere","magnetosphere","data_retrieval","data_containe","plotting","data_access", "data_analysis"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
