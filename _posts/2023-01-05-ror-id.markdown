@@ -1,0 +1,12 @@
+---
+layout: post
+title: "New Way To Cite PyHC"
+author: sapols
+---
+
+You can now uniquely identify PyHC as an entity with this ROR ID:
+<br>[https://ror.org/012prn105](https://ror.org/012prn105)
+
+
+ROR is a global, community-led registry of open persistent identifiers for research organizations. ROR IDs function much like DOIs but they are used for research organizations rather than individual research outputs. Learn more about ROR IDs on [their website](https://ror.org). Let’s spread the word about this new citation mechanism!
+
