@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyHC Spring 2022 Meeting Dates Announced."
+title: "PyHC Spring 2022 Meeting Dates Announced"
 author: jibarnum
 ---
 
