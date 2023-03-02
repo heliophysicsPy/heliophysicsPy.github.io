@@ -617,7 +617,7 @@
   docs: "https://xrtpy.readthedocs.io"
   code: "https://github.com/HinodeXRT/xrtpy"
   contact: "Joy Velasquez"
-  keywords: ["solar", "specific", "data_analysis"]
+  keywords: ["solar", "specific", "data_analysis", "hinode"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
