@@ -5,7 +5,7 @@ permalink: /meetings/spring2023/
 exclude: true
 ---
 
-The spring 2023 meeting of the [Python in Heliophysics Community](http://heliopython.org) will be the first hybrid meeting to take place since the pre-pandemic times! We'll host the in-person portion at [**LASP \| CU-Boulder**](https://goo.gl/maps/mMapAsmgsg7DCrfZ7), and online participation will be available [**at this Zoom link**](https://cuboulder.zoom.us/j/97372369069) (Meeting ID: **973 7236 9069**). _The Zoom sessions will be recorded._ It will be spread across three days, starting Tuesday, May 16th, 2023 and ending Thursday, May 18th, 2023:
+The spring 2023 meeting of the [Python in Heliophysics Community](http://heliopython.org) will be the first hybrid meeting to take place since the pre-pandemic times! We'll host the in-person portion at [**LASP \| CU Boulder**](https://goo.gl/maps/mMapAsmgsg7DCrfZ7), and online participation will be available [**at this Zoom link**](https://cuboulder.zoom.us/j/97372369069) (Meeting ID: **973 7236 9069**). _The Zoom sessions will be recorded._ It will be spread across three days, starting Tuesday, May 16th, 2023 and ending Thursday, May 18th, 2023:
 
  - **Project updates and discussions:** May 16th 9:00 AM–5:00 PM (MDT)
  - **Unconference and tutorial sessions:** May 17th 9:00 AM–5:00 PM (MDT)
