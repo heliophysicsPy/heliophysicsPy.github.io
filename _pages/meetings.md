@@ -20,6 +20,11 @@ Meetings and telecon times are available as a [Google calendar](https://calendar
 
 ### Community Meetings
 
+[2023 Spring Python in Heliophysics Community Meeting]({% link
+_pages/meetings/spring2023.md %}), May 16–18 (hybrid in-person/remote).
+* [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/folders/1Gy2oquhdkkMfidRsf-WgjhnS7C5aIzuf?usp=sharing)
+* Meeting Report (to be produced shortly after the Spring 2023 meeting ends)
+
 [2022 Fall Python in Heliophysics Community Meeting]({% link
 _pages/meetings/fall2022.md %}), November 7–10 (remote).
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/u/0/folders/193ekRMe7TlcSnrlWrxkyHwu45VlOwurX?usp=sharing)
