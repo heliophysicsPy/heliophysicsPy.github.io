@@ -611,3 +611,16 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+
+- name: "XRTpy"
+  description: "A Python package for analyzing data from the X-Ray Telescope instrument onboard the Hinode spacecraft."
+  docs: "https://xrtpy.readthedocs.io"
+  code: "https://github.com/HinodeXRT/xrtpy"
+  contact: "Joy Velasquez"
+  keywords: ["solar", "specific", "data_analysis", "hinode"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]

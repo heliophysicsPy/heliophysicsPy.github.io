@@ -24,4 +24,4 @@
 
 - category: "Mission"
   description: "Observational, including ground and satellite, and also models. TODO."
-  keywords: ["ace", "adelphi", "amgeo", "arase", "bats_r_us", "cluster", "csswe", "ctipe", "de2", "dmsp", "dscovr", "enlil", "equator_s", "fast", "fermi", "gamera", "geotail", "gitm", "goes", "icon", "igrf", "image", "iri", "kyoto_dst", "lasco", "madrigal", "maven", "mica", "mms", "omni", "openggcm", "poes", "polar", "proba_2", "psp", "rhessi", "sami2", "sami3", "sdo", "shue", "soho", "solo", "stereo", "superdarn", "swmf", "themis", "tiegcm", "tsyganenko", "twins", "ulysses", "van_allen_probes", "waccmx", "wind"]
+  keywords: ["ace", "adelphi", "amgeo", "arase", "bats_r_us", "cluster", "csswe", "ctipe", "de2", "dmsp", "dscovr", "enlil", "equator_s", "fast", "fermi", "gamera", "geotail", "gitm", "goes", "hinode", "icon", "igrf", "image", "iri", "kyoto_dst", "lasco", "madrigal", "maven", "mica", "mms", "omni", "openggcm", "poes", "polar", "proba_2", "psp", "rhessi", "sami2", "sami3", "sdo", "shue", "soho", "solo", "stereo", "superdarn", "swmf", "themis", "tiegcm", "tsyganenko", "twins", "ulysses", "van_allen_probes", "waccmx", "wind"]
