@@ -33,7 +33,7 @@ inputs are starred, and variable names are shown in parentheses):
 The standards grades each require two values to be entered in, the img src url and the alt text of the given grade. The img
 src url creates the colored boxes denoting standards grades, while the alt text is what shows up if the colored boxes can not
 be rendered on a device. If you gave a "Requires Improvement" grade for a standard, you'd enter in
-> ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement""].
+> ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"].
 
 Accordingly, if you gave a "Partially met" or a "Good" grade for a standard, you'd enter in
 > ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -70,6 +70,6 @@ project, and what grades were assigned for the PyHC standards. If any of the sta
 make sure to provide some remarks about why that is, and what the project's plan is for improvement. As stated in the
 reviewing guidelines, at present, no projects will be rejected from the PyHC Project list. However, at the 
 PyHC Spring 2020 meeting we will set a date by which projects will be kicked off if they have any "Requires improvement" grades. 
-Feel free to also post about your project and the PR in the [Riot.im chat group](https://riot.im/app/#/room/#heliopython:openastronomy.org). 
+Feel free to also post about your project and the PR in the [Element chat group](https://riot.im/app/#/room/#heliopython:openastronomy.org). 
 Within a week or so, a PyHC developer will review your PR request and approve it (for now, unconditionally, but after the 
 PyHC Spring 2020 meeting approval is subject to the standards grades).
