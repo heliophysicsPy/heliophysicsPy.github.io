@@ -23,6 +23,8 @@ Follow [PyHC on Twitter](https://twitter.com/PyHC_official) for quick announceme
 ## Chat rooms
 For more informal discussions and questions there is a chat room to enable live chat between users and developers. The chat is hosted on matrix and clicking the following [link](https://riot.im/app/#/room/#heliopython:openastronomy.org) will open a browser window with the chat interface. There is no need to install any software.
 
+We recently begun syncing this chat room with a Slack channel. Contact us for an invitation. 
+
 We have also recently begun moving towards integrating PyHC into Helionauts (Heliophysics forum in the cloud). This is another free platform, but an invite is required. See [Helionauts' home page](https://helionauts.org/login) for a list of people to contact for an invite link. Once you're in, search for the "PyHC" group! 
 
 <br>
