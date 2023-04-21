@@ -630,7 +630,7 @@
   docs: "https://punch-mission.github.io/regularizepsf/"
   code: "https://github.com/punch-mission/regularizepsf"
   contact: "Marcus Hughes"
-  keywords: ["point-spread-function", "calibration", "general", "data", "FITS"]
+  keywords: ["plotting", "calibration", "general", "fits", "local", "data_analysis"]
   community: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
   documentation: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
   testing: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
