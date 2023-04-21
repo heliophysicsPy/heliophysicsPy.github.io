@@ -624,3 +624,16 @@
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name : "regularizePSF"
+  description: "A Python package for manipulating and correcting various point spread functions"
+  docs: "https://punch-mission.github.io/regularizepsf/"
+  code: "https://github.com/punch-mission/regularizepsf"
+  contact: "Marcus Hughes"
+  keywords: ["point-spread-function", "calibration", "general", "data", "FITS"]
+  community: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
+  documentation: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
+  testing: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
+  software_maturity: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
+  python3: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
+  license: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
