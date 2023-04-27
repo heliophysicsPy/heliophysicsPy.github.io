@@ -61,7 +61,9 @@ yml file. An example project's inputs are shown below.
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]   
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]  
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]   
-  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]   
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]  
+  
+Acceptable keywords are found in the [PyHC Taxonomy](https://github.com/heliophysicsPy/heliophysicsPy.github.io/blob/main/_data/taxonomy.yml). They are organized into seven categories for ease of use. If you feel that your project requires a keyword that is not yet in the taxonomy, you may include an update to `taxonomy.yml` in your PR.
 
 Once you've added your project's information to projects.yml, commit and push your changes. Then, create a new PR 
 on your forked repository's GitHub page. This will create a request to merge those changes into the main PyHC 
