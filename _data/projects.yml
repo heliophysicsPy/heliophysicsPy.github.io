@@ -295,6 +295,19 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "space-packet-parser"
+  code: "https://github.com/medley56/space_packet_parser"
+  description: "A CCSDS telemetry packet decoding library based on the XTCE packet format description standard."
+  docs: "https://space-packet-parser.readthedocs.io"
+  contact: "Gavin Medley"
+  keywords: ["ccsds", "xtce", "space data systems", "space packet protocol", "packet parsing", "lasp", "university of colorado", "data processing", "data extraction", "data manipulation", "data transformation", "data encoding", "data decoding", "packet inspection", "binary data", "python"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: Speasy
   code: https://github.com/SciQLop/speasy
   description: "Retreive data from many space physics Web services"
