@@ -35,6 +35,20 @@
   contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
 
+- name: CCSDSPy
+  code: https://github.com/ccsdspy/ccsdspy/
+  description: A Python package for reading CCSDS (spacecraft) packet data.
+  docs: "https://docs.ccsdspy.org/en/latest/#"
+  logo: https://docs.ccsdspy.org/en/latest/_static/logo.png
+  contact: Daniel da Silva
+  keywords: ["ccsds","specific", "heliosphere", "ionosphere_thermosphere_mesosphere", "magnetosphere"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: "dbprocessing"
   description: "Database-driven Heliophysics processing controller."
   docs: "https://spacepy.github.io/dbprocessing"
