@@ -203,11 +203,19 @@
   contact: "Timothy Duly"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
-- name: "PyDARN"
-  description: "A package for analyzing data from SuperDARN."
+- name: "pyDARN"
+  description: "Python data visualization library for the Super Dual Auroral Radar Network."
   code: "https://github.com/SuperDARN/pydarn"
-  contact: "Marina Schmidt"
-  keywords: ["ionosphere_thermosphere_mesosphere","general"]
+  logo: "https://raw.githubusercontent.com/SuperDARN/pydarn/master/docs/imgs/pydarn_logo.png"
+  docs: "https://pydarn.readthedocs.io/en/main/"
+  contact: "SuperDARN Data Visualization Working Group"
+  keywords: ["ionosphere_thermosphere_mesosphere","general","data_analysis", "superdarn"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: PyGemini
   description: Python frontend for Gemini3D ionospheric kintic + fluid dynamics models
