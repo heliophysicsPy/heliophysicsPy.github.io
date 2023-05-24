@@ -1,9 +1,12 @@
 var table1;
 var table2;
+var table3;
 var searchValue1 = '';
 var searchValue2 = '';
+var searchValue3 = '';
 var selectValues1 = [];
 var selectValues2 = [];
+var selectValues3 = [];
 
 $(document).ready(function() {
     table1 = $('#dataTable1').DataTable({
@@ -20,6 +23,13 @@ $(document).ready(function() {
         "searching": true
     });
 
+    table3 = $('#dataTable3').DataTable({
+        "ordering":  true,
+        "paging":    false,
+        "info":      false,
+        "searching": true
+    });
+
     // Store value in first table's search box before searching
     $('#table_search1').keyup(function(e) {
         searchValue1 = $(this).val();
@@ -30,6 +40,12 @@ $(document).ready(function() {
     $('#table_search2').keyup(function(e) {
         searchValue2 = $(this).val();
         tableSearch(2);
+    });
+
+    // Store value in third table's search box before searching
+    $('#table_search3').keyup(function(e) {
+        searchValue3 = $(this).val();
+        tableSearch(3);
     });
 });
 
@@ -48,6 +64,10 @@ function tableSearch(tableNum) {
             filterStr = searchValue2 + ' ' + selectValues2.join(' ');
             table2.search(filterStr).draw();
             break;
+        case 3:
+            filterStr = searchValue3 + ' ' + selectValues3.join(' ');
+            table3.search(filterStr).draw();
+            break;
         default:
             // Error, exit function
             console.error("Invalid table number found: " + tableNum);
@@ -63,7 +83,7 @@ function tableSearch(tableNum) {
 function updateTaxonomyFilters(id) {
     let tableNum = id.slice(-1);
 
-    if (!(tableNum == "1" || tableNum == "2")) {
+    if (!(tableNum == "1" || tableNum == "2" || tableNum == "3")) {
         // Error, exit function
         console.error("Invalid table number found: " + tableNum);
         return;
@@ -89,6 +109,11 @@ function updateTaxonomyFilters(id) {
             selectValues2 = selectValues.filter(function (v) { return v !== ''; });
             tableSearch(2);
             break;
+        case "3":
+            // Store non-empty select values for third table before searching
+            selectValues3 = selectValues.filter(function (v) { return v !== ''; });
+            tableSearch(3);
+            break;
     }
 }
 
@@ -98,7 +123,7 @@ function updateTaxonomyFilters(id) {
 function toggleFilters(id) {
     let tableNum = id.slice(-1);
 
-    if (!(tableNum == "1" || tableNum == "2")) {
+    if (!(tableNum == "1" || tableNum == "2" || tableNum == "3")) {
         // Error, exit function
         console.error("Invalid table number found: " + tableNum);
         return;
