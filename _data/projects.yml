@@ -535,3 +535,18 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: lofarSun
+  url: "https://github.com/peijin94/LOFAR-Sun-tools"
+  code: "https://github.com/peijin94/LOFAR-Sun-tools"
+  docs: "https://lofar-sun-tools.readthedocs.io/en/latest"
+  description: LOFAR solar and spaceweather data processing
+  logo: https://lofar-sun-tools.readthedocs.io/en/latest/_static/logo0.png
+  contact: Peijin Zhang
+  keywords: ["Solar_radio", "LOFAR"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
