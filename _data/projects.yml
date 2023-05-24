@@ -394,7 +394,7 @@
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  license: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "irispy-lmsal"
   description: "A Python package that provides the tools to read in and analyze data from the IRIS solar-observing satellite."
@@ -407,7 +407,7 @@
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  license: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "XRTpy"
   description: "A Python package for analyzing data from the X-Ray Telescope instrument onboard the Hinode spacecraft."
@@ -434,3 +434,104 @@
   software_maturity: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
   python3: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
   license: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
+
+- name: "TomograPy"
+  url: "http://nbarbey.github.io/TomograPy"
+  description: "Coronal tomographic reconstructions."
+  code: "https://github.com/nbarbey/TomograPy"
+  contact: "Nicolas Barbey"
+  keywords: ["solar","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "python-magnetosphere"
+  description: "Python wrapper for cxform, coordinate transformation package "
+  code: "https://github.com/dpq/python-magnetosphere"
+  contact: "David Parunakian"
+  keywords: ["magnetosphere","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  python3: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "pysatCDF"
+  description: "Python reader for NASA CDF, includes CDF libraries."
+  code: "https://github.com/rstoneback/pysatCDF"
+  contact: "Russell Stoneback"
+  keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","specific"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"] 
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "pyglow"
+  description: "Upper atmosphere models and geophysical indices."
+  logo: "https://camo.githubusercontent.com/446f7d47177fd5b0f7aa141a31cef246769cf843/68747470733a2f2f7261772e6769746875622e636f6d2f74696d64756c79342f7079676c6f772f6d61737465722f6c6f676f2e706e67"
+  code: "https://github.com/timduly4/pyglow"
+  contact: "Timothy Duly"
+  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "geodata"
+  description: "Geophysics analysis of radar and optical systems."
+  logo: "https://github.com/jswoboda/GeoDataPython/raw/master/logo/logo1.png"
+  code: "https://github.com/jswoboda/GeoDataPython"
+  contact: "John Swoboda"
+  keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "fisspy"
+  description: "Fast Imaging Solar Spectrograph (FISS) on the New Solar Telescope."
+  code: "https://github.com/SNU-sunday/fisspy"
+  contact: "Juhyeong Kang"
+  keywords: ["solar","specific"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: CDFlib
+  code: https://github.com/MAVENSDC/cdflib
+  description: Read / Write NASA CDF with pure Python + Numpy, no compiling
+  logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
+  contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
+  keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: PyTplot
+  code: https://github.com/MAVENSDC/pytplot
+  description: Based on IDL tplot, plots and manipulates time series data
+  logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
+  contact: "Bryan Harter"
+  keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
+  community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
