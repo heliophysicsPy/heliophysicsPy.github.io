@@ -23,7 +23,6 @@
   contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
 
-
 - name: DASCutils
   code: https://github.com/space-physics/dascasi
   description: Digital All Sky Camera utilities, for camera at Poker Flat Research Range and elsewhere
@@ -42,7 +41,6 @@
   description: Python RINEX 2/3 NAV/OBS reader with speed and simplicity, handling most RINEX formats.
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
-
 
 - name: GOESutils
   code: https://github.com/space-physics/GOESplot
@@ -111,7 +109,6 @@
   contact: Michael Hirsch
   keywords: ["planetary","specific"]
 
-
 - name: POLAN
   code: https://github.com/space-physics/POLAN
   description: estimate true ionosphere height from ionosonde
@@ -124,12 +121,6 @@
   code: "https://github.com/timduly4/pyglow"
   contact: "Timothy Duly"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
-
-- name: "PyDARN"
-  description: "A package for analyzing data from SuperDARN."
-  code: "https://github.com/SuperDARN/pydarn"
-  contact: "Marina Schmidt"
-  keywords: ["ionosphere_thermosphere_mesosphere","general"]
 
 - name: PyGemini
   description: Python frontend for Gemini3D ionospheric kintic + fluid dynamics models
