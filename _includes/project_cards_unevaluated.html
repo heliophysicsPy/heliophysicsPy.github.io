@@ -1,0 +1,122 @@
+<div class="container-fluid">
+  <ul class="nav nav-tabs">
+    <li class="nav-item">
+        <a href="#table{{id}}" class="nav-link active" data-toggle="tab">Table</a>
+    </li>
+      <li class="nav-item">
+          <a href="#cards{{id}}" class="nav-link" data-toggle="tab">Cards</a>
+      </li>
+  </ul>
+
+  <div class="tab-content">
+
+    <div class="tab-pane fade show active" id="table{{id}}">
+        <table class="table table-striped" id="dataTable{{id}}">
+          <div class="expand-container">
+            <div class="taxonomy-filters" id="taxonomy-filters{{id}}">
+              {% for category in site.data.taxonomy %}
+                  <select class="filter" name="tax_cat_{{ forloop.index }}" id="tax_cat_{{ forloop.index }}_{{id}}" onchange="updateTaxonomyFilters(this.id)">
+                    <option value=""></option>
+                    {% assign sorted_keywords = category.keywords | sort %}
+                    {% for keyword in sorted_keywords %}
+                      <option value="{{ keyword }}">
+                        <script>
+                          document.write(prettyPrintKeyword("{{ keyword }}"));
+                        </script>
+                      </option>
+                    {% endfor %}
+                  </select>
+                  <label for="tax_cat_{{ forloop.index }}">{{ category.category }}</label>
+                <br>
+              {% endfor %}
+            </div>
+          </div>
+          <label for="table_search{{id}}">Search:</label>
+          <input type="search" class="tables_filter" id="table_search{{id}}" name="table_search{{id}}">
+          <button class="filter-toggle white" id="filter-toggle{{id}}" onclick="toggleFilters(this.id)">Show Keyword Filters</button>
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">Name</th>
+              <th scope="col">Description</th>
+              <th scope="col">Code</th>
+              <th scope="col">Docs</th>
+              <th scope="col">Site</th>
+              <th scope="col">Contact</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            {% for project in {{include.sorted_projects}} %}
+            <tr>
+              <th>{{ project.name }}</th>
+              <td>
+                {{ project.description }}
+                <p class="hidden">
+                  <br>
+                  <i>Keywords: </i><br>
+                  {{ project.keywords | join: ', ' }}
+                </p>
+              </td>
+              <td><p class="hidden">{{ project.code }}</p><a href="{{ project.code }}"
+                {%- capture site_icon -%}
+                  {%- if project.code contains "gitlab.com" -%}
+                    gitlab
+                  {%- elsif project.code contains "pypi.org" -%}
+                    python
+                  {%- else -%}
+                    github
+                  {%- endif -%}
+                {%- endcapture -%}
+                class="card-link"><i class="fab fa-{{site_icon}} fa-2x"></i></a></td>
+              <td>{% if project.docs != blank %}<p class="hidden">{{ project.docs }}</p><a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}</td>
+              <td>{% if project.url != blank %}<p class="hidden">{{ project.url }}</p><a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}</td>
+              <td>{{ project.contact }}</td>
+              <td>{% if project.community != blank %}<p class="hidden">{{ project.community[1] }}</p><img src="{{ project.community[0] }}" alt="{{ project.community[project.community.length-1] }}">{% endif %}</td>
+              <td>{% if project.documentation != blank %}<p class="hidden">{{ project.documentation[1] }}</p><img src="{{ project.documentation[0] }}" alt="{{ project.documentation[project.documentation.length-1] }}">{% endif %}</td>
+              <td>{% if project.testing != blank %}<p class="hidden">{{ project.testing[1] }}</p><img src="{{ project.testing[0] }}" alt="{{ project.testing[project.testing.length-1] }}">{% endif %}</td>
+              <td>{% if project.software_maturity != blank %}<p class="hidden">{{ project.software_maturity[1] }}</p><img src="{{ project.software_maturity[0] }}" alt="{{ project.software_maturity[project.software_maturity.length-1] }}">{% endif %}</td>
+              <td>{% if project.python3 != blank %}<p class="hidden">{{ project.python3[1] }}</p><img src="{{ project.python3[0] }}" alt="{{ project.python3[project.python3.length-1] }}">{% endif %}</td>
+              <td>{% if project.license != blank %}<p class="hidden">{{ project.license[1] }}</p><img src="{{ project.license[0] }}" alt="{{ project.license[project.license.length-1] }}">{% endif %}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+          </table>
+      </div>
+
+      <div class="tab-pane fade" id="cards{{id}}">
+        <div class="card-columns">
+        {% for project in {{include.sorted_projects}} %}
+            <div class="card">
+                {% if project.logo == blank%}
+                <img class="card-img-top img-fluid rounded-circle mx-auto" src="{{ site.baseurl }}/img/PyHC logo 750x750.png"/>
+                {% else %}
+                <img class="card-img-top img-fluid rounded mx-auto" src="{{ project.logo }}"/>
+                {% endif %}
+                <div class="card-body">
+                    <h4 class="card-title">{{ project.name }}</h4>
+                    <p class="card-text">{{ project.description }}<br>
+                    <b>{{ project.contact }}</b>
+                    </p>
+                </div>
+                <div class="card-footer text-right">
+                    <a href="{{ project.code }}"
+                      {%- capture site_icon -%}
+                        {%- if project.code contains "gitlab.com" -%}
+                          gitlab
+                        {%- elsif project.code contains "pypi.org" -%}
+                          python
+                        {%- else -%}
+                          github
+                        {%- endif -%}
+                      {%- endcapture -%}
+                      class="card-link"><i class="fab fa-{{site_icon}} fa-2x"></i></a>
+                    {% if project.docs != blank %}<a href="{{ project.docs }}" class="card-link"><i class="fas fa-book fa-2x"></i></a>{% endif %}
+                    {% if project.url != blank %}<a href="{{ project.url }}" class="card-link"><i class="fas fa-globe fa-2x"></i></a>{% endif %}
+                </div>
+            </div>
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</div>

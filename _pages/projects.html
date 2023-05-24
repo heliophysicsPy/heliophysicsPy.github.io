@@ -20,3 +20,8 @@ order: 5
 {% assign sorted_projects = site.data.projects | sort_natural:'name' %}
 {% assign id = 2 %}
 {% include project_cards.html sorted_projects=sorted_projects id=id %}
+
+<h3> Un-evaluated packages </h3>
+{% assign sorted_projects = site.data.projects_unevaluated | sort_natural:'name' %}
+{% assign id = 3 %}
+{% include project_cards_unevaluated.html sorted_projects=sorted_projects id=id %}
