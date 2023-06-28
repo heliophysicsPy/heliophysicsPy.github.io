@@ -550,3 +550,18 @@
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "PyGS"
+  url: "https://github.com/PyGSDR/PyGS/"
+  description: "Analysis tools for flux ropes based on GS techniques"
+  logo: "https://github.com/PyGSDR/PyGS/blob/main/logo/logo.png"
+  docs: "https://github.com/PyGSDR/PyGS/tree/main/documentation"
+  code: "https://github.com/PyGSDR/PyGS/tree/main/PyGS"
+  contact: "Yu Chen and Qiang Hu"
+  keywords: ["heliosphere","2D_graphics","interactive","csv","cdaweb","data_analysis","ace","psp","ulysses","wind","solo]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
