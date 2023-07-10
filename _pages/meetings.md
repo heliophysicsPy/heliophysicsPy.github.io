@@ -70,16 +70,17 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 <br>
 
 ### Related Meetings
-
+<br>
 
 #### AGU Sessions
 
-* AGU Fall 2022 meeting: Python Implementations in Solar and Space Physics
-    * We have 3 sessions at AGU this year: an in-person poster session, an online poster session, and an in-person oral session.
-        * [SH41C Online Poster Session](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/169378); Thursday, 15 December 2022, 8 - 9 CST
-        * [SH42E In-person Poster Session](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/160670); Thursday, 15 December 2022, 9 - 12:30 CST
-        * [SH45B In-person Oral Session](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/169371); Thursday, 15 December 2022, 14:45 - 16:15 CST
-    * [AGU Registration](https://www.agu.org/Fall-Meeting/Pages/Attend/Register#rates) opens 17 August 2022
+##### AGU Fall 2023 meeting
+* PyHC session: _SH012 - Implementations in Python for Solar and Space Physics_
+    * [Submit an abstract to the PyHC session here](https://agu.confex.com/agu/fm23/prelim.cgi/Session/189609)
+* Other PyHC-relevant session: _SH001 - Adopting Open Science in the Heliophysics, Earth and Space Sciences_
+    * [Submit an abstract to the Open Science in Helio/Earth/Space Sci here](https://agu.confex.com/agu/fm23/prelim.cgi/Session/191589)
+* Be sure to submit by Wednesday, 2 August 2023 at 23:59 EDT. Abstracts will not be accepted for review after this date.
+
 
 #### Summer School
 
