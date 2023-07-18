@@ -558,7 +558,7 @@
   docs: "https://github.com/PyGSDR/PyGS/tree/main/documentation"
   code: "https://github.com/PyGSDR/PyGS/tree/main/PyGS"
   contact: "Yu Chen and Qiang Hu"
-  keywords: ["heliosphere","2D_graphics","interactive","csv","cdaweb","data_analysis","ace","psp","ulysses","wind","solo]
+  keywords: ["heliosphere","2D_graphics","interactive","csv","cdaweb","data_analysis","ace","psp","ulysses","wind","solo"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
