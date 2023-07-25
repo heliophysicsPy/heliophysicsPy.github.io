@@ -29,7 +29,9 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
 
 #### Meeting Recordings
 
- - _(Check back here after the meeting)_
+ - [Watch Day 1 here](https://youtu.be/6ZlH0yEyu08)
+ - [Watch Day 2 here](https://youtu.be/JwJR1cZ4EeI)
+ - [Watch Day 3 here](https://youtu.be/F9ra-517eog)
 <br><br><br>
 
 ### Meeting Location

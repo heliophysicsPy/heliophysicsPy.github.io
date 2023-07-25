@@ -550,7 +550,7 @@
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-
+  
 - name: "PyGS"
   url: "https://github.com/PyGSDR/PyGS/"
   description: "Analysis tools for flux ropes based on GS techniques"
