@@ -54,3 +54,6 @@ _pages/docs/reports/february2023.md %})
 
  * [May 2023]({% link
 _pages/docs/reports/may2023.md %})
+
+ * [August 2023]({% link
+_pages/docs/reports/august2023.md %})
