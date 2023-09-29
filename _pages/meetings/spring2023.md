@@ -34,10 +34,6 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
  - [Watch Day 3 here](https://youtu.be/F9ra-517eog)
 <br><br><br>
 
-#### Final Meeting Report
-
-The final report detailing the spring 2023 meeting's details, outcomes, and future thoughts has been [published on Zenodo](https://doi.org/10.5281/zenodo.8393837). 
-
 ### Meeting Location
 The meeting will be held in-person at the [**Laboratory for Atmospheric and Space Physics (LASP)**](https://goo.gl/maps/mMapAsmgsg7DCrfZ7) in the east campus of the University of Colorado, Boulder. Parking passes will be provided and there is free wifi.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055.977112804171!2d-105.2478674!3d40.008958799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876bedc138bc2207%3A0x9f92aa579ccde89!2sLaboratory%20for%20Atmospheric%20and%20Space%20Physics!5e0!3m2!1sen!2sus!4v1678899163589!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
