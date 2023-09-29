@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python in Heliophysics Summer School 2024
-summary: The web page for the PyHC 2024 Summer School
+summary: The web page for the 2024 PyHC Summer School
 permalink: /summer-school-24
 exclude: true
 ---
@@ -26,7 +26,7 @@ Check back here for registration info.
 <br>
 
 ### Location
-The meeting will be held in-person at the [**Laboratory for Atmospheric and Space Physics (LASP)**](https://goo.gl/maps/mMapAsmgsg7DCrfZ7) in the east campus of the University of Colorado, Boulder. Parking passes will be provided and there is free wifi.
+The Summer School will be held in-person at the [**Laboratory for Atmospheric and Space Physics (LASP)**](https://goo.gl/maps/mMapAsmgsg7DCrfZ7) in the east campus of the University of Colorado, Boulder. Parking passes will be provided and there is free wifi.
 
 Room LSTB-A200<br>
 Laboratory for Atmospheric and Space Physics (LASP)<br>
