@@ -28,7 +28,7 @@ _pages/meetings/spring2023.md %}), May 16–18 (hybrid in-person/remote).
 [2022 Fall Python in Heliophysics Community Meeting]({% link
 _pages/meetings/fall2022.md %}), November 7–10 (remote).
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/u/0/folders/193ekRMe7TlcSnrlWrxkyHwu45VlOwurX?usp=sharing)
-* Meeting Report (to be produced shortly after the Fall 2022 meeting ends)
+* [Meeting Report](https://doi.org/10.5281/zenodo.8393927)
 
 [2022 Spring Python in Heliophysics Community Meeting]({% link
 _pages/meetings/spring2022.md %}), May 16–19 (remote).
