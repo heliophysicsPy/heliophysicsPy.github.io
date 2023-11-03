@@ -565,3 +565,18 @@
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+-  name: "HERMES-Core"
+    url: "https://github.com/HERMES-SOC/hermes_core"
+    description: "A central Python Package for common functionality across all HERMES instruments"
+    logo: "https://github.com/HERMES-SOC/hermes_core/blob/main/docs/logo/hermes_logo.png"
+    docs: "https://hermes-core.readthedocs.io/en/latest/"
+    code: "https://github.com/HERMES-SOC/hermes_core"
+    contact: "Steven Christe, Damian Barrous Dumme, Andrew Robbertz"
+    keywords: ["data_container", "time", "plotting", "spectra", "cdf", "data_analysis", "hermes"]
+    community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+    documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+    testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+    software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+    python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+    license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
