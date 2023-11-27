@@ -60,7 +60,7 @@
   description: "Tools for loading, analysis and plotting of data from various heliophysics missions and ground magnetometers"
   docs: "https://pyspedas.readthedocs.io"
   code: "https://github.com/spedas/pyspedas"
-  contact: "Nick Hatzigeorgiu, Eric Grimes"
+  contact: "Jim Lewis"
   keywords: ["ace","arase","cdf","cluster","coordinates","csswe","data","data_access","dscovr","equator_s","fast","geotail","heliophysics","image","kyoto_dst","line_plots","magnetospheric physics","maven","mica","mms","plotting","poes","polar","psp","solo","space physics","spectra","stereo","themis","twins","ulysses","van_allen_probes","wind"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
