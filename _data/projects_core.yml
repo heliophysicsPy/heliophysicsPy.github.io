@@ -47,7 +47,7 @@
   logo: "https://spacepy.github.io/_static/spacepy_logo.jpg"
   docs: "https://spacepy.github.io/"
   code: "https://github.com/spacepy/spacepy"
-  contact: "Steve Morley"
+  contact: "Jon Niehof"
   keywords: ["ascii","bats_r_us","cdf","coordinates","csv","data_access","data_analysis","data_container","general","hdf5","heliosphere","igrf","ionosphere_thermosphere_mesosphere","local","magnetosphere","omni","plotting","reference_data","shue","simulation","swmf","time","tsyganenko"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
