@@ -72,6 +72,6 @@ project, and what grades were assigned for the PyHC standards. If any of the sta
 make sure to provide some remarks about why that is, and what the project's plan is for improvement. As stated in the
 reviewing guidelines, at present, no projects will be rejected from the PyHC Project list. However, at the 
 PyHC Spring 2020 meeting we will set a date by which projects will be kicked off if they have any "Requires improvement" grades. 
-Feel free to also post about your project and the PR in the [Element chat group](https://riot.im/app/#/room/#heliopython:openastronomy.org). 
+Feel free to also post about your project and the PR in the [Element chat group](https://app.element.io/#/room/#heliopython:openastronomy.org). 
 Within a week or so, a PyHC developer will review your PR request and approve it (for now, unconditionally, but after the 
 PyHC Spring 2020 meeting approval is subject to the standards grades).
