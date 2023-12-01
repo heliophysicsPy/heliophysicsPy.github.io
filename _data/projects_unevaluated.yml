@@ -182,3 +182,10 @@
   description: Download/Plot NEXRAD compositive reflectivity by date/time, for ionospheric perturbations
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","general"]
+
+- name: BiScEF
+  code: https://github.com/kartverket/BiScEF/
+  description: NetCDF4/HDF5-based format "BiScEF" for GNSS scintillation data. Repo contains format description, some example data and some python scripts to interact with the data files.
+  contact: Knut Stanley Jacobsen
+  keywords: ["ionosphere_thermosphere_mesosphere","general", "2D_graphics", "data_container", "line_plots", "plotting", "hdf5", "netcdf"]
+
