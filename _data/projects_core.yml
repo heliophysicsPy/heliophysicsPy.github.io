@@ -18,7 +18,7 @@
   logo: "https://raw.githubusercontent.com/pysat/pysat/main/docs/images/logo.png"
   docs: "https://pysat.readthedocs.io"
   code: "https://github.com/pysat/pysat"
-  contact: "Russell Stoneback"
+  contact: "pysat Development Team"
   keywords: ["ace","coordinates","data_analysis","data_retrieval","de2","dmsp","general","icon","ionosphere_thermosphere_mesosphere","madrigal","magnetosphere","omni","orbit","plotting","sami2","tiegcm","time"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
