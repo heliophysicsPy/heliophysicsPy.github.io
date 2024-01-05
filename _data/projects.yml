@@ -565,3 +565,16 @@
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  
+- name: "BiScEF"
+  url: "https://github.com/kartverket/BiScEF/"
+  description: "NetCDF4/HDF5-based format named BiScEF for GNSS scintillation data. Repo contains format description, some example data and some python scripts to interact with the data files."
+  code: "https://github.com/kartverket/BiScEF/"
+  contact: "Knut Stanley Jacobsen and Sarah Schultz Beeck"
+  keywords: ["ionosphere_thermosphere_mesosphere","general", "2D_graphics", "data_container", "line_plots", "plotting", "hdf5", "netcdf"]
+  community: ["https://img.shields.io/badge/requires%20improvement-red.svg", "Requires improvement"]
+  documentation: ["https://img.shields.io/badge/requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/requires%20improvement-red.svg", "Requires improvement"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
