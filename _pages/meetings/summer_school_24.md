@@ -16,7 +16,7 @@ Remote options will be available for those unable to make the trip to Boulder. T
 <br>
 
 ### Registration
-Registration for the PyHC 2024 Summer School is now live. [Click here to sign up](https://forms.gle/cZRyJcjhv2QNVd3UA)! Once again, registration is FREE for all attendees. **The deadline for in-person and Zoom registration is Friday, April 19th, 2024.** After that date, we will not be able to accommodate additional requests for registration, however, you will still be able to access presentations via the live Zoom recording (not monitored for Q&A by Summer School organizers).
+Registration for the PyHC 2024 Summer School is now live. [Click here to sign up](https://forms.gle/cZRyJcjhv2QNVd3UA)! Once again, registration is FREE for all attendees. **The deadline for both in-person and Zoom registration is Monday, April 29th, 2024.** After that date, we will not be able to accommodate additional requests for registration, however, you will still be able to access presentations via the live Zoom recording (not monitored for Q&A by Summer School organizers).
 
 <br>
 
