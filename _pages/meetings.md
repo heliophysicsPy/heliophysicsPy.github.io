@@ -83,6 +83,7 @@ _pages/meetings/april2020.md %}), April 29 (remote).
 * Be sure to submit by Wednesday, 2 August 2023 at 23:59 EDT. Abstracts will not be accepted for review after this date.
 
 
-#### Summer School
+#### Summer Schools
 
+* We are holding our <a href="{{ site.baseurl }}/summer-school-24">2024 Summer School</a> at the Laboratory for Atmospheric and Space Physics (LASP)! <a href="{{ site.baseurl }}/summer-school-24">Click here for more info</a>.
 * We recently held our inaugural <a href="{{ site.baseurl }}/summer-school">2022 Summer School</a>, in partnership with the European Space Astronomy Centre (ESAC)! <a href="{{ site.baseurl }}/summer-school">Click here for more info</a>.
