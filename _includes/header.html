@@ -12,13 +12,13 @@
       <a class="navbar-brand" href="/">PyHC</a>
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <b><a class="nav-link {% if page.url == '/summer-school-24' %}active{% endif %}" href="/summer-school-24/">Summer School</a></b>
+          <b><a class="nav-link {% if page.url == '/summer-school-24' %}active{% endif %}" href="/summer-school-24">Summer School</a></b>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://heliopython.org/gallery/generated/gallery/index.html">Examples</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if page.url == '/blog' %}active{% endif %}" href="/blog/">Blog</a>
+          <a class="nav-link {% if page.url == '/blog' %}active{% endif %}" href="/blog">Blog</a>
         </li>
         {% assign pages = site.pages | sort:'order' %}
         {% for p in pages %}
