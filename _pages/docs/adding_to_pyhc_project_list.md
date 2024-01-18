@@ -23,7 +23,7 @@ In `projects.yml`, projects are listed in alphabetical order. Available inputs f
 * The project name (name) *
 * The project's website url (url),
 * A description of the project's main function (description) *,  
-* The location of the project's logo (logo)
+* A direct link to the raw image of the project's logo (logo)
 * The location of the project's documentation (docs)
 * The location of the project's code base (code) *
 * Who to contact for questions about the project (contact) *
@@ -70,6 +70,8 @@ yml file. An example project's inputs are shown below.
 &nbsp;&nbsp;&nbsp;&nbsp;  <code>software_maturity: ["<a href="https://img.shields.io/badge/Good-brightgreen.svg">https://img.shields.io/badge/Good-brightgreen.svg</a>", "Good"]</code><br>
 &nbsp;&nbsp;&nbsp;&nbsp;  <code>python3: ["<a href="https://img.shields.io/badge/Good-brightgreen.svg">https://img.shields.io/badge/Good-brightgreen.svg</a>", "Good"]</code><br>
 &nbsp;&nbsp;&nbsp;&nbsp;  <code>license: ["<a href="https://img.shields.io/badge/Good-brightgreen.svg">https://img.shields.io/badge/Good-brightgreen.svg</a>", "Good"]</code><br>
+
+If your project logo is in GitHub, use a link to the raw image or else it won't render in the "card" view on the PyHC Projects page.
 
 Acceptable keywords are found in the [PyHC Taxonomy](https://github.com/heliophysicsPy/heliophysicsPy.github.io/blob/main/_data/taxonomy.yml). They are organized into seven categories for ease of use. If you feel that your project requires a keyword that is not yet in the taxonomy, you may include an update to `taxonomy.yml` in your PR.
 
