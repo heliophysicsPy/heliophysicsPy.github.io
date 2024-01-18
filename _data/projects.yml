@@ -569,7 +569,7 @@
 - name: "HERMES-Core"
   url: "https://github.com/HERMES-SOC/hermes_core"
   description: "A central Python Package for common functionality across all HERMES instruments"
-  logo: "https://github.com/HERMES-SOC/hermes_core/blob/main/docs/logo/hermes_logo.png"
+  logo: "https://raw.githubusercontent.com/HERMES-SOC/hermes_core/main/docs/logo/hermes_logo.png"
   docs: "https://hermes-core.readthedocs.io/en/latest/"
   code: "https://github.com/HERMES-SOC/hermes_core"
   contact: "Steven Christe, Damian Barrous Dumme, Andrew Robbertz"
