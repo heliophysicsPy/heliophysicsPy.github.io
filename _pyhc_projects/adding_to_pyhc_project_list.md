@@ -18,7 +18,7 @@ inputs are starred, and variable names are shown in parentheses):
 * The project name (name) &ast;
 * The project's website url (url),
 * A description of the project's main function (description) &ast;,  
-* The location of the project's logo (logo)
+* A direct link to the raw image of the project's logo (logo)
 * The location of the project's documentation (docs)
 * The location of the project's code base (code) &ast;
 * Who to contact for questions about the project (contact) &ast;
@@ -63,6 +63,8 @@ yml file. An example project's inputs are shown below.
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]   
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]  
   
+If your project logo is in GitHub, use a link to the raw image or else it won't render in the "card" view on the PyHC Projects page.
+
 Acceptable keywords are found in the [PyHC Taxonomy](https://github.com/heliophysicsPy/heliophysicsPy.github.io/blob/main/_data/taxonomy.yml). They are organized into seven categories for ease of use. If you feel that your project requires a keyword that is not yet in the taxonomy, you may include an update to `taxonomy.yml` in your PR.
 
 Once you've added your project's information to projects.yml, commit and push your changes. Then, create a new PR 
