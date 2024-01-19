@@ -95,7 +95,7 @@ def main():
     dry_run = parser.parse_args().dry_run
     ensure_all_yaml_files_are_valid(dry_run=dry_run)
     any_failed = False
-    for projects_file in glob(f"{root}/_data/projects*.yml", recursive=True):
+    for projects_file in (f"{root}/_data/projects.yml", f"{root}/_data/projects_core.yml"):
         with open(projects_file, "r") as f:
             projects = yaml.safe_load(f)
             for project in projects:
