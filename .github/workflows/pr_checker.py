@@ -43,11 +43,8 @@ def check_project_keywords_respect_taxonomy(project: Dict, dry_run: bool = False
         project_keywords = set(project["keywords"])
         unlisted_keywords = project_keywords.difference(allowed_keywords)
         if len(unlisted_keywords) > 0:
-            if dry_run:
-                print(f"Unlisted keywords for project {project['name']}: {unlisted_keywords}")
-                return False
-            else:
-                raise Exception(f"Unlisted keywords for project {project['name']}: {unlisted_keywords}")
+            print(f"Unlisted keywords for project {project['name']}: {unlisted_keywords}")
+            return False
     else:
         print(f"Project {project['name']} has no keywords")
         return False
@@ -68,14 +65,9 @@ def check_project_has_mandatory_fields(project: Dict, dry_run: bool = False) -> 
         "python3", "license"}
 
     if len(mandatory_fields.difference(set(project.keys()))) > 0:
-        if dry_run:
-            print(
-                f"Project {project['name']} misses mandatory fields: {mandatory_fields.difference(set(project.keys()))}")
-            return False
-        else:
-            raise Exception(
-                f"Project {project['name']} misses mandatory fields: {mandatory_fields.difference(set(project.keys()))}")
-
+        print(
+            f"Project {project['name']} misses mandatory fields: {mandatory_fields.difference(set(project.keys()))}")
+        return False
     return True
 
 
@@ -86,29 +78,23 @@ def check_project_has_grades(project: Dict, dry_run: bool = False) -> bool:
     fields_with_grades = {"community", "documentation", "testing", "software_maturity", "python3", "license"}
     for field in fields_with_grades:
         if field in project and project[field] not in grades:
-            if dry_run:
-                print(f"Project {project['name']} deos not respect grades for field {field}, got {project[field]}")
-                return False
-            else:
-                raise Exception(f"Project {project['name']} deos not respect grades for field {field}")
+            print(f"Project {project['name']} deos not respect grades for field {field}, got {project[field]}")
+            return False
     return True
 
 
-def check_project_has_functionality_related_keyword(project: Dict, dry_run: bool = False) -> bool:
+def check_project_has_functionality_related_keyword(project: Dict) -> bool:
     functionality_related_keywords = functionally_related_keywords()
     if len(set(project["keywords"]).intersection(functionality_related_keywords)) == 0:
-        if dry_run:
-            print(f"Project {project['name']} has no functionality related keyword")
-            return False
-        else:
-            raise Exception(f"Project {project['name']} has no functionality related keyword")
-
+        print(f"Project {project['name']} has no functionality related keyword")
+        return False
     return True
 
 
 def main():
     dry_run = parser.parse_args().dry_run
     ensure_all_yaml_files_are_valid(dry_run=dry_run)
+    any_failed = False
     for projects_file in glob(f"{root}/_data/projects*.yml", recursive=True):
         with open(projects_file, "r") as f:
             projects = yaml.safe_load(f)
@@ -116,15 +102,20 @@ def main():
                 print("-" * 80)
                 print(f"Checking project {project['name']} in file {projects_file}")
                 passes = all((
-                    check_project_has_mandatory_fields(project, dry_run=dry_run),
-                    check_project_has_functionality_related_keyword(project, dry_run=dry_run),
-                    check_project_keywords_respect_taxonomy(project, dry_run=dry_run),
-                    check_project_has_grades(project, dry_run=dry_run)
+                    check_project_has_mandatory_fields(project),
+                    check_project_has_functionality_related_keyword(project),
+                    check_project_keywords_respect_taxonomy(project),
+                    check_project_has_grades(project)
                 ))
                 if not passes:
                     print(colored(f"Project {project['name']} failed checks", "red"))
                 else:
                     print(colored(f"Project {project['name']} passed checks", "green"))
+                any_failed = any_failed or not passes
+    if any_failed:
+        exit(1)
+    else:
+        exit(0)
 
 
 if __name__ == "__main__":
