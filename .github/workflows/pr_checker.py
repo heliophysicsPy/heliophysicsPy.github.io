@@ -3,6 +3,9 @@ from glob import glob
 import os
 import itertools
 import argparse
+from typing import Dict, Set
+from functools import cache
+from termcolor import colored, cprint
 
 here = os.path.dirname(__file__)
 root = os.path.abspath(f'{here}/../../')
@@ -27,32 +30,102 @@ def ensure_all_yaml_files_are_valid(dry_run: bool = False):
                 raise e
 
 
+@cache
 def load_taxonomy():
     with open(f"{root}/_data/taxonomy.yml", "r") as f:
         t = yaml.safe_load(f)
         return set(itertools.chain.from_iterable(map(lambda x: x["keywords"], t)))
 
 
-def check_keywords_respect_taxonomy(projects_file: str, dry_run: bool = False):
+def check_project_keywords_respect_taxonomy(project: Dict, dry_run: bool = False) -> bool:
     allowed_keywords: set = load_taxonomy()
-    with open(projects_file, "r") as f:
-        projects = yaml.safe_load(f)
-        for project in projects:
-            if "keywords" in project:
-                project_keywords = set(project["keywords"])
-                unlisted_keywords = project_keywords.difference(allowed_keywords)
-                if len(unlisted_keywords) > 0:
-                    if dry_run:
-                        print(f"Unlisted keywords for project {project['name']}: {unlisted_keywords}")
-                    else:
-                        raise Exception(f"Unlisted keywords for project {project['name']}: {unlisted_keywords}")
+    if "keywords" in project:
+        project_keywords = set(project["keywords"])
+        unlisted_keywords = project_keywords.difference(allowed_keywords)
+        if len(unlisted_keywords) > 0:
+            if dry_run:
+                print(f"Unlisted keywords for project {project['name']}: {unlisted_keywords}")
+                return False
             else:
-                print(f"Project {project['name']} has no keywords")
+                raise Exception(f"Unlisted keywords for project {project['name']}: {unlisted_keywords}")
+    else:
+        print(f"Project {project['name']} has no keywords")
+        return False
+    return True
+
+
+@cache
+def functionally_related_keywords() -> Set[str]:
+    with open(f"{root}/_data/taxonomy.yml", "r") as f:
+        t = yaml.safe_load(f)
+        return set(next(filter(lambda x: x["category"] == "Functionality", t))["keywords"])
+
+
+def check_project_has_mandatory_fields(project: Dict, dry_run: bool = False) -> bool:
+    mandatory_fields = {
+        "name", "description", "code", "contact", "keywords", "community", "documentation", "testing",
+        "software_maturity",
+        "python3", "license"}
+
+    if len(mandatory_fields.difference(set(project.keys()))) > 0:
+        if dry_run:
+            print(
+                f"Project {project['name']} misses mandatory fields: {mandatory_fields.difference(set(project.keys()))}")
+            return False
+        else:
+            raise Exception(
+                f"Project {project['name']} misses mandatory fields: {mandatory_fields.difference(set(project.keys()))}")
+
+    return True
+
+
+def check_project_has_grades(project: Dict, dry_run: bool = False) -> bool:
+    grades = (["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"],
+              ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"],
+              ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"])
+    fields_with_grades = {"community", "documentation", "testing", "software_maturity", "python3", "license"}
+    for field in fields_with_grades:
+        if field in project and project[field] not in grades:
+            if dry_run:
+                print(f"Project {project['name']} deos not respect grades for field {field}, got {project[field]}")
+                return False
+            else:
+                raise Exception(f"Project {project['name']} deos not respect grades for field {field}")
+    return True
+
+
+def check_project_has_functionality_related_keyword(project: Dict, dry_run: bool = False) -> bool:
+    functionality_related_keywords = functionally_related_keywords()
+    if len(set(project["keywords"]).intersection(functionality_related_keywords)) == 0:
+        if dry_run:
+            print(f"Project {project['name']} has no functionality related keyword")
+            return False
+        else:
+            raise Exception(f"Project {project['name']} has no functionality related keyword")
+
+    return True
+
+
+def main():
+    dry_run = parser.parse_args().dry_run
+    ensure_all_yaml_files_are_valid(dry_run=dry_run)
+    for projects_file in glob(f"{root}/_data/projects*.yml", recursive=True):
+        with open(projects_file, "r") as f:
+            projects = yaml.safe_load(f)
+            for project in projects:
+                print("-" * 80)
+                print(f"Checking project {project['name']} in file {projects_file}")
+                passes = all((
+                    check_project_has_mandatory_fields(project, dry_run=dry_run),
+                    check_project_has_functionality_related_keyword(project, dry_run=dry_run),
+                    check_project_keywords_respect_taxonomy(project, dry_run=dry_run),
+                    check_project_has_grades(project, dry_run=dry_run)
+                ))
+                if not passes:
+                    print(colored(f"Project {project['name']} failed checks", "red"))
+                else:
+                    print(colored(f"Project {project['name']} passed checks", "green"))
 
 
 if __name__ == "__main__":
-    dry_run = parser.parse_args().dry_run
-    ensure_all_yaml_files_are_valid(dry_run=dry_run)
-    check_keywords_respect_taxonomy(f"{root}/_data/projects_core.yml", dry_run=dry_run)
-    check_keywords_respect_taxonomy(f"{root}/_data/projects.yml", dry_run=dry_run)
-    check_keywords_respect_taxonomy(f"{root}/_data/projects_unevaluated.yml", dry_run=dry_run)
+    main()
