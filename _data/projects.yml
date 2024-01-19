@@ -176,7 +176,7 @@
   description: "Retreive data from many space physics Web services"
   docs: https://speasy.readthedocs.io/
   contact: Alexis Jeandet
-  keywords: ["heliosphere", "magnetosphere", "data_retrieval", "web_service", "remote"]
+  keywords: ["heliosphere", "plasma_physics", "magnetosphere", "data_retrieval", "data_container", "general", "cdf", "csv", "ascii", "cdaweb", "local", "remote", "sscweb", "web_service", "data_access"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
