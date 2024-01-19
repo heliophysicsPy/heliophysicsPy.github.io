@@ -172,10 +172,11 @@
 
 - name: Speasy
   code: https://github.com/SciQLop/speasy
-  description: "Retreive data from many space physics Web services"
+  description: "Speasy is a free and open-source Python package that makes it easy to find and load space physics data from a variety of data sources, whether it is online and public such as CDAWEB and AMDA, or any described archive, local or remote."
   docs: https://speasy.readthedocs.io/
+  logo: https://raw.githubusercontent.com/SciQLop/speasy/main/logo/logo_speasy_400dpi.png
   contact: Alexis Jeandet
-  keywords: ["heliophysics", "space physics", "magnetospheric physics", "data_retrieval", "web_service", "remote", "data"]
+  keywords: ["heliosphere", "plasma_physics", "magnetosphere", "data_retrieval", "data_container", "general", "cdf", "csv", "ascii", "cdaweb", "local", "remote", "sscweb", "web_service", "data_access"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -578,5 +579,31 @@
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: PyCDFpp
+  code: https://github.com/SciQLop/CDFpp
+  description: "A fast and easy to use C++ CDF library with Python bindings."
+  docs: https://pycdfpp.readthedocs.io/en/latest/
+  contact: Alexis Jeandet
+  keywords: ["cdf"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: SciQLop
+  code: https://github.com/SciQLop/SciQLop
+  description: "SciQLOP (SCIentific Qt application for Learning from Observations of Plasmas) is a powerful and user-friendly software designed for the visualization and analysis of in-situ space plasma data with jupyter notebook integrated."
+  logo: https://raw.githubusercontent.com/SciQLop/SciQLop/main/SciQLop/resources/icons/SciQLop.png
+  contact: Alexis Jeandet
+  keywords: ["heliosphere", "magnetosphere", "plasma_physics", "interactive", "line_plots", "plotting", "general", "cdaweb", "sscweb", "web_service", "remote", "data_access", "data_analysis"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
