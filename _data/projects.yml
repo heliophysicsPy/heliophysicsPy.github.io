@@ -3,6 +3,7 @@
   docs: https://afino-release-version.readthedocs.io/
   description: A tool for finding oscillations in time series data
   contact: Andrew Inglis
+  keywords: ["data_analysis"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -57,7 +58,7 @@
   docs: "https://geospacelab.readthedocs.io/en/latest/"
   code: "https://github.com/JouleCai/geospacelab"
   contact: "Lei Cai"
-  keywords: ["geospace","ionosphere_thermosphere_mesosphere","magnetosphere","data_retrieval","data_containe","plotting","data_access", "data_analysis"]
+  keywords: ["geospace","ionosphere_thermosphere_mesosphere","magnetosphere","data_retrieval","data_container","plotting","data_access", "data_analysis"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -149,7 +150,7 @@
   description: "Data loader for Solar Orbiter/EPD energetic charged particle sensors EPT, HET, and STEP"
   docs: https://github.com/jgieseler/solo-epd-loader#readme=
   contact: Jan Gieseler
-  keywords: ["data", "data_access", "data_retrieval", "heliosphere", "heliophysics", "instrumentation", "solar", "space physics", "specific"]
+  keywords: ["data_access", "data_retrieval", "heliosphere","instrumentation", "solar", "specific"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
@@ -162,7 +163,7 @@
   description: "A CCSDS telemetry packet decoding library based on the XTCE packet format description standard."
   docs: "https://space-packet-parser.readthedocs.io"
   contact: "Gavin Medley"
-  keywords: ["ccsds", "xtce", "space data systems", "space packet protocol", "packet parsing", "lasp", "university of colorado", "data processing", "data extraction", "data manipulation", "data transformation", "data encoding", "data decoding", "packet inspection", "binary data", "python"]
+  keywords: ["ccsds", "xtce", "packet_parsing", "packet_inspection", "data_analysis", "data_assimilation", "binary"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -256,7 +257,7 @@
   docs: "https://docs.sunpy.org/projects/ndcube"
   code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
-  keywords: ["heliophysics", "solar", "astrophysics", "n-dimensional", "data", "container objects", "visualization", "data manipulation"]
+  keywords: ["coordinates", "data_analysis", "data_container", "heliosphere", "plotting", "solar"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -298,7 +299,7 @@
   docs: "https://aidapy.readthedocs.io"
   description: "A Python package to provide machine learning and statistical methods to heliophysics data"
   contact: "Romain Dupuis, Jorge Amaya, Giovanni Lapenta"
-  keyword: ["machine learning", "heliophysics", "statistics", "data"]
+  keywords: ["machine_learning", "heliosphere", "data_analysis"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -311,7 +312,7 @@
   docs: "https://github.com/tsssss/geopack/blob/master/README.md"
   code: "https://github.com/tsssss/geopack"
   contact: "Sheng Tian"
-  keywords: ["heliophysics", "space physics", "magnetospheric physics"]
+  keywords: ["heliosphere", "magnetosphere"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -350,7 +351,7 @@
   docs: "https://docs.sunpy.org/projects/sunraster"
   code: "https://github.com/sunpy/sunraster"
   contact: "Nabil Freij"
-  keywords: ["solar", "data_container", "spectral", "plotting", "general", "fits"]
+  keywords: ["solar", "data_container", "spectra", "plotting", "general", "fits"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -402,7 +403,7 @@
   docs: "https://irispy-lmsal.readthedocs.io"
   code: "https://gitlab.com/LMSAL_HUB/iris_hub/irispy-lmsal"
   contact: "Nabil Freij"
-  keywords: ["solar", "specific", "data_analysis", "spectral", "fits", "time", "coordinates","plotting", "multidimensional"]
+  keywords: ["solar", "specific", "data_analysis", "spectra", "fits", "time", "coordinates","plotting", "multidimensional"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -544,7 +545,7 @@
   description: LOFAR solar and spaceweather data processing
   logo: https://lofar-sun-tools.readthedocs.io/en/latest/_static/logo0.png
   contact: Peijin Zhang
-  keywords: ["Solar_radio", "LOFAR"]
+  keywords: ["lofar"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]

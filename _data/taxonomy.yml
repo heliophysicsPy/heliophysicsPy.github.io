@@ -4,7 +4,7 @@
 
 - category: "Functionality"
   description: "The functionality available in a package"
-  keywords: ["2D_graphics", "3D_graphics", "calibration", "ccsds", "coordinates", "data_container", "data_retrieval", "image_processing", "interactive", "line_plots", "machine_learning", "multidimensional", "orbit", "plotting", "power_spectra", "spectra", "time"]
+  keywords: ["2D_graphics", "3D_graphics", "calibration", "ccsds", "coordinates", "data_container", "data_retrieval", "image_processing", "interactive", "line_plots", "machine_learning", "multidimensional", "orbit", "packet_parsing", "packet_inspection", "plotting", "power_spectra", "spectra", "time", "xtce"]
 
 - category: "Span"
   description: "The user scope of a project"
@@ -12,7 +12,7 @@
 
 - category: "Input/Output Formats"
   description: "The different data formats a package reads and/or writes"
-  keywords: ["ascii", "cdf", "csv", "fits", "hdf5", "idl_save", "netcdf"]
+  keywords: ["ascii", "binary", "cdf", "csv", "fits", "hdf5", "idl_save", "netcdf"]
 
 - category: "Input Sources"
   description: "The ability of a project to access web service data/local data"
@@ -24,4 +24,4 @@
 
 - category: "Mission"
   description: "Observational, including ground and satellite, and also models. TODO."
-  keywords: ["ace", "adelphi", "amgeo", "arase", "bats_r_us", "cluster", "csswe", "ctipe", "de2", "dmsp", "dscovr", "enlil", "equator_s", "fast", "fermi", "gamera", "geotail", "gitm", "goes", "hermes", "hinode", "icon", "igrf", "image", "iri", "kyoto_dst", "lasco", "madrigal", "maven", "mica", "mms", "omni", "openggcm", "poes", "polar", "proba_2", "psp", "rhessi", "sami2", "sami3", "sdo", "shue", "soho", "solo", "stereo", "superdarn", "swmf", "themis", "tiegcm", "tsyganenko", "twins", "ulysses", "van_allen_probes", "waccmx", "wind"]
+  keywords: ["ace", "adelphi", "amgeo", "arase", "bats_r_us", "cluster", "csswe", "ctipe", "de2", "dmsp", "dscovr", "enlil", "equator_s", "fast", "fermi", "gamera", "geotail", "gitm", "goes", "hermes", "hinode", "icon", "igrf", "image", "iri", "kyoto_dst", "lasco", "lofar", "madrigal", "maven", "mica", "mms", "omni", "openggcm", "poes", "polar", "proba_2", "psp", "rhessi", "sami2", "sami3", "sdo", "shue", "soho", "solo", "stereo", "superdarn", "swmf", "themis", "tiegcm", "tsyganenko", "twins", "ulysses", "van_allen_probes", "waccmx", "wind"]
