@@ -18,7 +18,7 @@
           <a class="nav-link" href="https://heliopython.org/gallery/generated/gallery/index.html">Examples</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if page.url == '/blog' %}active{% endif %}" href="/blog">Blog</a>
+          <a class="nav-link {% if page.url contains '/blog' %}active{% endif %}" href="/blog">Blog</a>
         </li>
         {% assign pages = site.pages | sort:'order' %}
         {% for p in pages %}
