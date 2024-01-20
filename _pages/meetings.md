@@ -10,13 +10,15 @@ Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain 
 
 <br>
 
-### [Community Meetings]({% link
+### Events
+
+#### [Community Meetings]({% link
 _pages/meetings/community_meetings/community_meetings.md %})
 
-### [Conference Sessions]({% link
+#### [Conference Sessions]({% link
 _pages/meetings/conference_sessions/conference_sessions.md %})
 
-### [Summer Schools]({% link
+#### [Summer Schools]({% link
 _pages/meetings/summer_schools/summer_schools.md %})
 
 <br>
