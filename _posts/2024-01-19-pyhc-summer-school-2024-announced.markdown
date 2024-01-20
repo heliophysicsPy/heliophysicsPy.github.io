@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Much-anticipated Sequal: the PyHC 2024 Summer School"
+title: "A Much-Anticipated Sequal: the PyHC 2024 Summer School"
 author: jibarnum
 ---
 
