@@ -42,6 +42,8 @@ def check_project_keywords_respect_taxonomy(project: Dict, dry_run: bool = False
     if "keywords" in project:
         project_keywords = set(project["keywords"])
         unlisted_keywords = project_keywords.difference(allowed_keywords)
+        if len(project_keywords) == 0:
+            print(colored(f"Warning project {project['name']} has no keywords"), "yellow")
         if len(unlisted_keywords) > 0:
             print(f"Unlisted keywords for project {project['name']}: {unlisted_keywords}")
             return False
@@ -83,14 +85,6 @@ def check_project_has_grades(project: Dict, dry_run: bool = False) -> bool:
     return True
 
 
-def check_project_has_functionality_related_keyword(project: Dict) -> bool:
-    functionality_related_keywords = functionally_related_keywords()
-    if len(set(project["keywords"]).intersection(functionality_related_keywords)) == 0:
-        print(f"Project {project['name']} has no functionality related keyword")
-        return False
-    return True
-
-
 def main():
     dry_run = parser.parse_args().dry_run
     ensure_all_yaml_files_are_valid(dry_run=dry_run)
@@ -103,7 +97,6 @@ def main():
                 print(f"Checking project {project['name']} in file {projects_file}")
                 passes = all((
                     check_project_has_mandatory_fields(project),
-                    check_project_has_functionality_related_keyword(project),
                     check_project_keywords_respect_taxonomy(project),
                     check_project_has_grades(project)
                 ))
