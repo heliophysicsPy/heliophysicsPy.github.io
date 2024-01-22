@@ -60,7 +60,7 @@
   contact: "Lei Cai"
   keywords: ["geospace","ionosphere_thermosphere_mesosphere","magnetosphere","data_retrieval","data_container","plotting","data_access", "data_analysis"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]

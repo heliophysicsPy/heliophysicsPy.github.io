@@ -43,7 +43,8 @@ def check_project_keywords_respect_taxonomy(project: Dict, dry_run: bool = False
         project_keywords = set(project["keywords"])
         unlisted_keywords = project_keywords.difference(allowed_keywords)
         if len(project_keywords) == 0:
-            print(colored(f"Warning project {project['name']} has no keywords"), "yellow")
+            print(f"Project {project['name']} has no keywords")
+            return False
         if len(unlisted_keywords) > 0:
             print(f"Unlisted keywords for project {project['name']}: {unlisted_keywords}")
             return False
