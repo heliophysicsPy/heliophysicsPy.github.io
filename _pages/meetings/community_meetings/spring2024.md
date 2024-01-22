@@ -8,7 +8,7 @@ exclude: true
 The spring 2024 meeting of the [Python in Heliophysics Community](https://pyhc.org) will be held fully remotely [**at this Zoom link**](https://cuboulder.zoom.us/j/97372369069) (Meeting ID: **973 7236 9069**). Dial-in information below. _All Zoom sessions, save for unconferences, will be recorded._ It will be spread across four days, starting Monday, March 11th, 2024 and ending Thursday, March 14th, 2024: 
 
  - **Core Project Updates:** March 11th 9:00 AM – 11:00 AM (MT)
- - **Managing Difficult Discussion and PHEP 1 Business:** March 12th 9:00 AM – 11:00 AM (MT)
+ - **Managing Difficult Discussions and PHEP 1 Business:** March 12th 9:00 AM – 11:00 AM (MT)
  - **Science Platforms Coordination, Gathering PyHC Software Metadata, and pyOpenSci Parnership:** March 13th 9:00 AM – 11:00 AM (MT)
  - **Unconferences and Wrap-Up:** March 14th 9:00 AM - 11:00 AM (MT)
 
