@@ -5,6 +5,11 @@ permalink: /meetings/community_meetings
 exclude: true
 ---
 
+[2024 Spring Python in Heliophysics Community Meeting]({% link
+_pages/meetings/community_meetings/spring2024.md %}), March 11–14 (remote).
+* [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/folders/1vG0R-f3g3eNmr8qknVbrxnuyibdqdPhM?usp=sharing)
+* Meeting Report
+
 [2023 Spring Python in Heliophysics Community Meeting]({% link
 _pages/meetings/community_meetings/spring2023.md %}), May 16–18 (hybrid in-person/remote).
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/folders/1Gy2oquhdkkMfidRsf-WgjhnS7C5aIzuf?usp=sharing)
