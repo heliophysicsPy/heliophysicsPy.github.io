@@ -14,7 +14,6 @@ The spring 2024 meeting of the [Python in Heliophysics Community](https://pyhc.o
 
 See [the full agenda](https://docs.google.com/spreadsheets/d/1FpjjlXckBGXBVSEt9lEClNf_ORbnGOrEzKd5av_cFXY/edit?usp=sharing) for exact dates/times of the various sessions.
 
-The [PyHC Code of Conduct](https://heliopython.org/docs/code_of_conduct/) applies to all participants in the spring 2024 meeting.
 <br><br><br>
 ### Registration
 
@@ -72,5 +71,8 @@ Join by H.323
  - 207.226.132.110 (Japan)
 
 Meeting ID: **973 7236 9069**
+<br><br><br>
 
+### Code of Conduct
+The [PyHC Code of Conduct](https://heliopython.org/docs/code_of_conduct/) applies to all participants in the spring 2024 meeting.
 
