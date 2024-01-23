@@ -53,7 +53,7 @@ Plan to either rent a car to get from Denver International Aiport (DEN) to Bould
 
 <br>
 ### Official Language
-The official language of the PyHC 2022 Summer School is English. Simultaneous interpretation is not provided. It is therefore expected that attendees are able to communicate in the English language.
+The official language of the PyHC 2024 Summer School is English. Simultaneous interpretation is not provided. It is therefore expected that attendees are able to communicate in the English language.
 
 <br>
 ### Python Resources
