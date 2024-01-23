@@ -13,10 +13,12 @@ The spring 2024 meeting of the [Python in Heliophysics Community](https://pyhc.o
  - **Unconferences and Wrap-Up:** March 14th 9:00 AM - 11:00 AM (MT)
 
 See [the full agenda](https://docs.google.com/spreadsheets/d/1FpjjlXckBGXBVSEt9lEClNf_ORbnGOrEzKd5av_cFXY/edit?usp=sharing) for exact dates/times of the various sessions.
+
+The [PyHC Code of Conduct](https://heliopython.org/docs/code_of_conduct/) applies to all participants in the spring 2024 meeting.
 <br><br><br>
 ### Registration
 
-Please [**register**](https://forms.gle/WAB9fpiFygdBZo7n6) by close of business Friday March 8th, 2024 if you plan to attend.  Registration is free and required for in-person attendees.  You may still participate remotely without registering, but note that you will not receive any spring-related emails.
+Please [**register**](https://forms.gle/WAB9fpiFygdBZo7n6) by close of business Friday March 8th, 2024 if you plan to attend.  Registration is free.  You may still participate remotely without registering, but note that you will not receive any meeting-related emails.
 <br><br><br>
 
 ### Session Documents and Presentations
