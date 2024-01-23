@@ -13,7 +13,6 @@ The spring 2024 meeting of the [Python in Heliophysics Community](https://pyhc.o
  - **Unconferences and Wrap-Up:** March 14th 9:00 AM - 11:00 AM (MT)
 
 See [the full agenda](https://docs.google.com/spreadsheets/d/1FpjjlXckBGXBVSEt9lEClNf_ORbnGOrEzKd5av_cFXY/edit?usp=sharing) for exact dates/times of the various sessions.
-
 <br><br><br>
 ### Registration
 
