@@ -27,7 +27,8 @@ _pages/meetings/summer_schools/summer_schools.md %})
 
 PyHC meetings and telecon times are available as a [Google calendar](https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ):
 <br>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23f9e79f&ctz=America%2FDenver&showTitle=0&title=PyHC%20Events&showDate=1&showPrint=0&showTabs=1&showCalendars=0&showNav=1&src=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23f9e79f&showTitle=0&title=PyHC%20Events&showDate=1&showPrint=0&showTabs=1&showCalendars=0&showNav=1&src=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 <br>
-Additionally, there is a more [general Heliophysics community events Google calendar](https://calendar.google.com/calendar/embed?src=ibpmhk11e1a211ikutlf53gtfs%40group.calendar.google.com&ctz=America%2FDenver) that serves as an exhaustive list of events related to the Heliophysics and space physics science communities. If you have an event you'd like added to this calendar, please email: <a href="mailto:pyhc-confidential@lasp.colorado.edu">pyhc-confidential@lasp.colorado.edu</a>
-<iframe src="https://calendar.google.com/calendar/embed?src=ibpmhk11e1a211ikutlf53gtfs%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+Additionally, there is a more [general Heliophysics community events Google calendar](https://helioanalytics.io/events-calendar) that serves as an exhaustive list of events related to the Heliophysics and space physics science communities. If you have an event you'd like added to this calendar, please email: <a href="mailto:pyhc-confidential@lasp.colorado.edu">pyhc-confidential@lasp.colorado.edu</a>
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&src=aWJwbWhrMTFlMWEyMTFpa3V0bGY1M2d0ZnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
