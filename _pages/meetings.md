@@ -6,7 +6,7 @@ order: 3
 ---
 ### Telecons
 
-Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain time, but this can fluctuate depending on holidays/conferences/etc. See the Calendar below for the next telecon time. Telecon notes are shared on [Google Drive](https://drive.google.com/drive/u/0/folders/1AhFUli3SGW9DHvIh81tFxPMgLtYSPXDm), and presentations can be found on the [PyHC YouTube Channel](https://www.youtube.com/@pythoninheliophysicscommun3732).
+Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain time, but this can fluctuate depending on holidays/conferences/etc. See the calendar below for the next telecon time. Telecon notes are shared on [Google Drive](https://drive.google.com/drive/u/0/folders/1AhFUli3SGW9DHvIh81tFxPMgLtYSPXDm), and presentations can be found on the [PyHC YouTube Channel](https://www.youtube.com/@pythoninheliophysicscommun3732).
 
 <br>
 
