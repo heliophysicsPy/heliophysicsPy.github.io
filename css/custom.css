@@ -25,7 +25,20 @@ body {
 .navbar {
   background-color: #F9E79F;
   border-radius: 0.5rem;
-  padding: 1rem 1rem;
+  padding: 0.5rem 0.5rem;
+}
+
+/* The "PyHC" next to the navbar logo */
+.navbar-brand {
+  margin-left: 5px;
+  font-weight: bolder;
+  font-family: 'Orbitron', sans-serif;
+}
+
+/* Navbar main items' text */
+.navbar .ml-auto, .mx-auto {
+  margin-left: auto!important;
+  margin-right: 0.5em;
 }
 
 /* Custom page header */
@@ -51,10 +64,42 @@ body {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+
+  background-image: url('../img/assets/Homepage-Image.jpg');
+  background-size: cover; /* This will cover the entire viewport */
+  background-repeat: no-repeat; /* This will prevent the image from repeating in case it's too small for the container */
+  background-position: center center; /* This will center the image */
 }
+
+.jumbotron .blur-box {
+  background-color: rgba(0, 0, 0, 0.5); /* Translucent black */
+  border-radius: 15px; /* Rounded corners */
+  padding: 10px; /* Space around the text */
+  backdrop-filter: blur(1px); /* Blurs the background behind the box */
+  -webkit-backdrop-filter: blur(1px); /* For Safari */
+}
+
 .jumbotron .btn {
   padding: 14px 24px;
   font-size: 21px;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+  font-size: 4.7rem;
+  text-shadow: 
+        0 2px 5px #ffffff,   /* Innermost */
+        0 4px 10px #000000,  /* Middle */
+        0 6px 15px #000000,  /* Slightly offset color for depth */
+        0 8px 25px #000000,  /* Outermost with a more pronounced color shift */
+        0 10px 35px #000000;  /* Further out */
+}
+
+.jumbotron p {
+  color: white;
+  text-shadow: 2px 2px 4px #000000; /* This adds a black shadow. Adjust as needed. */
 }
 
 /* Supporting marketing content */
