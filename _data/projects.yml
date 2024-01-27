@@ -67,7 +67,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "OMMBV"
-  description: "Othogonal Multipole Magnetic Basis Vectors - Map electric fields and ion drifts, express vectors relative to a multipole magnetic field using an orthogonal basis."
+  description: "Othogonal Multipole Magnetic Basis Vectors - Accurately map electric fields and ion drifts along geomagnetic field lines and accurately express vectors relative to a multipole magnetic field using an orthogonal basis."
   logo: "https://github.com/CosmicStudioSoftware/OMMBV/blob/main/docs/images/logo_high_res.png"
   docs: "https://ommbv.readthedocs.io"
   code: "https://github.com/CosmicStudioSoftware/OMMBV"
