@@ -30,7 +30,7 @@ Travel support applications will be vetted and approved by the summer school pla
 
 Funding specifications: Once applications have been reviewed, we will award flat-rate travel stipends of $2000 - $2500 (depending on home institute location) to selected attendees. These awards will be sent out as reimbursements for the meeting, therefore the attendee will have to float the cost up to that point.
 
-Apply for the NSF-sponsored travel funding [here](https://forms.gle/iZTQhkWoiA3XB6fW8). **Applications are due by Monday, April 29th, 2024.**
+[Apply for the NSF-sponsored travel funding here](https://forms.gle/iZTQhkWoiA3XB6fW8). **Applications are due by Monday, April 29th, 2024.**
 
 <br>
 #### Hotel
