@@ -601,7 +601,7 @@
   code: https://github.com/louis-richard/irfu-python
   description: "PyRFU is a free and open-source Python package for advanced analysis of in-situ space plasma data."
   docs: https://pyrfu.readthedocs.io/en/latest/
-  logo: https://github.com/louis-richard/irfu-python/blob/master/docs/_static/logo-pyrfu.png
+  logo: https://raw.githubusercontent.com/louis-richard/irfu-python/master/docs/_static/logo-pyrfu.png
   contact: Louis Richard
   keywords: ["heliosphere", "magnetosphere", "planetary", "plasma_physics", "coordinates", "data_retrieval", "line_plots", "multidimensional", "orbit", "plotting", "power_spectra", "spectra", "time", "general", "local", "remote", "web_service", "data_access", "data_analysis", "instrumentation", "theory", "maven", "mms", "omni", "solo"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
