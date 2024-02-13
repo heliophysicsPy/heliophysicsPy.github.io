@@ -609,3 +609,17 @@
   software_maturity: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: PyRFU
+  code: https://github.com/louis-richard/irfu-python
+  description: "PyRFU is a free and open-source Python package for advanced analysis of in-situ space plasma data."
+  docs: https://pyrfu.readthedocs.io/en/latest/
+  logo: https://raw.githubusercontent.com/louis-richard/irfu-python/master/docs/_static/logo-pyrfu.png
+  contact: Louis Richard
+  keywords: ["heliosphere", "magnetosphere", "planetary", "plasma_physics", "coordinates", "data_retrieval", "line_plots", "multidimensional", "orbit", "plotting", "power_spectra", "spectra", "time", "general", "local", "remote", "web_service", "data_access", "data_analysis", "instrumentation", "theory", "maven", "mms", "omni", "solo"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
