@@ -107,6 +107,19 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "SAVIC"
+  description: "Stability Analysis Vitalizing Instability Classification - a Python package for predicting, quantifying and classifying ion-driven plasma instabilities"
+  docs: "https://savic.readthedocs.io/en/latest/index.html"
+  code: "https://github.com/MihailoMartinovic/SAVIC"
+  contact: "Mihailo Martinovic"
+  keywords: ["heliosphere","plasma_physics","multidimensional","hdf5"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  
 - name: "SkyWinder"
   description: "SkyWinder is an open-source Python package useful for instrument control and telemetry."
   code: "https://github.com/PolarMesosphericClouds/SkyWinder"
