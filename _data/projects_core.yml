@@ -74,7 +74,7 @@
   code: "https://github.com/nasa/Kamodo"
   docs: "https://nasa.github.io/Kamodo/"
   description: "Kamodo is an official NASA open-source python package built upon the functionalization of datasets."
-  logo: "https://drive.google.com/uc?id=1xJNjL-OJvk1xXDZ5SCYfFazz1J6ck0fg"
+  logo: "https://raw.githubusercontent.com/nasa/Kamodo/master/docs/notebooks/Files/Kamodo.png"
   contact: "Darren De Zeeuw"
   keywords: ["2D_graphics","3D_graphics","adelphi","amgeo","ascii","coordinates","csv","ctipe","data_access","data_retrieval","enlil","gamera","general","geospace","gitm","hapi","heliosphere","interactive","ionosphere_thermosphere_mesosphere","iri","line_plots","local","magnetosphere","multidimensional","netcdf","openggcm","orbit","orbit","plotting","remote","sami3","solar","superdarn","swmf","tiegcm","time","waccmx","web_service"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
