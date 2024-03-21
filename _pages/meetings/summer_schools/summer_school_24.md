@@ -33,6 +33,12 @@ Funding specifications: Once applications have been reviewed, we will award flat
 [Apply for the NSF-sponsored travel funding here](https://forms.gle/iZTQhkWoiA3XB6fW8). **Applications are due by Monday, April 29th, 2024.**
 
 <br>
+### Poster Abstract Submissions
+If you are attending the PyHC 2024 summer school on site in Boulder, CO at LASP, and are interested in presenting on your work within Heliophysics/Space Physics and Python, the summer school poster session is your best bet! Bonus points if you can show work you've done that leverages the PyHC ecosystem. Please fill out the Google form linked below so that we can adequately plan for the poster session, and ensure all submissions are on topic.
+
+[Submit PyHC 2024 summer school poster abstracts here](https://forms.gle/rYV8KFP9moazTxwC8). **Abstract submissions are due by Monday, May 6th, 2024 at 11:59 PM MT.**
+
+<br>
 #### Hotel
 The official recommended hotel for the PyHC 2024 summer school is the Hyatt Place Boulder/Pearl St, located at 2280 Junction Pl, Boulder, Colorado, United States, 80301 (approx. a five-minute drive to the SPSC building at LASP). We have reserved a block of rooms at the goverment per diem rate ($176/night with 12.5% room tax) for Sunday, May 19th to Saturday, May 25th, 2024. Parking at the hotel is $25/day. **The government rate is only guaranteed prior to the cut-off date of April 19th, 2024. After the cut-off date listed, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.** To book your room for the summer school, [click here](https://www.hyatt.com/en-US/hotel/colorado/hyatt-place-boulder-pearl-street/denzb?corp_id=G-LAPC).
 
