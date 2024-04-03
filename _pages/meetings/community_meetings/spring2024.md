@@ -28,10 +28,10 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
 
 #### Meeting Recordings
 
- - Check back after Day 1 for recording
- - Check back after Day 2 for recording
- - Check back after Day 3 for recording
- - Check back after Day 4 for recording
+ - [Day 1 Recording](https://youtu.be/ykidA9rUdK0)
+ - [Day 2 Recording](https://youtu.be/Vrjj6-NRQsw)
+ - [Day 3 Recording](https://youtu.be/lCu0l7R-ek8)
+ - [Day 4 Recording](https://youtu.be/tCGCd4kHggY)
 <br><br><br>
 
 ### Zoom Meeting Information
