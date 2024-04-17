@@ -18,6 +18,8 @@ PyHC Enhancement Proposals are developed via the <a href="https://github.com/hel
 {% assign id = 1 %}
 {% include phep_table.html sorted_pheps=sorted_pheps id=id %}
 
+<br>
+
 <h3>Other</h3>
 <p>
   These PHEPs have been rejected, withdrawn, or replaced, and thus are not currently in force.
