@@ -11,6 +11,9 @@ exclude: true
 <p>
 PyHC Enhancement Proposals are developed via the <a href="https://github.com/heliophysicsPy/standards/">PyHC standards repository</a>. PHEPs which have gone through the acceptance process, whether finally accepted or rejected, are linked here.
 </p>
+
+<br>
+
 <h3>Final</h3>
 <p>
   These PHEPs have been accepted and are currently in force.
