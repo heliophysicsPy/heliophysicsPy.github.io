@@ -4,6 +4,9 @@ title: PHEPs
 permalink: /docs/pheps/
 exclude: true
 ---
+<!-- Temp hack to add "No data available in table" to empty tables with JavaScript (can remove once both tables have entries) -->
+<script type="text/javascript" src="../../js/projects.js" class="init"></script> 
+
 {% assign sorted_pheps = site.data.pheps | sort:'PHEP' %}
 <p>
 PyHC Enhancement Proposals are developed via the <a href="https://github.com/heliophysicsPy/standards/">PyHC standards repository</a>. PHEPs which have gone through the acceptance process, whether finally accepted or rejected, are linked here.
@@ -21,4 +24,3 @@ PyHC Enhancement Proposals are developed via the <a href="https://github.com/hel
 </p>
 {% assign id = 2 %}
 {% include phep_table.html sorted_pheps=sorted_pheps id=id %}
-
