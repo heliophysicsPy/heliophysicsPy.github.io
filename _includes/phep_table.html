@@ -1,5 +1,5 @@
-<div class="tab-pane fade show active" id="table{{ include.id }}">
-  <table class="table table-striped" id="dataTable{{ include.id }}">
+<div class="tab-pane fade show active" id="table{{ include.table_id }}">
+  <table class="table table-striped" id="dataTable{{ include.table_id }}">
     <thead>
       <tr>
         <th scope="col">Number</th>
@@ -34,7 +34,7 @@
         </tr>
         {% endcapture %}
 
-        {% if include.id == 1 %}
+        {% if include.table_id == 1 %}
           {% if phep.Status == 'Final' %}
             {{ phep_row }}
           {% endif %}

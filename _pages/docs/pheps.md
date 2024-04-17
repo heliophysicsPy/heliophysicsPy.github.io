@@ -16,7 +16,7 @@ PyHC Enhancement Proposals are developed via the <a href="https://github.com/hel
   These PHEPs have been accepted and are currently in force.
 </p>
 {% assign id = 1 %}
-{% include phep_table.html sorted_pheps=sorted_pheps id=id %}
+{% include phep_table.html sorted_pheps=sorted_pheps table_id=id %}
 
 <br>
 
@@ -25,4 +25,4 @@ PyHC Enhancement Proposals are developed via the <a href="https://github.com/hel
   These PHEPs have been rejected, withdrawn, or replaced, and thus are not currently in force.
 </p>
 {% assign id = 2 %}
-{% include phep_table.html sorted_pheps=sorted_pheps id=id %}
+{% include phep_table.html sorted_pheps=sorted_pheps table_id=id %}
