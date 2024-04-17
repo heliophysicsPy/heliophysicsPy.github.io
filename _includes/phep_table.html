@@ -14,18 +14,18 @@
       {% for phep in include.sorted_pheps %}
         {% capture phep_row %}
         <tr>
-          <th scope="row">{{ phep.PHEP }}</th>
+          <th scope="row">{{ phep.PHEP | escape_once }}</th>
           <td>
             <a href="https://github.com/heliophysicsPy/standards/blob/main/pheps/{{ phep.Filename }}">{{ phep.Title }}</a>
           </td>
           <td>
-            {{ phep.Status }}
+            {{ phep.Status | escape_once }}
           </td>
           <td>
-            {{ phep.Type }}
+            {{ phep.Type | escape_once }}
           </td>
           <td>
-            {{ phep.Revision }}
+            {{ phep.Revision | escape_once }}
           </td>
         </tr>
         {% endcapture %}
