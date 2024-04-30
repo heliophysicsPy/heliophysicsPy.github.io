@@ -11,7 +11,7 @@ The Python in Heliophysics Community (PyHC) is excited to announce its 2024 Summ
 
 This year's Summer School builds on the foundational success of its predecessor, offering an even deeper dive into the rich ecosystem of Heliophysics Python packages. Open to graduate students, early career scientists, and anyone eager to deepen their understanding of Python in the Heliophysics and Space Weather disciplines, this program promises a mix of in-depth tutorials, engaging demos, and hands-on sessions, delivered by some of the field's leading experts.
 
-Remote options will be available for those unable to make the trip to Boulder. The presentations will also be recorded and [streamed to YouTube](https://www.youtube.com/@pythoninheliophysicscommun3732). Further, in keeping with PyHC’s commitment to knowledge-sharing, **this year's event remains FREE for all attendees**.
+Remote options will be available for those unable to make the trip to Boulder. The presentations will also be recorded and [streamed to YouTube](https://www.youtube.com/playlist?list=PLDKhoNyHGTFZmalpqMNrFEf-hGFV-XhRk). Further, in keeping with PyHC’s commitment to knowledge-sharing, **this year's event remains FREE for all attendees**.
 
 <br>
 
