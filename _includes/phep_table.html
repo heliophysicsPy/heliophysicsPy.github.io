@@ -1,0 +1,49 @@
+<div class="tab-pane fade show active" id="table{{ include.table_id }}">
+  <table class="table table-striped" id="dataTable{{ include.table_id }}">
+    <thead>
+      <tr>
+        <th scope="col">Number</th>
+        <th scope="col">Title</th>
+        <th scope="col">Status</th>
+        <th scope="col">Type</th>
+        <th scope="col">Revision</th>
+        <th scope="col">DOI</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for phep in include.sorted_pheps %}
+        {% capture phep_row %}
+        <tr>
+          <th scope="row">{{ phep.PHEP | escape_once }}</th>
+          <td>
+            <a href="https://github.com/heliophysicsPy/standards/blob/main/pheps/{{ phep.Filename }}">{{ phep.Title }}</a>
+          </td>
+          <td>
+            {{ phep.Status | escape_once }}
+          </td>
+          <td>
+            {{ phep.Type | escape_once }}
+          </td>
+          <td>
+            {{ phep.Revision | escape_once }}
+          </td>
+          <td>
+            <a href="https://doi.org/{{ phep.DOI }}">{{ phep.DOI }}</a>
+          </td>
+        </tr>
+        {% endcapture %}
+
+        {% if include.table_id == 1 %}
+          {% if phep.Status == 'Final' %}
+            {{ phep_row }}
+          {% endif %}
+        {% else %}
+          {% if phep.Status != 'Final' %}
+            {{ phep_row }}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
