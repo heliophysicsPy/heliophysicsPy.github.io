@@ -20,7 +20,7 @@ Remote options will be available for those unable to make the trip to Boulder. T
 
 <br>
 ### Registration
-Registration for the PyHC 2024 Summer School is now live. [Click here to sign up](https://forms.gle/cZRyJcjhv2QNVd3UA)! Once again, registration is FREE for all attendees. **The deadline for both in-person and Zoom registration is Monday, April 29th, 2024.** After that date, we will not be able to accommodate additional requests for registration, however, you will still be able to access presentations via the live Zoom recording (not monitored for Q&A by Summer School organizers).
+Registration for the PyHC 2024 Summer School has closed. Registration was FREE for all attendees. **The deadline for both in-person and Zoom registration was Monday, April 29th, 2024.** We cannot accommodate additional requests for registration, however, you will still be able to access presentations via the live Zoom recordings which are being [streamed to YouTube](https://www.youtube.com/playlist?list=PLDKhoNyHGTFZmalpqMNrFEf-hGFV-XhRk) (not monitored for Q&A by Summer School organizers).
 
 <br>
 ### NSF Travel Support
@@ -64,7 +64,7 @@ The agenda for the PyHC 2024 Summer School is a living document, and is subject 
 
 <br>
 #### Zoom Meeting Information
-We will use Zoom for remote participation (details TBD).
+We will use Zoom for remote participation (details were sent via email to registered attendees).
 
 <br>
 #### Transportation
