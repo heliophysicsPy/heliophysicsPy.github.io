@@ -82,7 +82,7 @@ You do not have to be a Python expert to attend. We will teach important Python 
 
 <br>
 ### Summer School Materials
-Looking for notebooks or slides presented at the Summer School? They will be stored in our GitHub repo (TBD).
+Looking for notebooks or slides presented at the Summer School? They will be stored in our [GitHub repo](https://github.com/heliophysicsPy/summer-school-24).
 
 <br>
 ### Summer School Code of Conduct
