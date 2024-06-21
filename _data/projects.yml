@@ -623,3 +623,16 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: amisrsynthdata
+  description: "The amisrsynthdata package generates sythetic data for the Advanced Modular Incoherent Scatter Radars (AMISR)."
+  docs: https://amisrsynthdata.readthedocs.io/en/latest/
+  code: https://github.com/amisr/amisrsynthdata
+  contact: Leslie Lamarche
+  keywords: ["geospace", "ionosphere_thermosphere_mesosphere", "plasma_physics", "coordinates", "time", "specific", "hdf5", "local", "instrumentation", "reference_data"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
