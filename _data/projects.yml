@@ -625,7 +625,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: amisrsynthdata
-  description: "The amisrsynthdata package generates sythetic data for the Advanced Modular Incoherent Scatter Radars (AMISR)."
+  description: "The amisrsynthdata package generates synthetic data for the Advanced Modular Incoherent Scatter Radars (AMISR)."
   docs: https://amisrsynthdata.readthedocs.io/en/latest/
   code: https://github.com/amisr/amisrsynthdata
   contact: Leslie Lamarche
