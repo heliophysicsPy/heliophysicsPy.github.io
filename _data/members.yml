@@ -48,10 +48,6 @@
 - handle: "jswoboda"
   name: "John Swoboda"
 
-- handle: "dstansby"
-  name: "David Stansby"
-  affiliation: "Imperial College London"
-
 - handle: "dpq"
   name: "David Parunakian"
   affiliation: ""
