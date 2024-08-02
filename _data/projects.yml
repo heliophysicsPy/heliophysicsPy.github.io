@@ -453,7 +453,7 @@
 
 - name: "PyAuroraX"
   description: "Python library that supports data access and analysis of All-Sky Imager (ASI) data"
-  logo: "https://github.com/aurorax-space/pyaurorax/blob/main/logo.svg"
+  logo: "https://raw.githubusercontent.com/aurorax-space/pyaurorax/main/logo.svg"
   docs: "https://docs.aurorax.space/code/pyaurorax_api_reference/pyaurorax/"
   code: "https://github.com/aurorax-space/pyaurorax"
   contact: "Darren Chaddock"
