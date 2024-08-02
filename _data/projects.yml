@@ -452,7 +452,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "PyAuroraX"
-  description: "Python library that supports data access and analysis of All-Sky Imager (ASI) data"
+  description: "Python library supporting data access and analysis for All-Sky Imager (ASI) data"
   logo: "https://raw.githubusercontent.com/aurorax-space/pyaurorax/main/logo.svg"
   docs: "https://docs.aurorax.space/code/pyaurorax_api_reference/pyaurorax/"
   code: "https://github.com/aurorax-space/pyaurorax"
