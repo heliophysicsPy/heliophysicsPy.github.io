@@ -451,6 +451,20 @@
   python3: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "PyAuroraX"
+  description: "Python library supporting data access and analysis for All-Sky Imager (ASI) data"
+  logo: "https://raw.githubusercontent.com/aurorax-space/pyaurorax/main/logo.svg"
+  docs: "https://docs.aurorax.space/code/pyaurorax_api_reference/pyaurorax/"
+  code: "https://github.com/aurorax-space/pyaurorax"
+  contact: "Darren Chaddock"
+  keywords: ["ionosphere_thermosphere_mesosphere", "2D_graphics", "calibration", "coordinates", "data_container", "data_retrieval", "image_processing", "line_plots", "multidimensional", "orbit", "plotting", "specific", "ascii", "binary", "cdf", "hdf5", "idl_save", "local", "web_service", "data_access", "data_analysis", "instrumentation"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: "python-magnetosphere"
   description: "Python wrapper for cxform, coordinate transformation package "
   code: "https://github.com/dpq/python-magnetosphere"
