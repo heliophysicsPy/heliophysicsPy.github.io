@@ -25,6 +25,20 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "cloudcatalog"
+  code: https://github.com/heliocloud-data/cloudcatalog/
+  description: A Python package for retrieving cloud data file catalogs/indices
+  docs: https://github.com/heliocloud-data/cloudcatalog/blob/main/docs/cloudcatalog-spec.md
+  logo: heliocloud.org/static/img/logo.jpg
+  contact: Sandy Antunes
+  keywords: ["data_retrieval","general","csv","remote","data_access"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: "dbprocessing"
   description: "Database-driven Heliophysics processing controller."
   docs: "https://spacepy.github.io/dbprocessing"
