@@ -110,7 +110,8 @@ Other tools that stand out to us:
     * A tool for measuring code coverage of Python programs
  * [mypy](http://mypy-lang.org)
     * An optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing
-
+ * [Software Heritage](https://www.softwareheritage.org/howto-archive-and-reference-your-code/)
+    * Software Heritage provides tutorials for generating a citation for code (and even a portion of code). Further, it can save a copy of your entire GitHub/GitLab repo every time you git commit. There is communication between Software Heritage and Zenodo on possible ways they can work together.
 <br>
 
 If you know of a tool we missed that might belong on this page, please contact Shawn Polson at <a href="mailto:Shawn.Polson@lasp.colorado.edu">Shawn.Polson@lasp.colorado.edu</a>.
