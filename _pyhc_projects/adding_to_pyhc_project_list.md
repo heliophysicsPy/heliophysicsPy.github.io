@@ -27,7 +27,6 @@ inputs are starred, and variable names are shown in parentheses):
 * The grade for the documentation standard &ast;
 * The grade for the testing standard &ast;
 * The grade for the software maturity standard &ast;
-* The grade for the Python 3 standard &ast;
 * The grade for the license standard &ast;
 
 The standards grades each require two values to be entered in, the img src url and the alt text of the given grade. The img
@@ -60,7 +59,6 @@ yml file. An example project's inputs are shown below.
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]   
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]   
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]  
-  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]   
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]  
   
 If your project logo is in GitHub, use a link to the raw image or else it won't render in the "card" view on the PyHC Projects page.
