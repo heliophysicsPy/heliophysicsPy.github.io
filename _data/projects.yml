@@ -456,7 +456,7 @@
 
 - name : "regularizePSF"
   description: "A Python package for manipulating and correcting various point spread functions"
-  docs: "https://punch-mission.github.io/regularizepsf/"
+  docs: "https://regularizepsf.readthedocs.io/en/latest/"
   code: "https://github.com/punch-mission/regularizepsf"
   contact: "Marcus Hughes"
   keywords: ["plotting", "calibration", "general", "fits", "local", "data_analysis"]
