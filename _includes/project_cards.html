@@ -46,7 +46,6 @@
               <th scope="col">Documentation</th>
               <th scope="col">Testing</th>
               <th scope="col">Software Maturity</th>
-              <th scope="col">Python 3</th>
               <th scope="col">License</th>
             </tr>
           </thead>
@@ -81,7 +80,6 @@
               <td>{% if project.documentation != blank %}<p class="hidden">{{ project.documentation[1] }}</p><img src="{{ project.documentation[0] }}" alt="{{ project.documentation[project.documentation.length-1] }}">{% endif %}</td>
               <td>{% if project.testing != blank %}<p class="hidden">{{ project.testing[1] }}</p><img src="{{ project.testing[0] }}" alt="{{ project.testing[project.testing.length-1] }}">{% endif %}</td>
               <td>{% if project.software_maturity != blank %}<p class="hidden">{{ project.software_maturity[1] }}</p><img src="{{ project.software_maturity[0] }}" alt="{{ project.software_maturity[project.software_maturity.length-1] }}">{% endif %}</td>
-              <td>{% if project.python3 != blank %}<p class="hidden">{{ project.python3[1] }}</p><img src="{{ project.python3[0] }}" alt="{{ project.python3[project.python3.length-1] }}">{% endif %}</td>
               <td>{% if project.license != blank %}<p class="hidden">{{ project.license[1] }}</p><img src="{{ project.license[0] }}" alt="{{ project.license[project.license.length-1] }}">{% endif %}</td>
             </tr>
             {% endfor %}
