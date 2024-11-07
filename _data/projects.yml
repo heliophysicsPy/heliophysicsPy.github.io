@@ -108,7 +108,7 @@
   code: https://github.com/heliocloud-data/cloudcatalog/
   description: A Python package for retrieving cloud data file catalogs/indices
   docs: https://github.com/heliocloud-data/cloudcatalog/blob/main/docs/cloudcatalog-spec.md
-  logo: heliocloud.org/static/img/logo.jpg
+  logo: https://heliocloud.org/static/img/logo.jpg
   contact: Sandy Antunes
   keywords: ["data_retrieval","general","csv","remote","data_access"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
