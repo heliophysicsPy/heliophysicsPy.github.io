@@ -494,7 +494,6 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
-
 - name: "SAVIC"
   description: "Stability Analysis Vitalizing Instability Classification - a Python package for predicting, quantifying and classifying ion-driven plasma instabilities"
   docs: "https://savic.readthedocs.io/en/latest/index.html"
