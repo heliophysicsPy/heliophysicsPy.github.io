@@ -480,6 +480,21 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "SAMMI"
+  code: "https://github.com/swxsoc/sammi"
+  description: "Manage attributes for ISTP CDF files using YAML"
+  docs: "https://swxschema.readthedocs.io/en/latest/"
+  logo: "https://raw.githubusercontent.com/swxsoc/sammi/e764c4c84d5e511799ffc47d446a76f17501b8a2/docs/logo/sammi_logo.png"
+  contact: "Maxine Hartnett"
+  keywords: ["general", "cdf", "data_access"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+
 - name: "SAVIC"
   description: "Stability Analysis Vitalizing Instability Classification - a Python package for predicting, quantifying and classifying ion-driven plasma instabilities"
   docs: "https://savic.readthedocs.io/en/latest/index.html"
