@@ -169,6 +169,19 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "GCMprocpy"
+  description: "A Python package for post processing and analysis of TIE-GCM and WACCM-X outputs."
+  docs: "https://gcmprocpy.readthedocs.io"
+  code: "https://github.com/NCAR/gcmprocpy.git"
+  contact: "Nikhil Rao"
+  keywords: ["ionosphere_thermosphere_mesosphere","2D_graphics", "plotting", "netcdf", "local", "data_analysis", "specific"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: "geodata"
   description: "Geophysics analysis of radar and optical systems."
   logo: "https://github.com/jswoboda/GeoDataPython/raw/master/logo/logo1.png"
