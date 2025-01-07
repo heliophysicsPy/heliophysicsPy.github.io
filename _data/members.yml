@@ -131,7 +131,7 @@
   name: "Josh Elliott"
   affiliation: "LASP"
   
-- handle: "jmason86"
+- handle: "starfleetjames"
   name: "James Mason"
   affiliation: ""
   
@@ -154,6 +154,7 @@
 - handle: "rebeccaringuette"
   name: Rebecca Ringuette
   affiliation: "NASA CCMC"
+  orcid: "0000-0003-0875-2023"
 
 - handle: "jmbhughes"
   name: Marcus Hughes
