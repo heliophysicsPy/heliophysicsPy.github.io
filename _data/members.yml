@@ -5,28 +5,35 @@
 - handle: "ehsteve"
   name: "Steven D. Christe"
   affiliation: "NASA GSFC"
+  orcid: "0000-0001-6127-795X"
 
 - handle: "cadair"
   name: "Stuart Mumford"
+  orcid: "0000-0003-4217-4642"
 
 - handle: "kdere"
   name: "Ken Dere"
+  orcid: "0000-0003-1628-6261"
 
 - handle: "aburrell"
   name: "Angeline G. Burrell"
   affiliation: "NRL"
+  orcid: "0000-0001-8875-9326"
 
 - handle: "jklenzing"
   name: "Jeffrey Klenzing"
   affiliation: "NASA GSFC"
+  orcid: "0000-0001-8321-6074"
 
 - handle: "rstoneback"
   name: "Russell Stoneback"
   affiliation: "UT Dallas"
+  orcid: "0000-0001-7216-4336"
 
 - handle: "ayshih"
   name: "Albert Shih"
   affiliation: "NASA GSFC"
+  orcid: "0000-0001-6874-2594"
 
 - handle: "wafels"
   name: "Jack Ireland"
@@ -35,6 +42,7 @@
 - handle: "wtbarnes"
   name: "Will Barnes"
   affiliation: "Rice University"
+  orcid: "0000-0001-9642-6089"
 
 - handle: "timduly4"
   name: "Timothy Duly"
@@ -44,24 +52,29 @@
 
 - handle: "rjarvinen"
   name: "Riku Jarvinen"
+  orcid: "0000-0002-4246-2954"
 
 - handle: "jswoboda"
   name: "John Swoboda"
+  orcid: "0000-0003-2627-2031"
 
 - handle: "dpq"
   name: "David Parunakian"
   affiliation: ""
+  orcid: "0000-0002-5468-4060"
 
-- handle: scivision
-  name: Michael Hirsch
+- handle: "scivision"
+  name: "Michael Hirsch"
 
 - handle: "AndrewAnnex"
   name: "Andrew Annex"
   affiliation: "Johns Hopkins University"
+  orcid: "0000-0002-0253-2313"
 
 - handle: "namurphy"
   name: "Nick Murphy"
   affiliation: "Harvard-Smithsonian Center for Astrophysics"
+  orcid: "0000-0001-6628-8033"
 
 - handle: "DanRyanIrish"
   name: "Dan Ryan"
@@ -70,22 +83,27 @@
 - handle: "drsteve"
   name: "Steve Morley"
   affiliation: "Los Alamos National Laboratory"
+  orcid: "0000-0001-8520-0199"
 
 - handle: "blalterman"
   name: "B. L. Alterman"
   affiliation: "University of Michigan"
+  orcid: "0000-0001-6673-3432"
 
 - handle: "mbobra"
   name: "Monica Bobra"
   affiliation: "Stanford University"
+  orcid: "0000-0002-5662-9604"
   
 - handle: "alex-aquila"
   name: "Alexandria Ware"
   affiliation: "LASP"
+  orcid: "0000-0003-4647-9718"
 
 - handle: "jtniehof"
   name: "Jon Niehof"
   affiliation: "UNH"
+  orcid: "0000-0001-6286-5809"
 
 - handle: "smithara"
   name: "Ashley Smith"
@@ -94,22 +112,27 @@
 - handle: "aharonroberts"
   name: "D. Aaron Roberts"
   affiliation: ""
+  orcid: "0000-0001-6565-2921"
   
 - handle: "darrendezeeuw"
   name: "Darren De Zeeuw"
   affiliation: ""
+  orcid: "0000-0002-4313-5998"
   
 - handle: "BaptisteCecconi"
   name: "Baptiste Cecconi"
   affiliation: ""
+  orcid: "0000-0001-7915-5571"
   
 - handle: "hayesla"
   name: "Laura Hayes"
   affiliation: ""
+  orcid: "0000-0002-6835-2390"
   
 - handle: "cdkharris"
   name: "Camilla D.K. Harris"
   affiliation: ""
+  orcid: "0000-0001-5045-8827"
   
 - handle: "neerajkulk"
   name: "Neeraj Kulkarni"
@@ -118,10 +141,12 @@
 - handle: "rweigel"
   name: "Bob Weigel"
   affiliation: ""
+  orcid: "0000-0002-9521-5228"
   
 - handle: "bryan-harter"
   name: "Bryan Harter"
   affiliation: "LASP"
+  orcid: "0000-0002-3148-121X"
   
 - handle: "abbyazari"
   name: "Abby Azari"
@@ -134,10 +159,12 @@
 - handle: "starfleetjames"
   name: "James Mason"
   affiliation: ""
+  orcid: "0000-0002-3783-5509"
   
 - handle: "balapoduval"
   name: "Bala Poduval"
   affiliation: ""
+  orcid: "0000-0003-1258-0308"
 
 - handle: "tsssss"
   name: "Sheng Tian"
@@ -146,20 +173,23 @@
 - handle: "sandyfreelance"
   name: "Sandy Antunes"
   affiliation: ""
+  orcid: "0000-0002-3098-2602"
 
 - handle: "Dolgalad"
   name: "Alexandre Schulz"
   affiliation: "IRAP"
   
 - handle: "rebeccaringuette"
-  name: Rebecca Ringuette
+  name: "Rebecca Ringuette"
   affiliation: "NASA CCMC"
   orcid: "0000-0003-0875-2023"
 
 - handle: "jmbhughes"
-  name: Marcus Hughes
+  name: "Marcus Hughes"
   affiliation: "SwRI"
+  orcid: "0000-0003-3410-7650"
 
 - handle: "jameswilburlewis"
-  name: Jim Lewis
+  name: "Jim Lewis"
   affiliation: "UC Berkeley Space Sciences Lab"
+  orcid: "0009-0005-4191-5906"
