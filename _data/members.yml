@@ -151,6 +151,7 @@
 - handle: "abbyazari"
   name: "Abby Azari"
   affiliation: ""
+  orcid: "0000-0002-8665-5459"
   
 - handle: "spacemanjosh"
   name: "Josh Elliott"
@@ -193,3 +194,8 @@
   name: "Jim Lewis"
   affiliation: "UC Berkeley Space Sciences Lab"
   orcid: "0009-0005-4191-5906"
+
+- handle: "jgieseler"
+  name: "Jan Gieseler"
+  affiliation: ""
+  orcid: "0000-0003-1848-7067"
