@@ -573,7 +573,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "space-packet-parser"
-  code: "https://github.com/medley56/space_packet_parser"
+  code: "https://github.com/lasp/space_packet_parser"
   description: "A CCSDS telemetry packet decoding library based on the XTCE packet format description standard."
   docs: "https://space-packet-parser.readthedocs.io"
   contact: "Gavin Medley"
