@@ -50,4 +50,43 @@
 {% endif %}
 <!-- end of Twitter cards -->
 
+<!-- Dark Mode Script -->
+<script>
+  // Check for saved theme preference or respect OS setting
+  document.addEventListener('DOMContentLoaded', function() {
+    // Check for saved theme preference
+    const savedTheme = localStorage.getItem('theme');
+    
+    // If we have a saved preference, use it
+    if (savedTheme) {
+      document.documentElement.setAttribute('data-theme', savedTheme);
+      if (savedTheme === 'dark') {
+        document.getElementById('darkmode-toggle').checked = true;
+      }
+    } 
+    // Otherwise check for OS preference
+    else {
+      const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+      if (prefersDarkScheme.matches) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        document.getElementById('darkmode-toggle').checked = true;
+      }
+    }
+    
+    // Toggle theme when the checkbox changes
+    const darkModeToggle = document.getElementById('darkmode-toggle');
+    if (darkModeToggle) {
+      darkModeToggle.addEventListener('change', function() {
+        if (this.checked) {
+          document.documentElement.setAttribute('data-theme', 'dark');
+          localStorage.setItem('theme', 'dark');
+        } else {
+          document.documentElement.setAttribute('data-theme', 'light');
+          localStorage.setItem('theme', 'light');
+        }
+      });
+    }
+  });
+</script>
+
 {% seo %}
