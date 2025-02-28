@@ -8,8 +8,8 @@ Listed here are tools that PyHC suggests using to aid Python development. The li
 
 <br>
 
-### [The PyHC Environment](https://hub.docker.com/repository/docker/spolson/pyhc-environment/general)
-We created and dockerized a Python environment containing the latest versions of every published PyHC package. Try out the [`pyhc-environment`](https://hub.docker.com/repository/docker/spolson/pyhc-environment/general) image on Docker Hub. See [its GitHub repo](https://github.com/heliophysicsPy/pyhc-docker-environment) for more information.
+### [The PyHC Environment](https://binder.opensci.2i2c.cloud/v2/gh/heliophysicsPy/science-platforms-coordination/pyhc)
+We dockerize a Python environment containing the latest versions of every published PyHC package, updated nightly. Try out the [`pyhc-environment`](https://binder.opensci.2i2c.cloud/v2/gh/heliophysicsPy/science-platforms-coordination/pyhc) in Binder! See [its GitHub repo](https://github.com/heliophysicsPy/pyhc-docker-environment) for more information.
 
 <br>
 
