@@ -7,7 +7,7 @@ order: 5
 <p>
   To add a project to this page, please refer yourself to the <a href="https://github.com/heliophysicsPy/heliophysicsPy.github.io/blob/main/_pyhc_projects/adding_to_pyhc_project_list.md">project addition instructions</a>.
 </p>
-<h3> Core packages </h3>
+<h3 id="core_packages"> Core packages </h3>
 <p>
   These packages each offer a wide range of functionality in their area,
   and conform to the PyHC community <a href="https://github.com/heliophysicsPy/standards/blob/main/standards.md">standards.</a>
@@ -16,12 +16,12 @@ order: 5
 {% assign id = 1 %}
 {% include project_cards.html sorted_projects=sorted_projects id=id %}
 
-<h3> Other packages </h3>
+<h3 id="other_packages"> Other packages </h3>
 {% assign sorted_projects = site.data.projects | sort_natural:'name' %}
 {% assign id = 2 %}
 {% include project_cards.html sorted_projects=sorted_projects id=id %}
 
-<h3> Un-evaluated packages </h3>
+<h3 id="unevaluated_packages"> Unevaluated packages </h3>
 {% assign sorted_projects = site.data.projects_unevaluated | sort_natural:'name' %}
 {% assign id = 3 %}
 {% include project_cards_unevaluated.html sorted_projects=sorted_projects id=id %}
