@@ -93,7 +93,8 @@
 
 - name: CDFlib
   code: https://github.com/MAVENSDC/cdflib
-  description: Read / Write NASA CDF with pure Python + Numpy, no compiling
+  docs: https://cdflib.readthedocs.io/en/latest/
+  description: Read / write NASA CDF with pure Python + Numpy, no compiling
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
@@ -456,6 +457,7 @@
 
 - name: PyTplot
   code: https://github.com/MAVENSDC/pytplot
+  docs: https://pytplot.readthedocs.io/en/latest/
   description: Based on IDL tplot, plots and manipulates time series data
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: "Bryan Harter"
