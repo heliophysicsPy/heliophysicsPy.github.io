@@ -40,7 +40,6 @@ PyHC meets in person twice yearly. Telecons are held approximately every two wee
 <script type="text/javascript">
     // Function to update calendar styling based on dark mode
     function updateCalendarStyle() {
-        // Get current dark mode state
         const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
         const iframe = document.getElementById('calendar-iframe');
         
@@ -53,31 +52,26 @@ PyHC meets in person twice yearly. Telecons are held approximately every two wee
         }
     }
     
-    // We need to wait for iframe to load completely
+    // Initial update when DOM is ready
     document.addEventListener('DOMContentLoaded', function() {
         // Ensure initial state is correct after a short delay
         setTimeout(updateCalendarStyle, 500);
         
-        // Listen for dark mode toggle changes
-        window.addEventListener('storage', function(e) {
-            if (e.key === 'theme') {
-                // Apply changes with a slight delay to ensure theme is updated
-                setTimeout(updateCalendarStyle, 50);
-            }
+        // Set up a MutationObserver to detect theme attribute changes
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.attributeName === 'data-theme') {
+                    updateCalendarStyle();
+                }
+            });
         });
         
-        // Also listen directly to the toggle for good measure
-        const darkModeToggle = document.getElementById('darkmode-toggle');
-        if (darkModeToggle) {
-            darkModeToggle.addEventListener('change', function() {
-                // Apply changes with a slight delay to ensure theme is updated
-                setTimeout(updateCalendarStyle, 50);
-            });
-        }
+        // Start observing document for data-theme attribute changes
+        observer.observe(document.documentElement, { 
+            attributes: true,
+            attributeFilter: ['data-theme'] 
+        });
     });
-    
-    // For extra robustness, check periodically
-    setInterval(updateCalendarStyle, 1000);
 </script>
 </p>
 <h2>News</h2>

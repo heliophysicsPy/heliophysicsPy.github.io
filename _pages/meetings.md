@@ -40,37 +40,20 @@ Additionally, there is a more [general calendar](https://helioanalytics.io/event
         // Initial setup with a slight delay to ensure all elements are loaded
         setTimeout(setupGoogleCalendars, 500);
         
-        // Listen for dark mode toggle directly
-        const darkModeToggle = document.getElementById('darkmode-toggle');
-        if (darkModeToggle) {
-            darkModeToggle.addEventListener('change', function() {
-                // We need a delay to allow data-theme to update
-                setTimeout(setupGoogleCalendars, 100);
-            });
-        }
-        
-        // Also listen for storage events when theme is changed
-        window.addEventListener('storage', function(e) {
-            if (e.key === 'theme') {
-                setTimeout(setupGoogleCalendars, 100);
-            }
-        });
-        
-        // For extra robustness, check periodically
-        setInterval(function() {
-            const currentTheme = document.documentElement.getAttribute('data-theme');
-            const calendars = document.querySelectorAll('iframe');
-            
-            // Only recreate if there's a mismatch
-            calendars.forEach(function(iframe) {
-                const isDark = currentTheme === 'dark';
-                const hasFilter = iframe.style.filter && iframe.style.filter.includes('invert');
-                
-                if ((isDark && !hasFilter) || (!isDark && hasFilter)) {
+        // Set up a MutationObserver to detect theme attribute changes
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.attributeName === 'data-theme') {
                     setupGoogleCalendars();
                 }
             });
-        }, 2000);
+        });
+        
+        // Start observing document for data-theme attribute changes
+        observer.observe(document.documentElement, { 
+            attributes: true,
+            attributeFilter: ['data-theme'] 
+        });
     });
 
     function setupGoogleCalendars() {
