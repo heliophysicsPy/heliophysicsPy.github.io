@@ -312,6 +312,20 @@ body {
   background-color: var(--navbar-bg);
 }
 
+[data-theme="dark"] .navbar-nav .nav-link,
+[data-theme="dark"] .navbar-brand {
+  color: white;
+}
+
+[data-theme="dark"] .navbar-nav .nav-link.active {
+  color: #F9E79F;
+  font-weight: bold;
+}
+
+[data-theme="dark"] .navbar-nav .nav-link:hover {
+  color: #F9E79F;
+}
+
 .card {
   background-color: var(--card-bg-color);
   border-color: var(--card-border-color);
