@@ -35,7 +35,49 @@ permalink: /
 <p class="text-center">
 PyHC meets in person twice yearly. Telecons are held approximately every two weeks on Mondays at 09:00 AM Mountain time, but this can fluctuate depending on holidays, conferences, etc. Meetings and telecon times are available on our <a href="https://calendar.google.com/calendar?cid=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Google Calendar</a>:
 <br><br>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23f9e79f&ctz=America%2FDenver&showTitle=0&title=PyHC%20Events&showDate=1&showPrint=0&showTabs=1&showCalendars=0&showNav=1&src=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<div id="homepage-calendar-container"></div>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+        setupHomeCalendar();
+        
+        // Update calendar when dark mode is toggled
+        const darkModeToggle = document.getElementById('darkmode-toggle');
+        if (darkModeToggle) {
+            darkModeToggle.addEventListener('change', function() {
+                // We need a slight delay to allow data-theme to update
+                setTimeout(setupHomeCalendar, 100);
+            });
+        }
+    });
+
+    function setupHomeCalendar() {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        const container = document.getElementById('homepage-calendar-container');
+        
+        // Create iframe
+        const iframe = document.createElement('iframe');
+        
+        // Set calendar URL parameters
+        iframe.src = `https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=${isDark ? '%23121212' : '%23f9e79f'}&ctz=America%2FDenver&showTitle=0&title=PyHC%20Events&showDate=1&showPrint=0&showTabs=1&showCalendars=0&showNav=1&src=NG42Z3YyaWZncDZyZ25rOGF1N2pzZjF1azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237CB342`;
+        
+        iframe.width = '100%';
+        iframe.height = '600';
+        iframe.frameBorder = '0';
+        iframe.scrolling = 'no';
+        iframe.style.border = 'none';
+        iframe.style.transition = 'filter 0.3s ease';
+        
+        // Apply styles for dark mode
+        if (isDark) {
+            iframe.style.filter = 'hue-rotate(180deg) invert(92%) contrast(90%)';
+        }
+        
+        // Clear and add the iframe
+        container.innerHTML = '';
+        container.appendChild(iframe);
+    }
+</script>
 </p>
 <h2>News</h2>
 <hr>
