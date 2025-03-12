@@ -37,16 +37,40 @@ Additionally, there is a more [general calendar](https://helioanalytics.io/event
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
-        setupGoogleCalendars();
+        // Initial setup with a slight delay to ensure all elements are loaded
+        setTimeout(setupGoogleCalendars, 500);
         
-        // Update calendars when dark mode is toggled
+        // Listen for dark mode toggle directly
         const darkModeToggle = document.getElementById('darkmode-toggle');
         if (darkModeToggle) {
             darkModeToggle.addEventListener('change', function() {
-                // We need a slight delay to allow data-theme to update
+                // We need a delay to allow data-theme to update
                 setTimeout(setupGoogleCalendars, 100);
             });
         }
+        
+        // Also listen for storage events when theme is changed
+        window.addEventListener('storage', function(e) {
+            if (e.key === 'theme') {
+                setTimeout(setupGoogleCalendars, 100);
+            }
+        });
+        
+        // For extra robustness, check periodically
+        setInterval(function() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const calendars = document.querySelectorAll('iframe');
+            
+            // Only recreate if there's a mismatch
+            calendars.forEach(function(iframe) {
+                const isDark = currentTheme === 'dark';
+                const hasFilter = iframe.style.filter && iframe.style.filter.includes('invert');
+                
+                if ((isDark && !hasFilter) || (!isDark && hasFilter)) {
+                    setupGoogleCalendars();
+                }
+            });
+        }, 2000);
     });
 
     function setupGoogleCalendars() {
