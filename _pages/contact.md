@@ -15,11 +15,6 @@ If the above steps do not work for you, please contact Julie Barnum at LASP, [Ju
 
 <br>
 
-## Twitter
-Follow [PyHC on Twitter](https://twitter.com/PyHC_official) for quick announcements, updates, projects updates, etc.! 
-
-<br>
-
 ## Chat rooms
 For more informal discussions and questions there is a chat room to enable live chat between users and developers. The chat is hosted on matrix and clicking the following [link](https://app.element.io/#/room/#heliopython:openastronomy.org) will open a browser window with the chat interface. There is no need to install any software.
 
