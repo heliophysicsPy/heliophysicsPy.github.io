@@ -322,7 +322,8 @@ body {
   font-weight: bold;
 }
 
-[data-theme="dark"] .navbar-nav .nav-link:hover {
+[data-theme="dark"] .navbar-nav .nav-link:hover,
+[data-theme="dark"] .navbar-brand:hover {
   color: #F9E79F;
 }
 
