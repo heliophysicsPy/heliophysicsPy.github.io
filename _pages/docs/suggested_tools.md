@@ -13,6 +13,11 @@ We dockerize a Python environment containing the latest versions of every publis
 
 <br>
 
+### [The PyHC Documentation Hub](https://pyhc.org/pyhc-docs)
+We created a centralized search tool for finding documentation across all PyHC packages that use Read The Docs. Try out the [PyHC Documentation Hub](https://pyhc.org/pyhc-docs). 
+
+<br>
+
 ### IDEs
 An IDE, or Integrated Development Environment, enables developers to consolidate the different aspects of writing programs. IDEs increase productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging. They offer so many conveniences that we recommend using one.
 
