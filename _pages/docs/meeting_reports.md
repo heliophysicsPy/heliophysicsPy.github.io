@@ -149,3 +149,16 @@ This page contains all meeting reports on from biannual meetings held by the Pyt
   </div>
 
   <br>
+
+  <div class="container mb-2">
+    <div class="media">
+      <a href="https://zenodo.org/records/15080483"><i class="fas fa-book fa-2x mr-3"></i></a>
+      <div class="media-body">
+        <h5 class="mt-0">2024 PyHC Fall Meeting Report</h5>
+        The official meeting report from the Fall 2024 community meeting.<br>
+        <a href="https://doi.org/10.5281/zenodo.15080483"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15080483.svg" alt="DOI"></a>
+      </div>
+    </div>
+  </div>
+
+  <br>

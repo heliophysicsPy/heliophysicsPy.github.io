@@ -8,7 +8,7 @@ exclude: true
 [2024 Fall Python in Heliophysics Community Meeting]({% link
 _pages/meetings/community_meetings/fall2024.md %}), November 11–13 (hybrid in-person/remote).
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/folders/1_PrioZvEfNhcQ5ISOjHHZ4XQZKHk2Ohq?usp=drive_link)
-* Meeting Report to come shortly after conclusion of meeting
+* [Meeting Report](https://doi.org/10.5281/zenodo.15080483)
 
 [2024 Spring Python in Heliophysics Community Meeting]({% link
 _pages/meetings/community_meetings/spring2024.md %}), March 11–14 (remote).
