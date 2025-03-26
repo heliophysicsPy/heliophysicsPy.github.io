@@ -77,6 +77,20 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "asilib"
+  description: "asilib is an open source package providing data access and analysis tools for the world’s all-sky imager (ASI) data."
+  docs: "https://aurora-asi-lib.readthedocs.io/"
+  code: "https://github.com/mshumko/asilib"
+  logo: "http://raw.githubusercontent.com/mshumko/asilib/refs/heads/main/docs/_static/asilib_logo.png"
+  contact: "Mykhaylo (Mike) Shumko"
+  keywords: ["ionosphere_thermosphere_mesosphere", "data_retrieval", "image_processing", "plotting", "general", "remote", "data_access", "data_analysis", "instrumentation", "themis", "igrf"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: CCSDSPy
   code: https://github.com/ccsdspy/ccsdspy/
   description: A Python package for reading CCSDS (spacecraft) packet data.
