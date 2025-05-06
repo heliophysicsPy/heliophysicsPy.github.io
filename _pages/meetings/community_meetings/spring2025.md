@@ -5,12 +5,12 @@ permalink: /meetings/spring2025/
 exclude: true
 ---
 
-The spring 2025 meeting of the [Python in Heliophysics Community](https://pyhc.org) will be held fully remotely [**at this Zoom link**](https://cuboulder.zoom.us/j/97372369069) (Meeting ID: **973 7236 9069**). Dial-in information below. _All Zoom sessions, save for unconferences, will be recorded._ It will be spread across four days, starting Monday, June 2nd, 2025 and ending Thursday, May 5th, 2025: 
+The spring 2025 meeting of the [Python in Heliophysics Community](https://pyhc.org) will be held fully remotely [**at this Zoom link**](https://cuboulder.zoom.us/j/97372369069) (Meeting ID: **973 7236 9069**). Dial-in information below. _All Zoom sessions, save for unconferences, will be recorded._ It will be spread across four days, starting Monday, June 2nd, 2025 and ending Thursday, June 5th, 2025: 
 
- - **Project Intros/Updates and Virtual Environments:** May 2nd 9:00 AM – 11:00 AM (MT)
- - **CloudCatalog and Tech Lead Updates:** May 3rd 9:00 AM – 11:00 AM (MT)
- - **HSSI Updates/Usability Testing:** May 4th 9:00 AM – 11:00 AM (MT)
- - **DOI Minting, PHEP updates, Wrap-up:** May 5th 9:00 AM - 11:00 AM (MT)
+ - **Project Intros/Updates and Virtual Environments:** June 2nd 9:00 AM – 11:00 AM (MT)
+ - **CloudCatalog and Tech Lead Updates:** June 3rd 9:00 AM – 11:00 AM (MT)
+ - **HSSI Updates/Usability Testing:** June 4th 9:00 AM – 11:00 AM (MT)
+ - **DOI Minting, PHEP updates, Wrap-up:** June 5th 9:00 AM - 11:00 AM (MT)
 
 See [the full agenda](https://docs.google.com/spreadsheets/d/1y6abz5KvvkQm0x3XdSFKKJYc-lMKdhwbcUL6xz81fmU/edit?usp=sharing) for exact dates/times of the various sessions.
 <br><br><br>
