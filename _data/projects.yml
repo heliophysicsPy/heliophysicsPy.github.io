@@ -279,6 +279,19 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "kaipy"
+  description: "Kaipy is a Python package for analysis and visualization of simulation results from a scientific software package Kaiju."
+  docs: "https:/https://kaipy-docs.readthedocs.io/"
+  code: "https://bitbucket.org/aplkaiju/kaipy/src/master/"
+  contact: "Michael Wiltberger"
+  keywords: ["geospace","2D_graphics", "plotting", "hdf5", "local", "data_analysis", "specific"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: lofarSun
   url: "https://github.com/peijin94/LOFAR-Sun-tools"
   code: "https://github.com/peijin94/LOFAR-Sun-tools"
