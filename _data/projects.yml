@@ -511,8 +511,8 @@
 
 - name: "SAMMI"
   code: "https://github.com/swxsoc/sammi"
-  description: "Manage attributes for ISTP CDF files using YAML"
-  docs: "https://swxschema.readthedocs.io/en/latest/"
+  description: "Share Attribute and Metadata Management Interface - Manage attributes for ISTP CDF files using YAML"
+  docs: "https://sammi-cdf.readthedocs.io/"
   logo: "https://raw.githubusercontent.com/swxsoc/sammi/e764c4c84d5e511799ffc47d446a76f17501b8a2/docs/logo/sammi_logo.png"
   contact: "Maxine Hartnett"
   keywords: ["general", "cdf", "data_access"]
@@ -663,6 +663,21 @@
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "swxsoc"
+  url: "https://swxsoc.github.io/
+  description: "Pipeline and analysis tools for space weather data processing."
+  docs: "https://swxsoc.readthedocs.io/"
+  code: "https://github.com/swxsoc/swxsoc"
+  logo: "https://raw.githubusercontent.com/swxsoc/swxsoc/fbbc26e70863f8acc4df53dee4876a40b5cca154/docs/logo/swxsoc_logo.png"
+  contact: "Steven Christe, Damian Barrous Dumme, Andrew Robbertz"
+  keywords: ["general", "data_container", "cdf", "data_analysis", "hermes"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
