@@ -668,7 +668,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "swxsoc"
-  url: "https://swxsoc.github.io/
+  url: "https://swxsoc.github.io/"
   description: "Pipeline and analysis tools for space weather data processing."
   docs: "https://swxsoc.readthedocs.io/"
   code: "https://github.com/swxsoc/swxsoc"
