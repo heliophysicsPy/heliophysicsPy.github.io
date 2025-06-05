@@ -30,10 +30,10 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
 
 To come shortly after the meeting ends. 
 
- - Day 1 Recording
- - Day 2 Recording
- - Day 3 Recording
- - Day 4 Recording
+ - [Day 1 Recording](https://youtu.be/FSQ1J6KaXk4)
+ - [Day 2 Recording](https://youtu.be/3u2dj3HNHb0)
+ - [Day 3 Recording](https://youtu.be/1PfAy5T9K5w)
+ - [Day 4 Recording](https://youtu.be/CEXMHoJXk64)
 <br><br><br>
 
 ### Zoom Meeting Information
