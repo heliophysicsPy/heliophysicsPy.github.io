@@ -23,12 +23,10 @@ Please [**register**](https://forms.gle/Ua5mAHmy6gfD1B4R7) by close of business 
 
 Materials associated with the meeting sessions will be kept in the [**meeting folder**](https://drive.google.com/drive/folders/1r4ADxnJyLYvkMvfz0Xg1TAUrVKwB0U9W?usp=sharing) on Google Drive.
 
- - [Meeting schedule](https://docs.google.com/spreadsheets/d/1y6abz5KvvkQm0x3XdSFKKJYc-lMKdhwbcUL6xz81fmU/edit?usp=sharing) _(work in progress)_
- - [Unconference Organizing](https://docs.google.com/spreadsheets/d/1UEhyZ7uYqCXQLNAqJah_p7vqAW0RlRhc7v37_TQVxvI/edit?usp=sharing) _(currently not in the schedule, but may be added if time allows)_
+ - [Meeting schedule](https://docs.google.com/spreadsheets/d/1y6abz5KvvkQm0x3XdSFKKJYc-lMKdhwbcUL6xz81fmU/edit?usp=sharing)
+ - [Unconference Organizing](https://docs.google.com/spreadsheets/d/1UEhyZ7uYqCXQLNAqJah_p7vqAW0RlRhc7v37_TQVxvI/edit?usp=sharing) _(did not end up making it into the schedule)_
 
 #### Meeting Recordings
-
-To come shortly after the meeting ends. 
 
  - [Day 1 Recording](https://youtu.be/FSQ1J6KaXk4)
  - [Day 2 Recording](https://youtu.be/3u2dj3HNHb0)
