@@ -25,7 +25,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "aiapy"
-  code: "https://gitlab.com/LMSAL_HUB/aia_hub/aiapy"
+  code: "https://github.com/LM-SAL/aiapy"
   docs: "https://aiapy.readthedocs.io"
   logo: "https://assets.gitlab-static.net/uploads/-/system/project/avatar/10985339/AIA_logo_small.jpg?width=64"
   description: "A Python package for analyzing data from SDO/AIA"
@@ -269,7 +269,7 @@
 - name: "irispy-lmsal"
   description: "A Python package that provides the tools to read in and analyze data from the IRIS solar-observing satellite."
   docs: "https://irispy-lmsal.readthedocs.io"
-  code: "https://gitlab.com/LMSAL_HUB/iris_hub/irispy-lmsal"
+  code: "https://github.com/LM-SAL/irispy-lmsal"
   contact: "Nabil Freij"
   keywords: ["solar", "specific", "data_analysis", "spectra", "fits", "time", "coordinates","plotting", "multidimensional"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
