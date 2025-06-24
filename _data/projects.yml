@@ -285,7 +285,7 @@
   code: "https://bitbucket.org/aplkaiju/kaipy/src/master/"
   contact: "Michael Wiltberger"
   keywords: ["geospace","2D_graphics", "plotting", "hdf5", "local", "data_analysis", "specific"]
-  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
