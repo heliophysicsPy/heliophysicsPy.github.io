@@ -18,6 +18,11 @@ We created a centralized search tool for finding documentation across all PyHC p
 
 <br>
 
+### [The PyHC Repo Template](https://github.com/heliophysicsPy/pyhc-repo-template/tree/main)
+We created a GitHub repository template to give new package creators a starting point that already meets PyHC's standards. Try [making a new package with it](https://github.com/heliophysicsPy/pyhc-repo-template/tree/main).
+
+<br>
+
 ### IDEs
 An IDE, or Integrated Development Environment, enables developers to consolidate the different aspects of writing programs. IDEs increase productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging. They offer so many conveniences that we recommend using one.
 
