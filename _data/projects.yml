@@ -282,7 +282,7 @@
 - name: "kaipy"
   description: "Kaipy is a Python package for analysis and visualization of simulation results from a scientific software package Kaiju."
   docs: "https://kaipy-docs.readthedocs.io/"
-  code: "https://bitbucket.org/aplkaiju/kaipy/src/master/"
+  code: "https://github.com/JHUAPL/kaipy"
   contact: "Michael Wiltberger"
   keywords: ["geospace","2D_graphics", "plotting", "hdf5", "local", "data_analysis", "specific"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
