@@ -166,7 +166,7 @@
   docs: "https://euvpy.readthedocs.io/en/latest/"
   code: "https://github.com/DanBrandt/EUVpy/tree/main"
   contact: "Daniel Brandt"
-  keywords: ["solar", "euv", "irradiance", "flux"]
+  keywords: ["solar", "ionosphere_thermosphere_mesosphere", "wrapper", "gitm", "general"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
