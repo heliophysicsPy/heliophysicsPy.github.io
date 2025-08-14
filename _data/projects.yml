@@ -159,6 +159,21 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "EUVpy"
+  url: "https://github.com/DanBrandt/EUVpy/tree/main"
+  description: "A Python package containing several models for solar EUV irradiance."
+  logo: https://euvpy.readthedocs.io/en/latest/_images/EUVpy_logo.png
+  docs: "https://euvpy.readthedocs.io/en/latest/"
+  code: "https://github.com/DanBrandt/EUVpy/tree/main"
+  contact: "Daniel Brandt"
+  keywords: ["solar", "ionosphere_thermosphere_mesosphere", "wrapper", "gitm", "general"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: "fiasco"
   description: "A Python interface to the CHIANTI atomic database."
   docs: "http://fiasco.readthedocs.io"
@@ -735,3 +750,4 @@
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
