@@ -4,7 +4,7 @@
 
 - category: "Functionality"
   description: "The functionality available in a package"
-  keywords: ["2D_graphics", "3D_graphics", "calibration", "ccsds", "coordinates", "data_container", "data_retrieval", "image_processing", "interactive", "line_plots", "machine_learning", "multidimensional", "orbit", "packet_parsing", "packet_inspection", "plotting", "power_spectra", "spectra", "time", "xtce"]
+  keywords: ["2D_graphics", "3D_graphics", "calibration", "ccsds", "coordinates", "cloud_computing", "data_container", "data_retrieval", "image_processing", "interactive", "line_plots", "machine_learning", "multidimensional", "orbit", "packet_parsing", "packet_inspection", "plotting", "power_spectra", "spectra", "time", "xtce"]
 
 - category: "Span"
   description: "The user scope of a project"
@@ -20,7 +20,7 @@
 
 - category: "Intent"
   description: "The overarching purpose of a project"
-  keywords: ["data_access", "data_analysis", "data_assimilation", "instrumentation", "laboratory", "reference_data", "simulation", "theory", "wrapper"]
+  keywords: ["cyberinfrastructure", "data_access", "data_analysis", "data_assimilation", "instrumentation", "laboratory", "reference_data", "simulation", "theory", "wrapper"]
 
 - category: "Mission"
   description: "Observational, including ground and satellite, and also models. TODO."
