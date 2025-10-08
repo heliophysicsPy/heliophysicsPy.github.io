@@ -187,6 +187,21 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "FitsFlow"
+  url: "https://www.fitsflow.org/"
+  description: "A browser-based, open-source platform for exploring and processing solar FITS files with ML-ready outputs."
+  logo: "https://www.fitsflow.org/ff_logo_3.png"
+  docs: "https://doi.org/10.5281/zenodo.17069414"
+  code: "https://github.com/indiajacksonphd/FitsFlow"
+  contact: "India Jackson"
+  keywords: ["cyberinfrastructure", "cloud_computing", "fits", "sdo", "data_access", "heliosphere", "machine_learning"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: "fisspy"
   description: "Fast Imaging Solar Spectrograph (FISS) on the New Solar Telescope."
   code: "https://github.com/SNU-sunday/fisspy"
