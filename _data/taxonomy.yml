@@ -4,7 +4,7 @@
 
 - category: "Functionality"
   description: "The functionality available in a package"
-  keywords: ["2D_graphics", "3D_graphics", "calibration", "ccsds", "coordinates", "data_container", "data_retrieval", "image_processing", "interactive", "line_plots", "machine_learning", "multidimensional", "orbit", "packet_parsing", "packet_inspection", "plotting", "power_spectra", "spectra", "time", "xtce"]
+  keywords: ["2D_graphics", "3D_graphics", "calibration", "ccsds", "coordinates", "cloud_computing", "data_container", "data_retrieval", "image_processing", "interactive", "line_plots", "machine_learning", "multidimensional", "orbit", "packet_parsing", "packet_inspection", "plotting", "power_spectra", "spectra", "time", "xtce"]
 
 - category: "Span"
   description: "The user scope of a project"
