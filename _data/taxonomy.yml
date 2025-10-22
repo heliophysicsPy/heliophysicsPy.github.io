@@ -20,7 +20,7 @@
 
 - category: "Intent"
   description: "The overarching purpose of a project"
-  keywords: ["cyberinfrastructure", "data_access", "data_analysis", "data_assimilation", "instrumentation", "laboratory", "reference_data", "simulation", "theory", "wrapper"]
+  keywords: ["data_access", "data_analysis", "data_assimilation", "instrumentation", "laboratory", "reference_data", "simulation", "theory", "wrapper"]
 
 - category: "Mission"
   description: "Observational, including ground and satellite, and also models. TODO."
