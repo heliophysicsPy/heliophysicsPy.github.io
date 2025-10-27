@@ -4,6 +4,11 @@ title: Community Meetings
 permalink: /meetings/community_meetings
 exclude: true
 ---
+[2025 Fall Python in Heliophysics Community Meeting]({% link
+_pages/meetings/community_meetings/fall2025.md %}), November 18-20 (remote).
+* [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/folders/1d9uVOvBULGK0pdWkk3RcF6iZHB-ZqlzP?usp=sharing)
+* Meeting Report (to come after meeting wraps)
+
 [2025 Spring Python in Heliophysics Community Meeting]({% link
 _pages/meetings/community_meetings/spring2025.md %}), June 2-5 (remote).
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/folders/1r4ADxnJyLYvkMvfz0Xg1TAUrVKwB0U9W?usp=sharing)
