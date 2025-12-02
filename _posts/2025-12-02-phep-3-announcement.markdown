@@ -16,6 +16,4 @@ PHEP 3 recommends that all PyHC packages adopt the following support policy, bas
 
 This policy applies to Python itself and to the upstream [core Scientific Python packages](https://scientific-python.org/specs/core-projects/): NumPy, SciPy, Matplotlib, pandas, scikit-image, NetworkX, scikit-learn, xarray, IPython, and Zarr.
 
-PHEP 3 replaces the previous PyHC standard #11, which simply mandated Python 3 support. This new standard provides clear, predictable timelines for both adopting new dependency versions and dropping support for older ones—giving package maintainers and users alike a reliable roadmap for dependency management.
-
 To learn more, read **[the full PHEP 3 document](https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md)**. We will also maintain a [PHEP 3 Support Schedule page](/docs/pheps/phep-3-support-schedule/) with a graphical timeline and quarterly reminders to help package maintainers stay on track. Questions or feedback? Join the discussion on [PyHC's mailing list or Slack](/contact)!
