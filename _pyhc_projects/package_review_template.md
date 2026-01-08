@@ -31,8 +31,10 @@ This is based on the [PyHC Project Review Guidelines](https://github.com/helioph
 - [ ] Project imports the minimum number of packages necessary [[10](https://github.com/heliophysicsPy/standards/blob/main/standards.md#standards)]
 - [ ] Binary files are added to the package repository only when necessary [[14](https://github.com/heliophysicsPy/standards/blob/main/standards.md#standards)]
 
-**5. Python 3**
-- [ ] Package is compatible with python 3 [[11](https://github.com/heliophysicsPy/standards/blob/main/standards.md#standards)]
+**5. PHEP 3 (Python & Upstream Package Support)**
+- [ ] Package supports Python versions released within the last 36 months [[11](https://github.com/heliophysicsPy/standards/blob/main/standards.md#standards)]
+- [ ] Package supports upstream core Scientific Python packages released within the last 24 months [[11](https://github.com/heliophysicsPy/standards/blob/main/standards.md#standards)]
+- [ ] Package supports new dependency versions within 6 months of their release [[11](https://github.com/heliophysicsPy/standards/blob/main/standards.md#standards)]
 
 **6. License**
 - [ ] Project has a license [[5](https://github.com/heliophysicsPy/standards/blob/main/standards.md#standards)]

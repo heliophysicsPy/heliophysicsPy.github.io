@@ -38,7 +38,7 @@ The six standards against which we assess a project are the following:
 * Documentation
 * Testing
 * Software Maturity
-* Python3
+* PHEP 3 (Python & Upstream Package Support)
 * License
 
 An explanation of each standard (and sub-standards therein) are defined in the [PyHC Community Standards](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
@@ -135,22 +135,22 @@ See the [PyHC Community Standards, points 1, 3, 4, 6, 7, 10, and 14](https://git
 </tr>
 </table>
 
-### Python3
+### PHEP 3 (Python & Upstream Package Support)
 
-This deals with a project's compatibility with Python 3. See the [PyHC Community Standards, point 11](https://github.com/heliophysicsPy/standards/blob/main/standards.md)
+This deals with a project's support for Python versions and upstream Scientific Python packages per [PHEP 3](https://doi.org/10.5281/zenodo.17794207). See the [PyHC Community Standards, point 11](https://github.com/heliophysicsPy/standards/blob/main/standards.md).
 
 <table>
 <tr>
 <td><img src="https://img.shields.io/badge/Requires%20improvement-red.svg" alt="Requires improvement"></td>
-<td>Package is not compatible with Python 3, nor does it appear to be working towards that goal.</td>
+<td>Package does not support Python versions or upstream packages within the required timeframes, with no plan to update.</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Partially%20met-orange.svg" alt="Partially met"></td>
-<td>Project is working towards being compatible with Python 3.</td>
+<td>Package supports most required Python versions and upstream packages, but may be missing support for some recent releases or still depends on versions older than allowed.</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green"></td>
-<td>Project is compatible with Python 3.</td>
+<td>Package supports all Python versions released within the last 36 months, upstream packages released within the last 24 months, and adopts new versions within 6 months of release.</td>
 </tr>
 </table>
 

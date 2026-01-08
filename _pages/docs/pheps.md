@@ -29,3 +29,11 @@ PyHC Enhancement Proposals are developed via the <a href="https://github.com/hel
 </p>
 {% assign id = 2 %}
 {% include phep_table.html sorted_pheps=sorted_pheps table_id=id %}
+
+<br>
+
+<h3>Subpages</h3>
+<p>
+  These subpages provide additional content for accepted PHEPs.
+</p>
+ - [PHEP 3 Support Schedule](/docs/pheps/phep-3-support-schedule/)
