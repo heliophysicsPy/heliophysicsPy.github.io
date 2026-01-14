@@ -35,7 +35,9 @@ You may want to delay the removal of support of an older Python version until yo
 
 <br>
 
+<div class="schedule-table" markdown="1">
 {% include_relative phep-3/schedule.md %}
+</div>
 
 ---
 
