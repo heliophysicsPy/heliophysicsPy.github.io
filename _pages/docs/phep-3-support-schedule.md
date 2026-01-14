@@ -23,8 +23,6 @@ The upstream [core Scientific Python packages](https://scientific-python.org/spe
 
 ## Support Window Timeline
 
-The following Gantt chart shows the support window for Python versions and core Scientific Python packages:
-
 {% include mermaid_chart.html file="phep-3/chart.md" %}
 
 ## Drop and Adoption Schedule
@@ -48,16 +46,15 @@ You may want to delay the removal of support of an older Python version until yo
 - **Full PHEP 3 specification:** [PHEP 3 on GitHub](https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md)
 - **DOI:** [10.5281/zenodo.17794207](https://doi.org/10.5281/zenodo.17794207)
 - **Email reminders:** Automated email reminders are sent via the PyHC mailing list quarterly and near important drop/support dates
-- **Questions?** Contact the PyHC Tech Lead or discuss on the [PyHC mailing list](https://groups.google.com/g/pyhc)
+- **Questions?** [Contact](/contact) the PyHC Tech Lead or discuss on the [PyHC's mailing list or Slack](/contact)
 
 <br>
 
 ## For Package Maintainers
 
 PyHC packages should:
-- Clearly document their dependency version policy (see examples: [PlasmaPy](https://docs.plasmapy.org/en/stable/contributing/coding_guide.html#python-and-dependency-version-support), [SpacePy](https://spacepy.github.io/dep_versions.html))
+- Clearly document their dependency version policy (see examples: [PlasmaPy](https://docs.plasmapy.org/en/stable/contributing/coding_guide.html#dependencies-and-requirements), [SpacePy](https://spacepy.github.io/dep_versions.html))
 - Test against the minimum and maximum supported versions
-- Consider using semantic versioning to indicate versions that drop support for older dependencies
 - Avoid maximum or exact requirements (e.g., `numpy<2` or `matplotlib==3.5.3`) unless absolutely necessary
 - Not require versions of any dependency older than 24 months
 
