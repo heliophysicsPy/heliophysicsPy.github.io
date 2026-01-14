@@ -1,0 +1,48 @@
+name: Update PHEP 3 Schedule
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Every Monday at 8am UTC (1am Mountain Time)
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Install Dependencies
+      run: |
+        pip install requests pandas packaging
+
+    - name: Generate PHEP 3 Schedule
+      run: |
+        cd _pages/docs/phep-3
+        python generate_schedule.py
+
+    - name: Check for Changes
+      id: changes
+      run: |
+        if git diff --quiet _pages/docs/phep-3/chart.md _pages/docs/phep-3/schedule.md; then
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Commit and Push Changes
+      if: steps.changes.outputs.has_changes == 'true'
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add _pages/docs/phep-3/chart.md _pages/docs/phep-3/schedule.md
+        git commit -m "Update PHEP 3 support schedule [automated]"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
