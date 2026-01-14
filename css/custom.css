@@ -403,3 +403,34 @@ select.filter {
   padding-top: 10px;
   padding-bottom: 0px;
 }
+
+/* Markdown table styling for PHEP schedule tables */
+.schedule-table table {
+  border-collapse: collapse;
+  margin: 1em 0 2em 2em;
+  font-size: 0.95em;
+  border: none;
+}
+
+.schedule-table thead {
+  display: none;
+}
+
+.schedule-table th,
+.schedule-table td {
+  padding: 0.4em 2em 0.4em 0;
+  text-align: left;
+  vertical-align: top;
+  border: none;
+}
+
+.schedule-table h4 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.schedule-table h6 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  font-weight: 600;
+}
