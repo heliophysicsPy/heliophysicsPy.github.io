@@ -1,0 +1,199 @@
+#### 2025 - Quarter 3:
+
+###### Adopt support for:
+
+|         |                      |                                  |
+| ------- | -------------------- | -------------------------------- |
+| ipython | 8.32.0 to 9.0.0      | support by Aug 2025 and Sep 2025 |
+| scipy   | 1.15.0               | support by Jul 2025              |
+| xarray  | 2025.1.0 to 2025.3.0 | support by Jul 2025 and Sep 2025 |
+| zarr    | 3.0.0                | support by Jul 2025              |
+
+###### Can drop support for:
+
+|            |                      |                                |
+| ---------- | -------------------- | ------------------------------ |
+| ipython    | 8.15.0 to 8.16.0     | released Sep 2023 and Sep 2023 |
+| matplotlib | 3.8.0                | released Sep 2023              |
+| numpy      | 1.26.0               | released Sep 2023              |
+| pandas     | 2.1.0                | released Aug 2023              |
+| xarray     | 2023.7.0 to 2023.9.0 | released Jul 2023 and Sep 2023 |
+| zarr       | 2.16.0               | released Jul 2023              |
+
+#### 2025 - Quarter 4:
+
+###### Adopt support for:
+
+|              |                      |                                  |
+| ------------ | -------------------- | -------------------------------- |
+| ipython      | 8.35.0 to 9.4.0      | support by Oct 2025 and Dec 2025 |
+| networkx     | 3.5                  | support by Nov 2025              |
+| numpy        | 2.3.0                | support by Dec 2025              |
+| pandas       | 2.3.0                | support by Dec 2025              |
+| scikit-learn | 1.7.0                | support by Dec 2025              |
+| scipy        | 1.16.0               | support by Dec 2025              |
+| xarray       | 2025.4.0 to 2025.6.0 | support by Oct 2025 and Dec 2025 |
+
+###### Can drop support for:
+
+|              |                        |                                |
+| ------------ | ---------------------- | ------------------------------ |
+| ipython      | 8.17.0 to 8.19.0       | released Oct 2023 and Dec 2023 |
+| networkx     | 3.2                    | released Oct 2023              |
+| python       | 3.11                   | released Oct 2022              |
+| scikit-image | 0.22.0                 | released Oct 2023              |
+| xarray       | 2023.10.0 to 2023.12.0 | released Oct 2023 and Dec 2023 |
+
+#### 2026 - Quarter 1:
+
+###### Adopt support for:
+
+|         |                      |                                  |
+| ------- | -------------------- | -------------------------------- |
+| ipython | 9.5.0 to 9.6.0       | support by Feb 2026 and Mar 2026 |
+| xarray  | 2025.7.0 to 2025.9.0 | support by Jan 2026 and Mar 2026 |
+| zarr    | 3.1.0                | support by Jan 2026              |
+
+###### Can drop support for:
+
+|              |                      |                                |
+| ------------ | -------------------- | ------------------------------ |
+| ipython      | 8.20.0 to 8.23.0     | released Jan 2024 and Mar 2024 |
+| pandas       | 2.2.0                | released Jan 2024              |
+| scikit-learn | 1.4.0                | released Jan 2024              |
+| scipy        | 1.12.0               | released Jan 2024              |
+| xarray       | 2024.1.0 to 2024.3.0 | released Jan 2024 and Mar 2024 |
+| zarr         | 2.17.0               | released Feb 2024              |
+
+#### 2026 - Quarter 2:
+
+###### Adopt support for:
+
+|              |                        |                                  |
+| ------------ | ---------------------- | -------------------------------- |
+| ipython      | 9.7.0 to 9.8.0         | support by May 2026 and Jun 2026 |
+| networkx     | 3.6                    | support by May 2026              |
+| numpy        | 2.4.0                  | support by Jun 2026              |
+| python       | 3.14                   | support by Apr 2026              |
+| scikit-image | 0.26.0                 | support by Jun 2026              |
+| scikit-learn | 1.8.0                  | support by Jun 2026              |
+| xarray       | 2025.10.0 to 2025.12.0 | support by Apr 2026 and Jun 2026 |
+
+###### Can drop support for:
+
+|              |                      |                                |
+| ------------ | -------------------- | ------------------------------ |
+| ipython      | 8.24.0 to 8.26.0     | released Apr 2024 and Jun 2024 |
+| matplotlib   | 3.9.0                | released May 2024              |
+| networkx     | 3.3                  | released Apr 2024              |
+| numpy        | 2.0.0                | released Jun 2024              |
+| scikit-image | 0.23.0 to 0.24.0     | released Apr 2024 and Jun 2024 |
+| scikit-learn | 1.5.0                | released May 2024              |
+| scipy        | 1.13.0 to 1.14.0     | released Apr 2024 and Jun 2024 |
+| xarray       | 2024.5.0 to 2024.6.0 | released May 2024 and Jun 2024 |
+| zarr         | 2.18.0               | released May 2024              |
+
+#### 2026 - Quarter 3:
+
+###### Adopt support for:
+
+|         |                 |                                  |
+| ------- | --------------- | -------------------------------- |
+| ipython | 8.38.0 to 9.9.0 | support by Jul 2026 and Jul 2026 |
+| scipy   | 1.17.0          | support by Jul 2026              |
+
+###### Can drop support for:
+
+|         |                      |                                |
+| ------- | -------------------- | ------------------------------ |
+| ipython | 8.27.0               | released Aug 2024              |
+| numpy   | 2.1.0                | released Aug 2024              |
+| xarray  | 2024.7.0 to 2024.9.0 | released Jul 2024 and Sep 2024 |
+
+#### 2026 - Quarter 4:
+
+
+###### Can drop support for:
+
+|              |                        |                                |
+| ------------ | ---------------------- | ------------------------------ |
+| ipython      | 8.28.0 to 8.31.0       | released Oct 2024 and Dec 2024 |
+| matplotlib   | 3.10.0                 | released Dec 2024              |
+| networkx     | 3.4                    | released Oct 2024              |
+| numpy        | 2.2.0                  | released Dec 2024              |
+| python       | 3.12                   | released Oct 2023              |
+| scikit-image | 0.25.0                 | released Dec 2024              |
+| scikit-learn | 1.6.0                  | released Dec 2024              |
+| xarray       | 2024.10.0 to 2024.11.0 | released Oct 2024 and Nov 2024 |
+
+#### 2027 - Quarter 1:
+
+
+###### Can drop support for:
+
+|         |                      |                                |
+| ------- | -------------------- | ------------------------------ |
+| ipython | 8.32.0 to 9.0.0      | released Jan 2025 and Mar 2025 |
+| scipy   | 1.15.0               | released Jan 2025              |
+| xarray  | 2025.1.0 to 2025.3.0 | released Jan 2025 and Mar 2025 |
+| zarr    | 3.0.0                | released Jan 2025              |
+
+#### 2027 - Quarter 2:
+
+
+###### Can drop support for:
+
+|              |                      |                                |
+| ------------ | -------------------- | ------------------------------ |
+| ipython      | 8.35.0 to 9.3.0      | released Apr 2025 and May 2025 |
+| networkx     | 3.5                  | released May 2025              |
+| numpy        | 2.3.0                | released Jun 2025              |
+| pandas       | 2.3.0                | released Jun 2025              |
+| scikit-learn | 1.7.0                | released Jun 2025              |
+| scipy        | 1.16.0               | released Jun 2025              |
+| xarray       | 2025.4.0 to 2025.6.0 | released Apr 2025 and Jun 2025 |
+
+#### 2027 - Quarter 3:
+
+
+###### Can drop support for:
+
+|         |                      |                                |
+| ------- | -------------------- | ------------------------------ |
+| ipython | 9.4.0 to 9.6.0       | released Jul 2025 and Sep 2025 |
+| xarray  | 2025.7.0 to 2025.9.0 | released Jul 2025 and Sep 2025 |
+| zarr    | 3.1.0                | released Jul 2025              |
+
+#### 2027 - Quarter 4:
+
+
+###### Can drop support for:
+
+|              |                        |                                |
+| ------------ | ---------------------- | ------------------------------ |
+| ipython      | 9.7.0 to 9.8.0         | released Nov 2025 and Dec 2025 |
+| networkx     | 3.6                    | released Nov 2025              |
+| numpy        | 2.4.0                  | released Dec 2025              |
+| python       | 3.13                   | released Oct 2024              |
+| scikit-image | 0.26.0                 | released Dec 2025              |
+| scikit-learn | 1.8.0                  | released Dec 2025              |
+| xarray       | 2025.10.0 to 2025.12.0 | released Oct 2025 and Dec 2025 |
+
+#### 2028 - Quarter 1:
+
+
+###### Can drop support for:
+
+|         |                 |                                |
+| ------- | --------------- | ------------------------------ |
+| ipython | 8.38.0 to 9.9.0 | released Jan 2026 and Jan 2026 |
+| scipy   | 1.17.0          | released Jan 2026              |
+
+#### 2028 - Quarter 4:
+
+
+###### Can drop support for:
+
+|        |      |                   |
+| ------ | ---- | ----------------- |
+| python | 3.14 | released Oct 2025 |

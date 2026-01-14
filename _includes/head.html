@@ -50,11 +50,27 @@
 {% endif %}
 <!-- end of Twitter cards -->
 
+<!-- Mermaid.js for diagrams and charts -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'default'
+  });
+</script>
+
 <!-- Dark Mode Script -->
 <script>
   // Function to set theme based on system preference
   function setTheme(isDark) {
     document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
+    // Update Mermaid theme when system preference changes
+    if (typeof mermaid !== 'undefined') {
+      mermaid.initialize({
+        startOnLoad: true,
+        theme: isDark ? 'dark' : 'default'
+      });
+    }
   }
 
   // Initialize when DOM is ready
@@ -62,7 +78,7 @@
     // Initial theme setup based on system preference
     const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
     setTheme(prefersDarkScheme.matches);
-    
+
     // Listen for system dark mode preference changes
     if (prefersDarkScheme.addEventListener) {
       prefersDarkScheme.addEventListener('change', function(e) {
@@ -75,7 +91,7 @@
       });
     }
   });
-  
+
   // Apply theme immediately to reduce flash of incorrect theme
   (function() {
     const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');

@@ -1,0 +1,8 @@
+{% comment %}
+Include a Mermaid chart from a file.
+Usage: {% include mermaid_chart.html file="path/to/chart.md" %}
+{% endcomment %}
+{% capture chart_content %}{% include_relative {{ include.file }} %}{% endcapture %}
+<div class="mermaid">
+{{ chart_content | strip }}
+</div>
