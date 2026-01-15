@@ -5,6 +5,11 @@ on:
     # Quarterly: 1st of Jan, Apr, Jul, Oct at 3pm UTC (8am Mountain Time)
     - cron: '0 15 1 1,4,7,10 *'
   workflow_dispatch:  # Allow manual trigger for testing
+    inputs:
+      test_recipient:
+        description: 'Test email recipient (leave empty to send to mailing list)'
+        required: false
+        default: ''
 
 jobs:
   send-reminder:
@@ -33,7 +38,7 @@ jobs:
         cat _pages/docs/phep-3/email_body.txt >> $GITHUB_OUTPUT
         echo "EOF" >> $GITHUB_OUTPUT
 
-    - name: Send Email to PyHC Mailing List
+    - name: Send Email
       uses: dawidd6/action-send-mail@v3
       with:
         server_address: smtp.gmail.com
@@ -42,6 +47,6 @@ jobs:
         password: ${{ secrets.PYHC_EMAIL_APP_PASSWORD }}
         subject: ${{ steps.email.outputs.subject }}
         body: ${{ steps.email.outputs.body }}
-        to: pyhc-list@googlegroups.com
+        to: ${{ inputs.test_recipient || 'pyhc-list@googlegroups.com' }}
         from: PyHC <${{ secrets.PYHC_EMAIL_ADDRESS }}>
         content_type: text/plain
