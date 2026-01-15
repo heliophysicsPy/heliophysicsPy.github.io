@@ -1,4 +1,4 @@
-name: Update PHEP 3 Schedule
+name: Update PHEP 3 Schedule Weekly
 
 on:
   schedule:
