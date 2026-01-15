@@ -5,7 +5,7 @@ permalink: /docs/pheps/phep-3-support-schedule/
 exclude: true
 ---
 
-This page provides a visual timeline and schedule for [PHEP 3](https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md), PyHC's Python and Upstream Package Support Policy.
+This page provides a visual timeline and schedule for [PHEP 3](https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md), PyHC's Python and Upstream Package Support Policy (based on [SPEC 0](https://scientific-python.org/specs/spec-0000/)).
 
 <br>
 
