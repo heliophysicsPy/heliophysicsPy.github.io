@@ -75,13 +75,13 @@ def format_email(year, quarter, adopt_items, drop_items):
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
 <p>Hello PyHC Community,</p>
 
-<p>This is a quarterly reminder about the PHEP 3 Python &amp; Upstream Package Support Policy.</p>
+<p>This is your quarterly reminder about which Python and dependency versions PyHC packages should support, per PHEP 3.</p>
 """
 
     if adopt_items:
         body += f"""
-<h3 style="color: #2e7d32;">Adopt Support For (by end of {q_name} {year})</h3>
-<p>The following package versions should be supported by PyHC packages:</p>
+<h3 style="color: #1565c0;">Adopt Support For (by end of {q_name} {year})</h3>
+<p>The following should be supported by PyHC packages:</p>
 <ul>
 """
         for package, version, info in adopt_items:
@@ -90,7 +90,7 @@ def format_email(year, quarter, adopt_items, drop_items):
 
     if drop_items:
         body += f"""
-<h3 style="color: #c62828;">Can Drop Support For (as of {q_name} {year})</h3>
+<h3 style="color: #e65100;">Can Drop Support For (as of {q_name} {year})</h3>
 <p>PyHC packages may now drop support for:</p>
 <ul>
 """
@@ -117,7 +117,7 @@ def format_email(year, quarter, adopt_items, drop_items):
 <p>Questions? Reply to this email or discuss on PyHC's Slack.</p>
 
 <p>Best regards,<br>
-<strong>PyHC Tech Lead</strong></p>
+PyHC Tech Lead</p>
 </body>
 </html>
 """
