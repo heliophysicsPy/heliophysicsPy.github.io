@@ -1,0 +1,52 @@
+name: PHEP 3 Quarterly Email Reminder
+
+on:
+  schedule:
+    # Quarterly: 1st of Jan, Apr, Jul, Oct at 3pm UTC (8am Mountain Time)
+    - cron: '0 15 1 1,4,7,10 *'
+  workflow_dispatch:  # Allow manual trigger for testing
+    inputs:
+      test_recipient:
+        description: 'Test email recipient (leave empty to send to mailing list)'
+        required: false
+        default: ''
+
+jobs:
+  send-reminder:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Generate Email Content
+      run: |
+        cd _pages/docs/phep-3
+        python generate_email.py
+
+    - name: Read Email Content
+      id: email
+      run: |
+        echo "subject=$(cat _pages/docs/phep-3/email_subject.txt)" >> $GITHUB_OUTPUT
+        # For multiline body, use delimiter
+        echo "body<<EOF" >> $GITHUB_OUTPUT
+        cat _pages/docs/phep-3/email_body.txt >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+
+    - name: Send Email
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.PYHC_EMAIL_ADDRESS }}
+        password: ${{ secrets.PYHC_EMAIL_APP_PASSWORD }}
+        subject: ${{ steps.email.outputs.subject }}
+        body: ${{ steps.email.outputs.body }}
+        to: ${{ inputs.test_recipient || 'pyhc-list@googlegroups.com' }}
+        from: PyHC <${{ secrets.PYHC_EMAIL_ADDRESS }}>
+        content_type: text/plain
