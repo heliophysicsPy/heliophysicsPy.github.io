@@ -10,4 +10,4 @@ Gemfile.lock
 
 # PHEP 3 email reminder temp files
 _pages/docs/phep-3/email_subject.txt
-_pages/docs/phep-3/email_body.txt
+_pages/docs/phep-3/email_body.html

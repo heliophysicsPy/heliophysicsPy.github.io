@@ -144,9 +144,9 @@ def main():
         else:
             print("No future quarters found in schedule. Using empty content.")
             subject = f"PHEP 3 Reminder: Q{quarter} {year} Support Schedule"
-            body = "No schedule data available for this quarter. Please check the PHEP 3 support schedule page."
+            body = "<html><body><p>No schedule data available for this quarter.</p></body></html>"
             Path(script_dir / "email_subject.txt").write_text(subject)
-            Path(script_dir / "email_body.txt").write_text(body)
+            Path(script_dir / "email_body.html").write_text(body)
             return
 
     quarter_content = quarters[(year, quarter)]
@@ -158,10 +158,10 @@ def main():
 
     # Write outputs for the GitHub Action to use
     Path(script_dir / "email_subject.txt").write_text(subject)
-    Path(script_dir / "email_body.txt").write_text(body)
+    Path(script_dir / "email_body.html").write_text(body)
 
     print(f"\nSubject: {subject}")
-    print(f"\nBody preview:\n{body[:500]}...")
+    print(f"\nHTML body written to email_body.html")
 
 
 if __name__ == "__main__":
