@@ -65,47 +65,61 @@ def extract_quarter_data(quarter_content):
 
 
 def format_email(year, quarter, adopt_items, drop_items):
-    """Generate email subject and body."""
+    """Generate email subject and HTML body."""
     quarter_names = {1: "Q1", 2: "Q2", 3: "Q3", 4: "Q4"}
     q_name = quarter_names[quarter]
 
     subject = f"PHEP 3 Reminder: {q_name} {year} Support Schedule"
 
-    body = f"""Hello PyHC Community,
+    body = f"""<html>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+<p>Hello PyHC Community,</p>
 
-This is a quarterly reminder about the PHEP 3 Python & Upstream Package Support Policy.
-
+<p>This is a quarterly reminder about the PHEP 3 Python &amp; Upstream Package Support Policy.</p>
 """
 
     if adopt_items:
-        body += f"## Adopt Support For (by end of {q_name} {year})\n\n"
-        body += "The following package versions should be supported by PyHC packages:\n\n"
+        body += f"""
+<h3 style="color: #2e7d32;">Adopt Support For (by end of {q_name} {year})</h3>
+<p>The following package versions should be supported by PyHC packages:</p>
+<ul>
+"""
         for package, version, info in adopt_items:
-            body += f"- **{package}** {version} ({info})\n"
-        body += "\n"
+            body += f"<li><strong>{package}</strong> {version} <em>({info})</em></li>\n"
+        body += "</ul>\n"
 
     if drop_items:
-        body += f"## Can Drop Support For (as of {q_name} {year})\n\n"
-        body += "PyHC packages may now drop support for:\n\n"
+        body += f"""
+<h3 style="color: #c62828;">Can Drop Support For (as of {q_name} {year})</h3>
+<p>PyHC packages may now drop support for:</p>
+<ul>
+"""
         for package, version, info in drop_items:
-            body += f"- **{package}** {version} ({info})\n"
-        body += "\n"
+            body += f"<li><strong>{package}</strong> {version} <em>({info})</em></li>\n"
+        body += "</ul>\n"
 
     if not adopt_items and not drop_items:
-        body += "No changes to the support schedule this quarter.\n\n"
+        body += "<p>No changes to the support schedule this quarter.</p>\n"
 
-    body += """---
+    body += """
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
 
-For the full support schedule and Gantt chart, visit:
-https://heliopython.org/docs/pheps/phep-3-support-schedule/
+<p>
+<strong>Full support schedule and timeline:</strong><br>
+<a href="https://heliopython.org/docs/pheps/phep-3-support-schedule/">https://heliopython.org/docs/pheps/phep-3-support-schedule/</a>
+</p>
 
-For the complete PHEP 3 specification:
-https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md
+<p>
+<strong>Complete PHEP 3 specification:</strong><br>
+<a href="https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md">https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md</a>
+</p>
 
-Questions? Reply to this email or discuss on PyHC Slack.
+<p>Questions? Reply to this email or discuss on PyHC's Slack.</p>
 
-Best regards,
-PyHC Tech Lead
+<p>Best regards,<br>
+<strong>PyHC Tech Lead</strong></p>
+</body>
+</html>
 """
 
     return subject, body

@@ -49,4 +49,4 @@ jobs:
         body: ${{ steps.email.outputs.body }}
         to: ${{ inputs.test_recipient || 'pyhc-list@googlegroups.com' }}
         from: PyHC <${{ secrets.PYHC_EMAIL_ADDRESS }}>
-        content_type: text/plain
+        content_type: text/html
