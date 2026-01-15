@@ -7,3 +7,7 @@ Gemfile.lock
 *.DS_Store
 .history/
 *CLAUDE.md
+
+# PHEP 3 email reminder temp files
+_pages/docs/phep-3/email_subject.txt
+_pages/docs/phep-3/email_body.txt
