@@ -104,15 +104,7 @@ def format_email(year, quarter, adopt_items, drop_items):
     body += """
 <hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
 
-<p>
-<strong>Full support schedule and timeline:</strong><br>
-<a href="https://heliopython.org/docs/pheps/phep-3-support-schedule/">https://heliopython.org/docs/pheps/phep-3-support-schedule/</a>
-</p>
-
-<p>
-<strong>Complete PHEP 3 specification:</strong><br>
-<a href="https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md">https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md</a>
-</p>
+<p>For more details, view the <a href="https://pyhc.org/docs/pheps/phep-3-support-schedule">full support schedule and timeline</a> or read the <a href="https://github.com/heliophysicsPy/standards/blob/main/pheps/phep-0003.md">complete PHEP 3 specification</a>.</p>
 
 <p>Questions? Reply to this email or discuss on PyHC's Slack.</p>
 
