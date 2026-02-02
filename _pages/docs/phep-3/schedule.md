@@ -102,6 +102,7 @@
 | ipython | 8.38.0 to 9.9.0 | support by Jul 2026 and Jul 2026 |
 | pandas  | 3.0.0           | support by Jul 2026              |
 | scipy   | 1.17.0          | support by Jul 2026              |
+| xarray  | 2026.1.0        | support by Jul 2026              |
 
 ###### Can drop support for:
 
@@ -190,6 +191,7 @@
 | ipython | 8.38.0 to 9.9.0 | released Jan 2026 and Jan 2026 |
 | pandas  | 3.0.0           | released Jan 2026              |
 | scipy   | 1.17.0          | released Jan 2026              |
+| xarray  | 2026.1.0        | released Jan 2026              |
 
 #### 2028 - Quarter 4:
 
