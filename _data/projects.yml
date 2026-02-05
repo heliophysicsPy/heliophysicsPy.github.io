@@ -286,7 +286,7 @@
   docs: "https://github.com/rweigel/hxform"
   code: "https://github.com/rweigel/hxform"
   contact: "Bob Weigel"
-  keywords: ["transform", "coordinates", "wrapper", "geopack"]
+  keywords: ["heliosphere", "coordinates"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
