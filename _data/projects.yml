@@ -281,6 +281,19 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "hxform"
+  description: "Heliophysics reference frame ('coordinate') transforms in Python using various libraries, Python packages, and web services using a common interface."
+  docs: "https://github.com/rweigel/hxform"
+  code: "https://github.com/rweigel/hxform"
+  contact: "Bob Weigel"
+  keywords: ["transform", "coordinates", "wrapper", "geopack"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: "irispy-lmsal"
   description: "A Python package that provides the tools to read in and analyze data from the IRIS solar-observing satellite."
   docs: "https://irispy-lmsal.readthedocs.io"
