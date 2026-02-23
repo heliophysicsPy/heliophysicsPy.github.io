@@ -137,7 +137,7 @@ See the [PyHC Community Standards, points 1, 3, 4, 6, 7, 10, and 14](https://git
 
 ### PHEP 3 (Python & Upstream Package Support)
 
-This deals with a project's support for Python versions and upstream Scientific Python packages per [PHEP 3](https://doi.org/10.5281/zenodo.17794207). See the [PyHC Community Standards, point 11](https://github.com/heliophysicsPy/standards/blob/main/standards.md).
+This deals with a project's support for Python versions and upstream Scientific Python packages per [PHEP 3](https://doi.org/10.5281/zenodo.17794207). See the [PyHC Community Standards, point 11](https://github.com/heliophysicsPy/standards/blob/main/standards.md). To make compliance easy to check, PyHC provides a [PHEP 3 Compliance Checker GitHub Action](https://github.com/heliophysicsPy/pyhc-actions).
 
 <table>
 <tr>
