@@ -285,7 +285,7 @@
   description: "A Python package that provides the tools to read in and analyze data from the IRIS solar-observing satellite."
   docs: "https://irispy-lmsal.readthedocs.io"
   code: "https://github.com/LM-SAL/irispy-lmsal"
-  contact: "Nabil Freij"
+  contact: "SunPy Steering Committee"
   keywords: ["solar", "specific", "data_analysis", "spectra", "fits", "time", "coordinates","plotting", "multidimensional"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -422,7 +422,7 @@
   description: "A Python wrapper for Fourier Local Correlation Tracking"
   docs: "https://pyflct.readthedocs.io"
   code: "https://github.com/sunpy/pyflct"
-  contact: "Nabil Freij"
+  contact: "SunPy Steering Committee"
   keywords: ["solar", "wrapper", "specific", "data_analysis"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -660,7 +660,7 @@
   description: "A image processing toolbox for Solar Physics"
   docs: "https://docs.sunpy.org/projects/sunkit-image"
   code: "https://github.com/sunpy/sunkit-image"
-  contact: "Nabil Freij"
+  contact: "SunPy Steering Committee"
   keywords: ["solar", "general", "data_analysis"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -673,7 +673,7 @@
   description: "A SunPy-affiliated package for solar instrument-specific tools."
   docs: "https://docs.sunpy.org/projects/sunkit-instruments"
   code: "https://github.com/sunpy/sunkit-instruments"
-  contact: "Nabil Freij"
+  contact: "SunPy Steering Committee"
   keywords: ["solar", "specific", "instrumentation"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -686,7 +686,7 @@
   description: "A SunPy-affiliated package which provides tools to analyze data from spectral data from any solar mission."
   docs: "https://docs.sunpy.org/projects/sunraster"
   code: "https://github.com/sunpy/sunraster"
-  contact: "Nabil Freij"
+  contact: "SunPy Steering Committee"
   keywords: ["solar", "data_container", "spectra", "plotting", "general", "fits"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
