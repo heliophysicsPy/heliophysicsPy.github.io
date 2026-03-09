@@ -99,7 +99,7 @@
 
 |         |                      |                                  |
 | ------- | -------------------- | -------------------------------- |
-| ipython | 8.38.0 to 9.10.0     | support by Jul 2026 and Aug 2026 |
+| ipython | 8.38.0 to 9.11.0     | support by Jul 2026 and Sep 2026 |
 | pandas  | 3.0.0                | support by Jul 2026              |
 | scipy   | 1.17.0               | support by Jul 2026              |
 | xarray  | 2026.1.0 to 2026.2.0 | support by Jul 2026 and Aug 2026 |
@@ -188,7 +188,7 @@
 
 |         |                      |                                |
 | ------- | -------------------- | ------------------------------ |
-| ipython | 8.38.0 to 9.10.0     | released Jan 2026 and Feb 2026 |
+| ipython | 8.38.0 to 9.11.0     | released Jan 2026 and Mar 2026 |
 | pandas  | 3.0.0                | released Jan 2026              |
 | scipy   | 1.17.0               | released Jan 2026              |
 | xarray  | 2026.1.0 to 2026.2.0 | released Jan 2026 and Feb 2026 |
