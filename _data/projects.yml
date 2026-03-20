@@ -466,7 +466,7 @@
   logo: "https://raw.githubusercontent.com/aburrell/pyIntensityFeatures/refs/heads/main/docs/figures/pyIntensityFeatures_logo.png"
   docs: "https://pyintensityfeatures.readthedocs.io/en/latest/?badge=latest"
   code: "https://github.com/aburrell/pyIntensityFeatures"
-  keywords: ["aurora", "boundaries", "features", "ionosphere", "heliophysics", "magnetosphere", "intensity", "imager", "specific", "data_analysis", "ionosphere_thermosphere_mesosphere"]
+  keywords: ["magnetosphere", "specific", "data_analysis", "ionosphere_thermosphere_mesosphere"]
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
