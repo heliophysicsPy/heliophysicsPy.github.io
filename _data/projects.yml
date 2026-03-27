@@ -459,6 +459,23 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "pyIntensityFeatures"
+  url: "https://github.com/aburrell/pyIntensityFeatures"
+  contact: "Angeline G. Burrell"
+  description: "A tool to identify features, such as auroral luminosity boundaries, in imager data."
+  logo: "https://raw.githubusercontent.com/aburrell/pyIntensityFeatures/refs/heads/main/docs/figures/pyIntensityFeatures_logo.png"
+  docs: "https://pyintensityfeatures.readthedocs.io/en/latest/?badge=latest"
+  code: "https://github.com/aburrell/pyIntensityFeatures"
+  keywords: ["magnetosphere", "specific", "data_analysis", "ionosphere_thermosphere_mesosphere"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  PHEP3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  
+
 - name: PyRFU
   code: https://github.com/louis-richard/irfu-python
   description: "PyRFU is a free and open-source Python package for advanced analysis of in-situ space plasma data."
