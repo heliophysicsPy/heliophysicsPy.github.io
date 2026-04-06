@@ -1,25 +1,3 @@
-#### 2025 - Quarter 3:
-
-###### Adopt support for:
-
-|         |                      |                                  |
-| ------- | -------------------- | -------------------------------- |
-| ipython | 8.32.0 to 9.0.0      | support by Aug 2025 and Sep 2025 |
-| scipy   | 1.15.0               | support by Jul 2025              |
-| xarray  | 2025.1.0 to 2025.3.0 | support by Jul 2025 and Sep 2025 |
-| zarr    | 3.0.0                | support by Jul 2025              |
-
-###### Can drop support for:
-
-|            |                      |                                |
-| ---------- | -------------------- | ------------------------------ |
-| ipython    | 8.15.0 to 8.16.0     | released Sep 2023 and Sep 2023 |
-| matplotlib | 3.8.0                | released Sep 2023              |
-| numpy      | 1.26.0               | released Sep 2023              |
-| pandas     | 2.1.0                | released Aug 2023              |
-| xarray     | 2023.7.0 to 2023.9.0 | released Jul 2023 and Sep 2023 |
-| zarr       | 2.16.0               | released Jul 2023              |
-
 #### 2025 - Quarter 4:
 
 ###### Adopt support for:
