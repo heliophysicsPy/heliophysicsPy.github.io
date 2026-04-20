@@ -92,6 +92,11 @@
 
 #### 2026 - Quarter 4:
 
+###### Adopt support for:
+
+|        |          |                     |
+| ------ | -------- | ------------------- |
+| xarray | 2026.4.0 | support by Oct 2026 |
 
 ###### Can drop support for:
 
@@ -170,6 +175,15 @@
 | pandas  | 3.0.0                | released Jan 2026              |
 | scipy   | 1.17.0               | released Jan 2026              |
 | xarray  | 2026.1.0 to 2026.2.0 | released Jan 2026 and Feb 2026 |
+
+#### 2028 - Quarter 2:
+
+
+###### Can drop support for:
+
+|        |          |                   |
+| ------ | -------- | ----------------- |
+| xarray | 2026.4.0 | released Apr 2026 |
 
 #### 2028 - Quarter 4:
 
