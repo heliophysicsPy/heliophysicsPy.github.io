@@ -94,9 +94,10 @@
 
 ###### Adopt support for:
 
-|        |          |                     |
-| ------ | -------- | ------------------- |
-| xarray | 2026.4.0 | support by Oct 2026 |
+|         |          |                     |
+| ------- | -------- | ------------------- |
+| ipython | 9.13.0   | support by Oct 2026 |
+| xarray  | 2026.4.0 | support by Oct 2026 |
 
 ###### Can drop support for:
 
@@ -181,9 +182,10 @@
 
 ###### Can drop support for:
 
-|        |          |                   |
-| ------ | -------- | ----------------- |
-| xarray | 2026.4.0 | released Apr 2026 |
+|         |          |                   |
+| ------- | -------- | ----------------- |
+| ipython | 9.13.0   | released Apr 2026 |
+| xarray  | 2026.4.0 | released Apr 2026 |
 
 #### 2028 - Quarter 4:
 
