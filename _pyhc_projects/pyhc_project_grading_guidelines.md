@@ -10,8 +10,8 @@ with respect to how well their project stacks up to each of the review standards
 If a project's grade for a standard falls below the "Good" classification, the reviewer should provide some remarks about
 why that is, and what the project's plan is for improvement.
 
-At present, no projects will be rejected from the PyHC Project list. However, at the PyHC Spring 2020 meeting we will
-set a date by which projects will be kicked off if they have any "Requires improvement" grades.
+At present, no projects will be rejected from the PyHC Project list. However, we will eventually set a date by which
+projects will be kicked off if they have any "Requires improvement" grades.
 We will also set up a timeline for which projects are 1) informed they are in danger of being kicked off and 2) given
 time to fix the problematic categories.
 
@@ -20,7 +20,7 @@ A more detailed description of a review's grading colors is shown below.
 <table>
 <tr>
 <td><img src="https://img.shields.io/badge/Requires%20improvement-red.svg" alt="Requires improvement"></td>
-<td>At present, we won't reject any projects that have a standard with this grade, however, projects are strongly encouraged to improve. Note that this is going to change in the latter part of 2020.</td>
+<td>At present, we won't reject any projects that have a standard with this grade, however, projects are strongly encouraged to improve. Note that this is going to change in the future.</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Partially%20met-orange.svg" alt="Partially met"></td>
