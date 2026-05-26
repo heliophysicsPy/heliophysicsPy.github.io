@@ -80,8 +80,11 @@ on your forked repository's GitHub page. This will create a request to merge tho
 website repository. In this PR, write a short blurb about your project, including the name, a general description of the 
 project, and what grades were assigned for the PyHC standards. If any of the standards fall below the "Good" classification,
 make sure to provide some remarks about why that is, and what the project's plan is for improvement. As stated in the
-reviewing guidelines, at present, no projects will be rejected from the PyHC Project list. However, at the 
-PyHC Spring 2020 meeting we will set a date by which projects will be kicked off if they have any "Requires improvement" grades. 
+reviewing guidelines, at present, no projects will be rejected from the PyHC Project list. However, we will 
+eventually set a date by which projects will be kicked off if they have any "Requires improvement" grades. 
 Feel free to also post about your project and the PR in the [Element chat group](https://app.element.io/#/room/#heliopython:openastronomy.org). 
-Within a week or so, a PyHC developer will review your PR request and approve it (for now, unconditionally, but after the 
-PyHC Spring 2020 meeting approval is subject to the standards grades).
+Within a week or so, the PyHC Tech Lead will review your PR. As part of this review, the Tech Lead generates a 
+standards report using the [PyHC Standards Evaluator](https://github.com/heliophysicsPy/pyhc-standards-evaluator)—an 
+AI tool that evaluates a package against PyHC's standards—and compares it against your self-evaluation. If the report 
+agrees with your grades, the PR can be merged at the Tech Lead's discretion. If it disagrees, the Tech Lead will 
+discuss the differences with you in the PR until a final set of grades is agreed upon (the Tech Lead has final say).
