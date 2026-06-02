@@ -42,3 +42,18 @@
   Status: Final
   Title: PyHC Python & Upstream Package Support Policy
   Type: Standards Track
+- Author: Julie Barnum <julie.barnum@lasp.colorado.edu> <https://orcid.org/0000-0001-8755-0694>
+  Content-Type: text/markdown; charset="UTF-8"; variant="myst"
+  Created: 26-Jun-2025
+  DOI: 10.5281/zenodo.20514560
+  Discussions-To: https://github.com/heliophysicsPy/standards/pull/31
+  Filename: phep-0004.md
+  PHEP: 4
+  Post-History: 09-Jul-2024, 26-Aug-2024, 27-Aug-2024, 04-Sep-2024, 11-Sep-2024, 13-Sep-2024,
+    25-Apr-2025, 05-Jun-2025, 26-Jun-2025, 18-Oct-2025, 19-Oct-2025, 19-Nov-2025,
+    20-Nov-2025, 20-May-2026, 02-Jun-2026
+  Resolution: https://doi.org/10.5281/zenodo.20433569, https://github.com/heliophysicsPy/standards/pull/31
+  Revision: 1
+  Status: Final
+  Title: PyHC Package Tiering
+  Type: Process
