@@ -13,12 +13,12 @@ _pages/meetings/community_meetings/spring2026.md %}), May 19-21 (remote).
 [2025 Fall Python in Heliophysics Community Meeting]({% link
 _pages/meetings/community_meetings/fall2025.md %}), November 18-20 (remote).
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/folders/1d9uVOvBULGK0pdWkk3RcF6iZHB-ZqlzP?usp=sharing)
-* Meeting Report (to come after meeting wraps)
+* [Meeting Report](https://doi.org/10.5281/zenodo.20433569)
 
 [2025 Spring Python in Heliophysics Community Meeting]({% link
 _pages/meetings/community_meetings/spring2025.md %}), June 2-5 (remote).
 * [Agenda, Presentations, Organization Spreadsheets, and Documents](https://drive.google.com/drive/folders/1r4ADxnJyLYvkMvfz0Xg1TAUrVKwB0U9W?usp=sharing)
-* Meeting Report (to come after meeting wraps)
+* [Meeting Report](https://doi.org/10.5281/zenodo.20418815)
 
 [2024 Fall Python in Heliophysics Community Meeting]({% link
 _pages/meetings/community_meetings/fall2024.md %}), November 11–13 (hybrid in-person/remote).

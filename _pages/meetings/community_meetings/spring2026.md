@@ -22,9 +22,9 @@ Materials associated with the meeting sessions will be kept in the [**meeting fo
 
 #### Meeting Recordings
 
- - Day 1 Recording
- - Day 2 Recording
- - Day 3 Recording
+ - [Day 1 Recording](https://youtu.be/kc-EBujjY5U?si=63bfsHCZ12ixfpiI)
+ - [Day 2 Recording](https://youtu.be/NlX_gAOS7-0?si=DjcCzsOCIgj4lJmw)
+ - [Day 3 Recording](https://youtu.be/79AdIE929cY?si=t6MLS7JHtgUWwY8L)
 <br><br><br>
 
 ### Zoom Meeting Information
