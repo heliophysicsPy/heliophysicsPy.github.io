@@ -23,7 +23,7 @@ exclude: true
         * Date/Time: Thursday, 12 December 2024 (12:30 PM - 1:30 PM ET)
 
 * PyHC-specific posters and talks (not in the PyHC poster session)
-/    * [_The Python in Heliophysics Community: a “north star” for open-source software communities (Julie Barnum)_](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1524747)
+    * [_The Python in Heliophysics Community: a “north star” for open-source software communities (Julie Barnum)_](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1524747)
     * [_Leaning into Open Science with the Python in Heliophysics Community Summer School Series (Julie Barnum)_](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1532801)
     * [_PyHC-Chat: A Chatbot for the Python in Heliophysics Community (Shawn Polson)_](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1529613)
 -->
