@@ -96,7 +96,7 @@
 
 |              |                  |                                  |
 | ------------ | ---------------- | -------------------------------- |
-| ipython      | 9.13.0 to 9.14.0 | support by Oct 2026 and Nov 2026 |
+| ipython      | 9.13.0 to 9.15.0 | support by Oct 2026 and Dec 2026 |
 | matplotlib   | 3.11.0           | support by Dec 2026              |
 | numpy        | 2.5.0            | support by Dec 2026              |
 | scikit-learn | 1.9.0            | support by Dec 2026              |
@@ -189,7 +189,7 @@
 
 |              |                  |                                |
 | ------------ | ---------------- | ------------------------------ |
-| ipython      | 9.13.0 to 9.14.0 | released Apr 2026 and May 2026 |
+| ipython      | 9.13.0 to 9.15.0 | released Apr 2026 and Jun 2026 |
 | matplotlib   | 3.11.0           | released Jun 2026              |
 | numpy        | 2.5.0            | released Jun 2026              |
 | scikit-learn | 1.9.0            | released Jun 2026              |
