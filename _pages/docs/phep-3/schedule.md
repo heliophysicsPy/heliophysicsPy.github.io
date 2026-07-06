@@ -1,27 +1,3 @@
-#### 2025 - Quarter 4:
-
-###### Adopt support for:
-
-|              |                      |                                  |
-| ------------ | -------------------- | -------------------------------- |
-| ipython      | 8.35.0 to 9.4.0      | support by Oct 2025 and Dec 2025 |
-| networkx     | 3.5                  | support by Nov 2025              |
-| numpy        | 2.3.0                | support by Dec 2025              |
-| pandas       | 2.3.0                | support by Dec 2025              |
-| scikit-learn | 1.7.0                | support by Dec 2025              |
-| scipy        | 1.16.0               | support by Dec 2025              |
-| xarray       | 2025.4.0 to 2025.6.0 | support by Oct 2025 and Dec 2025 |
-
-###### Can drop support for:
-
-|              |                        |                                |
-| ------------ | ---------------------- | ------------------------------ |
-| ipython      | 8.17.0 to 8.19.0       | released Oct 2023 and Dec 2023 |
-| networkx     | 3.2                    | released Oct 2023              |
-| python       | 3.11                   | released Oct 2022              |
-| scikit-image | 0.22.0                 | released Oct 2023              |
-| xarray       | 2023.10.0 to 2023.12.0 | released Oct 2023 and Dec 2023 |
-
 #### 2026 - Quarter 1:
 
 ###### Adopt support for:
