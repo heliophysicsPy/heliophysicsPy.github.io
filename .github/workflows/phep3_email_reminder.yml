@@ -13,6 +13,8 @@ on:
 
 jobs:
   send-reminder:
+    # Production email must never be sent from contributor forks.
+    if: github.repository == 'heliophysicsPy/heliophysicsPy.github.io'
     runs-on: ubuntu-latest
 
     steps:

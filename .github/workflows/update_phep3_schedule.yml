@@ -7,6 +7,8 @@ on:
 
 jobs:
   update-schedule:
+    # Generated schedule commits must only be created in the canonical repository.
+    if: github.repository == 'heliophysicsPy/heliophysicsPy.github.io'
     runs-on: ubuntu-latest
 
     steps:
