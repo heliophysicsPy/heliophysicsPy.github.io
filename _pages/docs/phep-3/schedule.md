@@ -95,6 +95,11 @@
 
 #### 2027 - Quarter 1:
 
+###### Adopt support for:
+
+|        |          |                     |
+| ------ | -------- | ------------------- |
+| xarray | 2026.7.0 | support by Jan 2027 |
 
 ###### Can drop support for:
 
@@ -172,6 +177,15 @@
 | scipy        | 1.18.0           | released Jun 2026              |
 | xarray       | 2026.4.0         | released Apr 2026              |
 | zarr         | 3.2.0            | released Apr 2026              |
+
+#### 2028 - Quarter 3:
+
+
+###### Can drop support for:
+
+|        |          |                   |
+| ------ | -------- | ----------------- |
+| xarray | 2026.7.0 | released Jul 2026 |
 
 #### 2028 - Quarter 4:
 
