@@ -28,10 +28,12 @@ Registration for the PyHC 2027 Winter School is not yet open. Registration will 
 
 <br>
 ### Travel Support
-<!-- TODO: Update once travel funding is confirmed (or remove this section if no travel support will be offered). -->
-**TBD.** We are pursuing travel support to help selected attendees attend the Winter School in person. If awarded, details on eligibility, the application process, and award amounts will be posted here.
+<!-- TODO: Add the application deadline, award amounts, and any eligibility restrictions (e.g. the NSF US-citizen/LPR rule that applied in 2024) once confirmed. -->
+Travel stipends are available to help selected attendees attend the Winter School in person.
 
-For reference, at the 2024 Summer School, travel support applications were vetted and approved by the planning committee and scored on need (whether the travel grant strongly determines the applicant's ability to attend onsite), career stage (student, post-doctoral, early career, or within 5 years of most recent degree given preference), and equity (ensuring travel funds are disbursed to multiple institutions, rather than focusing on large cadres from the same institution). We anticipate a similar approach for 2027.
+Travel support applications will be vetted and approved by the Winter School planning committee. Applications will be scored on need (whether the travel grant strongly determines the applicant's ability to attend onsite), career stage (student, post-doctoral, early career, or within 5 years of most recent degree given preference), and equity (ensuring travel funds are disbursed to multiple institutions, rather than focusing on large cadres from the same institution).
+
+[Apply for the travel stipend here](https://forms.gle/1tQ62tNjAw6JPNzb9). **The application deadline and award amounts will be posted here.**
 
 <br>
 ### Poster Abstract Submissions
@@ -42,22 +44,24 @@ If you are attending the PyHC 2027 Winter School on site in Tucson, AZ and are i
 
 <br>
 #### Hotel
-<!-- TODO: Add the recommended hotel, room block rate, booking link, and cut-off date. -->
-**TBD.** We plan to arrange a block of rooms at a nearby hotel at the government per diem rate. Hotel recommendations, booking instructions, rates, and the room block cut-off date will be posted here as soon as they are finalized.
+<!-- TODO: Add the negotiated room block rate (and parking cost, if any) once confirmed. -->
+The official recommended hotel for the PyHC 2027 Winter School is the Graduate by Hilton Tucson, located at 930 E 2nd St, Tucson, AZ 85719 — less than a 10-minute walk (about 0.4 miles) from the Student Union Memorial Center, where the Winter School will be held. We have reserved a block of rooms for Winter School attendees. **The room block booking link expires on December 7th, 2026.** After that date, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.
+
+To book your room for the Winter School, [click here](https://book.passkey.com/event/51272286/owner/50247507/home).
 
 <br>
 ### Location
-The Winter School will be held in-person at the [**University of Arizona**](https://www.arizona.edu/) in Tucson, Arizona, and virtually over Zoom.
+The Winter School will be held in-person at the [**Student Union Memorial Center**](https://union.arizona.edu/) on the [University of Arizona](https://www.arizona.edu/) campus in Tucson, Arizona, and virtually over Zoom.
 
-<!-- TODO: Replace with the specific building, room, and street address once the venue is confirmed. -->
+<!-- TODO: Add the specific room number(s) once confirmed. -->
 Room TBD<br>
-Building TBD<br>
+Student Union Memorial Center<br>
 University of Arizona<br>
-Tucson, AZ 85721<br>
+1303 E University Blvd<br>
+Tucson, AZ 85719<br>
 USA<br>
 
-<!-- TODO: Swap this general-campus map for a precise Google Maps embed of the venue building once known. -->
-<iframe src="https://www.google.com/maps?q=University+of+Arizona,+Tucson,+AZ&amp;output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps?q=Student+Union+Memorial+Center,+1303+E+University+Blvd,+Tucson,+AZ+85719&amp;output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br>
 ### Agenda
@@ -74,7 +78,9 @@ We will use Zoom for remote participation. **Connection details will be sent via
 <br>
 #### Transportation
 <!-- TODO: Confirm and expand with campus parking info, shuttle options, and airport transit details. -->
-**TBD.** Tucson International Airport (TUS) is approximately a 20-minute drive from the University of Arizona campus. Phoenix Sky Harbor International Airport (PHX) is roughly a two-hour drive away and served by shuttle services. Details on parking, campus access, and getting around Tucson will be posted here.
+The recommended hotel, the Graduate by Hilton Tucson, is within walking distance of the Student Union Memorial Center — less than 10 minutes on foot.
+
+Tucson International Airport (TUS) is approximately a 20-minute drive from the University of Arizona campus. Phoenix Sky Harbor International Airport (PHX) is roughly a two-hour drive away and served by shuttle services. **Details on parking, campus access, and getting around Tucson will be posted here.**
 
 <br>
 ### Official Language
