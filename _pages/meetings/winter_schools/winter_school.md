@@ -5,7 +5,7 @@ summary: The web page for the 2027 PyHC Winter School
 permalink: /winter-school
 exclude: true
 ---
-<img src="{{ site.baseurl }}/img/page_images/winter-school.jpg" alt="Winter School 5 January 2027 – 8 January 2027" style="display: block; margin-left: auto; margin-right: auto; width: 100%">
+<img src="{{ site.baseurl }}/img/page_images/winter-school-new.png" alt="Winter School 5 January 2027 – 8 January 2027" style="display: block; margin-left: auto; margin-right: auto; width: 100%">
 
 The Python in Heliophysics Community (PyHC) is excited to announce its 2027 Winter School, set to take place **Tuesday, January 5th to Friday, January 8th, 2027** at the [University of Arizona](https://www.arizona.edu/) in sunny Tucson, Arizona, USA.
 
