@@ -322,6 +322,20 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+  - name: madrigalWeb
+  url: "https://github.com/MITHaystack/madrigalWeb"
+  code: "https://github.com/MITHaystack/madrigalWeb"
+  docs: "https://madrigalweb.readthedocs.io/en/latest"
+  description: MadrigalWeb - a python API to access the Madrigal database
+  contact: K Cariglia
+  keywords: ["geospace", "data_retrieval", "ascii", "hdf5", "netcdf", "web_service", "data_access"]
+  community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: "MCALF"
   description: "Accurately constraining velocity information from spectral imaging observations using machine learning techniques."
   docs: "https://mcalf.macbride.me"
