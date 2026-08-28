@@ -322,12 +322,12 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
-  - name: madrigalWeb
-  url: "https://github.com/MITHaystack/madrigalWeb"
+- name: "MadrigalWeb"
+  url: "https://cedar.openmadrigal.org"
   code: "https://github.com/MITHaystack/madrigalWeb"
-  docs: "https://madrigalweb.readthedocs.io/en/latest"
-  description: MadrigalWeb - a python API to access the Madrigal database
-  contact: K Cariglia
+  docs: "https://madrigalweb.readthedocs.io/en/latest/"
+  description: "MadrigalWeb - a Python API to access the Madrigal database"
+  contact: "Katherine Cariglia"
   keywords: ["geospace", "data_retrieval", "ascii", "hdf5", "netcdf", "web_service", "data_access"]
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -781,4 +781,3 @@
   software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-

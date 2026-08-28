@@ -170,13 +170,6 @@
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
 
-- name: "MadrigalWeb"
-  url: "http://cedar.openmadrigal.org"
-  description: "Access data from any Madrigal database."
-  code: "https://pypi.org/project/madrigalWeb"
-  contact: "Bill Rideout"
-  keywords: ["ionosphere_thermosphere_mesosphere","general"]
-
 - name: NEXRADutils
   code: https://github.com/space-physics/NEXRADutils
   description: Download/Plot NEXRAD compositive reflectivity by date/time, for ionospheric perturbations
