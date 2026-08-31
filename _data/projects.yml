@@ -255,7 +255,7 @@
 
 - name: "HelioAI"
   url: "https://github.com/erdoganfurkan/HelioAI"
-  description: "An AI agent for heliophysics: natural-language parameter discovery across 70+ missions, PlasmaPy-backed analysis, and reproducible notebook export."
+  description: "An AI agent for heliophysics: natural-language parameter discovery across 70+ missions, sandboxed analysis, and reproducible notebook export."
   docs: "https://erdoganfurkan.github.io/HelioAI/"
   code: "https://github.com/erdoganfurkan/HelioAI"
   contact: "Furkan Erdogan"
