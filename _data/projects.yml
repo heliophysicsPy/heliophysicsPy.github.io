@@ -740,6 +740,19 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "SWVO"
+  description: "Tools for downloading and reading space-weather data and geomagnetic indices."
+  docs: "https://swvo.readthedocs.io/en/latest/"
+  code: "https://github.com/GFZ/SWVO"
+  contact: "Sahil Jhawar (jhawar@gfz.de), Bernhard Haas (bhaas@gfz.de)"
+  keywords: ["heliosphere", "magnetosphere", "solar", "ionosphere_thermosphere_mesosphere", "plasma_physics", "data_access", "data_retrieval", "reference_data", "csv", "netcdf", "ascii", "coordinates", "time", "remote", "local", "web_service", "general", "ace", "dscovr", "omni", "enlil"]
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: "swxsoc"
   url: "https://swxsoc.github.io/"
   description: "Pipeline and analysis tools for space weather data processing."
