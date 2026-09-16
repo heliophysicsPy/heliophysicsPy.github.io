@@ -9,10 +9,7 @@ exclude: true
 
 The Python in Heliophysics Community (PyHC) is excited to announce its 2027 Winter School, set to take place **Tuesday, January 5th to Friday, January 8th, 2027** at the [University of Arizona](https://www.arizona.edu/) in sunny Tucson, Arizona, USA.
 
-This Winter School builds on the success of PyHC's [2022]({{ site.baseurl }}/summer-school) and [2024]({{ site.baseurl }}/summer-school-24) Summer Schools, offering another deep dive into the rich ecosystem of Heliophysics Python packages. Open to undergraduate and graduate students, early career scientists, and anyone eager to deepen their understanding of Python in the Heliophysics and Space Weather disciplines, this program promises a mix of in-depth tutorials, engaging demos, and hands-on sessions, delivered by some of the field's leading experts.
-
-<!-- TODO: Optional — decide whether to explain the January timing publicly. Delete or reword the sentence below as desired. -->
-Unlike PyHC's previous schools, this event will be held in the winter rather than the summer.
+This Winter School builds on the success of PyHC's [2022]({{ site.baseurl }}/summer-school) and [2024]({{ site.baseurl }}/summer-school-24) Summer Schools, offering another deep dive into the rich ecosystem of Heliophysics Python packages, just in the winter this time! Open to undergraduate and graduate students, early career scientists, and anyone eager to deepen their understanding of Python in the Heliophysics and Space Weather disciplines, this program promises a mix of in-depth tutorials, engaging demos, and hands-on sessions, delivered by some of the field's leading experts.
 
 Remote options will be available for those unable to make the trip to Tucson, and the presentations will be recorded and streamed to [PyHC's YouTube channel](https://www.youtube.com/@pythoninheliophysicscommun3732). Further, in keeping with PyHC's commitment to knowledge-sharing, **this event is FREE for all attendees**.
 
@@ -45,7 +42,7 @@ If you are attending the PyHC 2027 Winter School on site in Tucson, AZ and are i
 <br>
 #### Hotel
 <!-- TODO: Add the negotiated room block rate (and parking cost, if any) once confirmed. -->
-The official recommended hotel for the PyHC 2027 Winter School is the Graduate by Hilton Tucson, located at 930 E 2nd St, Tucson, AZ 85719 — less than a 10-minute walk (about 0.4 miles) from the Student Union Memorial Center, where the Winter School will be held. We have reserved a block of rooms for Winter School attendees. **The room block booking link expires on December 7th, 2026.** After that date, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.
+The official recommended hotel is the **Graduate by Hilton Tucson**, located at **930 E 2nd St, Tucson, AZ 85719** — less than a 10-minute walk (about 0.4 miles) from the Student Union Memorial Center, where the Winter School will be held. We have reserved a block of rooms for Winter School attendees. **The room block booking link expires on December 7th, 2026.** After that date, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.
 
 To book your room for the Winter School, [click here](https://book.passkey.com/event/51272286/owner/50247507/home).
 
