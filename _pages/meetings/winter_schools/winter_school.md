@@ -33,13 +33,6 @@ Travel support applications will be vetted and approved by the Winter School pla
 [Apply for the travel stipend here](https://forms.gle/1tQ62tNjAw6JPNzb9). **The application deadline and award amounts will be posted here.**
 
 <br>
-### Poster Abstract Submissions
-<!-- TODO: Add the poster abstract Google form link and deadline once they exist. -->
-If you are attending the PyHC 2027 Winter School on site in Tucson, AZ and are interested in presenting on your work within Heliophysics/Space Physics and Python, the Winter School poster session is your best bet! Bonus points if you can show work you've done that leverages the PyHC ecosystem.
-
-**A poster abstract submission form and deadline will be posted here.**
-
-<br>
 #### Hotel
 <!-- TODO: Add the negotiated room block rate (and parking cost, if any) once confirmed. -->
 The official recommended hotel is the **Graduate by Hilton Tucson**, located at **930 E 2nd St, Tucson, AZ 85719** — less than a 10-minute walk (about 0.4 miles) from the Student Union Memorial Center, where the Winter School will be held. We have reserved a block of rooms for Winter School attendees. **The room block booking link expires on December 7th, 2026.** After that date, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.
@@ -65,8 +58,10 @@ USA<br>
 The agenda for the PyHC 2027 Winter School is a living document, and is subject to change as planning continues.
 
 <!-- NOTE: This embed relies on the agenda sheet staying shared as "Anyone with the link can view."
-     If sharing is restricted, the iframe will show a sign-in wall instead of the agenda. -->
-<iframe src="https://docs.google.com/spreadsheets/d/183CeXpKmOx3RfEEk46jB8E-ndZ19sIVM8gGD2_-XQQw/htmlembed?gid=0" width="100%" height="500" style="border:0;"></iframe>
+     If sharing is restricted, the iframe will show a sign-in wall instead of the agenda.
+     The /htmlembed/sheet endpoint renders one tab with no tab bar; gid=1085256662 is
+     the "public" tab. Note this is presentational only, not an access control. -->
+<iframe src="https://docs.google.com/spreadsheets/d/183CeXpKmOx3RfEEk46jB8E-ndZ19sIVM8gGD2_-XQQw/htmlembed/sheet?gid=1085256662" width="100%" height="500" style="border:0;"></iframe>
 
 <br>
 #### Zoom Meeting Information
