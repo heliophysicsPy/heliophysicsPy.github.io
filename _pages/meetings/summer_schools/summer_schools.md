@@ -6,6 +6,8 @@ exclude: true
 ---
 
 ## Upcoming
+<h3><a href="{{ site.baseurl }}/winter-school">2027 Winter School</a></h3>
+* We're holding our inaugural <a href="{{ site.baseurl }}/winter-school">2027 Winter School</a> at the University of Arizona in Tucson, Arizona, 5–8 January 2027! <a href="{{ site.baseurl }}/winter-school">Click here for more info</a>.
 
 <br>
 
