@@ -20,17 +20,15 @@ Remote options will be available for those unable to make the trip to Tucson, an
 
 <br>
 ### Registration
-<!-- TODO: Add the registration form link and deadline once they exist. -->
-Registration for the PyHC 2027 Winter School is not yet open. Registration will be FREE for all attendees, for both in-person and virtual participation. **Registration details and deadlines will be posted here — check back soon.**
+Registration for the PyHC 2027 Winter School is officially open! Registration is FREE for all attendees, for both in-person and virtual participation. In-person participation is limited to the room capacity. **[Register here](https://forms.gle/co64H4iEN4KFazQt9) by Friday, December 18th, 2026 at 11:59 PM MT for both in-person and virtual attendance.**
 
 <br>
 ### Travel Support
-<!-- TODO: Add the application deadline, award amounts, and any eligibility restrictions (e.g. the NSF US-citizen/LPR rule that applied in 2024) once confirmed. -->
-Travel stipends are available to help selected attendees attend the Winter School in person.
+Travel stipends are available to help up to 20 selected attendees attend the Winter School in person. Travel stipends will cover the entirety of an attendee's travel needs (e.g., airfare, lodging, meal per diem, car rental). Some of these costs will be paid up front with a reimbursement to the attendee after the winter school concludes. **Due to sponsor restrictions, this travel support is limited to US citizens, green card holders, and international students attending a U.S. institution with a valid student visa.**
 
-Travel support applications will be vetted and approved by the Winter School planning committee. Applications will be scored on need (whether the travel grant strongly determines the applicant's ability to attend onsite), career stage (student, post-doctoral, early career, or within 5 years of most recent degree given preference), and equity (ensuring travel funds are disbursed to multiple institutions, rather than focusing on large cadres from the same institution).
+Travel support applications will be vetted and approved by members of the Winter School planning committee. Applications will be scored on need (whether the travel grant strongly determines the applicant's ability to attend onsite), career stage (student, post-doctoral, early career, or within 5 years of most recent degree given preference), and equity (ensuring travel funds are disbursed to multiple institutions, rather than focusing on large cadres from the same institution).
 
-[Apply for the travel stipend here](https://forms.gle/1tQ62tNjAw6JPNzb9). **The application deadline and award amounts will be posted here.**
+**[Apply for the travel stipend here](https://forms.gle/1tQ62tNjAw6JPNzb9) by Wednesday, November 11th at 11:59 PM MT.**
 
 <br>
 #### Hotel
