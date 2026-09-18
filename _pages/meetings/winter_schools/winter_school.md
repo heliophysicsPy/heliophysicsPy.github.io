@@ -20,24 +20,22 @@ Remote options will be available for those unable to make the trip to Tucson, an
 
 <br>
 ### Registration
-<!-- TODO: Add the registration form link and deadline once they exist. -->
-Registration for the PyHC 2027 Winter School is not yet open. Registration will be FREE for all attendees, for both in-person and virtual participation. **Registration details and deadlines will be posted here — check back soon.**
+Registration for the PyHC 2027 Winter School is officially open! Registration is FREE for all attendees, for both in-person and virtual participation. In-person participation is limited to the room capacity. **[Register here](https://forms.gle/co64H4iEN4KFazQt9) by Friday, December 18th, 2026 at 11:59 PM MT for both in-person and virtual attendance.**
 
 <br>
 ### Travel Support
-<!-- TODO: Add the application deadline, award amounts, and any eligibility restrictions (e.g. the NSF US-citizen/LPR rule that applied in 2024) once confirmed. -->
-Travel stipends are available to help selected attendees attend the Winter School in person.
+Travel stipends are available to help up to 20 selected attendees attend the Winter School in person. Travel stipends will cover the entirety of an attendee's travel needs (e.g., airfare, lodging, meal per diem, car rental) up to $2,270. Some of these costs will be paid up front with a reimbursement to the attendee after the winter school concludes. **Due to sponsor restrictions, this travel support is limited to US citizens, green card holders, and international students attending a U.S. institution with a valid student visa.**
 
-Travel support applications will be vetted and approved by the Winter School planning committee. Applications will be scored on need (whether the travel grant strongly determines the applicant's ability to attend onsite), career stage (student, post-doctoral, early career, or within 5 years of most recent degree given preference), and equity (ensuring travel funds are disbursed to multiple institutions, rather than focusing on large cadres from the same institution).
+Travel support applications will be vetted and approved by members of the Winter School planning committee. Applications will be scored on need (whether the travel grant strongly determines the applicant's ability to attend onsite), career stage (student, post-doctoral, early career, or within 5 years of most recent degree given preference), and equity (ensuring travel funds are disbursed to multiple institutions, rather than focusing on large cadres from the same institution).
 
-[Apply for the travel stipend here](https://forms.gle/1tQ62tNjAw6JPNzb9). **The application deadline and award amounts will be posted here.**
+**[Apply for the travel stipend here](https://forms.gle/1tQ62tNjAw6JPNzb9) by Wednesday, November 11th at 11:59 PM MT.**
 
 <br>
 #### Hotel
 <!-- TODO: Add the negotiated room block rate (and parking cost, if any) once confirmed. -->
 The official recommended hotel is the **Graduate by Hilton Tucson**, located at **930 E 2nd St, Tucson, AZ 85719** — less than a 10-minute walk (about 0.4 miles) from the Student Union Memorial Center, where the Winter School will be held. We have reserved a block of rooms for Winter School attendees. **The room block booking link expires on December 7th, 2026.** After that date, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.
 
-To book your room for the Winter School, [click here](https://book.passkey.com/event/51272286/owner/50247507/home).
+To book your room for the Winter School, [click here](https://book.passkey.com/event/51272286/owner/50247507/home). Please note that parking is valet-only, with a fee of $39 plus tax for overnight. Other parking options include metered street parking in the area or the paid public garage located across the street from the hotel.
 
 <br>
 ### Location
