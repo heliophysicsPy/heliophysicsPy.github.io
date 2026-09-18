@@ -24,7 +24,7 @@ Registration for the PyHC 2027 Winter School is officially open! Registration is
 
 <br>
 ### Travel Support
-Travel stipends are available to help up to 20 selected attendees attend the Winter School in person. Travel stipends will cover the entirety of an attendee's travel needs (e.g., airfare, lodging, meal per diem, car rental). Some of these costs will be paid up front with a reimbursement to the attendee after the winter school concludes. **Due to sponsor restrictions, this travel support is limited to US citizens, green card holders, and international students attending a U.S. institution with a valid student visa.**
+Travel stipends are available to help up to 20 selected attendees attend the Winter School in person. Travel stipends will cover the entirety of an attendee's travel needs (e.g., airfare, lodging, meal per diem, car rental) up to $2,270. Some of these costs will be paid up front with a reimbursement to the attendee after the winter school concludes. **Due to sponsor restrictions, this travel support is limited to US citizens, green card holders, and international students attending a U.S. institution with a valid student visa.**
 
 Travel support applications will be vetted and approved by members of the Winter School planning committee. Applications will be scored on need (whether the travel grant strongly determines the applicant's ability to attend onsite), career stage (student, post-doctoral, early career, or within 5 years of most recent degree given preference), and equity (ensuring travel funds are disbursed to multiple institutions, rather than focusing on large cadres from the same institution).
 
@@ -35,7 +35,7 @@ Travel support applications will be vetted and approved by members of the Winter
 <!-- TODO: Add the negotiated room block rate (and parking cost, if any) once confirmed. -->
 The official recommended hotel is the **Graduate by Hilton Tucson**, located at **930 E 2nd St, Tucson, AZ 85719** — less than a 10-minute walk (about 0.4 miles) from the Student Union Memorial Center, where the Winter School will be held. We have reserved a block of rooms for Winter School attendees. **The room block booking link expires on December 7th, 2026.** After that date, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.
 
-To book your room for the Winter School, [click here](https://book.passkey.com/event/51272286/owner/50247507/home).
+To book your room for the Winter School, [click here](https://book.passkey.com/event/51272286/owner/50247507/home). Please note that parking is valet-only, with a fee of $39 plus tax for overnight. Other parking options include metered street parking in the area or the paid public garage located across the street from the hotel.
 
 <br>
 ### Location
