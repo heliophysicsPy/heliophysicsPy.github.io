@@ -97,11 +97,12 @@
 
 ###### Adopt support for:
 
-|         |                  |                                  |
-| ------- | ---------------- | -------------------------------- |
-| ipython | 9.16.0 to 9.17.0 | support by Jan 2027 and Feb 2027 |
-| xarray  | 2026.7.0         | support by Jan 2027              |
-| zarr    | 3.3.0 to 3.4.0   | support by Jan 2027 and Mar 2027 |
+|          |                  |                                  |
+| -------- | ---------------- | -------------------------------- |
+| ipython  | 9.16.0 to 9.17.0 | support by Jan 2027 and Feb 2027 |
+| networkx | 3.7              | support by Mar 2027              |
+| xarray   | 2026.7.0         | support by Jan 2027              |
+| zarr     | 3.3.0 to 3.4.0   | support by Jan 2027 and Mar 2027 |
 
 ###### Can drop support for:
 
@@ -185,11 +186,12 @@
 
 ###### Can drop support for:
 
-|         |                  |                                |
-| ------- | ---------------- | ------------------------------ |
-| ipython | 9.16.0 to 9.17.0 | released Jul 2026 and Aug 2026 |
-| xarray  | 2026.7.0         | released Jul 2026              |
-| zarr    | 3.3.0 to 3.4.0   | released Jul 2026 and Sep 2026 |
+|          |                  |                                |
+| -------- | ---------------- | ------------------------------ |
+| ipython  | 9.16.0 to 9.17.0 | released Jul 2026 and Aug 2026 |
+| networkx | 3.7              | released Sep 2026              |
+| xarray   | 2026.7.0         | released Jul 2026              |
+| zarr     | 3.3.0 to 3.4.0   | released Jul 2026 and Sep 2026 |
 
 #### 2028 - Quarter 4:
 
