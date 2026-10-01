@@ -22,13 +22,13 @@ In `projects.yml`, projects are listed in alphabetical order. Available inputs f
 
 * The project name (name) *
 * The project's website url (url),
-* The project's HSSI software landing page URL (hssi), using its published slug (for example, `https://hssi.hsdcloud.org/software/sunpy/`). Leave this empty if the package does not yet have a published HSSI record.
 * A description of the project's main function (description) *,  
 * A direct link to the raw image of the project's logo (logo)
 * The location of the project's documentation (docs)
 * The location of the project's code base (code) *
 * Who to contact for questions about the project (contact) *
 * Keywords that are related to your project's functionality *
+* The project's HSSI software landing page URL (hssi), using its published slug (for example, `https://hssi.hsdcloud.org/software/sunpy/`). Leave this empty if the package does not yet have a published HSSI record.
 * The grade for the community standard *
 * The grade for the documentation standard *
 * The grade for the testing standard *
