@@ -28,7 +28,7 @@ In `projects.yml`, projects are listed in alphabetical order. Available inputs f
 * The location of the project's code base (code) *
 * Who to contact for questions about the project (contact) *
 * Keywords that are related to your project's functionality *
-* The project's HSSI software landing page URL (hssi), using its published slug (for example, `https://hssi.hsdcloud.org/software/sunpy/`). Leave this empty if the package does not yet have a published HSSI record.
+* The project's Heliophysics Software Search Interface software landing page URL (hssi), using its published slug (for example, `https://hssi.hsdcloud.org/software/sunpy/`). Leave this empty if the package does not yet have a published HSSI record.
 * The grade for the community standard *
 * The grade for the documentation standard *
 * The grade for the testing standard *
