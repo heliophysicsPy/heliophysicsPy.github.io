@@ -264,6 +264,25 @@ select.filter {
   display: none;
 }
 
+/* Project title links keep the existing table and card title appearance. */
+a.project-title-link,
+a.project-title-link:visited,
+a.project-title-link:focus,
+a.project-title-link:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+a.project-title-link:hover,
+a.project-title-link:focus-visible {
+  color: #555;
+}
+
+[data-theme="dark"] a.project-title-link:hover,
+[data-theme="dark"] a.project-title-link:focus-visible {
+  color: #ccc;
+}
+
 /* Dark Mode Styles */
 :root {
   --background-color: #ffffff;
