@@ -48,7 +48,7 @@
           <tbody>
             {% for project in {{include.sorted_projects}} %}
             <tr>
-              <th>{{ project.name }}</th>
+              <th>{% include project_title.html project=project %}</th>
               <td>
                 {{ project.description }}
                 <p class="hidden">
@@ -87,7 +87,7 @@
                 <img class="card-img-top img-fluid rounded mx-auto" src="{{ project.logo }}"/>
                 {% endif %}
                 <div class="card-body">
-                    <h4 class="card-title">{{ project.name }}</h4>
+                    <h4 class="card-title">{% include project_title.html project=project %}</h4>
                     <p class="card-text">{{ project.description }}<br>
                     <b>{{ project.contact }}</b>
                     </p>

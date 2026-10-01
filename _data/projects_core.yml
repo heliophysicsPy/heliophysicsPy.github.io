@@ -1,4 +1,5 @@
 - name: "SunPy"
+  hssi: "https://hssi.hsdcloud.org/software/sunpy/"
   url: "http://www.sunpy.org"
   description: "Python for Solar Physics"
   logo: "https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/sunpy_icon.png"
@@ -14,6 +15,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "pysat"
+  hssi: "https://hssi.hsdcloud.org/software/pysat/"
   description: "Management and analysis tool for satellite and radar data."
   logo: "https://raw.githubusercontent.com/pysat/pysat/main/docs/images/logo.png"
   docs: "https://pysat.readthedocs.io"
@@ -28,6 +30,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "PlasmaPy"
+  hssi: "https://hssi.hsdcloud.org/software/plasmapy/"
   url: "https://www.plasmapy.org"
   description: "Python package for plasma research and education"
   logo: "https://github.com/PlasmaPy/PlasmaPy-logo/raw/main/exports/graphic-circular.png"
@@ -43,6 +46,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "SpacePy"
+  hssi: "https://hssi.hsdcloud.org/software/spacepy/"
   description: "Space science library for Python. Includes file I/O, time and coordinate conversions, common analysis techniques."
   logo: "https://spacepy.github.io/_static/spacepy_logo.jpg"
   docs: "https://spacepy.github.io/"
@@ -57,6 +61,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "pySPEDAS"
+  hssi: "https://hssi.hsdcloud.org/software/pyspedas/"
   description: "Tools for loading, analysis and plotting of data from various heliophysics missions and ground magnetometers"
   docs: "https://pyspedas.readthedocs.io"
   code: "https://github.com/spedas/pyspedas"
@@ -70,6 +75,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   
 - name: "Kamodo"
+  hssi: "https://hssi.hsdcloud.org/software/the-ccmc-kamodo-analysis-suite/"
   url: "https://ccmc.gsfc.nasa.gov/tools/kamodo/"
   code: "https://github.com/nasa/Kamodo"
   docs: "https://nasa.github.io/Kamodo/"
@@ -85,6 +91,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "HAPI Client"
+  hssi: "https://hssi.hsdcloud.org/software/hapi-client/"
   url: "https://github.com/hapi-server/client-python"
   description: "Access time series data access from many sources"
   logo: "https://raw.githubusercontent.com/hapi-server/hapi-server.github.io/master/logos/HAPI.svg"
