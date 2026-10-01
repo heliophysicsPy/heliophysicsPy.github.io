@@ -1,5 +1,4 @@
 - name: "SunPy"
-  hssi: "https://hssi.hsdcloud.org/software/sunpy/"
   url: "http://www.sunpy.org"
   description: "Python for Solar Physics"
   logo: "https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/sunpy_icon.png"
@@ -7,6 +6,7 @@
   code: "https://github.com/sunpy/sunpy"
   contact: "Stuart Mumford"
   keywords: ["2D_graphics","cdaweb","coordinates","data_analysis","data_retrieval","fermi","fido","fits","general","goes","heliosphere","image_processing","lasco","line_plots","netcdf","plotting","power_spectra","soho","solar","time"]
+  hssi: "https://hssi.hsdcloud.org/software/sunpy/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -15,13 +15,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "pysat"
-  hssi: "https://hssi.hsdcloud.org/software/pysat/"
   description: "Management and analysis tool for satellite and radar data."
   logo: "https://raw.githubusercontent.com/pysat/pysat/main/docs/images/logo.png"
   docs: "https://pysat.readthedocs.io"
   code: "https://github.com/pysat/pysat"
   contact: "pysat Development Team"
   keywords: ["ace","coordinates","data_analysis","data_retrieval","de2","dmsp","general","icon","ionosphere_thermosphere_mesosphere","madrigal","magnetosphere","omni","orbit","plotting","sami2","tiegcm","time"]
+  hssi: "https://hssi.hsdcloud.org/software/pysat/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -30,7 +30,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "PlasmaPy"
-  hssi: "https://hssi.hsdcloud.org/software/plasmapy/"
   url: "https://www.plasmapy.org"
   description: "Python package for plasma research and education"
   logo: "https://github.com/PlasmaPy/PlasmaPy-logo/raw/main/exports/graphic-circular.png"
@@ -38,6 +37,7 @@
   code: "https://github.com/PlasmaPy/PlasmaPy"
   contact: "Nick Murphy"
   keywords: ["data_analysis","general","heliosphere","instrumentation","ionosphere_thermosphere_mesosphere","laboratory","magnetosphere","plasma_physics","plotting","simulation","solar","theory"]
+  hssi: "https://hssi.hsdcloud.org/software/plasmapy/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -46,13 +46,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "SpacePy"
-  hssi: "https://hssi.hsdcloud.org/software/spacepy/"
   description: "Space science library for Python. Includes file I/O, time and coordinate conversions, common analysis techniques."
   logo: "https://spacepy.github.io/_static/spacepy_logo.jpg"
   docs: "https://spacepy.github.io/"
   code: "https://github.com/spacepy/spacepy"
   contact: "Jon Niehof"
   keywords: ["ascii","bats_r_us","cdf","coordinates","csv","data_access","data_analysis","data_container","general","hdf5","heliosphere","igrf","ionosphere_thermosphere_mesosphere","local","magnetosphere","omni","plotting","reference_data","shue","simulation","swmf","time","tsyganenko"]
+  hssi: "https://hssi.hsdcloud.org/software/spacepy/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -61,12 +61,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "pySPEDAS"
-  hssi: "https://hssi.hsdcloud.org/software/pyspedas/"
   description: "Tools for loading, analysis and plotting of data from various heliophysics missions and ground magnetometers"
   docs: "https://pyspedas.readthedocs.io"
   code: "https://github.com/spedas/pyspedas"
   contact: "Jim Lewis"
   keywords: ["ace","arase","cdf","cluster","coordinates","csswe","data_access","dscovr","equator_s","fast","geotail","heliosphere","image","kyoto_dst","line_plots","magnetosphere","maven","mica","mms","plotting","poes","polar","psp","solo","spectra","stereo","themis","twins","ulysses","van_allen_probes","wind"]
+  hssi: "https://hssi.hsdcloud.org/software/pyspedas/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -75,7 +75,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   
 - name: "Kamodo"
-  hssi: "https://hssi.hsdcloud.org/software/the-ccmc-kamodo-analysis-suite/"
   url: "https://ccmc.gsfc.nasa.gov/tools/kamodo/"
   code: "https://github.com/nasa/Kamodo"
   docs: "https://nasa.github.io/Kamodo/"
@@ -83,6 +82,7 @@
   logo: "https://raw.githubusercontent.com/nasa/Kamodo/master/logos/Kamodo2.png"
   contact: "Darren De Zeeuw"
   keywords: ["2D_graphics","3D_graphics","adelphi","amgeo","ascii","coordinates","csv","ctipe","data_access","data_retrieval","enlil","gamera","general","geospace","gitm","hapi","heliosphere","interactive","ionosphere_thermosphere_mesosphere","iri","line_plots","local","magnetosphere","multidimensional","netcdf","openggcm","orbit","orbit","plotting","remote","sami3","solar","superdarn","swmf","tiegcm","time","waccmx","web_service"]
+  hssi: "https://hssi.hsdcloud.org/software/the-ccmc-kamodo-analysis-suite/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -91,7 +91,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "HAPI Client"
-  hssi: "https://hssi.hsdcloud.org/software/hapi-client/"
   url: "https://github.com/hapi-server/client-python"
   description: "Access time series data access from many sources"
   logo: "https://raw.githubusercontent.com/hapi-server/hapi-server.github.io/master/logos/HAPI.svg"
@@ -99,6 +98,7 @@
   code: "https://github.com/hapi-server/client-python"
   contact: "Bob Weigel"
   keywords: ["data_retrieval","line_plots","plotting","spectra"]
+  hssi: "https://hssi.hsdcloud.org/software/hapi-client/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]

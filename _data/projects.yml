@@ -1,10 +1,10 @@
 - name: "AACGMV2"
-  hssi: "https://hssi.hsdcloud.org/software/aacgmv2/"
   description: "A Python wrapper for the AACGM-v2 C library"
   docs: "http://aacgmv2.readthedocs.io"
   code: "https://github.com/aburrell/aacgmv2"
   contact: "Angeline G. Burrell"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/aacgmv2/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -13,12 +13,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: AFINO
-  hssi: "https://hssi.hsdcloud.org/software/afino-automated-flare-inference-of-oscillations/"
   code: https://github.com/aringlis/afino_release_version
   docs: https://afino-release-version.readthedocs.io/
   description: A tool for finding oscillations in time series data
   contact: Andrew Inglis
   keywords: ["data_analysis"]
+  hssi: "https://hssi.hsdcloud.org/software/afino-automated-flare-inference-of-oscillations/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -27,13 +27,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "aiapy"
-  hssi: "https://hssi.hsdcloud.org/software/aiapy/"
   code: "https://github.com/LM-SAL/aiapy"
   docs: "https://aiapy.readthedocs.io"
   logo: "https://assets.gitlab-static.net/uploads/-/system/project/avatar/10985339/AIA_logo_small.jpg?width=64"
   description: "A Python package for analyzing data from SDO/AIA"
   contact: "Will Barnes, Mark Cheung"
   keywords: ["solar", "specific"]
+  hssi: "https://hssi.hsdcloud.org/software/aiapy/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -42,12 +42,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "aidapy"
-  hssi: "https://hssi.hsdcloud.org/software/aidapy/"
   code: "https://gitlab.com/aidaspace/aidapy"
   docs: "https://aidapy.readthedocs.io"
   description: "A Python package to provide machine learning and statistical methods to heliophysics data"
   contact: "Romain Dupuis, Jorge Amaya, Giovanni Lapenta"
   keywords: ["machine_learning", "heliosphere", "data_analysis"]
+  hssi: "https://hssi.hsdcloud.org/software/aidapy/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -56,12 +56,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: amisrsynthdata
-  hssi: "https://hssi.hsdcloud.org/software/amisrsynthdata/"
   description: "The amisrsynthdata package generates synthetic data for the Advanced Modular Incoherent Scatter Radars (AMISR)."
   docs: https://amisrsynthdata.readthedocs.io/en/latest/
   code: https://github.com/amisr/amisrsynthdata
   contact: Leslie Lamarche
   keywords: ["geospace", "ionosphere_thermosphere_mesosphere", "plasma_physics", "coordinates", "time", "specific", "hdf5", "local", "instrumentation", "reference_data"]
+  hssi: "https://hssi.hsdcloud.org/software/amisrsynthdata/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -70,12 +70,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "apexpy"
-  hssi: "https://hssi.hsdcloud.org/software/apexpy/"
   description: "A Python wrapper for the Apex fortran library"
   docs: "http://apexpy.readthedocs.io"
   code: "https://github.com/aburrell/apexpy"
   contact: "Angeline G. Burrell"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/apexpy/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -84,13 +84,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "asilib"
-  hssi: "https://hssi.hsdcloud.org/software/asilib/"
   description: "asilib is an open source package providing data access and analysis tools for the world’s all-sky imager (ASI) data."
   docs: "https://aurora-asi-lib.readthedocs.io/"
   code: "https://github.com/mshumko/asilib"
   logo: "http://raw.githubusercontent.com/mshumko/asilib/refs/heads/main/docs/_static/asilib_logo.png"
   contact: "Mykhaylo (Mike) Shumko"
   keywords: ["ionosphere_thermosphere_mesosphere", "data_retrieval", "image_processing", "plotting", "general", "remote", "data_access", "data_analysis", "instrumentation", "themis", "igrf"]
+  hssi: "https://hssi.hsdcloud.org/software/asilib/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -99,13 +99,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: CCSDSPy
-  hssi: "https://hssi.hsdcloud.org/software/ccsdspy/"
   code: https://github.com/ccsdspy/ccsdspy/
   description: A Python package for reading CCSDS (spacecraft) packet data.
   docs: "https://docs.ccsdspy.org/en/latest/#"
   logo: https://docs.ccsdspy.org/en/latest/_static/logo.png
   contact: Daniel da Silva
   keywords: ["ccsds","specific", "heliosphere", "ionosphere_thermosphere_mesosphere", "magnetosphere"]
+  hssi: "https://hssi.hsdcloud.org/software/ccsdspy/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -114,13 +114,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: CDFlib
-  hssi: "https://hssi.hsdcloud.org/software/cdflib/"
   code: https://github.com/MAVENSDC/cdflib
   docs: https://cdflib.readthedocs.io/en/latest/
   description: Read / write NASA CDF with pure Python + Numpy, no compiling
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: Bryan Harter, Michael Liu, David Stansby, Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/cdflib/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -129,13 +129,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "CloudCatalog"
-  hssi: "https://hssi.hsdcloud.org/software/cloudcatalog-api/"
   code: https://github.com/heliocloud-data/cloudcatalog/
   description: A Python package for retrieving cloud data file catalogs/indices
   docs: https://github.com/heliocloud-data/cloudcatalog/blob/main/docs/cloudcatalog-spec.md
   logo: https://heliocloud.org/static/img/logo.jpg
   contact: Sandy Antunes
   keywords: ["data_retrieval","general","csv","remote","data_access"]
+  hssi: "https://hssi.hsdcloud.org/software/cloudcatalog-api/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -144,12 +144,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "dbprocessing"
-  hssi: "https://hssi.hsdcloud.org/software/spacepy-dbprocessing/"
   description: "Database-driven Heliophysics processing controller."
   docs: "https://spacepy.github.io/dbprocessing"
   code: "https://github.com/spacepy/dbprocessing"
   contact: "Jon Niehof"
   keywords: ["heliosphere","ionosphere_thermosphere_mesosphere","magnetosphere","general"]
+  hssi: "https://hssi.hsdcloud.org/software/spacepy-dbprocessing/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -158,12 +158,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: enlilviz
-  hssi: "https://hssi.hsdcloud.org/software/enlilviz/"
   description: A Python toolkit for Enlil solar wind visualizations.
   docs: https://enlilviz.readthedocs.io/
   code: https://github.com/SWxTREC/enlilviz
   contact: Greg Lucas
   keywords: ["heliosphere","plotting","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/enlilviz/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -172,7 +172,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "EUVpy"
-  hssi: "https://hssi.hsdcloud.org/software/euvpy/"
   url: "https://github.com/DanBrandt/EUVpy/tree/main"
   description: "A Python package containing several models for solar EUV irradiance."
   logo: https://euvpy.readthedocs.io/en/latest/_images/EUVpy_logo.png
@@ -180,6 +179,7 @@
   code: "https://github.com/DanBrandt/EUVpy/tree/main"
   contact: "Daniel Brandt"
   keywords: ["solar", "ionosphere_thermosphere_mesosphere", "wrapper", "gitm", "general"]
+  hssi: "https://hssi.hsdcloud.org/software/euvpy/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -188,12 +188,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "fiasco"
-  hssi: "https://hssi.hsdcloud.org/software/fiasco/"
   description: "A Python interface to the CHIANTI atomic database."
   docs: "http://fiasco.readthedocs.io"
   code: "https://github.com/wtbarnes/fiasco"
   contact: "Will Barnes"
   keywords: ["solar","ionosphere_thermosphere_mesosphere","general"]
+  hssi: "https://hssi.hsdcloud.org/software/fiasco/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -202,11 +202,11 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "fisspy"
-  hssi: "https://hssi.hsdcloud.org/software/fisspy/"
   description: "Fast Imaging Solar Spectrograph (FISS) on the New Solar Telescope."
   code: "https://github.com/SNU-sunday/fisspy"
   contact: "Juhyeong Kang"
   keywords: ["solar","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/fisspy/"
   community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
@@ -215,12 +215,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "GCMprocpy"
-  hssi: "https://hssi.hsdcloud.org/software/gcmprocpy/"
   description: "A Python package for post processing and analysis of TIE-GCM and WACCM-X outputs."
   docs: "https://gcmprocpy.readthedocs.io"
   code: "https://github.com/NCAR/gcmprocpy.git"
   contact: "Nikhil Rao"
   keywords: ["ionosphere_thermosphere_mesosphere","2D_graphics", "plotting", "netcdf", "local", "data_analysis", "specific"]
+  hssi: "https://hssi.hsdcloud.org/software/gcmprocpy/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
@@ -229,12 +229,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "geodata"
-  hssi: "https://hssi.hsdcloud.org/software/jswoboda-geodatapython-isr-sim-paper/"
   description: "Geophysics analysis of radar and optical systems."
   logo: "https://github.com/jswoboda/GeoDataPython/raw/master/logo/logo1.png"
   code: "https://github.com/jswoboda/GeoDataPython"
   contact: "John Swoboda"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/jswoboda-geodatapython-isr-sim-paper/"
   community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -243,12 +243,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "geopack"
-  hssi: "https://hssi.hsdcloud.org/software/geopack/"
   description: "Python version of geopack and Tsyganenko models"
   docs: "https://github.com/tsssss/geopack/blob/master/README.md"
   code: "https://github.com/tsssss/geopack"
   contact: "Sheng Tian"
   keywords: ["heliosphere", "magnetosphere"]
+  hssi: "https://hssi.hsdcloud.org/software/geopack/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -257,7 +257,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "GeospaceLAB"
-  hssi: "https://hssi.hsdcloud.org/software/geospacelab/"
   url: "https://github.com/JouleCai/geospacelab"
   description: "A Python library for managing and visualizing data in Space Physics."
   logo: "https://github.com/JouleCai/geospacelab/blob/master/docs/images/logo_v1_landscape_accent_colors.png"
@@ -265,6 +264,7 @@
   code: "https://github.com/JouleCai/geospacelab"
   contact: "Lei Cai"
   keywords: ["geospace","ionosphere_thermosphere_mesosphere","magnetosphere","data_retrieval","data_container","plotting","data_access", "data_analysis"]
+  hssi: "https://hssi.hsdcloud.org/software/geospacelab/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -273,13 +273,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "HelioAI"
-  hssi: ""
   url: "https://github.com/erdoganfurkan/HelioAI"
   description: "An AI agent for heliophysics: natural-language parameter discovery across 70+ missions, sandboxed analysis, and reproducible notebook export."
   docs: "https://erdoganfurkan.github.io/HelioAI/"
   code: "https://github.com/erdoganfurkan/HelioAI"
   contact: "Furkan Erdogan"
   keywords: ["heliosphere", "magnetosphere", "plasma_physics", "data_retrieval", "data_access", "data_analysis", "plotting", "cdaweb"]
+  hssi: ""
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -288,7 +288,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "HERMES-Core"
-  hssi: "https://hssi.hsdcloud.org/software/hermes-core/"
   url: "https://github.com/HERMES-SOC/hermes_core"
   description: "A central Python Package for common functionality across all HERMES instruments"
   logo: "https://raw.githubusercontent.com/HERMES-SOC/hermes_core/main/docs/logo/hermes_logo.png"
@@ -296,6 +295,7 @@
   code: "https://github.com/HERMES-SOC/hermes_core"
   contact: "Steven Christe, Damian Barrous Dumme, Andrew Robbertz"
   keywords: ["data_container", "time", "plotting", "spectra", "cdf", "data_analysis", "hermes"]
+  hssi: "https://hssi.hsdcloud.org/software/hermes-core/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -304,12 +304,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "hissw"
-  hssi: "https://hssi.hsdcloud.org/software/hissw/"
   description: "Easily integrate SSWIDL scripts into your Python workflow via Jinja templates"
   docs: "https://wtbarnes.github.io/hissw"
   code: "https://github.com/wtbarnes/hissw"
   contact: "Will Barnes"
   keywords: ["solar", "general", "wrapper", "idl_save"]
+  hssi: "https://hssi.hsdcloud.org/software/hissw/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -318,12 +318,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "irispy-lmsal"
-  hssi: "https://hssi.hsdcloud.org/software/irispy/"
   description: "A Python package that provides the tools to read in and analyze data from the IRIS solar-observing satellite."
   docs: "https://irispy-lmsal.readthedocs.io"
   code: "https://github.com/LM-SAL/irispy-lmsal"
   contact: "SunPy Steering Committee"
   keywords: ["solar", "specific", "data_analysis", "spectra", "fits", "time", "coordinates","plotting", "multidimensional"]
+  hssi: "https://hssi.hsdcloud.org/software/irispy/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -332,12 +332,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "kaipy"
-  hssi: "https://hssi.hsdcloud.org/software/kaipy/"
   description: "Kaipy is a Python package for analysis and visualization of simulation results from a scientific software package Kaiju."
   docs: "https://kaipy-docs.readthedocs.io/"
   code: "https://github.com/JHUAPL/kaipy"
   contact: "Michael Wiltberger"
   keywords: ["geospace","2D_graphics", "plotting", "hdf5", "local", "data_analysis", "specific"]
+  hssi: "https://hssi.hsdcloud.org/software/kaipy/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -346,7 +346,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: lofarSun
-  hssi: "https://hssi.hsdcloud.org/software/lofarsun/"
   url: "https://github.com/peijin94/LOFAR-Sun-tools"
   code: "https://github.com/peijin94/LOFAR-Sun-tools"
   docs: "https://lofar-sun-tools.readthedocs.io/en/latest"
@@ -354,6 +353,7 @@
   logo: https://lofar-sun-tools.readthedocs.io/en/latest/_static/logo0.png
   contact: Peijin Zhang
   keywords: ["lofar"]
+  hssi: "https://hssi.hsdcloud.org/software/lofarsun/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
@@ -362,13 +362,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "MadrigalWeb"
-  hssi: "https://hssi.hsdcloud.org/software/madrigalweb/"
   url: "https://cedar.openmadrigal.org"
   code: "https://github.com/MITHaystack/madrigalWeb"
   docs: "https://madrigalweb.readthedocs.io/en/latest/"
   description: "MadrigalWeb - a Python API to access the Madrigal database"
   contact: "Katherine Cariglia"
   keywords: ["geospace", "data_retrieval", "ascii", "hdf5", "netcdf", "web_service", "data_access"]
+  hssi: "https://hssi.hsdcloud.org/software/madrigalweb/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -377,12 +377,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "MCALF"
-  hssi: "https://hssi.hsdcloud.org/software/mcalf-multi-component-atmospheric-line-fitting/"
   description: "Accurately constraining velocity information from spectral imaging observations using machine learning techniques."
   docs: "https://mcalf.macbride.me"
   code: "https://github.com/ConorMacBride/mcalf"
   contact: "Conor MacBride"
   keywords: ["solar", "machine_learning", "spectra", "plotting", "line_plots", "2D_graphics", "multidimensional", "specific", "fits", "local", "data_analysis"]
+  hssi: "https://hssi.hsdcloud.org/software/mcalf-multi-component-atmospheric-line-fitting/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -391,13 +391,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "NDCube"
-  hssi: "https://hssi.hsdcloud.org/software/ndcube/"
   description: "A Python package for manipulating, inspecting and visualizing multi-dimensional contiguous and non-contiguous coordinate-aware data arrays"
   logo: "https://raw.githubusercontent.com/sunpy/ndcube/master/docs/logo/ndcube.png"
   docs: "https://docs.sunpy.org/projects/ndcube"
   code: "https://github.com/sunpy/ndcube"
   contact: "Dan Ryan"
   keywords: ["coordinates", "data_analysis", "data_container", "heliosphere", "plotting", "solar"]
+  hssi: "https://hssi.hsdcloud.org/software/ndcube/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -406,13 +406,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "OCBpy"
-  hssi: "https://hssi.hsdcloud.org/software/ocbpy/"
   description: "A Python module that converts between AACGM coordinates and an adjustable magnetic coordinate system based on the location of the polar cap"
   logo: "https://raw.githubusercontent.com/aburrell/ocbpy/main/docs/figures/ocbpy_logo.gif"
   docs: "http://ocbpy.readthedocs.io"
   code: "https://github.com/aburrell/ocbpy"
   contact: "Angeline G. Burrell"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/ocbpy/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -421,13 +421,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "OMMBV"
-  hssi: "https://hssi.hsdcloud.org/software/ommbv/"
   description: "Othogonal Multipole Magnetic Basis Vectors - Accurately map electric fields and ion drifts along geomagnetic field lines and accurately express vectors relative to a multipole magnetic field using an orthogonal basis."
   logo: "https://github.com/CosmicStudioSoftware/OMMBV/blob/main/docs/images/logo_high_res.png"
   docs: "https://ommbv.readthedocs.io"
   code: "https://github.com/CosmicStudioSoftware/OMMBV"
   contact: "Russell Stoneback"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/ommbv/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -436,13 +436,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "PyAuroraX"
-  hssi: "https://hssi.hsdcloud.org/software/pyaurorax/"
   description: "Python library supporting data access and analysis for All-Sky Imager (ASI) data"
   logo: "https://raw.githubusercontent.com/aurorax-space/pyaurorax/main/logo.svg"
   docs: "https://docs.aurorax.space/code/pyaurorax_api_reference/pyaurorax/"
   code: "https://github.com/aurorax-space/pyaurorax"
   contact: "Darren Chaddock"
   keywords: ["ionosphere_thermosphere_mesosphere", "2D_graphics", "calibration", "coordinates", "data_container", "data_retrieval", "image_processing", "line_plots", "multidimensional", "orbit", "plotting", "specific", "ascii", "binary", "cdf", "hdf5", "idl_save", "local", "web_service", "data_access", "data_analysis", "instrumentation"]
+  hssi: "https://hssi.hsdcloud.org/software/pyaurorax/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -451,12 +451,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: PyCDFpp
-  hssi: ""
   code: https://github.com/SciQLop/CDFpp
   description: "A fast and easy to use C++ CDF library with Python bindings."
   docs: https://pycdfpp.readthedocs.io/en/latest/
   contact: Alexis Jeandet
   keywords: ["cdf"]
+  hssi: ""
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -465,13 +465,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "pyDARN"
-  hssi: "https://hssi.hsdcloud.org/software/pydarn/"
   description: "Python data visualization library for the Super Dual Auroral Radar Network."
   code: "https://github.com/SuperDARN/pydarn"
   logo: "https://raw.githubusercontent.com/SuperDARN/pydarn/master/docs/imgs/pydarn_logo.png"
   docs: "https://pydarn.readthedocs.io/en/main/"
   contact: "SuperDARN Data Visualization Working Group"
   keywords: ["ionosphere_thermosphere_mesosphere","general","data_analysis", "superdarn"]
+  hssi: "https://hssi.hsdcloud.org/software/pydarn/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -480,12 +480,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "pyflct"
-  hssi: "https://hssi.hsdcloud.org/software/pyflct/"
   description: "A Python wrapper for Fourier Local Correlation Tracking"
   docs: "https://pyflct.readthedocs.io"
   code: "https://github.com/sunpy/pyflct"
   contact: "SunPy Steering Committee"
   keywords: ["solar", "wrapper", "specific", "data_analysis"]
+  hssi: "https://hssi.hsdcloud.org/software/pyflct/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -494,12 +494,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "pyglow"
-  hssi: "https://hssi.hsdcloud.org/software/pyglow/"
   description: "Upper atmosphere models and geophysical indices."
   logo: "https://camo.githubusercontent.com/446f7d47177fd5b0f7aa141a31cef246769cf843/68747470733a2f2f7261772e6769746875622e636f6d2f74696d64756c79342f7079676c6f772f6d61737465722f6c6f676f2e706e67"
   code: "https://github.com/timduly4/pyglow"
   contact: "Timothy Duly"
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/pyglow/"
   community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -508,7 +508,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "PyGS"
-  hssi: "https://hssi.hsdcloud.org/software/pygs/"
   url: "https://github.com/PyGSDR/PyGS/"
   description: "Analysis tools for flux ropes based on GS techniques"
   logo: "https://github.com/PyGSDR/PyGS/blob/main/logo/logo.png"
@@ -516,6 +515,7 @@
   code: "https://github.com/PyGSDR/PyGS"
   contact: "Yu Chen and Qiang Hu"
   keywords: ["heliosphere","2D_graphics","interactive","csv","cdaweb","data_analysis","ace","psp","ulysses","wind","solo"]
+  hssi: "https://hssi.hsdcloud.org/software/pygs/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -524,7 +524,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "pyIntensityFeatures"
-  hssi: ""
   url: "https://github.com/aburrell/pyIntensityFeatures"
   contact: "Angeline G. Burrell"
   description: "A tool to identify features, such as auroral luminosity boundaries, in imager data."
@@ -532,6 +531,7 @@
   docs: "https://pyintensityfeatures.readthedocs.io/en/latest/?badge=latest"
   code: "https://github.com/aburrell/pyIntensityFeatures"
   keywords: ["magnetosphere", "specific", "data_analysis", "ionosphere_thermosphere_mesosphere"]
+  hssi: ""
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -542,13 +542,13 @@
   
 
 - name: PyRFU
-  hssi: "https://hssi.hsdcloud.org/software/pyrfu/"
   code: https://github.com/louis-richard/irfu-python
   description: "PyRFU is a free and open-source Python package for advanced analysis of in-situ space plasma data."
   docs: https://pyrfu.readthedocs.io/en/latest/
   logo: https://raw.githubusercontent.com/louis-richard/irfu-python/master/docs/_static/logo-pyrfu.png
   contact: Louis Richard
   keywords: ["heliosphere", "magnetosphere", "planetary", "plasma_physics", "coordinates", "data_retrieval", "line_plots", "multidimensional", "orbit", "plotting", "power_spectra", "spectra", "time", "general", "local", "remote", "web_service", "data_access", "data_analysis", "instrumentation", "theory", "maven", "mms", "omni", "solo"]
+  hssi: "https://hssi.hsdcloud.org/software/pyrfu/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -557,11 +557,11 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "pysatCDF"
-  hssi: "https://hssi.hsdcloud.org/software/pysatcdf/"
   description: "Python reader for NASA CDF, includes CDF libraries."
   code: "https://github.com/rstoneback/pysatCDF"
   contact: "Russell Stoneback"
   keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/pysatcdf/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -570,11 +570,11 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "python-magnetosphere"
-  hssi: "https://hssi.hsdcloud.org/software/python-magnetosphere/"
   description: "Python wrapper for cxform, coordinate transformation package "
   code: "https://github.com/dpq/python-magnetosphere"
   contact: "David Parunakian"
   keywords: ["magnetosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/python-magnetosphere/"
   community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
@@ -583,13 +583,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: PyTplot
-  hssi: ""
   code: https://github.com/MAVENSDC/pytplot
   docs: https://pytplot.readthedocs.io/en/latest/
   description: Based on IDL tplot, plots and manipulates time series data
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: "Bryan Harter"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
+  hssi: ""
   community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -598,12 +598,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name : "regularizePSF"
-  hssi: "https://hssi.hsdcloud.org/software/regularizepsf/"
   description: "A Python package for manipulating and correcting various point spread functions"
   docs: "https://regularizepsf.readthedocs.io/en/latest/"
   code: "https://github.com/punch-mission/regularizepsf"
   contact: "Marcus Hughes"
   keywords: ["plotting", "calibration", "general", "fits", "local", "data_analysis"]
+  hssi: "https://hssi.hsdcloud.org/software/regularizepsf/"
   community: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
   documentation: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
   testing: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
@@ -612,12 +612,12 @@
   license: [ "https://img.shields.io/badge/Good-brightgreen.svg", "Good" ]
 
 - name: sami2py
-  hssi: "https://hssi.hsdcloud.org/software/sami2py/"
   code: https://github.com/sami2py/sami2py
   docs: https://sami2py.readthedocs.io
   description: Run, read, and plot the SAMI2 ionospheric model.
   contact: Jeff Klenzing
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/sami2py/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -626,13 +626,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "SAMMI"
-  hssi: "https://hssi.hsdcloud.org/software/sammi-cdf/"
   code: "https://github.com/swxsoc/sammi"
   description: "Share Attribute and Metadata Management Interface - Manage attributes for ISTP CDF files using YAML"
   docs: "https://sammi-cdf.readthedocs.io/"
   logo: "https://raw.githubusercontent.com/swxsoc/sammi/e764c4c84d5e511799ffc47d446a76f17501b8a2/docs/logo/sammi_logo.png"
   contact: "Maxine Hartnett"
   keywords: ["general", "cdf", "data_access"]
+  hssi: "https://hssi.hsdcloud.org/software/sammi-cdf/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -641,12 +641,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "SAVIC"
-  hssi: "https://hssi.hsdcloud.org/software/savic/"
   description: "Stability Analysis Vitalizing Instability Classification - a Python package for predicting, quantifying and classifying ion-driven plasma instabilities"
   docs: "https://savic.readthedocs.io/en/latest/index.html"
   code: "https://github.com/MihailoMartinovic/SAVIC"
   contact: "Mihailo Martinovic"
   keywords: ["heliosphere","plasma_physics","multidimensional","hdf5"]
+  hssi: "https://hssi.hsdcloud.org/software/savic/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -655,12 +655,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   
 - name: SciQLop
-  hssi: "https://hssi.hsdcloud.org/software/sciqlop/"
   code: https://github.com/SciQLop/SciQLop
   description: "SciQLOP (SCIentific Qt application for Learning from Observations of Plasmas) is a powerful and user-friendly software designed for the visualization and analysis of in-situ space plasma data with jupyter notebook integrated."
   logo: https://raw.githubusercontent.com/SciQLop/SciQLop/main/SciQLop/resources/icons/SciQLop.png
   contact: Alexis Jeandet
   keywords: ["heliosphere", "magnetosphere", "plasma_physics", "interactive", "line_plots", "plotting", "general", "cdaweb", "sscweb", "web_service", "remote", "data_access", "data_analysis"]
+  hssi: "https://hssi.hsdcloud.org/software/sciqlop/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
@@ -669,11 +669,11 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "SkyWinder"
-  hssi: "https://hssi.hsdcloud.org/software/skywinder/"
   description: "SkyWinder is an open-source Python package useful for instrument control and telemetry."
   code: "https://github.com/PolarMesosphericClouds/SkyWinder"
   contact: "Carl Bjorn Kjellstrand"
   keywords: ["ionosphere_thermosphere_mesosphere", "geospace", "planetary", "instrumentation", "image"]
+  hssi: "https://hssi.hsdcloud.org/software/skywinder/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -682,13 +682,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: solarmach
-  hssi: "https://hssi.hsdcloud.org/software/solarmach/"
   url: "https://solar-mach.github.io"
   code: https://github.com/jgieseler/solarmach
   description: "Multi-spacecraft heliospheric configuration plotter"
   docs: https://solarmach.readthedocs.io
   contact: Jan Gieseler
   keywords: ["solar", "heliosphere",  "coordinates", "2D_graphics", "plotting", "general", "web_service"]
+  hssi: "https://hssi.hsdcloud.org/software/solarmach/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -697,12 +697,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: solo-epd-loader
-  hssi: "https://hssi.hsdcloud.org/software/solo-epd-loader/"
   code: https://github.com/jgieseler/solo-epd-loader
   description: "Data loader for Solar Orbiter/EPD energetic charged particle sensors EPT, HET, and STEP"
   docs: https://github.com/jgieseler/solo-epd-loader#readme=
   contact: Jan Gieseler
   keywords: ["data_access", "data_retrieval", "heliosphere","instrumentation", "solar", "specific"]
+  hssi: "https://hssi.hsdcloud.org/software/solo-epd-loader/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -711,12 +711,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "space-packet-parser"
-  hssi: "https://hssi.hsdcloud.org/software/space-packet-parser/"
   code: "https://github.com/lasp/space_packet_parser"
   description: "A CCSDS telemetry packet decoding library based on the XTCE packet format description standard."
   docs: "https://space-packet-parser.readthedocs.io"
   contact: "Gavin Medley"
   keywords: ["ccsds", "xtce", "packet_parsing", "packet_inspection", "data_analysis", "data_assimilation", "binary"]
+  hssi: "https://hssi.hsdcloud.org/software/space-packet-parser/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -725,13 +725,13 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: Speasy
-  hssi: "https://hssi.hsdcloud.org/software/speasy/"
   code: https://github.com/SciQLop/speasy
   description: "Speasy is a free and open-source Python package that makes it easy to find and load space physics data from a variety of data sources, whether it is online and public such as CDAWEB and AMDA, or any described archive, local or remote."
   docs: https://speasy.readthedocs.io/
   logo: https://raw.githubusercontent.com/SciQLop/speasy/main/logo/logo_speasy_400dpi.png
   contact: Alexis Jeandet
   keywords: ["heliosphere", "plasma_physics", "magnetosphere", "data_retrieval", "data_container", "general", "cdf", "csv", "ascii", "cdaweb", "local", "remote", "sscweb", "web_service", "data_access"]
+  hssi: "https://hssi.hsdcloud.org/software/speasy/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -740,12 +740,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "SpiceyPy"
-  hssi: "https://hssi.hsdcloud.org/software/spiceypy/"
   description: "Pythonic wrapper for Spice."
   docs: "https://spiceypy.readthedocs.io"
   code: "https://github.com/AndrewAnnex/SpiceyPy"
   contact: "Andrew M. Annex"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
+  hssi: "https://hssi.hsdcloud.org/software/spiceypy/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -754,12 +754,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "sunkit-image"
-  hssi: "https://hssi.hsdcloud.org/software/sunkit-image/"
   description: "A image processing toolbox for Solar Physics"
   docs: "https://docs.sunpy.org/projects/sunkit-image"
   code: "https://github.com/sunpy/sunkit-image"
   contact: "SunPy Steering Committee"
   keywords: ["solar", "general", "data_analysis"]
+  hssi: "https://hssi.hsdcloud.org/software/sunkit-image/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -768,12 +768,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "sunkit-instruments"
-  hssi: "https://hssi.hsdcloud.org/software/sunkit-instruments/"
   description: "A SunPy-affiliated package for solar instrument-specific tools."
   docs: "https://docs.sunpy.org/projects/sunkit-instruments"
   code: "https://github.com/sunpy/sunkit-instruments"
   contact: "SunPy Steering Committee"
   keywords: ["solar", "specific", "instrumentation"]
+  hssi: "https://hssi.hsdcloud.org/software/sunkit-instruments/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -782,12 +782,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "sunraster"
-  hssi: "https://hssi.hsdcloud.org/software/sunraster/"
   description: "A SunPy-affiliated package which provides tools to analyze data from spectral data from any solar mission."
   docs: "https://docs.sunpy.org/projects/sunraster"
   code: "https://github.com/sunpy/sunraster"
   contact: "SunPy Steering Committee"
   keywords: ["solar", "data_container", "spectra", "plotting", "general", "fits"]
+  hssi: "https://hssi.hsdcloud.org/software/sunraster/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -796,12 +796,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "SWVO"
-  hssi: ""
   description: "Tools for downloading and reading space-weather data and geomagnetic indices."
   docs: "https://swvo.readthedocs.io/en/latest/"
   code: "https://github.com/GFZ/SWVO"
   contact: "Sahil Jhawar (jhawar@gfz.de), Bernhard Haas (bhaas@gfz.de)"
   keywords: ["heliosphere", "magnetosphere", "solar", "ionosphere_thermosphere_mesosphere", "plasma_physics", "data_access", "data_retrieval", "reference_data", "csv", "netcdf", "ascii", "coordinates", "time", "remote", "local", "web_service", "general", "ace", "dscovr", "omni", "enlil"]
+  hssi: ""
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -810,7 +810,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "swxsoc"
-  hssi: "https://hssi.hsdcloud.org/software/swxsoc/"
   url: "https://swxsoc.github.io/"
   description: "Pipeline and analysis tools for space weather data processing."
   docs: "https://swxsoc.readthedocs.io/"
@@ -818,6 +817,7 @@
   logo: "https://raw.githubusercontent.com/swxsoc/swxsoc/fbbc26e70863f8acc4df53dee4876a40b5cca154/docs/logo/swxsoc_logo.png"
   contact: "Steven Christe, Damian Barrous Dumme, Andrew Robbertz"
   keywords: ["general", "data_container", "cdf", "data_analysis", "hermes"]
+  hssi: "https://hssi.hsdcloud.org/software/swxsoc/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -826,12 +826,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "TomograPy"
-  hssi: "https://hssi.hsdcloud.org/software/tomograpy/"
   url: "http://nbarbey.github.io/TomograPy"
   description: "Coronal tomographic reconstructions."
   code: "https://github.com/nbarbey/TomograPy"
   contact: "Nicolas Barbey"
   keywords: ["solar","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/tomograpy/"
   community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   documentation: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   testing: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
@@ -840,7 +840,6 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "viresclient"
-  hssi: "https://hssi.hsdcloud.org/software/viresclient/"
   code: "https://github.com/ESA-VirES/VirES-Python-Client"
   docs: "https://viresclient.readthedocs.io"
   url: "https://vires.services"
@@ -848,6 +847,7 @@
   description: "Access to ESA Swarm mission products"
   contact: "EOX IT Services / Ashley Smith"
   keywords: ["geospace", "ionosphere_thermosphere_mesosphere", "data_retrieval", "web_service", "remote", "data_access", "specific"]
+  hssi: "https://hssi.hsdcloud.org/software/viresclient/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
@@ -856,12 +856,12 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "XRTpy"
-  hssi: "https://hssi.hsdcloud.org/software/xrtpy/"
   description: "A Python package for analyzing data from the X-Ray Telescope instrument onboard the Hinode spacecraft."
   docs: "https://xrtpy.readthedocs.io"
   code: "https://github.com/HinodeXRT/xrtpy"
   contact: "Joy Velasquez"
   keywords: ["solar", "specific", "data_analysis", "hinode"]
+  hssi: "https://hssi.hsdcloud.org/software/xrtpy/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
