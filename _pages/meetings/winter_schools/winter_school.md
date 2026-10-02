@@ -32,17 +32,14 @@ Travel support applications will be vetted and approved by members of the Winter
 
 <br>
 #### Hotel
-<!-- TODO: Add the negotiated room block rate (and parking cost, if any) once confirmed. -->
-The official recommended hotel is the **Graduate by Hilton Tucson**, located at **930 E 2nd St, Tucson, AZ 85719** — less than a 10-minute walk (about 0.4 miles) from the Student Union Memorial Center, where the Winter School will be held. We have reserved a block of rooms for Winter School attendees. **The room block booking link expires on December 7th, 2026.** After that date, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.
+The official recommended hotel is the **Graduate by Hilton Tucson**, located at **930 E 2nd St, Tucson, AZ 85719** — less than a 10-minute walk (about 0.4 miles) from the Student Union Memorial Center, where the Winter School will be held. We have reserved a block of rooms for Winter School attendees at the government per diem rate. **The room block booking link expires on December 7th, 2026.** After that date, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.
 
 To book your room for the Winter School, [click here](https://book.passkey.com/event/51272286/owner/50247507/home). Please note that parking is valet-only, with a fee of $39 plus tax for overnight. Other parking options include metered street parking in the area or the paid public garage located across the street from the hotel.
 
 <br>
 ### Location
-The Winter School will be held in-person at the [**Student Union Memorial Center**](https://union.arizona.edu/) on the [University of Arizona](https://www.arizona.edu/) campus in Tucson, Arizona, and virtually over Zoom.
+The Winter School will be held in-person at the [University of Arizona](https://www.arizona.edu/) campus in Tucson, Arizona at the [**Student Union Memorial Center**](https://union.arizona.edu/) in Ventana Room 442 (on 4th floor of SUMC), as well as virtually over Zoom.
 
-<!-- TODO: Add the specific room number(s) once confirmed. -->
-Room TBD<br>
 Student Union Memorial Center<br>
 University of Arizona<br>
 1303 E University Blvd<br>
@@ -95,5 +92,9 @@ Please email: <a href="mailto:pyhc-confidential@lasp.colorado.edu">pyhc-confiden
 
 <br>
 ### Acknowledgements
-<!-- TODO: Add sponsor logos and award numbers once funding is confirmed. -->
-**TBD.** Funding sources and sponsor acknowledgements will be listed here.
+<p float="left">
+  <a href="https://www.nasa.gov/goddard">
+    <img class="rounded-circle" src="../../img/project_logos/NASA.jpeg" alt="NASA's Goddard Space Flight Center logo" width="200px" height="200px"/>
+  </a>
+</p>
+This summer school is funded by NASA award numbers 80NSSC22K0326 and 80NSSC26K1134
