@@ -1,24 +1,3 @@
-#### 2026 - Quarter 1:
-
-###### Adopt support for:
-
-|         |                      |                                  |
-| ------- | -------------------- | -------------------------------- |
-| ipython | 9.5.0 to 9.6.0       | support by Feb 2026 and Mar 2026 |
-| xarray  | 2025.7.0 to 2025.9.0 | support by Jan 2026 and Mar 2026 |
-| zarr    | 3.1.0                | support by Jan 2026              |
-
-###### Can drop support for:
-
-|              |                      |                                |
-| ------------ | -------------------- | ------------------------------ |
-| ipython      | 8.20.0 to 8.23.0     | released Jan 2024 and Mar 2024 |
-| pandas       | 2.2.0                | released Jan 2024              |
-| scikit-learn | 1.4.0                | released Jan 2024              |
-| scipy        | 1.12.0               | released Jan 2024              |
-| xarray       | 2024.1.0 to 2024.3.0 | released Jan 2024 and Mar 2024 |
-| zarr         | 2.17.0               | released Feb 2024              |
-
 #### 2026 - Quarter 2:
 
 ###### Adopt support for:
@@ -97,12 +76,12 @@
 
 ###### Adopt support for:
 
-|          |                  |                                  |
-| -------- | ---------------- | -------------------------------- |
-| ipython  | 9.16.0 to 9.17.0 | support by Jan 2027 and Feb 2027 |
-| networkx | 3.7              | support by Mar 2027              |
-| xarray   | 2026.7.0         | support by Jan 2027              |
-| zarr     | 3.3.0 to 3.4.0   | support by Jan 2027 and Mar 2027 |
+|          |                      |                                  |
+| -------- | -------------------- | -------------------------------- |
+| ipython  | 9.16.0 to 9.17.0     | support by Jan 2027 and Feb 2027 |
+| networkx | 3.7                  | support by Mar 2027              |
+| xarray   | 2026.7.0 to 2026.9.0 | support by Jan 2027 and Mar 2027 |
+| zarr     | 3.3.0 to 3.4.0       | support by Jan 2027 and Mar 2027 |
 
 ###### Can drop support for:
 
@@ -186,12 +165,12 @@
 
 ###### Can drop support for:
 
-|          |                  |                                |
-| -------- | ---------------- | ------------------------------ |
-| ipython  | 9.16.0 to 9.17.0 | released Jul 2026 and Aug 2026 |
-| networkx | 3.7              | released Sep 2026              |
-| xarray   | 2026.7.0         | released Jul 2026              |
-| zarr     | 3.3.0 to 3.4.0   | released Jul 2026 and Sep 2026 |
+|          |                      |                                |
+| -------- | -------------------- | ------------------------------ |
+| ipython  | 9.16.0 to 9.17.0     | released Jul 2026 and Aug 2026 |
+| networkx | 3.7                  | released Sep 2026              |
+| xarray   | 2026.7.0 to 2026.9.0 | released Jul 2026 and Sep 2026 |
+| zarr     | 3.3.0 to 3.4.0       | released Jul 2026 and Sep 2026 |
 
 #### 2028 - Quarter 4:
 
