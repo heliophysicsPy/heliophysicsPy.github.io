@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Quarterly Reports
+title: Annual and Quarterly Reports
 permalink: /docs/reports/
 exclude: true
 ---
 
-This page contains all quarterly reports on activity within the Python in Heliophysics Community. Click a link below to view the report.
+This page contains all annual (beginning 2025) and quarterly (prior to 2025) reports on activity within the Python in Heliophysics Community. Click a link below to view the report.
 
  * [October 2018]({% link
 _pages/docs/reports/october2018.md %})
@@ -69,3 +69,6 @@ _pages/docs/reports/may2024.md %})
 
  * [August 2024]({% link 
 _pages/docs/reports/august2024.md %})
+
+ * [2025 and 2026 Annual report]({% link
+_pages/docs/reports/2025_2026_report.md %})
