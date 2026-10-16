@@ -1,0 +1,5 @@
+{%- if include.project.hssi and include.project.hssi != empty -%}
+  <a class="project-title-link" href="{{ include.project.hssi | escape }}">{{ include.project.name }}</a>
+{%- else -%}
+  {{ include.project.name }}
+{%- endif -%}

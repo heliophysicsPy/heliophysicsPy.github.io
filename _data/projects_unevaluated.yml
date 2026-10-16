@@ -3,18 +3,21 @@
   description: Load and Plot ACE satellite magnetometer data
   contact: Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/acemag/"
 
 - name: AstrometryAzEl
   code: https://github.com/space-physics/astrometry_azel
   description: plate scale / calibrate star imagery to use multiple auroral/airglow cameras together
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/astrometryazel/"
 
 - name: Auroral Electrojet
   code: https://github.com/space-physics/AEindex
   description: Auroral Electrojet AE-index read and plot.
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/auroral-electrojet/"
 
 - name: DASCutils
   code: https://github.com/space-physics/dascasi
@@ -22,18 +25,21 @@
   logo: https://i.ibb.co/JKLF4FB/logo.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/dascutils/"
 
 - name: Digital Meridian Spectrometer
   code: https://github.com/space-physics/digital-meridian-spectrometer
   description: UAF Digital Meridian Spectrometer-- load and plot
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/digital-meridian-spectrometer/"
 
 - name: GEOrinex
   code: https://github.com/geospace-code/georinex
   description: Python RINEX 2/3 NAV/OBS reader with speed and simplicity, handling most RINEX formats.
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/georinex/"
 
 - name: GOESutils
   code: https://github.com/space-physics/GOESplot
@@ -41,12 +47,14 @@
   logo: https://raw.githubusercontent.com/space-physics/GOESplot/master/src/goesplot/tests/goes13-IR-2017-07-13-12.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","solar","magnetosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/goesutils/"
 
 - name: GIMAmag
   code: https://github.com/space-physics/gima-magnetometer
   description: UAF Geophysical Institute magnetometer network data read and plot
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/gimamag/"
 
 - name: GLOW
   code: https://github.com/space-physics/NCAR-GLOW
@@ -54,6 +62,7 @@
   logo: https://www2.hao.ucar.edu/sites/default/files/resize/images/ICON-GOLD_2016/IonosphereHorizon-Banner-980x232.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/glow/"
 
 - name: HWM-93
   code: https://github.com/space-physics/hwm93
@@ -61,6 +70,7 @@
   logo: https://ccmc.gsfc.nasa.gov/images/CCMC-LOGO-2.gif
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/hwm-93/"
 
 - name: IGRF-13
   code: https://github.com/space-physics/igrf
@@ -68,6 +78,7 @@
   logo: https://www.ngdc.noaa.gov/IAGA/vmod/img/vmod_header.gif
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/igrf-13/"
 
 - name: IRI-2016
   code: https://github.com/space-physics/iri2016
@@ -75,6 +86,7 @@
   logo: https://iri.gsfc.nasa.gov/images/red_band-179.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/pyiri2016/"
 
 - name: IRI-90
   code: https://github.com/space-physics/iri90
@@ -82,6 +94,7 @@
   logo: https://iri.gsfc.nasa.gov/images/tail-179.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/iri-90/"
 
 - name: LOWTRAN
   code: https://github.com/space-physics/lowtran
@@ -89,60 +102,70 @@
   logo: https://raw.githubusercontent.com/space-physics/lowtran/master/gfx/whyskyisblue.png
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/lowtran/"
 
 - name: Maidenhead
   code: https://github.com/space-physics/maidenhead
   description: Python Maidenhead <--> WGS84 coordinate conversions, useful for crowdsourced observations
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/maidenhead/"
 
 - name: MGSutils
   code: https://github.com/space-physics/mgs-radio
   description: Mars Global Surveyor radio occultation
   contact: Michael Hirsch
   keywords: ["planetary","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/mgsutils/"
 
 - name: POLAN
   code: https://github.com/space-physics/POLAN
   description: estimate true ionosphere height from ionosonde
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/polan/"
 
 - name: PyGemini
   description: Python frontend for Gemini3D ionospheric kintic + fluid dynamics models
   code: https://github.com/gemini3d/gemini3d
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/pygemini/"
 
 - name: PyMap3D
   code: https://github.com/geospace-code/pymap3d
   description: Python 3D coordinate conversions for geospace ecef enu eci and more
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/pymap3d/"
 
 - name: PyZenodo
   code: https://github.com/space-physics/pyzenodo3
   description: Simple, clean pure Python 3 Zenodo API (upload, download data).
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","magnetosphere","solar","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/pyzenodo/"
 
 - name: ReesAurora
   code: https://github.com/space-physics/reesaurora
   description: Rees/Sergienko module of excitation rates, relevant to auroral optical emissions
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/reesaurora/"
 
 - name: Scanning Doppler Interferometer
   code: https://github.com/space-physics/scanning-doppler-interferometer
   description: Dowload & plot Scanning Doppler Interferometer data from PI Mark Conde's instruments.
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/scanning-doppler-interferometer/"
 
 - name: ScienceDates
   code: https://github.com/geospace-code/sciencedates
   description: Date / time conversions used in the sciences.
   contact: Michael Hirsch
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/sciencedates/"
 
 - name: THEMISasi
   code: https://github.com/space-physics/themisasi
@@ -150,18 +173,21 @@
   logo: https://i.ibb.co/Jyx1nNd/thm-gbo-logo.jpg
   contact: Michael Hirsch
   keywords: ["magnetosphere","ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/themisasi/"
 
 - name: WMM2020
   code: https://github.com/space-physics/WMM2020
   description: World Magnetic Model 2020 from Python
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/wmm2020/"
 
 - name: WMM2015
   code: https://github.com/space-physics/WMM2015
   description: World Magnetic Model 2015 from Python
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/wmm2015/"
 
 - name: MSISE-00
   description:  NRL MSISE-00 atmospheric model-- in Python and Matlab
@@ -169,9 +195,11 @@
   code: https://github.com/space-physics/msise00
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
+  hssi: "https://hssi.hsdcloud.org/software/msise-00/"
 
 - name: NEXRADutils
   code: https://github.com/space-physics/NEXRADutils
   description: Download/Plot NEXRAD compositive reflectivity by date/time, for ionospheric perturbations
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","general"]
+  hssi: "https://hssi.hsdcloud.org/software/nexradutils/"
