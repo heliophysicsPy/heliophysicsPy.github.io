@@ -24,7 +24,7 @@ Registration for the PyHC 2027 Winter School is officially open! Registration is
 
 <br>
 ### Travel Support
-Travel stipends are available to help up to 20 selected attendees attend the Winter School in person. Travel stipends will cover the entirety of an attendee's travel needs (e.g., airfare, lodging, meal per diem, car rental) up to $2,270. Some of these costs will be paid up front with a reimbursement to the attendee after the winter school concludes. **Due to sponsor restrictions, this travel support is limited to US citizens, green card holders, and international students attending a U.S. institution with a valid student visa.**
+Travel stipends are available to help up to 20 selected attendees attend the Winter School in person. These awards will be sent out as flat-stipend reimbursements of $2,563 _after the winter school concludes_, therefore the attendee will have to float the cost up to that point. More information will be sent out regarding travel reimbursement to selected applicants. **Due to sponsor restrictions, this travel support is limited to US citizens, green card holders, and international students attending a U.S. institution with a valid student visa.**
 
 Travel support applications will be vetted and approved by members of the Winter School planning committee. Applications will be scored on need (whether the travel grant strongly determines the applicant's ability to attend onsite), career stage (student, post-doctoral, early career, or within 5 years of most recent degree given preference), and equity (ensuring travel funds are disbursed to multiple institutions, rather than focusing on large cadres from the same institution).
 
