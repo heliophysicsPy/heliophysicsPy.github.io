@@ -37,7 +37,7 @@ a:hover {
   color:#09283f;
 }
 
-a:focus-visible,summary:focus-visible {
+a:focus-visible,summary:focus-visible,button:focus-visible {
   outline:3px solid #287db5;
   outline-offset:5px;
 }
@@ -160,7 +160,7 @@ strong {
   height:52px;
 }
 
-.site-nav {
+.site-nav-links {
   display:flex;
   justify-content:flex-end;
   gap:23px;
@@ -176,6 +176,10 @@ strong {
 
 .site-nav a:hover {
   text-decoration:underline;
+}
+
+.nav-toggle {
+  display:none;
 }
 
 .event-topline {
@@ -466,7 +470,7 @@ iframe { display: block; width: 100%; max-width: 100%; border: 0; background: wh
   }
 
   a:hover { color:#d8edfc; }
-  a:focus-visible,summary:focus-visible { outline-color:#91c8ef; }
+  a:focus-visible,summary:focus-visible,button:focus-visible { outline-color:#91c8ef; }
   .skip-link, .site-header { background:#142431; }
   .site-nav a { color:#c5d7e5; }
   .hero img { box-shadow:0 18px 55px #0000004d; }
@@ -493,7 +497,7 @@ iframe { display: block; width: 100%; max-width: 100%; border: 0; background: wh
 }
 @media (max-width:1100px) {
   .site-header-inner { gap: 20px; }
-  .site-nav { gap: 13px; }
+  .site-nav-links { gap: 13px; }
   .brand small { display: none; }
   .event-bar { gap: 17px; padding: 24px; }
   .event-fact { gap: 10px; }
@@ -505,12 +509,20 @@ iframe { display: block; width: 100%; max-width: 100%; border: 0; background: wh
 }
 @media (max-width:760px) {
   .wrap { width: calc(100% - 40px); }
-  .site-header-inner { width: calc(100% - 40px); padding-block: 16px; display: block; }
-  .brand { justify-content: center; }
+  .site-header-inner { width: calc(100% - 40px); min-height: 0; padding-block: 14px; flex-wrap: wrap; gap: 0 16px; }
   .brand small { display: block; }
   .brand img { width: 42px; height: 42px; }
-  .site-nav { justify-content: center; gap: 7px 17px; margin-top: 15px; }
-  .site-nav a { font-size: 10px; }
+  .nav-collapsible .nav-toggle { display: inline-flex; align-items: center; justify-content: center; width: 46px; height: 40px; padding: 0; background: transparent; color: var(--ink); border: 1px solid var(--line); border-radius: 6px; cursor: pointer; }
+  .nav-open .nav-toggle { background: var(--ice); }
+  /* Animating the single grid row between 0fr and 1fr slides the menu open like the main site's Bootstrap collapse. */
+  .site-nav { flex-basis: 100%; display: grid; grid-template-rows: 1fr; }
+  .nav-collapsible .site-nav { grid-template-rows: 0fr; visibility: hidden; transition: grid-template-rows .35s ease, visibility .35s; }
+  .nav-collapsible.nav-open .site-nav { grid-template-rows: 1fr; visibility: visible; }
+  /* The inline padding and end margins leave room for link focus outlines inside the clipped area. */
+  .site-nav-links { min-height: 0; overflow: hidden; flex-direction: column; flex-wrap: nowrap; gap: 0; padding-inline: 8px; margin-inline: -8px; }
+  .site-nav a { font-size: 14px; padding-block: 8px; }
+  .site-nav a:first-child { margin-top: 8px; }
+  .site-nav a:last-child { margin-bottom: 8px; }
   .event-topline { font-size: 8px; padding-block: 19px; letter-spacing: .08em; }
   .hero img { border-radius: 9px; }
   .event-bar { margin-top: 15px; grid-template-columns: minmax(0,1fr) minmax(0,1fr); padding: 22px; gap: 20px 16px; }
@@ -551,5 +563,5 @@ iframe { display: block; width: 100%; max-width: 100%; border: 0; background: wh
 }
 @media (prefers-reduced-motion:reduce) {
   html { scroll-behavior: auto; }
-  .button, .poster img { transition: none; }
+  .button, .poster img, .nav-collapsible .site-nav { transition: none; }
 }

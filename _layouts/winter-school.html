@@ -21,16 +21,31 @@
           <img src="{{ '/img/PyHC header logo 500x500.png' | relative_url }}" width="52" height="52" alt="">
           <span>PyHC<small>Python in Heliophysics Community</small></span>
         </a>
-        <nav class="site-nav" aria-label="Main navigation">
-          <a href="https://heliopython.org/gallery/generated/gallery/index.html">Examples</a>
-          <a href="{{ '/blog' | relative_url }}">Blog</a>
-          {% assign navigation_pages = site.pages | sort: 'order' %}
-          {% for p in navigation_pages %}{% unless p.exclude %}{% if p.title and p.permalink %}
-          <a href="{{ p.permalink | relative_url }}">{{ p.title }}</a>
-          {% endif %}{% endunless %}{% endfor %}
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Menu">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+          <div class="site-nav-links">
+            <a href="https://heliopython.org/gallery/generated/gallery/index.html">Examples</a>
+            <a href="{{ '/blog' | relative_url }}">Blog</a>
+            {% assign navigation_pages = site.pages | sort: 'order' %}
+            {% for p in navigation_pages %}{% unless p.exclude %}{% if p.title and p.permalink %}
+            <a href="{{ p.permalink | relative_url }}">{{ p.title }}</a>
+            {% endif %}{% endunless %}{% endfor %}
+          </div>
         </nav>
       </div>
     </header>
+    <script>
+      // On small screens, collapse the main navigation behind the menu button. Without JavaScript it stays expanded.
+      const siteHeader = document.querySelector('.site-header');
+      const navToggle = siteHeader.querySelector('.nav-toggle');
+      siteHeader.classList.add('nav-collapsible');
+      navToggle.addEventListener('click', () => {
+        const open = siteHeader.classList.toggle('nav-open');
+        navToggle.setAttribute('aria-expanded', open);
+      });
+    </script>
     <main id="main" class="wrap">
       <div class="event-topline">
         <div><a href="{{ '/meetings/summer_schools' | relative_url }}">PyHC schools</a> &nbsp; / &nbsp; Winter 2027</div>
