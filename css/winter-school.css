@@ -406,7 +406,7 @@ strong {
 .section-registration > h3 { scroll-margin-top: 32px; }
 .section-registration > h3 { font-size: 26px; margin-bottom: 20px; }
 .section-registration p { margin: 0; font-size: 14px; }
-.section-travel-support, .section-hotel { display: grid; grid-template-columns: 245px minmax(0, 1fr); column-gap: 48px; }
+.section-travel-support, .section-hotel { display: grid; grid-template-columns: 190px minmax(0, 1fr); column-gap: 40px; }
 .section-travel-support > h3, .section-hotel > h3 { grid-column: 1; grid-row: 1; }
 .section-travel-support > p, .section-hotel > p { grid-column: 2; }
 .section-location { display: grid; grid-template-columns: minmax(0, .7fr) minmax(0, 1.3fr); column-gap: 36px; align-items: start; }
@@ -421,7 +421,7 @@ iframe { display: block; width: 100%; max-width: 100%; border: 0; background: wh
 .section-agenda iframe { height: 560px; margin-block: 26px 36px; }
 .section-agenda h4 { font-size: 23px; margin-top: 30px; }
 .section-agenda h4:not(:first-of-type) { border-top: 1px solid var(--line); padding-top: 26px; }
-.section-official-language { display: grid; grid-template-columns: 245px minmax(0, 1fr); gap: 48px; padding-block: 40px; }
+.section-official-language { display: grid; grid-template-columns: 190px minmax(0, 1fr); gap: 40px; padding-block: 40px; }
 .section-official-language h3 { font-size: 25px; margin: 0; }
 .section-python-resources, .section-winter-school-materials, .section-winter-school-code-of-conduct { grid-column: span 4; padding: 38px 0; border-bottom: none; }
 .section-python-resources h3, .section-winter-school-materials h3, .section-winter-school-code-of-conduct h3 { font-size: 23px; border-top: 2px solid #a6bfce; padding-top: 23px; }
@@ -489,7 +489,6 @@ iframe { display: block; width: 100%; max-width: 100%; border: 0; background: wh
   .event-fact strong { font-size: 14px; }
   .intro { grid-template-columns: minmax(0, 1fr) 240px; gap: 45px; }
   .poster { width: 240px; }
-  .section-travel-support, .section-hotel, .section-official-language { grid-template-columns: 180px minmax(0,1fr); column-gap: 25px; }
 }
 @media (max-width:760px) {
   .wrap { width: calc(100% - 40px); }
