@@ -444,6 +444,43 @@ iframe { display: block; width: 100%; max-width: 100%; border: 0; background: wh
 .site-footer p { font-size: 10px; color: var(--muted); margin: 0; }
 .external-arrow { display: inline-block; position: relative; width: 10px; height: 10px; flex-shrink: 0; border-top: 1.5px solid currentColor; border-right: 1.5px solid currentColor; }
 .external-arrow::after { content: ''; position: absolute; height: 1.5px; width: 13px; background: currentColor; top: 4px; right: -2px; transform: rotate(-45deg); }
+@media (prefers-color-scheme:dark) {
+  :root {
+    color-scheme:dark;
+    --ink:#e2edf5;
+    --muted:#adc0cf;
+    --line:#304758;
+    --ice:#1c3243;
+    --blue:#91c8ef;
+    --paper:#101e2a;
+  }
+
+  a:hover { color:#d8edfc; }
+  a:focus-visible,summary:focus-visible { outline-color:#91c8ef; }
+  .skip-link, .site-header { background:#142431; }
+  .site-nav a { color:#c5d7e5; }
+  .hero img { box-shadow:0 18px 55px #0000004d; }
+  .event-bar {
+    background:linear-gradient(120deg,#1e3445,#172a39);
+    border-color:#3a5264;
+    box-shadow:0 12px 35px #00000033;
+  }
+  .button { background:#a8d5f4; border-color:#a8d5f4; color:#102537; }
+  .button:hover { background:#c5e5fa; border-color:#c5e5fa; color:#102537; }
+  .button.light { background:var(--ice); border-color:var(--line); color:var(--ink); }
+  .button.light:hover { background:#29465b; }
+  .intro p:first-of-type { color:#c5d7e5; }
+  .poster img { box-shadow:0 18px 40px #0000004d; }
+  .content-section strong { color:#d4e4f0; }
+  .section-dates, .section-registration {
+    background:linear-gradient(120deg,#1d3446,#182b3a);
+    border-color:#38566c;
+  }
+  .section-python-resources h3, .section-winter-school-materials h3, .section-winter-school-code-of-conduct h3 { border-top-color:#4d6d84; }
+  .section-additional-info { background:#1a3041; }
+  /* Keep the live third-party embeds in their original, readable color schemes. */
+  iframe { color-scheme:light; }
+}
 @media (max-width:1100px) {
   .site-header-inner { gap: 20px; }
   .site-nav { gap: 13px; }
