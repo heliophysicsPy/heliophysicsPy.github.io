@@ -193,7 +193,7 @@ strong {
   text-decoration:none;
 }
 
-.event-topline span {
+.event-topline > span {
   display:flex;
   align-items:center;
   gap:9px;
@@ -207,6 +207,11 @@ strong {
   border-radius:50%;
   display:inline-block;
   box-shadow:0 0 0 3px #24d45c12,0 0 8px #1dd65880,0 0 15px #1dd65830;
+}
+
+.registration-status.is-closed .status-dot {
+  background:linear-gradient(145deg,#ff6b6b,#f03e3e 65%,#e03131);
+  box-shadow:0 0 0 3px #f03e3e12,0 0 8px #f03e3e80,0 0 15px #f03e3e30;
 }
 
 .hero {
@@ -322,6 +327,14 @@ strong {
 
 .button.light:hover {
   background:var(--ice);
+}
+
+.button.is-closed,
+.button.is-closed:hover {
+  background:transparent;
+  color:var(--muted);
+  border-color:var(--line);
+  cursor:default;
 }
 
 .register-cta {

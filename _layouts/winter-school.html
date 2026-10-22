@@ -34,7 +34,7 @@
     <main id="main" class="wrap">
       <div class="event-topline">
         <div><a href="{{ '/meetings/summer_schools' | relative_url }}">PyHC schools</a> &nbsp; / &nbsp; Winter 2027</div>
-        <span><i class="status-dot" aria-hidden="true"></i> Registration is open</span>
+        <span class="registration-status"><i class="status-dot" aria-hidden="true"></i> <span class="registration-status-label">Registration is open</span></span>
       </div>
       {% comment %}
         Wrap the rendered Markdown sections for presentation and add decorative icons.
@@ -61,6 +61,17 @@
           <small>Register by December 18, 2026</small>
         </div>
       </div>
+      <script>
+        // Registration closes at 11:59 PM MT (MST, UTC-7) on December 18, 2026.
+        if (Date.now() > Date.parse('2026-12-18T23:59:59-07:00')) {
+          document.querySelector('.registration-status').classList.add('is-closed');
+          document.querySelector('.registration-status-label').textContent = 'Registration is closed';
+          const registerButton = document.querySelector('.register-button');
+          registerButton.removeAttribute('href');
+          registerButton.classList.add('is-closed');
+          registerButton.textContent = 'Registration closed';
+        }
+      </script>
       <nav class="section-nav" aria-label="On this page">
         <a href="#overview">Overview</a>
         <a href="#registration">Registration</a>
