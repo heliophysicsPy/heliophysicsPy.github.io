@@ -1,6 +1,5 @@
 ---
 layout: winter-school
-winter_school_icons: font-awesome
 title: Python in Heliophysics Winter School 2027
 summary: The web page for the 2027 PyHC Winter School
 permalink: /winter-school
