@@ -404,6 +404,7 @@ strong {
 }
 .section-dates { grid-column: span 3; }
 .section-registration { grid-column: span 9; }
+.section-registration > h3 { scroll-margin-top: 32px; }
 .section-dates > h3, .section-registration > h3 { font-size: 26px; margin-bottom: 20px; }
 .section-dates p { margin-bottom: 0; text-wrap: balance; font-size: 22px; line-height: 1.6; color: var(--ink); font-weight: 500; }
 .section-dates p + p { margin-top: 4px; font-size: 14px; font-weight: 400; color: var(--muted); }
