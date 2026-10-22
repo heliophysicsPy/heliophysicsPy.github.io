@@ -1,0 +1,555 @@
+/* Winter School only: the rest of the site's layouts and styles are unchanged. */
+:root {
+  color-scheme:light;
+  --ink:#17354b;
+  --muted:#526b7e;
+  --line:#d3e0e9;
+  --ice:#edf4f8;
+  --blue:#245578;
+  --paper:#f7fafc;
+}
+
+* {
+  box-sizing:border-box;
+}
+
+html {
+  scroll-behavior:smooth;
+  scroll-padding-top:24px;
+}
+
+body.winter-school {
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:Inter,"Segoe UI",Arial,sans-serif;
+  font-size:16px;
+  line-height:1.75;
+  -webkit-font-smoothing:antialiased;
+}
+
+a {
+  color:var(--blue);
+  text-underline-offset:4px;
+}
+
+a:hover {
+  color:#09283f;
+}
+
+a:focus-visible,summary:focus-visible {
+  outline:3px solid #287db5;
+  outline-offset:5px;
+}
+
+img {
+  max-width:100%;
+  height:auto;
+}
+
+p {
+  margin:0 0 1.2em;
+}
+
+h1,h2,h3,h4 {
+  line-height:1.2;
+  letter-spacing:-.035em;
+  margin:0 0 20px;
+  font-weight:650;
+}
+
+h2 {
+  font-size:clamp(30px,3vw,40px);
+}
+
+h3 {
+  font-size:24px;
+}
+
+h4 {
+  font-size:19px;
+}
+
+strong {
+  font-weight:650;
+}
+
+.wrap {
+  width:min(1160px,calc(100% - 64px));
+  margin-inline:auto;
+}
+
+.eyebrow {
+  text-transform:uppercase;
+  letter-spacing:.18em;
+  font-size:11px;
+  font-weight:700;
+  color:var(--muted);
+  margin-bottom:16px;
+}
+
+.visually-hidden {
+  position:absolute;
+  width:1px;
+  height:1px;
+  padding:0;
+  margin:-1px;
+  overflow:hidden;
+  clip:rect(0,0,0,0);
+  white-space:nowrap;
+  border:0;
+}
+
+.skip-link {
+  position:absolute;
+  left:15px;
+  top:-100px;
+  background:white;
+  padding:12px;
+  z-index:10;
+}
+
+.skip-link:focus {
+  top:10px;
+}
+
+.site-header {
+  background:#fff;
+  border-bottom:1px solid var(--line);
+}
+
+.site-header-inner {
+  width:min(1280px,calc(100% - 64px));
+  margin:auto;
+  min-height:96px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:36px;
+}
+
+.brand {
+  display:flex;
+  align-items:center;
+  gap:12px;
+  text-decoration:none;
+  color:var(--ink);
+  flex-shrink:0;
+}
+
+.brand>span {
+  font-family:Orbitron,"Segoe UI",sans-serif;
+  font-size:25px;
+  font-weight:700;
+  letter-spacing:-.04em;
+  line-height:1.25;
+}
+
+.brand small {
+  display:block;
+  font-family:Inter,"Segoe UI",Arial,sans-serif;
+  font-size:10px;
+  font-weight:500;
+  letter-spacing:.03em;
+  color:var(--muted);
+  margin-top:5px;
+}
+
+.brand img {
+  width:52px;
+  height:52px;
+}
+
+.site-nav {
+  display:flex;
+  justify-content:flex-end;
+  gap:23px;
+  flex-wrap:wrap;
+}
+
+.site-nav a {
+  text-decoration:none;
+  color:#425a6e;
+  font-size:12px;
+  font-weight:600;
+}
+
+.site-nav a:hover {
+  text-decoration:underline;
+}
+
+.event-topline {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding-block:24px 20px;
+  font-size:11px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+
+.event-topline a {
+  text-decoration:none;
+}
+
+.event-topline > span {
+  display:flex;
+  align-items:center;
+  gap:9px;
+}
+
+.status-dot {
+  width:8px;
+  height:8px;
+  flex-shrink:0;
+  background:linear-gradient(145deg,#49df70,#20d359 65%,#1ccb52);
+  border-radius:50%;
+  display:inline-block;
+  box-shadow:0 0 0 3px #24d45c12,0 0 8px #1dd65880,0 0 15px #1dd65830;
+}
+
+.registration-status.is-closed .status-dot {
+  background:linear-gradient(145deg,#ff6b6b,#f03e3e 65%,#e03131);
+  box-shadow:0 0 0 3px #f03e3e12,0 0 8px #f03e3e80,0 0 15px #f03e3e30;
+}
+
+.hero {
+  width:100%;
+  margin:auto;
+  position:relative;
+}
+
+.hero img {
+  display:block;
+  width:100%;
+  aspect-ratio:2/1;
+  object-fit:cover;
+  border-radius:16px;
+  box-shadow:0 18px 55px #183b5620;
+}
+
+.event-bar {
+  position:relative;
+  display:grid;
+  grid-template-columns:1fr 1.15fr .85fr auto;
+  gap:26px;
+  align-items:center;
+  margin-top:20px;
+  padding:25px 30px;
+  border:1px solid #fff;
+  border-radius:12px;
+  background:linear-gradient(120deg,#ffffffed,#f3f8fbee);
+  box-shadow:0 12px 35px #183b5614;
+  backdrop-filter:blur(18px);
+}
+
+.event-fact {
+  display:flex;
+  align-items:center;
+  gap:14px;
+  border-right:1px solid var(--line);
+  padding-right:12px;
+}
+
+.ws-icon {
+  display:inline-block;
+  flex-shrink:0;
+  width:24px;
+  height:24px;
+  color:var(--ink);
+  vertical-align:-.1em;
+}
+
+.ws-icon.ws-icon-fa {
+  font-size:22px;
+  line-height:24px;
+  text-align:center;
+}
+
+.event-fact > .ws-icon {
+  width:26px;
+  height:26px;
+}
+
+.event-fact > .ws-icon-fa {
+  font-size:23px;
+  line-height:26px;
+}
+
+.event-fact small {
+  display:block;
+  color:var(--muted);
+  font-size:10px;
+  text-transform:uppercase;
+  letter-spacing:.13em;
+  margin-bottom:4px;
+}
+
+.event-fact strong {
+  font-size:16px;
+  letter-spacing:-.02em;
+}
+
+.event-fact span {
+  font-size:12px;
+  color:var(--muted);
+  display:block;
+}
+
+.button {
+  display:inline-flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:28px;
+  padding:14px 22px;
+  background:var(--ink);
+  color:#fff;
+  border:1px solid var(--ink);
+  border-radius:6px;
+  text-decoration:none;
+  font-size:13px;
+  font-weight:600;
+  line-height:1.5;
+  transition:background .15s;
+}
+
+.button:hover {
+  background:#285c7c;
+  color:white;
+}
+
+.button.light {
+  background:white;
+  color:var(--ink);
+  border-color:var(--line);
+}
+
+.button.light:hover {
+  background:var(--ice);
+}
+
+.button.is-closed,
+.button.is-closed:hover {
+  background:transparent;
+  color:var(--muted);
+  border-color:var(--line);
+  cursor:default;
+}
+
+.register-cta {
+  text-align:center;
+}
+
+.register-cta small {
+  display:block;
+  font-size:10px;
+  color:var(--muted);
+  margin-top:5px;
+}
+
+.section-nav {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:35px;
+  border-bottom:1px solid var(--line);
+  padding:27px 0;
+  font-size:14px;
+}
+
+.section-nav a {
+  color:var(--muted);
+  text-decoration:none;
+}
+
+.section-nav a:hover {
+  text-decoration:underline;
+  color:var(--ink);
+}
+
+
+.hero p { margin: 0; }
+.intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 290px;
+  gap: 85px;
+  align-items: center;
+  padding-block: 76px;
+}
+.intro h1 {
+  font-size: clamp(34px, 3.4vw, 47px);
+  line-height: 1.12;
+  margin-bottom: 28px;
+  max-width: 700px;
+  text-wrap: balance;
+}
+.intro p { color: var(--muted); font-size: 15px; line-height: 1.85; }
+.intro p:first-of-type { color: #3c576c; font-size: 18px; line-height: 1.7; }
+.intro p:last-child { margin-bottom: 0; }
+.poster { margin: 0; width: 290px; justify-self: end; transform: rotate(6deg); }
+.poster img { display: block; border: 7px solid #fff; border-radius: 5px; box-shadow: 0 18px 40px #1d3d5c26; transition: transform .22s ease-out; }
+@media (hover:hover) and (pointer:fine) {
+  .poster img:hover { transform: scale(1.04); }
+}
+.poster figcaption { margin-top: 16px; text-align: center; font-size: 10px; letter-spacing: .07em; text-transform: uppercase; }
+.poster a { text-decoration: none; }
+.poster figcaption a:hover { text-decoration: underline; }
+.poster .external-arrow { width: 8px; height: 8px; margin-left: 4px; }
+.poster .external-arrow::after { width: 10px; top: 3px; right: -1px; }
+.sections-grid { display: grid; grid-template-columns: repeat(12, minmax(0,1fr)); column-gap: 28px; }
+.content-section { grid-column: 1 / -1; min-width: 0; padding-block: 54px; border-bottom: 1px solid var(--line); }
+.content-section > h3 { font-size: 32px; margin-bottom: 25px; }
+.content-section h3:has(.ws-icon), .content-section h4:has(.ws-icon) { display: flex; align-items: flex-start; gap: 13px; }
+.content-section h3 > .ws-icon { margin-top: .17em; }
+.content-section h4 > .ws-icon { width: 21px; height: 21px; margin-top: .1em; }
+.content-section h4 > .ws-icon-fa { font-size: 19px; line-height: 21px; }
+.content-section p { font-size: 15px; line-height: 1.85; color: var(--muted); }
+.content-section > p:last-child { margin-bottom: 0; }
+.content-section strong { color: #365266; }
+.section-registration {
+  align-self: stretch;
+  padding: 32px;
+  background: linear-gradient(120deg, #e5eff6, #f5f9fc);
+  border: 1px solid #cbdde9;
+  border-radius: 12px;
+  margin-bottom: 8px;
+}
+.section-registration { grid-column: 1 / -1; }
+.section-registration > h3 { scroll-margin-top: 32px; }
+.section-registration > h3 { font-size: 26px; margin-bottom: 20px; }
+.section-registration p { margin: 0; font-size: 14px; }
+.section-travel-support, .section-hotel { display: grid; grid-template-columns: 190px minmax(0, 1fr); column-gap: 40px; }
+.section-travel-support > h3, .section-hotel > h3 { grid-column: 1; grid-row: 1; }
+.section-travel-support > p, .section-hotel > p { grid-column: 2; }
+.section-location { display: grid; grid-template-columns: minmax(0, .7fr) minmax(0, 1.3fr); column-gap: 36px; align-items: start; }
+.section-location > h3, .section-location > h4, .section-location > p { grid-column: 1; }
+.section-location > h3 { margin-bottom: 18px; }
+.section-location > p:first-of-type { margin-left: 37px; margin-bottom: 26px; }
+.section-location > h4 { font-size: 21px; letter-spacing: -.025em; border-top: 1px solid var(--line); padding-top: 25px; margin-bottom: 14px; }
+.section-location > h4 + p { margin-left: 34px; margin-bottom: 0; }
+iframe { display: block; width: 100%; max-width: 100%; border: 0; background: white; border-radius: 8px; box-shadow: 0 3px 18px #183b560c; }
+.section-location iframe { grid-column: 2; grid-row: 1 / span 4; height: 450px; }
+.section-agenda > h3 { margin-bottom: 14px; }
+.section-agenda iframe { height: 560px; margin-block: 26px 36px; }
+.section-agenda h4 { font-size: 23px; margin-top: 30px; }
+.section-agenda h4:not(:first-of-type) { border-top: 1px solid var(--line); padding-top: 26px; }
+.section-official-language { display: grid; grid-template-columns: 190px minmax(0, 1fr); gap: 40px; padding-block: 40px; }
+.section-official-language h3 { font-size: 25px; margin: 0; }
+.section-python-resources, .section-winter-school-materials, .section-winter-school-code-of-conduct { grid-column: span 4; padding: 38px 0; border-bottom: none; }
+.section-python-resources h3, .section-winter-school-materials h3, .section-winter-school-code-of-conduct h3 { font-size: 23px; border-top: 2px solid #a6bfce; padding-top: 23px; }
+.section-python-resources p, .section-winter-school-materials p, .section-winter-school-code-of-conduct p { font-size: 14px; }
+.section-additional-info { display: flex; justify-content: space-between; align-items: center; gap: 30px; padding: 25px 30px; background: #edf3f7; border: 0; border-radius: 8px; }
+.section-additional-info h3 { font-size: 23px; margin: 0; }
+.section-additional-info p { margin: 0; font-size: 14px; }
+.section-additional-info a { overflow-wrap: anywhere; }
+.section-acknowledgements { display: grid; grid-template-columns: 70px minmax(0,1fr); column-gap: 25px; align-items: center; padding-block: 45px; border: 0; }
+.section-acknowledgements h3 { grid-column: 2; font-size: 18px; margin-bottom: 6px; }
+.section-acknowledgements p[float] { grid-column: 1; grid-row: 1 / span 2; margin: 0; }
+.section-acknowledgements img { display: block; width: 70px; height: 70px; border-radius: 50%; object-fit: contain; }
+.section-acknowledgements p:last-child { grid-column: 2; font-size: 12px; }
+.site-footer { padding-block: 28px 35px; border-top: 1px solid var(--line); display: flex; align-items: center; justify-content: space-between; gap: 30px; }
+.footer-brand { font-family: Orbitron,"Segoe UI",sans-serif; font-size: 21px; font-weight: 700; letter-spacing: -.04em; text-decoration: none; }
+.footer-brand span { display: block; font-family: Inter,"Segoe UI",Arial,sans-serif; font-size: 9px; font-weight: 400; letter-spacing: normal; color: var(--muted); }
+.site-footer p { font-size: 10px; color: var(--muted); margin: 0; }
+.external-arrow { display: inline-block; position: relative; width: 10px; height: 10px; flex-shrink: 0; border-top: 1.5px solid currentColor; border-right: 1.5px solid currentColor; }
+.external-arrow::after { content: ''; position: absolute; height: 1.5px; width: 13px; background: currentColor; top: 4px; right: -2px; transform: rotate(-45deg); }
+@media (prefers-color-scheme:dark) {
+  :root {
+    color-scheme:dark;
+    --ink:#e2edf5;
+    --muted:#adc0cf;
+    --line:#304758;
+    --ice:#1c3243;
+    --blue:#91c8ef;
+    --paper:#101e2a;
+  }
+
+  a:hover { color:#d8edfc; }
+  a:focus-visible,summary:focus-visible { outline-color:#91c8ef; }
+  .skip-link, .site-header { background:#142431; }
+  .site-nav a { color:#c5d7e5; }
+  .hero img { box-shadow:0 18px 55px #0000004d; }
+  .event-bar {
+    background:linear-gradient(120deg,#1e3445,#172a39);
+    border-color:#3a5264;
+    box-shadow:0 12px 35px #00000033;
+  }
+  .button { background:#a8d5f4; border-color:#a8d5f4; color:#102537; }
+  .button:hover { background:#c5e5fa; border-color:#c5e5fa; color:#102537; }
+  .button.light { background:var(--ice); border-color:var(--line); color:var(--ink); }
+  .button.light:hover { background:#29465b; }
+  .intro p:first-of-type { color:#c5d7e5; }
+  .poster img { box-shadow:0 18px 40px #0000004d; }
+  .content-section strong { color:#d4e4f0; }
+  .section-registration {
+    background:linear-gradient(120deg,#1d3446,#182b3a);
+    border-color:#38566c;
+  }
+  .section-python-resources h3, .section-winter-school-materials h3, .section-winter-school-code-of-conduct h3 { border-top-color:#4d6d84; }
+  .section-additional-info { background:#1a3041; }
+  /* Keep the live third-party embeds in their original, readable color schemes. */
+  iframe { color-scheme:light; }
+}
+@media (max-width:1100px) {
+  .site-header-inner { gap: 20px; }
+  .site-nav { gap: 13px; }
+  .brand small { display: none; }
+  .event-bar { gap: 17px; padding: 24px; }
+  .event-fact { gap: 10px; }
+  .event-fact > .ws-icon { width: 22px; height: 22px; }
+  .event-fact > .ws-icon-fa { font-size: 20px; line-height: 22px; }
+  .event-fact strong { font-size: 14px; }
+  .intro { grid-template-columns: minmax(0, 1fr) 240px; gap: 45px; }
+  .poster { width: 240px; }
+}
+@media (max-width:760px) {
+  .wrap { width: calc(100% - 40px); }
+  .site-header-inner { width: calc(100% - 40px); padding-block: 16px; display: block; }
+  .brand { justify-content: center; }
+  .brand small { display: block; }
+  .brand img { width: 42px; height: 42px; }
+  .site-nav { justify-content: center; gap: 7px 17px; margin-top: 15px; }
+  .site-nav a { font-size: 10px; }
+  .event-topline { font-size: 8px; padding-block: 19px; letter-spacing: .08em; }
+  .hero img { border-radius: 9px; }
+  .event-bar { margin-top: 15px; grid-template-columns: minmax(0,1fr) minmax(0,1fr); padding: 22px; gap: 20px 16px; }
+  .event-fact { display: block; padding-right: 8px; }
+  .event-fact > .ws-icon { display: block; margin-bottom: 10px; }
+  .event-fact:nth-child(2) { border: 0; }
+  .event-fact strong { font-size: 13px; }
+  .event-fact span { font-size: 11px; }
+  .register-cta .button { padding: 12px 14px; gap: 14px; font-size: 12px; }
+  .register-cta small { font-size: 9px; }
+  .section-nav { justify-content: flex-start; gap: 23px; overflow-x: auto; white-space: nowrap; font-size: 13px; padding-block: 21px; }
+  .intro { padding-block: 45px; grid-template-columns: minmax(0,1fr); gap: 32px; }
+  .intro h1 { font-size: 35px; }
+  .intro p { font-size: 14px; }
+  .intro p:first-of-type { font-size: 17px; }
+  .poster { justify-self: center; width: min(230px, 100%); }
+  .sections-grid { display: block; }
+  .content-section { padding-block: 36px; }
+  .content-section h3 { font-size: 27px; }
+  .content-section p { font-size: 14px; }
+  .section-registration { padding: 25px; margin-bottom: 18px; }
+  .section-travel-support, .section-hotel, .section-official-language { display: block; }
+  .section-official-language h3 { margin-bottom: 20px; }
+  .section-location { display: block; }
+  .section-location > p:first-of-type, .section-location > h4 + p { margin-left: 0; }
+  .section-location iframe { height: 350px; margin-top: 26px; }
+  .section-agenda iframe { height: 500px; }
+  .section-python-resources, .section-winter-school-materials, .section-winter-school-code-of-conduct { padding-block: 20px; }
+  .section-python-resources h3, .section-winter-school-materials h3, .section-winter-school-code-of-conduct h3 { font-size: 23px; }
+  .section-additional-info { display: block; padding: 23px; margin-top: 16px; }
+  .section-additional-info h3 { margin-bottom: 12px; font-size: 23px; }
+  .section-acknowledgements { grid-template-columns: 55px minmax(0,1fr); column-gap: 18px; }
+  .section-acknowledgements img { width: 55px; height: 55px; }
+  .section-acknowledgements h3 { font-size: 17px; }
+  .section-acknowledgements p:last-child { font-size: 11px; }
+  .site-footer { display: block; }
+  .site-footer p { margin-top: 15px; }
+}
+@media (prefers-reduced-motion:reduce) {
+  html { scroll-behavior: auto; }
+  .button, .poster img { transition: none; }
+}

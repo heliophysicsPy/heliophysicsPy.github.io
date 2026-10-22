@@ -1,0 +1,17 @@
+{%- assign icon_class = '' -%}
+{%- case include.name -%}
+  {%- when 'dates' -%}{%- assign icon_class = 'fa-calendar-alt' -%}
+  {%- when 'location' -%}{%- assign icon_class = 'fa-map-marker-alt' -%}
+  {%- when 'registration' -%}{%- assign icon_class = 'fa-users' -%}
+  {%- when 'travel-support' -%}{%- assign icon_class = 'fa-plane' -%}
+  {%- when 'hotel' -%}{%- assign icon_class = 'fa-bed' -%}
+  {%- when 'agenda' -%}{%- assign icon_class = 'fa-file-alt' -%}
+  {%- when 'zoom' -%}{%- assign icon_class = 'fa-video' -%}
+  {%- when 'transportation' -%}{%- assign icon_class = 'fa-bus' -%}
+  {%- when 'python-resources' -%}{%- assign icon_class = 'fa-book-open' -%}
+  {%- when 'winter-school-materials' -%}{%- assign icon_class = 'fa-folder-open' -%}
+  {%- when 'winter-school-code-of-conduct' -%}{%- assign icon_class = 'fa-shield-alt' -%}
+{%- endcase -%}
+{%- if icon_class != empty -%}
+<i class="ws-icon ws-icon-fa fas {{ icon_class }}" aria-hidden="true"></i>
+{%- endif -%}

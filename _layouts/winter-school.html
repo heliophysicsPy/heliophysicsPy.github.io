@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.summary | escape }}">
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#142431" media="(prefers-color-scheme: dark)">
+    <title>{{ page.title | escape }} | PyHC</title>
+    <link rel="icon" href="{{ '/img/favicon.png' | relative_url }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ '/css/winter-school.css' | relative_url }}">
+    {% seo %}
+  </head>
+  <body class="winter-school">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="PyHC home">
+          <img src="{{ '/img/PyHC header logo 500x500.png' | relative_url }}" width="52" height="52" alt="">
+          <span>PyHC<small>Python in Heliophysics Community</small></span>
+        </a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="https://heliopython.org/gallery/generated/gallery/index.html">Examples</a>
+          <a href="{{ '/blog' | relative_url }}">Blog</a>
+          {% assign navigation_pages = site.pages | sort: 'order' %}
+          {% for p in navigation_pages %}{% unless p.exclude %}{% if p.title and p.permalink %}
+          <a href="{{ p.permalink | relative_url }}">{{ p.title }}</a>
+          {% endif %}{% endunless %}{% endfor %}
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="wrap">
+      <div class="event-topline">
+        <div><a href="{{ '/meetings/summer_schools' | relative_url }}">PyHC schools</a> &nbsp; / &nbsp; Winter 2027</div>
+        <span class="registration-status"><i class="status-dot" aria-hidden="true"></i> <span class="registration-status-label">Registration is open</span></span>
+      </div>
+      {% comment %}
+        Wrap the rendered Markdown sections for presentation and add decorative icons.
+        Remove only the old spacing-only paragraphs; the Markdown owns the content.
+      {% endcomment %}
+      {% assign school_sections = content | replace: '<p><br /></p>', '' | split: '<h3' %}
+      {% assign banner = school_sections.first | split: '</p>' | first | append: '</p>' %}
+      <div class="hero">{{ banner }}</div>
+      <div class="event-bar" aria-label="Winter School at a glance">
+        <div class="event-fact">
+          {% include winter-school-icon.html name='dates' %}
+          <div><small>When</small><strong>January 5–8, 2027</strong><span>Tuesday through Friday</span></div>
+        </div>
+        <div class="event-fact">
+          {% include winter-school-icon.html name='location' %}
+          <div><small>Where</small><strong>University of Arizona</strong><span>Tucson, AZ · and online</span></div>
+        </div>
+        <div class="event-fact">
+          {% include winter-school-icon.html name='registration' %}
+          <div><small>Registration</small><strong>Free for everyone</strong><span>In person &amp; virtual</span></div>
+        </div>
+        <div class="register-cta">
+          <a class="button register-button" href="https://forms.gle/co64H4iEN4KFazQt9">Register now <span class="external-arrow" aria-hidden="true"></span></a>
+          <small>Register by December 18, 2026</small>
+        </div>
+      </div>
+      <script>
+        // Registration closes at 11:59 PM MT (MST, UTC-7) on December 18, 2026.
+        if (Date.now() > Date.parse('2026-12-18T23:59:59-07:00')) {
+          document.querySelector('.registration-status').classList.add('is-closed');
+          document.querySelector('.registration-status-label').textContent = 'Registration is closed';
+          const registerButton = document.querySelector('.register-button');
+          registerButton.removeAttribute('href');
+          registerButton.classList.add('is-closed');
+          registerButton.textContent = 'Registration closed';
+        }
+      </script>
+      <nav class="section-nav" aria-label="On this page">
+        <a href="#overview">Overview</a>
+        <a href="#registration">Registration</a>
+        <a href="#travel-support">Travel Support</a>
+        <a href="#hotel">Hotel</a>
+        <a href="#location">Location</a>
+        <a href="#agenda">Agenda</a>
+        <a href="#python-resources">Resources</a>
+      </nav>
+      <article class="original-content">
+        <div class="intro" id="overview">
+          <div class="intro-copy">
+            <h1>{{ page.title }}</h1>
+            {{ school_sections.first | remove_first: banner }}
+          </div>
+          <figure class="poster">
+            <a href="{{ '/img/page_images/winter-school-poster.png' | relative_url }}" aria-label="View the Winter School poster">
+              <img src="{{ '/img/page_images/winter-school-poster.png' | relative_url }}" width="1280" height="1920" alt="Winter School 2027 poster, January 5–8 at the University of Arizona" loading="lazy">
+            </a>
+            <figcaption><a href="{{ '/img/page_images/winter-school-poster.png' | relative_url }}">View &amp; share the event poster <span class="external-arrow" aria-hidden="true"></span></a></figcaption>
+          </figure>
+        </div>
+        <div class="sections-grid">
+          {% for section in school_sections offset: 1 %}
+            {% assign heading_attributes = section | split: '>' | first %}
+            {% assign section_id = heading_attributes | split: 'id="' | last | split: '"' | first %}
+            {% assign heading_html = section | split: '</h3>' | first | prepend: '<h3' | append: '</h3>' %}
+            {% assign section_body = section | prepend: '<h3' | remove_first: heading_html %}
+            {% capture zoom_heading %}<h4 id="zoom-meeting-information">{% include winter-school-icon.html name='zoom' %}{% endcapture %}
+            {% capture transportation_heading %}<h4 id="transportation">{% include winter-school-icon.html name='transportation' %}{% endcapture %}
+            {% assign section_body = section_body | replace: '<h4 id="zoom-meeting-information">', zoom_heading | replace: '<h4 id="transportation">', transportation_heading %}
+            <section class="content-section section-{{ section_id }}" aria-labelledby="{{ section_id }}">
+              <h3 id="{{ section_id }}">{% include winter-school-icon.html name=section_id %}{{ heading_html | strip_html }}</h3>
+              {% if section_id == 'location' %}
+                {{ section_body | replace: '<iframe ', '<iframe title="Map of the Student Union Memorial Center" ' }}
+              {% elsif section_id == 'agenda' %}
+                {{ section_body | replace: '<iframe ', '<iframe title="PyHC 2027 Winter School agenda" ' }}
+              {% else %}
+                {{ section_body }}
+              {% endif %}
+            </section>
+          {% endfor %}
+        </div>
+      </article>
+    </main>
+    <footer class="site-footer wrap">
+      <a class="footer-brand" href="{{ '/' | relative_url }}">PyHC <span>Python in Heliophysics Community</span></a>
+      <p>Built with <a href="https://jekyllrb.com/">Jekyll</a> / Edit this page on <a href="https://github.com/heliophysicsPy/heliophysicsPy.github.io">Github.</a></p>
+    </footer>
+  </body>
+</html>
