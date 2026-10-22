@@ -374,7 +374,10 @@ strong {
 .intro p { color: var(--muted); font-size: 15px; line-height: 1.85; }
 .intro p:first-of-type { color: #3c576c; font-size: 18px; line-height: 1.7; }
 .intro p:last-child { margin-bottom: 0; }
-.poster { margin: 0; width: 290px; justify-self: end; transform: rotate(2deg); }
+.poster { margin: 0; width: 290px; justify-self: end; transform: rotate(2deg); transition: transform .22s ease-out; }
+@media (hover:hover) and (pointer:fine) {
+  .poster:hover { transform: rotate(2deg) scale(1.04); }
+}
 .poster img { display: block; border: 7px solid #fff; border-radius: 5px; box-shadow: 0 18px 40px #1d3d5c26; }
 .poster figcaption { margin-top: 16px; text-align: center; font-size: 10px; letter-spacing: .07em; text-transform: uppercase; }
 .poster a { text-decoration: none; }
@@ -504,5 +507,5 @@ iframe { display: block; width: 100%; max-width: 100%; border: 0; background: wh
 }
 @media (prefers-reduced-motion:reduce) {
   html { scroll-behavior: auto; }
-  .button { transition: none; }
+  .button, .poster { transition: none; }
 }
