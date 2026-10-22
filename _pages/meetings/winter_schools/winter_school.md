@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: winter-school
+winter_school_icons: font-awesome
 title: Python in Heliophysics Winter School 2027
 summary: The web page for the 2027 PyHC Winter School
 permalink: /winter-school
@@ -16,7 +17,9 @@ Remote options will be available for those unable to make the trip to Tucson, an
 <br>
 
 ### Dates
-5 January 2027 – 8 January 2027
+January 5–8, 2027
+
+Tuesday through Friday
 
 <br>
 ### Registration
@@ -31,20 +34,22 @@ Travel support applications will be vetted and approved by members of the Winter
 **[Apply for the travel stipend here](https://forms.gle/1tQ62tNjAw6JPNzb9) by Wednesday, November 11th at 11:59 PM MT.**
 
 <br>
-#### Hotel
+### Hotel
 The official recommended hotel is the **Graduate by Hilton Tucson**, located at **930 E 2nd St, Tucson, AZ 85719** — less than a 10-minute walk (about 0.4 miles) from the Student Union Memorial Center, where the Winter School will be held. We have reserved a block of rooms for Winter School attendees at the government per diem rate. **The room block booking link expires on December 7th, 2026.** After that date, guestrooms will be released back into the general inventory and will be sold at the prevailing rates.
 
-To book your room for the Winter School, [click here](https://book.passkey.com/event/51272286/owner/50247507/home). Please note that parking is valet-only, with a fee of $39 plus tax for overnight. Other parking options include metered street parking in the area or the paid public garage located across the street from the hotel.
+**[Click here to book your room for the Winter School](https://book.passkey.com/event/51272286/owner/50247507/home)**. Please note that parking is valet-only, with a fee of $39 plus tax for overnight. Other parking options include metered street parking in the area or the paid public garage located across the street from the hotel.
 
 <br>
 ### Location
-The Winter School will be held in-person at the [University of Arizona](https://www.arizona.edu/) campus in Tucson, Arizona at the [**Student Union Memorial Center**](https://union.arizona.edu/) in Ventana Room 442 (on 4th floor of SUMC), as well as virtually over Zoom.
-
-Student Union Memorial Center<br>
+[Student Union Memorial Center](https://union.arizona.edu/)<br>
+**Ventana Room 442** · 4th floor<br>
 University of Arizona<br>
 1303 E University Blvd<br>
 Tucson, AZ 85719<br>
 USA<br>
+
+#### Zoom Meeting Information
+We will use Zoom for remote participation. **Connection details will be sent via email to registered attendees.**
 
 <iframe src="https://www.google.com/maps?q=Student+Union+Memorial+Center,+1303+E+University+Blvd,+Tucson,+AZ+85719&amp;output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -57,10 +62,6 @@ The agenda for the PyHC 2027 Winter School is a living document, and is subject 
      The /htmlembed/sheet endpoint renders one tab with no tab bar; gid=1085256662 is
      the "public" tab. Note this is presentational only, not an access control. -->
 <iframe src="https://docs.google.com/spreadsheets/d/183CeXpKmOx3RfEEk46jB8E-ndZ19sIVM8gGD2_-XQQw/htmlembed/sheet?gid=1085256662" width="100%" height="500" style="border:0;"></iframe>
-
-<br>
-#### Zoom Meeting Information
-We will use Zoom for remote participation. **Connection details will be sent via email to registered attendees.**
 
 <br>
 #### Transportation
@@ -84,7 +85,7 @@ Looking for notebooks or slides presented at the Winter School? They will be sto
 
 <br>
 ### Winter School Code of Conduct
-We will follow the PyHC Code of Conduct for the PyHC 2027 Winter School ([see here](https://heliopython.org/docs/code_of_conduct/)). Those who violate the code of conduct are subject to removal from the remainder of Winter School activities.
+We will follow the [PyHC Code of Conduct](https://heliopython.org/docs/code_of_conduct/) for the PyHC 2027 Winter School. Those who violate the code of conduct are subject to removal from the remainder of Winter School activities.
 
 <br>
 ### Additional Info
@@ -97,4 +98,4 @@ Please email: <a href="mailto:pyhc-confidential@lasp.colorado.edu">pyhc-confiden
     <img class="rounded-circle" src="../../img/project_logos/NASA.jpeg" alt="NASA's Goddard Space Flight Center logo" width="200px" height="200px"/>
   </a>
 </p>
-This summer school is funded by NASA award numbers 80NSSC22K0326 and 80NSSC26K1134
+This Winter School is funded by NASA award numbers 80NSSC22K0326 and 80NSSC26K1134
