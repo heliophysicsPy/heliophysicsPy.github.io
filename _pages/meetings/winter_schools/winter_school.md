@@ -14,13 +14,6 @@ This Winter School builds on the success of PyHC's [2022]({{ site.baseurl }}/sum
 Remote options will be available for those unable to make the trip to Tucson, and the presentations will be recorded and streamed to [PyHC's YouTube channel](https://www.youtube.com/@pythoninheliophysicscommun3732). Further, in keeping with PyHC's commitment to knowledge sharing, **this event is FREE for all attendees**.
 
 <br>
-
-### Dates
-January 5–8, 2027
-
-Tuesday through Friday
-
-<br>
 ### Registration
 Registration for the PyHC 2027 Winter School is officially open! Registration is FREE for all attendees, for both in-person and virtual participation. In-person participation is limited to the room capacity. **[Register here](https://forms.gle/co64H4iEN4KFazQt9) by Friday, December 18th, 2026 at 11:59 PM MT for both in-person and virtual attendance.**
 
