@@ -11,7 +11,7 @@ The Python in Heliophysics Community (PyHC) is excited to announce its 2027 Wint
 
 This Winter School builds on the success of PyHC's [2022]({{ site.baseurl }}/summer-school) and [2024]({{ site.baseurl }}/summer-school-24) Summer Schools, offering another deep dive into the rich ecosystem of Heliophysics Python packages, just in the winter this time! Open to undergraduate and graduate students, early career scientists, and anyone eager to deepen their understanding of Python in the Heliophysics and Space Weather disciplines, this program promises a mix of in-depth tutorials, engaging demos, and hands-on sessions, delivered by some of the field's leading experts.
 
-Remote options will be available for those unable to make the trip to Tucson, and the presentations will be recorded and streamed to [PyHC's YouTube channel](https://www.youtube.com/@pythoninheliophysicscommun3732). Further, in keeping with PyHC's commitment to knowledge-sharing, **this event is FREE for all attendees**.
+Remote options will be available for those unable to make the trip to Tucson, and the presentations will be recorded and streamed to [PyHC's YouTube channel](https://www.youtube.com/@pythoninheliophysicscommun3732). Further, in keeping with PyHC's commitment to knowledge sharing, **this event is FREE for all attendees**.
 
 <br>
 
