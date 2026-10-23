@@ -435,6 +435,22 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "punchbowl"
+  description: "Calibration code for the PUNCH mission"
+  logo: "https://github.com/punch-mission/punchbowl/blob/main/docs/_static/logo.png"
+  docs: "https://punchbowl.readthedocs.io/en/latest/data/index.html"
+  code: "https://github.com/punch-mission/punchbowl"
+  contact: "Marcus Hughes"
+  keywords: ["heliosphere", "image_processing", "specific", "fits", "local"]
+  hssi: "https://hssi.hsdcloud.org/software/punchbowl/"
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  PHEP3: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+
 - name: "PyAuroraX"
   description: "Python library supporting data access and analysis for All-Sky Imager (ASI) data"
   logo: "https://raw.githubusercontent.com/aurorax-space/pyaurorax/main/logo.svg"
@@ -709,6 +725,22 @@
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
+- name: "solpolpy"
+  description: "Calibration code for the PUNCH mission"
+  logo: "https://github.com/punch-mission/punchbowl/blob/main/docs/_static/logo.png"
+  docs: "https://solpolpy.readthedocs.io/en/latest/"
+  code: "https://github.com/punch-mission/solpolpy"
+  contact: "Marcus Hughes"
+  keywords: ["heliosphere", "image_processing", "general", "fits", "local", "data_analysis"]
+  hssi: "https://hssi.hsdcloud.org/software/solpolpy/"
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  PHEP3: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
 
 - name: "space-packet-parser"
   code: "https://github.com/lasp/space_packet_parser"
