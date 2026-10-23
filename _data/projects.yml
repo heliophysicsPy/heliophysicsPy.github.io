@@ -727,7 +727,7 @@
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
 - name: "solpolpy"
-  description: "Calibration code for the PUNCH mission"
+  description: "Resolve solar polarization into a variety of systems"
   logo: "https://github.com/punch-mission/punchbowl/blob/main/docs/_static/logo.png"
   docs: "https://solpolpy.readthedocs.io/en/latest/"
   code: "https://github.com/punch-mission/solpolpy"
