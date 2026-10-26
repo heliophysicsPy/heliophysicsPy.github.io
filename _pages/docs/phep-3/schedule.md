@@ -94,6 +94,11 @@
 
 #### 2027 - Quarter 2:
 
+###### Adopt support for:
+
+|        |       |                     |
+| ------ | ----- | ------------------- |
+| pandas | 3.1.0 | support by Apr 2027 |
 
 ###### Can drop support for:
 
@@ -177,6 +182,7 @@
 
 ###### Can drop support for:
 
-|        |      |                   |
-| ------ | ---- | ----------------- |
-| python | 3.14 | released Oct 2025 |
+|        |       |                   |
+| ------ | ----- | ----------------- |
+| pandas | 3.1.0 | released Oct 2026 |
+| python | 3.14  | released Oct 2025 |
