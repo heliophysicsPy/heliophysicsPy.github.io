@@ -96,9 +96,10 @@
 
 ###### Adopt support for:
 
-|        |       |                     |
-| ------ | ----- | ------------------- |
-| pandas | 3.1.0 | support by Apr 2027 |
+|         |        |                     |
+| ------- | ------ | ------------------- |
+| ipython | 9.18.0 | support by Apr 2027 |
+| pandas  | 3.1.0  | support by Apr 2027 |
 
 ###### Can drop support for:
 
@@ -182,7 +183,8 @@
 
 ###### Can drop support for:
 
-|        |       |                   |
-| ------ | ----- | ----------------- |
-| pandas | 3.1.0 | released Oct 2026 |
-| python | 3.14  | released Oct 2025 |
+|         |        |                   |
+| ------- | ------ | ----------------- |
+| ipython | 9.18.0 | released Oct 2026 |
+| pandas  | 3.1.0  | released Oct 2026 |
+| python  | 3.14   | released Oct 2025 |
