@@ -589,7 +589,7 @@
   logo: https://avatars3.githubusercontent.com/u/22352442?s=460&v=4
   contact: "Bryan Harter"
   keywords: ["solar","magnetosphere","ionosphere_thermosphere_mesosphere","general"]
-  hssi: ""
+  hssi: "https://hssi.hsdcloud.org/software/pytplot/"
   community: ["https://img.shields.io/badge/Requires%20improvement-red.svg", "Requires improvement"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
