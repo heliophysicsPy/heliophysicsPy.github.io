@@ -60,7 +60,7 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
-- name: "pySPEDAS"
+- name: "PySPEDAS"
   description: "Tools for loading, analysis and plotting of data from various heliophysics missions and ground magnetometers"
   docs: "https://pyspedas.readthedocs.io"
   code: "https://github.com/spedas/pyspedas"
