@@ -279,7 +279,7 @@
   code: "https://github.com/erdoganfurkan/HelioAI"
   contact: "Furkan Erdogan"
   keywords: ["heliosphere", "magnetosphere", "plasma_physics", "data_retrieval", "data_access", "data_analysis", "plotting", "cdaweb"]
-  hssi: ""
+  hssi: "https://hssi.hsdcloud.org/software/helioai/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -456,7 +456,7 @@
   docs: https://pycdfpp.readthedocs.io/en/latest/
   contact: Alexis Jeandet
   keywords: ["cdf"]
-  hssi: ""
+  hssi: "https://hssi.hsdcloud.org/software/pycdfpp/"
   community: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -531,7 +531,7 @@
   docs: "https://pyintensityfeatures.readthedocs.io/en/latest/?badge=latest"
   code: "https://github.com/aburrell/pyIntensityFeatures"
   keywords: ["magnetosphere", "specific", "data_analysis", "ionosphere_thermosphere_mesosphere"]
-  hssi: ""
+  hssi: "https://hssi.hsdcloud.org/software/pyintensityfeatures/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
@@ -801,7 +801,7 @@
   code: "https://github.com/GFZ/SWVO"
   contact: "Sahil Jhawar (jhawar@gfz.de), Bernhard Haas (bhaas@gfz.de)"
   keywords: ["heliosphere", "magnetosphere", "solar", "ionosphere_thermosphere_mesosphere", "plasma_physics", "data_access", "data_retrieval", "reference_data", "csv", "netcdf", "ascii", "coordinates", "time", "remote", "local", "web_service", "general", "ace", "dscovr", "omni", "enlil"]
-  hssi: ""
+  hssi: "https://hssi.hsdcloud.org/software/swvo/"
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
