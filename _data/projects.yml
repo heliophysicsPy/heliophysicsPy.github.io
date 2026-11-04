@@ -597,7 +597,7 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
-- name : "regularizePSF"
+- name: "regularizePSF"
   description: "A Python package for manipulating and correcting various point spread functions"
   docs: "https://regularizepsf.readthedocs.io/en/latest/"
   code: "https://github.com/punch-mission/regularizepsf"
