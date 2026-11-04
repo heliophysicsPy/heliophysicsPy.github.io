@@ -86,7 +86,7 @@
   logo: https://iri.gsfc.nasa.gov/images/red_band-179.jpg
   contact: Michael Hirsch
   keywords: ["ionosphere_thermosphere_mesosphere","specific"]
-  hssi: "https://hssi.hsdcloud.org/software/pyiri2016/"
+  hssi: "https://hssi.hsdcloud.org/software/iri-2016/"
 
 - name: IRI-90
   code: https://github.com/space-physics/iri90
