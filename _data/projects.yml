@@ -696,6 +696,21 @@
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
 
+- name: "SolarWindPy"
+  description: "A Python Library for in situ solar wind data analysis."
+  docs: "https://solarwindpy.readthedocs.io"
+  code: "https://github.com/blalterman/SolarWindPy"
+  contact: "B. L. Alterman (blaltermanphd@gmail.com)"
+  logo: "https://raw.githubusercontent.com/blalterman/SolarWindPy/master/docs/source/_static/branding/solarwindpy-icon-256.png"
+  keywords: ["heliosphere", "plasma_physics", "data_analysis", "data_container", "plotting", "line_plots", "2D_graphics", "general", "hdf5", "csv", "local", "remote"]
+  hssi: ""
+  community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+  python3: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  license: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
+
 - name: solo-epd-loader
   code: https://github.com/jgieseler/solo-epd-loader
   description: "Data loader for Solar Orbiter/EPD energetic charged particle sensors EPT, HET, and STEP"
