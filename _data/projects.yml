@@ -437,7 +437,7 @@
 
 - name: "punchbowl"
   description: "Calibration code for the PUNCH mission"
-  logo: "https://github.com/punch-mission/punchbowl/blob/main/docs/_static/logo.png"
+  logo: "https://raw.githubusercontent.com/punch-mission/punchbowl/0.0.25/docs/_static/logo.png"
   docs: "https://punchbowl.readthedocs.io/en/latest/data/index.html"
   code: "https://github.com/punch-mission/punchbowl"
   contact: "Marcus Hughes"
@@ -728,7 +728,7 @@
 
 - name: "solpolpy"
   description: "Resolve solar polarization into a variety of systems"
-  logo: "https://github.com/punch-mission/punchbowl/blob/main/docs/_static/logo.png"
+  logo: "https://raw.githubusercontent.com/punch-mission/punchbowl/0.0.25/docs/_static/logo.png"
   docs: "https://solpolpy.readthedocs.io/en/latest/"
   code: "https://github.com/punch-mission/solpolpy"
   contact: "Marcus Hughes"
