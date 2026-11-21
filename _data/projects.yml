@@ -290,13 +290,13 @@
 - name: "heliofleet-mcp"
   url: "https://sr-dash.github.io/heliofleet/"
   description: "Heliophysics spacecraft positions, alignments (radial, quadrature, conjunction), viewing geometry and PFSS magnetic connectivity from JPL Horizons ephemerides, as a command line, a Python API and an MCP server."
-  docs: "https://github.com/sr-dash/heliofleet-mcp#readme"
+  docs: "https://sr-dash.github.io/heliofleet-mcp/"
   code: "https://github.com/sr-dash/heliofleet-mcp"
   contact: "Soumyaranjan Dash"
   keywords: ["heliosphere", "solar", "coordinates", "orbit", "data_access", "data_analysis", "reference_data", "remote", "local", "general", "psp", "solo", "stereo", "sdo", "soho", "ace", "wind", "dscovr", "maven"]
   hssi: ""
   community: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
-  documentation: ["https://img.shields.io/badge/Partially%20met-orange.svg", "Partially met"]
+  documentation: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   testing: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   software_maturity: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
   python3: ["https://img.shields.io/badge/Good-brightgreen.svg", "Good"]
